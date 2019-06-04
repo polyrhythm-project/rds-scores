@@ -1,0 +1,52 @@
+!!!COM:	Martinu
+!!!OTL:	525_Mau-94/35/[19]5-8
+**kern	**dynam	**kern	**kern	**kern
+*part3	*part3	*part2	*part2	*part1
+*staff4	*S	*staff3	*staff2	*staff1
+*I"Violoncello	*	*I"Piano	*	*I"Violin I
+*I'Vc.	*	*I'Pno.	*	*I'Vln. I
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*C:	*	*C:	*C:	*C:
+*M2/4	*	*M2/4	*M2/4	*M2/4
+=1	=1	=1	=1	=1
+4c~	.	16FFLL	16cLL	4ccc~
+.	.	16C	16f	.
+.	.	16F	16a-X	.
+.	.	16CJJ	16cJJ	.
+8r	.	16FLL	16fLL	8r
+.	.	16G	16an	.
+16cLL	.	16FF	16c	(16cccLL
+16AJJ	.	16CJJ	16fJJ	16aaJJ)
+=2	=2	=2	=2	=2
+8cL	.	16FLL	16a-XLL	8cccL
+.	.	16C	16c	.
+8cJ	.	16F	16f	16cccL
+.	.	16GJJ	16anJJ	16aJJ
+*clefG2	*	*	*	*
+(8BL	.	16FFLL	16cLL	16dddLL
+.	.	16C	16f	16a
+8dJ)	.	16F	16a-X	16eee
+.	.	16CJJ	16cJJ	16aJJ
+=3	=3	=3	=3	=3
+(8AL	.	16FLL	16fLL	16cccLL
+.	.	16G	16an	16aJ
+8BJ)	.	16FF	16c	8ddd~J
+.	.	16CJJ	16fJJ	.
+8r	.	16FLL	16a-XLL	8r
+.	.	16C	16c	.
+(8A	.	16F	16f	16cccLL
+.	.	16GJJ	16anJJ	16aJJ
+=4	=4	=4	=4	=4
+8BL	<	16FFLL	16cLL	16cccLL
+.	.	16C	16f	16a
+8dJ	.	16F	16a-X	16ddd
+.	.	16CJJ	16cJJ	16aJJ
+8eL)	.	16FLL	16fLL	16fffLL
+.	.	16G	16an	16a
+8AJ	.	16FF	16c	16ccc
+.	.	16CJJ	16fJJ	16aJJ
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}s4
+!!!ONB: Converted from MusicXML on 2019/06/04

@@ -1,0 +1,53 @@
+!!!COM:	Janacek
+!!!OTL:	144_Jan-47/5/[4]1-4
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/8	*M3/8	*
+=1	=1	=1
+8.A-XL	(24cLL 24cc	p
+.	24f 24b-X	.
+.	24e-XJ	.
+.	24e-L	.
+.	24f 24b-	.
+16E-Xk	.	.
+.	24a-XJ) 24cc	.
+[8A-J	8b-^^J 8ee-X	.
+=2	=2	=2
+16A-LL]	(24cLL 24cc	.
+.	24f 24b-X	.
+16E-XJ	.	.
+.	24e-XJ	.
+8.A-X	24e-L	.
+.	24f 24b-	.
+.	24a-XJ) 24cc	.
+.	8b-^^J 8ee-X	.
+16E-Jk	.	.
+=3	=3	=3
+8.A-XL	(24cLL 24cc	.
+.	24f 24b-X	.
+.	24e-XJ	.
+.	24e-L	.
+.	24f 24b-	.
+16E-Xk	.	.
+.	24a-XJ) 24cc	.
+[8A-J	8b-^^J 8ee-X	.
+=4	=4	=4
+16A-LL]	(24cLL 24cc	.
+.	24f 24b-X	.
+16E-XJ	.	.
+.	24e-XJ	.
+8.A-X	24e-L	.
+.	24f 24b-	.
+.	24gJ) 24b-	.
+.	8a-X^^J	.
+16E-Jk	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ONB: Converted from MusicXML on 2019/06/04

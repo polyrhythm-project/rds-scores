@@ -1,0 +1,55 @@
+!!!COM:	Schoenberg
+!!!OTL:	215_Sch-33/85/523-528
+**kern	**kern	**kern
+*part2	*part2	*part1
+*staff3	*staff2	*staff1
+*I"Piano	*	*I"Tenor Solo
+*I'Pno.	*	*I'T. Solo
+*clefF4	*clefG2	*clefGv2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+*M2/2	*M2/2	*M2/2
+*met(c|)	*met(c|)	*met(c|)
+=1	=1	=1
+2FFn~ 2Cn 2Gn	4r	2B-X
+.	4.e-X~	.
+2DD-X~ 2AA-X 2Gn	.	4.Bn
+.	4.dn~	.
+.	.	8B
+=2	=2	=2
+2GG-X~ 2Cn 2Fn	4.e-X~	2Bn
+.	4.dn~	.
+2FFn~ 2D-X 2A-X	.	4An
+.	4en~	8r
+.	.	8e-X
+=3	=3	=3
+2EEn~ 2AA-X 2Gn	4r	2e-X
+.	4.b-X~	.
+2FFn~ 2G-X 2An	.	4.c#X
+.	4.ccn~	.
+.	.	8c#
+=4	=4	=4
+2GGn~ 2En 2A-X	4.b-X~	2c#X
+.	4.ccn~	.
+2FF#X~ 2AAn 2F	.	2dn
+.	4b-X~	.
+=5	=5	=5
+*	*^	*
+2BBn~ 2An	(2bb-X	8r	2.fn
+.	.	4.a-X~	.
+2En~ 2e-X	2ddn	4.g~	.
+.	.	.	[4G-X
+.	.	[8a-~	.
+=6	=6	=6	=6
+2BBn~ 2B-X	2aan	4a-]	8G-L]
+.	.	.	8G-XJ
+.	.	4.g~	4.G-
+4.En~ 4.en	4.ee-X	.	.
+.	.	4.dd-X~	8cnL
+.	.	.	(8c
+[8BBn~ [8B-X	8ccn)	.	[8enJ)
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!ONB: Converted from MusicXML on 2019/06/04

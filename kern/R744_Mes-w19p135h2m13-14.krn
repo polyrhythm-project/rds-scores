@@ -1,0 +1,77 @@
+!!!COM:	Messaien
+!!!OTL:	744_Mes-19/135/[2]13-14
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part1	*part1
+*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Piano	*	*I"Treble Solo	*I"Celesta	*
+*I'Cb.	*I'Vc.	*I'Vc.	*I'Vla.	*I'Vla.	*I'Vla.	*I'Vln. II	*I'Vln. II	*I'Vln. I	*I'Vln. I	*I'Pno.	*	*I'Tr. Solo	*I'Cel.	*
+*clefF4	*clefF4	*clefF4	*clefC3	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*	*	*	*	*	*	*	*	*	*	*8va	*8ba	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8AAAn^L	8AAn^L	8An^L	8An^L	(12D-XL	(16ff#XLL	(16aaLL 16ccc-X	(16eeeLL 16ggg#X	(12GL	(12B-XL 12e-X	8AAAn^L 8AAn	24cccc#XLL	8anL	8eeeL	8ddddL
+.	.	.	.	.	.	.	.	.	.	.	24ggg	.	.	.
+.	.	.	.	.	16ffn)	16gg#X) 16bb-X	16ddd) 16fff#X	.	.	.	.	.	.	.
+.	.	.	.	12Dn	.	.	.	12A-X	12d-X 12en	.	24ddd	.	.	.
+8BBB^	8BB^	8B^	8B^	.	(16ff	(16gg# 16bb-	(16ddd 16fff#	.	.	8BBB^ 8BB	24aaa-X	8b	8eee-X	8gggg#X
+.	.	.	.	12E-XJ	.	.	.	12AnJ	12dnJ 12g	.	24eee-X	.	.	.
+.	.	.	.	.	16eeJJ)	16ff#XJJ) 16aa	16ccc#XJJ) 16fffn	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	24aanJJ	.	.	.
+8AAA#X^	8AA#X^	8A#X^	8A#X^	12EnL	(16eeLL	(16ff#LL 16aa	(16ccc#LL 16fff	12B-XL	12e-XL 12a-X	8AAA#X^ 8AA#X	4een	8a#X	8fff#X	8gggn
+.	.	.	.	.	16dd)	16ffn) 16gg#X	16cccn) 16eee	.	.	.	.	.	.	.
+.	.	.	.	12G	.	.	.	12d-X	12en 12an	.	.	.	.	.
+8EEE^J	8EE^J	8E^J	8E^J	.	(16dd	(16ff 16gg#	(16ccc 16eee	.	.	8EEE^J 8EE	.	8eJ	8cccnJ	8ffff#XJ
+.	.	.	.	12A-XJ)	.	.	.	12dnJ)	12gJ) 12b-X	.	.	.	.	.
+.	.	.	.	.	16cc#XJJ)	16eeJJ) 16ff#X	16bb-XJJ) 16ddd	.	.	.	.	.	.	.
+8CCn^L	8Cn^L	8cn^L	8cn^L	(12AnL	(16cc#LL	(16eeLL 16ff#	(16bb-LL 16ddd	(12e-XL	(12a-XL 12dd-X	8CCn^L 8Cn	16bb-X'LL	8ccnL	8eeenL	8fffnL
+.	.	.	.	.	16ccn)	16dd) 16ffn	16aa) 16ccc#X	.	.	.	16ffn'	.	.	.
+.	.	.	.	12B-X	.	.	.	12en	12an 12ddn	.	.	.	.	.
+8FFF#X^	8FF#X^	8F#X^	8F#X^	.	(16cc	(16dd 16ff	(16aa 16ccc#	.	.	8FFF#X^ 8FF#X	16bbn'	8f#X	8bb-X	8ggg#X
+.	.	.	.	12d-XJ	.	.	.	12gJ	12b-XJ 12ee-X	.	.	.	.	.
+.	.	.	.	.	16b-XJJ)	16cc#XJJ) 16ee	16gg#XJJ) 16cccn	.	.	.	16fff#X'JJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	(8qaa-X/	(8qggggn/
+8EEE^	8EE^	8E^	8E^	12dnL	(16b-LL	(16cc#LL 16ee	(16gg#LL 16ccc	12a-XL	12dd-XL 12een	8EEE^ 8EE	8.cccn^L	8e	8fffn)	8fff#X)
+.	.	.	.	.	16a)	16ccn) 16dd	16ff#X) 16bb-X	.	.	.	.	.	.	.
+.	.	.	.	12e-X	.	.	.	12an	12ddn 12gg	.	.	.	.	.
+8FFFn^J	8FFn^J	8Fn^J	8Fn^J	.	(16a	(16cc 16dd	(16ff# 16bb-X	.	.	8FFFn^J 8FFn	.	8fnJ	8eeeJ	8ddddJ
+.	.	.	.	12enJ)	.	.	.	12b-XJ)	12ee-XJ) 12aa-X	.	.	.	.	.
+.	.	.	.	.	16g#XJJ)	16b-XJJ) 16cc#X	16ffnJJ) 16aa	.	.	.	16eee-XJk	.	.	.
+*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!!pagebreak:original
+*	*	*	*	*	*	*	*	*	*	*X8va	*X8ba	*	*	*
+8BBB^L	8BB^L	8B^L	8B^L	8g	(16f#XLL	(16aLL 16cc-X	(16eeLL 16gg#X	(12gL 12dd-X	(12eenL 12aan	8BB^L 8B	24aanLL	8bL	8eee-XL	8gggg#XL
+.	.	.	.	.	.	.	.	.	.	.	24dd	.	.	.
+.	.	.	.	.	16fn)	16g#X) 16b-X	16dd) 16ff#X	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12a-X 12ddn	12gg 12bb-X	.	24a-X	.	.	.
+8DD#X^	8DD#X^	8D#X^	8D#X^	8r	(16f	(16g# 16b-	(16dd 16ff#	.	.	8DD#X^ 8D#X	24ee-X	8d#XJ	8fff#X	8gggn
+.	.	.	.	.	.	.	.	12anJ 12ee-X	12aa-XJ 12ddd-X	.	24an	.	.	.
+.	.	.	.	.	16eJJ)	16f#XJJ) 16a	16cc#XJJ) 16ffn	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	24enJJ	.	.	.
+8AAAn^	8AAn^	8An^	8An^	4r	(16eLL	(16f#LL 16a	(16cc#LL 16ff	12b-XL 12een	12aanL 12dddn	8AAn^ 8An	16gLL	4an	8cccn	8ffff#X
+.	.	.	.	.	16d)	16fn) 16g#X	16ccn) 16ee	.	.	.	16b-X	.	.	.
+.	.	.	.	.	.	.	.	12dd-X 12gg	12bb-X 12eee-X	.	.	.	.	.
+8BBB^J	8BB^J	8B^J	8B^J	.	(16d	(16f 16g#	(16cc 16ee	.	.	8BB^J 8B	16dd-X	.	8eeenJ	8fffnJ
+.	.	.	.	.	.	.	.	12ddnJ) 12aa-X	12ddd-XJ) 12eeen	.	.	.	.	.
+.	.	.	.	.	16c#XJJ)	16eJJ) 16f#X	16b-XJJ) 16dd	.	.	.	16ff#XJJ	.	.	.
+*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*
+8AAA#X^L	8AA#X^L	8A#X^L	8A#X^L	2r	(16c#LL	(16eLL 16f#	(16b-LL 16dd	(12ee-XL 12aan	(12dddnL 12ggg	8AA#X^L 8A#X	16a-XLL	4r	8bb-XL	8ggg#XL
+.	.	.	.	.	16cn)	16d) 16fn	16a) 16cc#X	.	.	.	16ddn	.	.	.
+.	.	.	.	.	.	.	.	12een 12bb-X	12eee-X 12aaa-X	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	(8qaa-X/	(8qggggn/
+8EEE^	8EE^	8E^J	8E^J	.	(16c	(16d 16f	(16a 16cc#	.	.	8EE^ 8E	16b-X	.	8fffn)	8fff#X)
+.	.	.	.	.	.	.	.	12ggJ 12ddd-X	12eeenJ 12aaan	.	.	.	.	.
+.	.	.	.	.	16B-XJJ)	16c#XJJ) 16e	16g#XJJ) 16ccn	.	.	.	16dd-XJJ	.	.	.
+8CCn^	8Cn^	4r	4r	.	(16B-LL	(16c#LL 16e	(16g#LL 16cc	12aa-XL 12dddn	12gggL 12bbb-X	8Cn^ 8cn	16ff#XLL	8ccnL	8eee	8dddd
+.	.	.	.	.	16A)	16cn) 16d	16f#X) 16b-X	.	.	.	16aanJ	.	.	.
+.	.	.	.	.	.	.	.	12aan 12eee-X	12aaa-X 12dddd-X	.	.	.	.	.
+8FFF#X^J	8FF#X^J	.	.	.	(16A	(16c 16d	(16f# 16b-X	.	.	8FF#X^J 8F#X	8ccnJ	8f#XJ	8eee-XJ	8gggg#XJ
+*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*
+.	.	.	.	.	.	.	.	12bb-XJ) 12eeen	12aanJ) 12dddn	.	.	.	.	.
+.	.	.	.	.	16G#XJJ)	16B-XJJ) 16c#X	16fnJJ) 16a	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}s3{(s4,s5)}[(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
+!!!ONB: Converted from MusicXML on 2019/06/04

@@ -1,0 +1,79 @@
+!!!COM:	Webern
+!!!OTL:	415_Web-28/2-3/11-19
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*part9	*part9	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
+*I"Piano	*	*I"Viola	*I"Violin I	*I"Trombone	*I"Trumpet in Bb	*	*I"Horn in F	*I"Clarinet in Bb	*I"Oboe	*I"Flute
+*I'Pno.	*	*I'Vla.	*I'Vln. I	*I'Tbn.	*I'Tpt.	*	*I'Hn.	*I'Cl.	*I'Ob.	*I'Fl.
+*clefF4	*clefG2	*clefC3	*clefG2	*clefF4	*clefG2	*	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*k[]	*k[]	*k[]
+*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	2r	2r	2r	2r	(8ff#XL	.	2r	8r	2r	2r
+.	.	.	.	.	8ddJ)	f	.	8ccc#X~	.	.
+8r	.	.	.	.	4r	.	.	(4an	.	.
+8EE-X	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2r	(4Gn 4f#X	4r	8aa-X~	2r	2r	.	2r	8B-X)	2r	2r
+.	.	.	(4cn	.	.	.	.	8r	.	.
+.	8bn')	8r	.	.	.	.	.	4r	.	.
+.	8r	8een~	8bn)	.	.	.	.	.	.	.
+*W	*clefF4	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8r	8D 8B-X	(4e-X	2r	2r	2r	.	2r	2r	4r	2r
+8C#X 8cn	8r	.	.	.	.	.	.	.	.	.
+*	*clefG2	*	*	*	*	*	*	*	*	*
+8r	(8an 8gg#X	8Gn)	.	.	.	.	.	.	8enL	.
+8Fn 8en	8r	8r	.	.	.	.	.	.	8gg#X'J	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8r	4r	2r	4r	2r	2r	.	(4ccn	2r	8gn~	2r
+(8FF#X	.	.	.	.	.	.	.	.	8r	.
+8G) 8e-X	8r	.	8r	.	.	.	8BnL	.	4r	.
+8r	8r	.	8ccc#X~	.	.	.	8e-XJ)	.	.	.
+*clefG2	*clefF4	*clefG2	*	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+(8ddnL	2r	4r	8r	2r	2r	.	2r	2r	2r	2r
+8BBnJ) 8B-X	.	.	(8ddn~	.	.	.	.	.	.	.
+8r	.	(8anL	8B-X~)	.	.	.	.	.	.	.
+8an~	.	8ffnJ)	8r	.	.	.	.	.	.	.
+*	*	*clefC3	*	*	*	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!!pagebreak:original
+8C#XL 8cn	4r	8F#X~	2r	2r	4r	.	4r	2r	8enL	2r
+*clefF4	*	*	*	*	*	*	*	*	*	*
+8F#XJ 8en	.	8r	.	.	.	.	.	.	8gg#X'J	.
+*	*clefG2	*	*	*	*	*	*	*	*	*
+4r	8gg#X~	4r	.	.	12r	.	(8ccnL	.	8gn~	.
+.	.	.	.	.	(12e-XL	f	.	.	.	.
+.	8r	.	.	.	.	.	8BnJ)	.	8r	.
+.	.	.	.	.	12ddnJ	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8FF#X~	8r	2r	2r	2r	12ff#X)	.	8e-X~	2r	2r	2r
+.	.	.	.	.	12r	.	.	.	.	.
+8r	(8Gn 8e-X	.	.	.	.	.	8r	.	.	.
+.	.	.	.	.	12r	.	.	.	.	.
+8r	8ddn)	.	.	.	4r	.	4r	.	.	.
+8BBn~ 8B-X	8r	.	.	.	.	.	.	.	.	.
+*W	*	*	*	*	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8r	4r	4r	12r	12Gn^L	2r	.	2r	2r	2r	2r
+.	.	.	12r	12BBn^	.	.	.	.	.	.
+8BBn~	.	.	.	.	.	.	.	.	.	.
+.	.	.	12c~	12B-X^J	.	.	.	.	.	.
+8r	8e-X~ 8ddn	12r	(12g#XL	4r	.	.	.	.	.	.
+.	.	(12eenL	12aanJ)	.	.	.	.	.	.	.
+8GGn~ 8F#X	8r	.	.	.	.	.	.	.	.	.
+.	.	12fnJ)	12r	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4r	8b-X~	12cc#X~	2r	2r	2r	.	2r	2r	6dddn~	6r
+.	.	12r	.	.	.	.	.	.	.	.
+.	8r	.	.	.	.	.	.	.	.	.
+.	.	12r	.	.	.	.	.	.	6ff#X~	6r
+12GG#X~ 12An	12r	4r	.	.	.	.	.	.	.	.
+12r	12fn~ 12een	.	.	.	.	.	.	.	6fn~	6bbb-X~
+12r	12r	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)]{(s9,s10)}
+!!!ONB: Converted from MusicXML on 2019/06/04

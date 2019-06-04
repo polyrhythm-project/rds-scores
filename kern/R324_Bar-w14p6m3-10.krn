@@ -1,0 +1,70 @@
+!!!COM:	Bartok
+!!!OTL:	324_Bar-14/6/3-10
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno.	*
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+=1	=1
+4e 4cc#X	2ee~
+(4A	.
+4e 4cc#	4ee~
+=2	=2
+4A	(12ggL
+.	12ff
+.	12eeJ
+4d 4b	8.ddL
+.	16cc#XJk
+4A	8.ddL
+.	16eeJk
+=3	=3
+4d 4b-X	12ffL
+.	12ee
+.	12ddJ
+4A	8.cc#XL
+.	16aJk
+4d 4f	8.b-XL
+.	16ddJk)
+=4	=4
+4A	(16cc#XLL
+.	16a)
+.	(16b-X
+.	16ddJJ)
+4c#X 4e	2a
+4A)	.
+=5	=5
+!!linebreak:original
+(4g 4ccn	2ee~
+4A	.
+4f#X 4cc	4ee~
+=6	=6
+4A	(12ggL
+.	12ffn
+.	12eeJ
+4fn 4b-X	8.ddL
+.	16cc#XJk
+4A	8.ddL
+.	16eeJk
+=7	=7
+4e 4a	12ffL
+.	12ee
+.	12ddJ
+4A	8.cc#XL
+.	16aJk
+4d 4g	8.b-XL
+.	16ddJk)
+=8	=8
+4A	(16cc#XLL
+.	16a)
+.	(16b-X
+.	16ddJJ)
+4cn 4f	2a
+4c)	.
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ONB: Converted from MusicXML on 2019/06/04

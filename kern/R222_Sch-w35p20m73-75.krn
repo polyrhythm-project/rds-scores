@@ -1,0 +1,66 @@
+!!!COM:	Schoenberg
+!!!OTL:	222_Sch-35/20/73-75
+**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*S	*staff3	*staff2	*staff1
+*I"Violin 1	*	*I"Violin	*I"Xylophone	*I"Flute
+*I'Vln. 1	*	*I'Vln.	*I'Xyl.	*I'Fl.
+*clefG2	*	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*	*	*	*	*
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+4r	.	4r	4r	8bn 8aa-X 8dddn
+.	.	.	.	8r
+*	*	*	*8va	*
+8r	p	16ff#X'LL	8ccccn'L	8r
+.	.	16dn'	.	.
+!LO:TX:t=pizz.	!	!	!	!
+8gn	p	(16d	8ddddd-X'J	8gn`
+.	.	16ff#JJ)	.	.
+8gL	.	(16ffnLL	8cccc'L	8g`L
+.	.	16aaan)	.	.
+8g	.	16ff'	8ddddd-'	8g`
+.	.	16aaa'JJ	.	.
+8b-X	.	8r	8eeee-X	8b-X`
+8b-J	.	(16aa-XLL	8fffff-XJ	8b-`J
+.	.	16fnJJ)	.	.
+=2	=2	=2	=2	=2
+8b-X	.	16fn'LL	8eeee-XL	8b-X`
+.	.	16aa-X'	.	.
+8r	.	(16aa-	8fffff-X	8r
+.	.	16cccc-XJJ)	.	.
+4r	.	16aa-'LL	8eeee-	4r
+.	.	16cccc-'JJ	.	.
+.	.	8r	8fffff-J	.
+8b-L	.	8r	8eeeenL	8b-`L
+*	*	*8va	*	*
+8b-	.	(16bbnLL	8fffffn	8b-`
+.	.	16dddd#XJJ)	.	.
+8b-	.	16bb'LL	8eeee	8b-`
+.	.	16dddd#'	.	.
+*	*	*X8va	*	*
+8b-J	.	16bb'	8fffffJ	8b-`J
+.	.	16g#X'JJ	.	.
+=3	=3	=3	=3	=3
+8r	.	(16bbLL	16eeeenLL	8r
+.	.	16g#XJJ)	16fffff	.
+8b-X	.	8r	16eeee	8b-X`
+.	.	.	16fffffJJ	.
+8b-L	.	8r	8dddddnL	8b-`L
+*	*	*8va	*	*
+8gnJ	.	(16aanLL	8cccc#XJ	8gn`J
+.	.	16ccccnJJ)	.	.
+8gL	.	16aa'LL	8dddddL	8g`L
+*	*	*X8va	*	*
+.	.	16ccc'	.	.
+8gJ	.	(16aan	8cccc#	8g`J
+.	.	16f#XJJ)	.	.
+8g	.	16aa'LL	8cccc#	8g`
+.	.	16f#'JJ	.	.
+8r	.	8r	8dddddJ	8r
+*	*	*	*X8va	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4)]
+!!!ONB: Converted from MusicXML on 2019/06/04

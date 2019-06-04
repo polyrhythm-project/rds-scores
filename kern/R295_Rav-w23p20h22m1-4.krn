@@ -1,0 +1,56 @@
+!!!COM:	Ravel
+!!!OTL:	295_Rav-23/20/[22]1-4
+**kern	**kern	**dynam	**kern	**kern
+*part3	*part3	*part3	*part2	*part1
+*staff4	*staff3	*S	*staff2	*staff1
+*I"Piano	*	*	*I"Violoncello	*I"Violin
+*I'Pno.	*	*	*I'Vc.	*I'Vln.
+*clefF4	*clefF4	*	*clefC4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*	*A:	*A:
+*M3/4	*M3/4	*	*M3/4	*M3/4
+*	*	*	*	*8va
+=1	=1	=1	=1	=1
+*^	*^	*	*	*
+4r	2.AAA 2.AA	4r	4ryy	pp	8ee'L	8eeee'L
+.	.	.	.	.	8ee'J	8eeee'J
+!	!	!	!	!	!LO:TX:t=cresc. poco a poco	!LO:TX:t=cresc. poco a poco
+(4E [4A	.	(4E	2C#	<	8dd'L	8dddd'L
+.	.	.	.	.	8ee'J	8eeee'J
+4Fn 4A]	.	4Fn	.	.	8a'L	8aaa'L
+.	.	.	.	.	8a'J	8aaa'J
+=2	=2	=2	=2	=2	=2	=2
+[2A	12AL	12AL	4Cn	>	8ccn'L	8ccccn'L
+.	12Gn	12Gn	.	.	.	.
+.	.	.	.	.	8dd'J	8dddd'J
+.	12FnJ	12FnJ	.	.	.	.
+.	4E	4E	4C#X	.	8ee'L	8eeee'L
+.	.	.	.	.	8ee'J	8eeee'J
+4A])	4G	4E-X) 4G	4Cn	]	8a'L	8aaa'L
+.	.	.	.	.	8a'J	8aaa'J
+*	*	*v	*v	*	*	*
+=3	=3	=3	=3	=3	=3
+4r	2.AAA 2.AA	4r	.	8gn'L	8gggn'L
+.	.	.	.	8a'J	8aaa'J
+(4Cn [4F#X	.	4A 4cn	<	8d'L	8ddd'L
+.	.	.	.	8d'J	8ddd'J
+4D) 4F#]	.	4d	.	8fn'L	8fffn'L
+.	.	.	.	8g'J	8ggg'J
+=4	=4	=4	=4	=4	=4
+*	*	*^	*	*	*
+2F#X	12FnL	12fnL	2A	>	8a'L	8aaa'L
+.	12E-X	12e-X	.	.	.	.
+*	*	*	*	*	*	*X8va
+.	.	.	.	.	8a'J	8aa'J
+.	12DJ	12dJ	.	.	.	.
+*	*	*	*	*	*clefF4	*
+.	4Cn	4cn	.	.	8d'L	8ddd'L
+.	.	.	.	.	8d'J	8ddd'J
+4F#X)	4D	4d	4A	.	8cn'L	8cccn'L
+.	.	.	.	.	8d'J	8ddd'J
+*v	*v	*	*	*	*	*
+*	*v	*v	*	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]{(s3,s4)}
+!!!ONB: Converted from MusicXML on 2019/06/04

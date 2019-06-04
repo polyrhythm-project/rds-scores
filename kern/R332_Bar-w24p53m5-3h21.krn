@@ -1,0 +1,64 @@
+!!!COM:	Bartok
+!!!OTL:	332_Bar-24/53/5-3[21]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*S	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Tuba	*I"Trombone	*I"Trombone	*I"Trombone	*	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Cor Anglais	*I"Oboe	*I"Oboe
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Tba.	*I'Tbn.	*I'Tbn.	*I'Tbn.	*	*I'Hn.	*I'Hn.	*I'Bsn.	*I'C. A.	*I'Ob.	*I'Ob.
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefF4	*clefF4	*clefF4	*	*clefG2	*clefG2	*clefC4	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4CC#Xt	4GG#Xt	4FnT	4AnT	4B#X	8r	8r	8d#X	8.B#XL	.	1r	2r	4B#X	1r	1r	2r
+.	.	.	.	.	8CC#X	8GG#X	8r	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+4GGT	4BBt	4Et	4A#Xt	(8d#XL	8GGG	8BB	4r	8d#X	.	.	.	(8d#XL	.	.	.
+.	.	.	.	16c#XL	8r	8r	.	8r	.	.	.	16c#XL	.	.	.
+.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	16d#JJ	.	.	.
+4FFT	4BB#Xt	4GnT	4c#Xt	(16f#XLL	8FFn	8Cn	2r	8.B#L	.	.	8r	16f#XLL	.	.	(16f#XLL
+.	.	.	.	16eJ	.	.	.	.	.	.	.	16eJ	.	.	16eJ
+.	.	.	.	8f#J)	8r	8r	.	.	.	.	8d' 8a-X	8f#J	.	.	8f#J
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+4AAnT	4D#Xt	4Bt	4e#Xt	4a#X~	8r	8r	.	8d#	.	.	4g-X~ 4cc	4a#X~)	.	.	4a#X~)
+.	.	.	.	.	8AA^^	8D#X^^	.	8r	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:t=cresc.	!LO:TX:t=cresc.	!LO:TX:t=cresc.	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#Xt	4GG#Xt	4FnT	4AnT	(16B#XLL	8CC#X	8GG#X	1r	8.B#XL	.	8r	8r	(16B#XLL	2r	1r	(16B#XLL
+.	.	.	.	16A#XJ	.	.	.	.	.	.	.	16A#XJ	.	.	16A#XJ
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=cresc.	!LO:TX:t=cresc.	!LO:TX:t=cresc.	!	!	!
+.	.	.	.	8B#J)	8r	8r	.	.	.	8c'	8e'	8B#~J)	.	.	8B#~J)
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=cresc.
+4GGT	4BBnt	4Et	4A#Xt	(8d#XL	8r	8r	.	8d#X	.	8B'	8f'	(8d#XL	.	.	(8d#XL
+.	.	.	.	16c#XL	8GGG	8BB	.	8r	.	8r	8r	16c#XL	.	.	16c#XL
+.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	16d#JJ	.	.	16d#JJ
+4FFT	4BB#Xt	4GnT	4c#Xt	(16f#XLL	8r	8r	.	8.B#L	.	8d'	8a-X'	16f#XLL	(16dd-XLL	.	16f#XLL
+.	.	.	.	16e	.	.	.	.	.	.	.	16eJ	16cc-X	.	16e
+.	.	.	.	16f#	8FFn	8Cn	.	.	.	8r	8r	8f#J	16dd-	.	16f#
+.	.	.	.	16cc#XJJ)	.	.	.	16B#Jk	.	.	.	.	16aa-XJJ	.	16cc#XJJ
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=cresc.	!	!
+4AAnT	4D#Xt	4Bt	4e#Xt	4a#X~	4AA~	4D#X~	.	8d#	.	8r	8r	4a#X)	4ff~)	.	4a#X~)
+.	.	.	.	.	.	.	.	8r	[	8g-X'^^	8cc'^^	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4CC#Xt	4GG#Xt	4FnT	4AnT	(16B#XLL	8r	8r	1r	8.B#XL	.	8c'	8e'	(16B#XLL	(16gnLL	2r	(16B#XLL
+.	.	.	.	16A#X)	.	.	.	.	.	.	.	16A#X)	16f)	.	16A#X)
+.	.	.	.	(16A#	8CC#X	8GG#X	.	.	.	8r	8r	(16A#	(16f	.	(16A#
+.	.	.	.	16B#JJ)	.	.	.	16B#Jk	.	.	.	16B#JJ)	16gJJ)	.	16B#JJ)
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=cresc.
+4GGT	4BBnt	4Et	4A#Xt	(16d#XLL	8GGn	8BB	.	8d#X	.	8r	8r	(16d#XLL	(16b-XLL	.	(16d#XLL
+.	.	.	.	16c#X)	.	.	.	.	.	.	.	16c#XJ	16a-X	.	16c#XJ
+.	.	.	.	(16d#	8r	8r	.	8r	.	8B'	8f'	8d#'J)	16b-	.	8d#'J)
+.	.	.	.	16A#JJ)	.	.	.	.	.	.	.	.	16fJJ)	.	.
+4FFT	4BB#Xt	4GnT	4c#Xt	(16eLL	8FFn	8Cn	.	8.B#L	.	8r	8r	(16eLL	(16cc-XLL	(16eLL	(16eLL
+.	.	.	.	16f#X)	.	.	.	.	.	.	.	16f#X	16dd-X	16f#X	16f#X
+.	.	.	.	(16g#X	8r	8r	.	.	.	8d'	8a-X'	16g#X	16ee-X	16g#X	16g#X
+!	!	!	!	!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!
+.	.	.	.	16cc#XJJ)	.	.	.	16B#Jk	.	.	.	16cc#XJJ	16aa-XJJ	16cc#XJJ	16cc#XJJ
+4AAnT	4D#Xt	4Bt	4e#Xt	(8.a#XL	8r	8r	.	8d#	.	4g-X~	4cc~	8.a#XL	8.ffL	8.a#XL	8.a#XL
+.	.	.	.	.	8AA^^	8D#X^^	.	8r	.	.	.	.	.	.	.
+.	.	.	.	16g#Jk)	.	.	.	.	.	.	.	16g#Jk)	16ee-Jk)	16g#Jk)	16g#Jk)
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
+!!!ONB: Converted from MusicXML on 2019/06/04
