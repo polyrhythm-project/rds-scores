@@ -1,0 +1,165 @@
+#!/usr/local/bin/perl
+
+use strict;
+use Getopt::Long;
+
+my $check = 0;  # check filenames only, printing any that need changing.
+my $write = 0;  # write the new names for files.
+my $git   = 0;  # use "git mv" rather than rename().
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'g|git'   => \$git,
+   'c|check' => \$check,
+   'w|write' => \$write
+);
+
+die "Usage: $0 [-c | -w] file(s)\n" if !($check or $write);
+
+my @files = @ARGV;
+
+my %NAMES = getNames();
+
+if ($check) {
+	checkFilenames(@files);
+} else {
+	changeFilenames(@files);
+}
+
+exit(0);
+
+###########################################################################
+
+
+
+##############################
+##
+## checkFilenames --
+##
+
+sub checkFilenames {
+	my @files = @_;
+	my $name;
+	my $ext;
+	my $base;
+	my $target;
+	my $exid;
+	for (my $i=0; $i<@files; $i++) {
+		$name = $files[$i];
+		$base = $name;
+		if ($name =~ /(\.[^.]*)$/) {
+			$ext = $1;
+		} else {
+			$ext = "";
+		}
+		$base =~ s/\.[^.]*$//;
+		if ($name !~ /^[RT]?(\d{3}[ABCD]?)_/) {
+			print STDERR "Error: filename $name is not formatted correctly\n";
+			continue;
+		} 
+		$exid = $1;
+		$target = $NAMES{$exid};
+		next if $target eq $base;
+		print "mv \"$name\"		$target$ext\n";
+	}
+}
+
+
+
+##############################
+##
+## changeFilenames --
+##
+
+sub changeFilenames {
+	my @files = @_;
+	my $name;
+	my $ext;
+	my $base;
+	my $target;
+	my $exid;
+	for (my $i=0; $i<@files; $i++) {
+		$name = $files[$i];
+		$base = $name;
+		if ($name =~ /(\.[^.]*)$/) {
+			$ext = $1;
+		} else {
+			$ext = "";
+		}
+		$base =~ s/\.[^.]*$//;
+		if ($name !~ /^[RT]?(\d{3}[ABCD]?)_/) {
+			print STDERR "Error: filename $name is not formatted correctly\n";
+			continue;
+		} 
+		$exid = $1;
+		$target = $NAMES{$exid};
+		next if $target eq $base;
+		print "moving \"$name\"	TO	$target$ext\n";
+		if ($git) {
+			`git mv "$name" "$target$ext"`;
+		} else {
+			rename($name, "$target$ext");
+		}
+	}
+}
+
+
+
+##############################
+##
+## getNames -- Return a list of the names for files based on the
+##     example ID.  This list should be from column A of the spreadsheet
+##        http://bit.ly/polyrhythm-spreadsheet
+##     data is read automatically from the TSV version of the spreadsheet:
+##        http://bit.ly/polyrhythm-spreadsheet
+##
+
+sub getNames {
+	my $sheet = `wget 'https://docs.google.com/spreadsheets/d/17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng/export?gid=900860769&format=tsv' -O - 2> /dev/null`;
+	my @lines = split(/\n/, $sheet);
+	my $fileindex = getFilenameIndex($lines[0]);
+	die "Cannot find file index" if $fileindex < 0;
+	my %output;
+	for (my $i=1; $i<@lines; $i++) {
+		my $line = $lines[$i];
+		chomp $line;
+		next if $line =~ /^\s*$/;
+		my @fields = split(/\t/, $line);
+		my $name = $fields[$fileindex];
+		next if $name =~ /^\s*$/;
+		if ($name !~ /^[RT]?(\d{3}[ABCD]?)_/) {
+			my $ii = $i+1;
+			print STDERR "Error on line $ii of spreadsheet: filename $name is not formatted correctly.\n";
+			next;
+		}
+		my $exid = $1;
+		$output{$exid} = $name;
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## getFilenameIndex -- Return the index number for the filename column.
+##     This is the column that is equal to the string "Filename" on the line.
+##
+
+sub getFilenameIndex {
+	my ($line) = @_;
+	chomp $line;
+	my @fields = split(/\t/, $line);
+	my $index = -1;
+	for (my $i=0; $i<@fields; $i++) {
+		if ($fields[$i] eq "Filename") {
+			$index = $i;
+			last;
+		}
+	}
+	return $index;
+}
+
+
+
+
+
