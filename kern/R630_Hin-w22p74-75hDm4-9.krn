@@ -1,97 +1,97 @@
 !!!COM:	Hindemith
 !!!OTL:	630_Hin-22/74-75/[D]4-9
-**kern	**kern	**dynam	**kern	**kern	**kern
-*part4	*part4	*part4	*part3	*part2	*part1
-*staff5	*staff4	*S	*staff3	*staff2	*staff1
-*I"Piano	*	*	*I"Trombone	*I"Horn in F	*I"Bassoon
-*I'Pno.	*	*	*I'Tbn.	*I'Hn.	*I'Bsn.
-*clefF4	*clefG2	*	*clefF4	*clefG2	*clefF4
-*k[]	*k[]	*	*k[]	*	*k[]
-*	*	*	*	*	*
-*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
-=1	=1	=1	=1	=1	=1
-1r	12cc^L	.	1r	1r	1r
-.	12an	.	.	.	.
-.	12enJ	.	.	.	.
-.	12gnL	.	.	.	.
-.	12b	.	.	.	.
-.	12g#XJ	.	.	.	.
-.	12e#XL	.	.	.	.
-.	12g#	.	.	.	.
-.	12ccnJ	.	.	.	.
-.	12bL	.	.	.	.
-.	12d 12a	.	.	.	.
-.	12enJ	.	.	.	.
-=2	=2	=2	=2	=2	=2
-!	!LO:TX:t=cresc.	!	!	!	!
-1r	12f#XL	p	1EE	1r	1r
-.	12g	.	.	.	.
-.	12dd-XJ	.	.	.	.
-.	12b-XL	.	.	.	.
-.	12e-X	.	.	.	.
-.	12g-XJ	.	.	.	.
-.	12ccL	.	.	.	.
-.	12a-X	.	.	.	.
-.	12f-XJ	.	.	.	.
-.	12a-L	.	.	.	.
-.	12dd-	.	.	.	.
-.	12ccJ	.	.	.	.
-*	*	*	*	*clefF4	*
-=3	=3	=3	=3	=3	=3
-1r	12d-XL 12b-X	p	1r	1FFF	1r
-.	12e-X	.	.	.	.
-.	12fJ	.	.	.	.
-.	12g-XL	.	.	.	.
-.	12ddn	.	.	.	.
-.	12bnJ	.	.	.	.
-.	12dnL	.	.	.	.
-.	12f	.	.	.	.
-.	12dd-XJ	.	.	.	.
-.	12a-XL	.	.	.	.
-.	12e-X	.	.	.	.
-.	12a-J	.	.	.	.
-=4	=4	=4	=4	=4	=4
+**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*S	*staff3	*staff2	*staff1
+*	*	*I"Trombone	*I"Horn in F	*I"Bassoon
+*	*	*I'Tbn.	*I'Hn.	*I'Bsn.
+*clefG2	*	*clefF4	*clefG2	*clefF4
+*k[]	*	*k[]	*	*k[]
+*	*	*	*	*
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+12cc^L	.	1r	1r	1r
+12an	.	.	.	.
+12enJ	.	.	.	.
+12gnL	.	.	.	.
+12b	.	.	.	.
+12g#XJ	.	.	.	.
+12e#XL	.	.	.	.
+12g#	.	.	.	.
+12ccnJ	.	.	.	.
+12bL	.	.	.	.
+12d 12a	.	.	.	.
+12enJ	.	.	.	.
+=2	=2	=2	=2	=2
+!LO:TX:t=cresc.	!	!	!	!
+12f#XL	p	1EE	1r	1r
+12g	.	.	.	.
+12dd-XJ	.	.	.	.
+12b-XL	.	.	.	.
+12e-X	.	.	.	.
+12g-XJ	.	.	.	.
+12ccL	.	.	.	.
+12a-X	.	.	.	.
+12f-XJ	.	.	.	.
+12a-L	.	.	.	.
+12dd-	.	.	.	.
+12ccJ	.	.	.	.
+*	*	*	*clefF4	*
+=3	=3	=3	=3	=3
+12d-XL 12b-X	p	1r	1FFF	1r
+12e-X	.	.	.	.
+12fJ	.	.	.	.
+12g-XL	.	.	.	.
+12ddn	.	.	.	.
+12bnJ	.	.	.	.
+12dnL	.	.	.	.
+12f	.	.	.	.
+12dd-XJ	.	.	.	.
+12a-XL	.	.	.	.
+12e-X	.	.	.	.
+12a-J	.	.	.	.
+=4	=4	=4	=4	=4
 !!linebreak:original
-1r	12ddnL	<	1EE	1r	1r
-.	12cc#X	.	.	.	.
-.	12cnJ 12b	.	.	.	.
-.	12dL	.	.	.	.
-.	12e#X	.	.	.	.
-.	12fJ	.	.	.	.
-.	12ee-X^L	.	.	.	.
-.	12ccn	.	.	.	.
-.	12c#XJ	.	.	.	.
-.	12e#L	.	.	.	.
-.	12dd	.	.	.	.
-.	12g#XJ	.	.	.	.
-=5	=5	=5	=5	=5	=5
-1r	12eL	<	1r	1FFF	1r
-.	12g#X	.	.	.	.
-.	12ee-XJ	.	.	.	.
-.	12ddL	.	.	.	.
-.	12B 12cc	.	.	.	.
-.	12c#XJ	.	.	.	.
-.	12d#XL	.	.	.	.
-.	12e	.	.	.	.
-.	12eenJ	.	.	.	.
-.	12cc#XL	.	.	.	.
-.	12cn	.	.	.	.
-.	12e-XJ	.	.	.	.
-=6	=6	=6	=6	=6	=6
-!	!	!	!LO:TX:t=cresc.	!	!LO:TX:t=cresc.
-1r	12dd#XL	p	2.EE	1r	[1D
-.	12g#X	.	.	.	.
-.	12c#XJ	.	.	.	.
-.	12g#XL	.	.	.	.
-.	12ee	.	.	.	.
-.	12dd#XJ	.	.	.	.
-.	12B-XL 12cc#X	.	.	.	.
-.	12cn	.	.	.	.
-.	12dJ	.	.	.	.
-.	12e-XL	[	4r	.	.
-.	12b-X 12bb-X	.	.	.	.
-.	12ggnJ	.	.	.	.
-==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-
+12ddnL	<	1EE	1r	1r
+12cc#X	.	.	.	.
+12cnJ 12b	.	.	.	.
+12dL	.	.	.	.
+12e#X	.	.	.	.
+12fJ	.	.	.	.
+12ee-X^L	.	.	.	.
+12ccn	.	.	.	.
+12c#XJ	.	.	.	.
+12e#L	.	.	.	.
+12dd	.	.	.	.
+12g#XJ	.	.	.	.
+=5	=5	=5	=5	=5
+12eL	<	1r	1FFF	1r
+12g#X	.	.	.	.
+12ee-XJ	.	.	.	.
+12ddL	.	.	.	.
+12B 12cc	.	.	.	.
+12c#XJ	.	.	.	.
+12d#XL	.	.	.	.
+12e	.	.	.	.
+12eenJ	.	.	.	.
+12cc#XL	.	.	.	.
+12cn	.	.	.	.
+12e-XJ	.	.	.	.
+=6	=6	=6	=6	=6
+!	!	!LO:TX:t=cresc.	!	!LO:TX:t=cresc.
+12dd#XL	p	2.EE	1r	[1D
+12g#X	.	.	.	.
+12c#XJ	.	.	.	.
+12g#XL	.	.	.	.
+12ee	.	.	.	.
+12dd#XJ	.	.	.	.
+12B-XL 12cc#X	.	.	.	.
+12cn	.	.	.	.
+12dJ	.	.	.	.
+12e-XL	[	4r	.	.
+12b-X 12bb-X	.	.	.	.
+12ggnJ	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!system-decoration: s1[(s2,s3)]{(s4,s5)}
 !!!ONB: Converted from MusicXML on 2019/06/04
