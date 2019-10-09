@@ -1,0 +1,69 @@
+#!/usr/local/bin/perl
+
+use strict;
+
+print<<"EOT";
+!!!github:	https://github.com/polyrhythm-project/rds_scores
+!!!pdfprefix:	https://github.com/polyrhythm-project/rds-scores/raw/Reserve_Dataset/pdf/
+**file	**sort	**available	**pdf	**description
+EOT
+
+my @list = glob("kern/*.krn");
+@list = sort @list;
+
+foreach my $file (@list) {
+	my $base = $file;
+	$base =~ s/.*\///;
+	$base =~ s/\.krn$//;
+	my $number = 0;
+	if ($base =~ /[RT](\d+[a-zA-Z]?)_/) {
+		$number = $1;
+	}
+
+	my $composer = getReference("COM", $file);
+	my $title = getReference("OTL", $file);
+
+	print "$file\t";
+	print "$number\t";
+	print "Y\t";
+	print "$base.pdf\t";
+	print "<link>$number</link>: $composer, $title\n";
+	
+}
+
+print "*-\t*-\t*-\t*-\t*-\n";
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## getReference --
+##
+
+sub getReference {
+	my ($tag, $file) = @_;
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	chomp @contents;
+	my @secondary;
+	foreach my $line (@contents) {
+		if ($line =~ /^\!\!\!\s*$tag\s*:\s*(.*)\s*$/) {
+			return $1;
+		}
+		if ($line =~ /^\!\!\!\s*$tag[^:]\s*:\s*(.*)\s*$/) {
+			$secondary[@secondary] = $1;
+		}
+	}
+
+	if (@secondary > 0) {
+		return $secondary[0];
+	}
+	return "";
+}
+
+

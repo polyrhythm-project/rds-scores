@@ -21,3 +21,5 @@ humdrum:
 	done
 	
 
+index:
+	bin/makehmdindex > index.hmd
