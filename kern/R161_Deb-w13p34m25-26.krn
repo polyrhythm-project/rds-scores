@@ -1,6 +1,7 @@
 !!!COM:	Debussy
 !!!OTL:	161_Deb-13/34/25-26
 **kern	**dynam	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B	*grp:A	*grp:B
 *part4	*part4	*part3	*part2	*part1
 *staff4	*S	*staff3	*staff2	*staff1
 *I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I
@@ -44,4 +45,5 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

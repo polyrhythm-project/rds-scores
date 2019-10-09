@@ -1,6 +1,7 @@
 !!!COM:	Messiaen
 !!!OTL:	730_Mes-16^1/8/26-27
 **kern	**kern	**kern
+*grp:A	*grp:B	*grp:B
 *part2	*part1	*part1
 *staff3	*staff2	*staff1
 *I"Pedals	*I"Organ	*
@@ -46,4 +47,5 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}s3
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

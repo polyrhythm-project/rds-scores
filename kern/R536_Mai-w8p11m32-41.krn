@@ -1,6 +1,7 @@
 !!!COM:	Martin
 !!!OTL:	536_Mai-8/11/32-41
 **kern	**kern	**kern	**dynam	**kern
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
 *part4	*part3	*part2	*part2	*part1
 *staff4	*staff3	*staff2	*S	*staff1
 *I"Violoncello	*I"Viola	*I"Flute	*	*I"Soprano Solo
@@ -97,4 +98,5 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[(s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

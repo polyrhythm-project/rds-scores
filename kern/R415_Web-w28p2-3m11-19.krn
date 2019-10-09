@@ -1,6 +1,7 @@
 !!!COM:	Webern
 !!!OTL:	415_Web-28/2-3/11-19
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
 *part9	*part9	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part1
 *staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
 *I"Piano	*	*I"Viola	*I"Violin I	*I"Trombone	*I"Trumpet in Bb	*	*I"Horn in F	*I"Clarinet in Bb	*I"Oboe	*I"Flute
@@ -76,4 +77,5 @@
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)]{(s9,s10)}
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

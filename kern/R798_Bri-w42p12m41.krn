@@ -1,6 +1,7 @@
 !!!COM:	Britten
 !!!OTL:	798_Bri-42/12/41
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B	*grp:A
 *part5	*part5	*part5	*part4	*part3	*part2	*part1
 *staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
 *I"Piano	*	*	*I"BASS	*I"TENOR	*I"ALTO	*I"SOPRANO
@@ -29,4 +30,5 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]{(s5,s6)}
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

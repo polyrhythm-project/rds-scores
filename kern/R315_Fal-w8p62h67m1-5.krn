@@ -1,6 +1,7 @@
 !!!COM:	Falla
 !!!OTL:	315_Fal-8/62/[67]1-5
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *I"Contrabass	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin I	*I"Treble Solo	*I"Harp	*	*I"Harpsichord	*I"Timpani	*I"Trumpet in Bb	*I"Horn in F	*I"Clarinet in Bb	*I"Cor Anglais	*I"Oboe	*I"Flute
@@ -69,4 +70,5 @@
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7)]{(s8,s9)}{(s10,s11)}s12[(s13,s14,s15,s16,s17,s18)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

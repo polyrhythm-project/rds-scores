@@ -1,6 +1,7 @@
 !!!COM:	Bartok
 !!!OTL:	332_Bar-24/53/5-3[21]
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*S	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Tuba	*I"Trombone	*I"Trombone	*I"Trombone	*	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Cor Anglais	*I"Oboe	*I"Oboe
@@ -61,4 +62,5 @@
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

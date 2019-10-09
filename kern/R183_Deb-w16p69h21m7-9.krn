@@ -1,6 +1,7 @@
 !!!COM:	Debussy
 !!!OTL:	183_Deb-16/69/[21]7-9
 **kern	**dynam	**kern	**kern
+*grp:B	*grp:B	*grp:B	*grp:A
 *part3	*part3	*part2	*part1
 *staff3	*S	*staff2	*staff1
 *I"Contrabass	*	*I"Violoncello	*I"Tambour militaire
@@ -49,4 +50,5 @@
 ==	==	==	==
 *-	*-	*-	*-
 !!!system-decoration: s1[(s2,s3)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

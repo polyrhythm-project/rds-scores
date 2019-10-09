@@ -1,6 +1,7 @@
 !!!COM:	Prokofiev
 !!!OTL:	572_Pro-32/63/[48]7
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff7	*S	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Bassoon	*I"Clarinet in Bb
@@ -26,4 +27,5 @@
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

@@ -1,6 +1,7 @@
 !!!COM:	Stravinsky
 !!!OTL:	396_Str-47/8/1[8]-[10]1
 **kern	**kern	**kern	**dynam	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part6	*part5	*part4	*part4	*part3	*part2	*part1
 *staff7	*staff6	*staff5	*S	*staff4	*staff3	*staff1
 *I"Contrabass	*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I	*
@@ -114,4 +115,5 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: {(s1,s2)}[(s3,s4,s5,s6,s7)]
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

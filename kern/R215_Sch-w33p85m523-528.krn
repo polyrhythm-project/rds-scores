@@ -1,6 +1,7 @@
 !!!COM:	Schoenberg
 !!!OTL:	215_Sch-33/85/523-528
 **kern	**kern	**kern
+*grp:A	*grp:B	*grp:A
 *part2	*part2	*part1
 *staff3	*staff2	*staff1
 *I"Piano	*	*I"Tenor Solo
@@ -52,4 +53,5 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08

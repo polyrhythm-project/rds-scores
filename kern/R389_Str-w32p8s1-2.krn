@@ -1,6 +1,7 @@
 !!!COM:	Stravinsky
 !!!OTL:	389_Str-32/8/lignes 1 et 2
 **kern	**kern	**kern
+*grp:A	*grp:A	*grp:B
 *part2	*part2	*part1
 *staff3	*staff2	*staff1
 *I"Piano	*	*I"Violin
@@ -95,4 +96,5 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08
