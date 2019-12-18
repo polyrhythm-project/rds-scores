@@ -1,6 +1,7 @@
 !!!COM:	Falla
 !!!OTL:	310_Fal-3/15/1-8
 **kern	**kern	**dynam
+*grp:A	*grp:B	*
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Piano	*	*

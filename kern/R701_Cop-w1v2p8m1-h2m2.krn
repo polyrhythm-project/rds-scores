@@ -1,7 +1,7 @@
 !!!COM:	Copland
 !!!OTL:	701_Cop-1 bis/8/1-[2]2
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*grp:A	*	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part5	*part5	*part4	*part3	*part3	*part2	*part1
 *staff6	*S	*staff5	*staff4	*staff3	*staff2	*staff1
 *I"Violin I	*	*I"Violin I	*I"Piano	*	*I"Oboe	*I"Oboe

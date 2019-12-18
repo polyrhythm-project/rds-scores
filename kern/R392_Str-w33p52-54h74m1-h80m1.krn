@@ -1,7 +1,7 @@
 !!!COM:	Stravinsky
 !!!OTL:	392_Str-33/52-54/[74]1-[80]1
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:B	*	*grp:B	*grp:A
 *part6	*part5	*part4	*part3	*part3	*part2	*part1
 *staff6	*staff5	*staff4	*staff3	*S	*staff2	*staff1
 *I"Violoncello	*I"Violoncello	*I"Viola	*I"Violin II	*	*I"Violin I	*I"Treble Solo

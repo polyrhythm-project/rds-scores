@@ -1,7 +1,7 @@
 !!!COM:	Debussy
 !!!OTL:	183_Deb-16/69/[21]7-9
 **kern	**dynam	**kern	**kern
-*grp:B	*grp:B	*grp:B	*grp:A
+*grp:A	*	*grp:A	*grp:B
 *part3	*part3	*part2	*part1
 *staff3	*S	*staff2	*staff1
 *I"Contrabass	*	*I"Violoncello	*I"Tambour militaire

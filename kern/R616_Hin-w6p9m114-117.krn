@@ -1,7 +1,7 @@
 !!!COM:	Hindemith
 !!!OTL:	616_Hin-6/9/114-117
 **kern	**kern	**dynam	**kern	**kern
-*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
+*grp:A	*grp:B	*	*grp:B	*grp:A
 *part4	*part3	*part3	*part2	*part1
 *staff4	*staff3	*S	*staff2	*staff1
 *I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I
