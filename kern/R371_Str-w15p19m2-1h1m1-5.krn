@@ -1,7 +1,7 @@
 !!!COM:	Stravinsky
 !!!OTL:	371_Str-15/19/2-1[1]1-5
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff8	*S	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *I"Contrabass	*	*I"Violin I	*I"Bass Drum	*I"Cymbals	*I"Trombone	*I"Piccolo Trumpet in Bb	*I"Bassoon	*I"Clarinet in Bb

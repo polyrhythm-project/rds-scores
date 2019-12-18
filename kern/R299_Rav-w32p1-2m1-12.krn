@@ -1,7 +1,7 @@
 !!!COM:	Ravel
 !!!OTL:	299_Rav-32/1-2/1-12
 **kern	**dynam	**kern
-*grp:A	*	*grp:B
+*grp:A	*grp:A	*grp:B
 *part2	*part2	*part1
 *staff2	*S	*staff1
 *I"Soprano Solo	*	*I"Violoncello

@@ -1,7 +1,7 @@
 !!!COM:	Martin
 !!!OTL:	560_Mai-29/10-14
 **kern	**kern	**dynam
-*grp:A	*grp:B	*
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Piano	*	*

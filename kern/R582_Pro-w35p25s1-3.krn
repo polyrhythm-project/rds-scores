@@ -1,7 +1,7 @@
 !!!COM:	Prokofiev
 !!!OTL:	582_Pro-35/25/lignes 1-3
 **kern	**kern	**dynam
-*grp:A	*grp:B	*
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Piano	*	*

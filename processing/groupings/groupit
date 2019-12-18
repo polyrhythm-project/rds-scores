@@ -1,0 +1,354 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Oct 24 12:02:19 PDT 2019
+# Last Modified: Tue Dec 17 21:59:06 PST 2019
+# Filename:      groupit
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Adds rhythmic grouping information to kern files.
+#
+# Usage:         groupit groupings.txt kern-directory
+#
+# groupings.txt is the TSV text copied from:
+#    https://docs.google.com/spreadsheets/d/1TPr7gGCknmwfPz__2uCeYw4wIr4uRvIV/edit#gid=2076862089
+#
+
+use strict;
+use Getopt::Long;
+
+my $examplesQ  = 0;   # print a list of the example numbers extracted from the filenames.
+my $testQ      = 0;   # print a list of the processing that will be done.
+my $replaceQ   = 0;   # replace the original files' contents with the grouping-enhanced data.
+my $deleteQ    = 0;   # delete existing group information or not.
+my $warningQ   = 0;   # print warning messages
+my $dynamicsQ  = 0;   # do /do not include dynamics spines in groupings (or other non-kern spines)
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'e|examples'    => \$examplesQ,
+   't|test'        => \$testQ,
+   'r|replace'     => \$replaceQ,
+   'W|no-warnings' => \$warningQ,
+   'D|no-dynamics' => \$dynamicsQ
+);
+$warningQ  = !$warningQ;
+$dynamicsQ = !$dynamicsQ;
+
+die "Usage: $0 groupings.txt kern-directory\n" if @ARGV != 2;
+
+my $datafile = $ARGV[0];   # groupings from spread
+my $kerndir  = $ARGV[1];
+
+my @files = glob("$kerndir/*.krn");
+my %Examples = buildExampleIndex(@files);
+
+if ($examplesQ) {
+	foreach my $key (keys %Examples) {
+		print "$key\t$Examples{$key}\n" 
+	}
+	exit 0;
+}
+
+open (DATA, $datafile) or die "Cannot read $datafile.";
+my @contents = <DATA>;
+close DATA;
+my %GroupA;
+my %GroupB;
+my %Parts;
+
+my %indexes = getIndexes($contents[0]);
+if ($indexes{"Example"} =~ /^\s*$/) {
+	die "Cannot find column for Example in data file $datafile\n";
+}
+if ($indexes{"Parts"} =~ /^\s*$/) {
+	die "Cannot find column for Parts in data file $datafile\n";
+}
+if ($indexes{"Group A"} =~ /^\s*$/) {
+	die "Cannot find column for Group A in data file $datafile\n";
+}
+if ($indexes{"Group B"} =~ /^\s*$/) {
+	die "Cannot find column for Group B in data file $datafile\n";
+}
+
+for (my $i=1; $i<@contents; $i++) {
+	my $line = $contents[$i];
+	chomp $line;
+	next if $line =~ /^\s*$/;
+	my @data = split(/\t/, $line);
+	next if @data < 4;
+	my $example = $data[$indexes{"Example"}];
+	$example =~ s/^\s+//;
+	$example =~ s/\s+$//;
+	my $parts   = $data[$indexes{"Parts"}];
+	$parts =~ s/^\s+//;
+	$parts =~ s/\s+$//;
+	my $groupa  = $data[$indexes{"Group A"}];
+	$groupa =~ s/^\s+//;
+	$groupa =~ s/\s+$//;
+	my $groupb  = $data[$indexes{"Group B"}];
+	$groupb =~ s/^\s+//;
+	$groupb =~ s/\s+$//;
+	die "Problem on line $line: Example number not found" if $example =~ /^\s*$/;
+	die "Problem on line $line: Parts not found" if $parts =~ /^\s*$/;
+	die "Problem on line $line: Group A not found" if $groupa =~ /^\s*$/;
+	die "Problem on line $line: Group B not found" if $groupb =~ /^\s*$/;
+
+	die "Part entry already exists: $Parts{$example} but now have $parts for $example" if $Parts{$example} !~ /^\s*$/;
+	die "Group A entry already exists: $GroupA{$example} but now have $groupa for $example" if $GroupA{$example} !~ /^\s*$/;
+	die "Group B entry already exists: $GroupB{$example} but now have $groupb for $example" if $GroupB{$example} !~ /^\s*$/;
+
+	if ($Examples{$example} =~ /^\s*$/) {
+		if ($warningQ) {
+			print STDERR "Warning: example $example from data is not associated with a file\n";
+		}
+	}
+
+	$Parts{$example} = $parts;
+	$GroupA{$example} = $groupa;
+	$GroupB{$example} = $groupb;
+}
+
+my @keys = sort keys %Examples;
+
+foreach my $key (@keys) {
+	if ($Parts{$key} =~ /^\s*$/) {
+		if ($warningQ) {
+			print STDERR "Warning: file $Examples{$key} does not have any grouping info in data file\n";
+		}
+		next;
+	}
+	if ($testQ) {
+		print "$Examples{$key}\t$Parts{$key}\t$GroupA{$key}\t$GroupB{$key}\n";
+	} else {
+		processFile($Examples{$key}, $Parts{$key}, $GroupA{$key}, $GroupB{$key});
+	}
+}
+
+
+exit 0;
+
+
+###########################################################################
+
+
+##############################
+##
+## processFile -- Insert group A and B markers into the given file.  The $parts
+##     variable gives the number of parts expected in the file.  If this count
+##     is not accurate, then the 
+##
+
+sub processFile {
+	my ($file, $parts, $groupa, $groupb) = @_;
+	checkCounters($file, $parts, $groupa, $groupb);
+
+	open (FILE, "$kerndir/$file") or die "Cannot read $kerndir/$file\n";
+	my @contents = <FILE>;
+	close FILE;
+
+	my $groupindex = getGroupLine(@contents);
+	if ($groupindex > 0) {
+		if ($replaceQ) {
+			# do not exit function
+		} else {
+			if ($warningQ) {
+				print "Warning: Skipping $file since it already has grouping information.\n";
+			}
+			return;
+		}
+	}
+	my $starindex = getExclusiveInterpretationIndex(@contents);
+	my $starline = $contents[$starindex];
+	$starline =~ s/\t+$//;
+	$starline =~ s/^\t+//;
+	chomp $starline;
+	my @stardata = split(/\t+/, $starline);
+	my $counter = 0;
+	my $i;
+	for ($i=0; $i<@stardata; $i++) {
+		if ($stardata[$i] eq "**kern") {
+			$counter++;
+		}
+	}
+	if ($counter != $parts) {
+		if (($groupa !~ /^0$/) && ($groupb !~ /^0$/)) {
+			die "Problem finding $parts **kern spines on line: $starline in file $file\n";
+		}
+	}
+	$groupa =~ s/ //g;
+	$groupb =~ s/ //g;
+	my @dataa = split(/,/, $groupa);
+	my @datab = split(/,/, $groupb);
+
+	my %grouping;
+	for ($i=0; $i<@dataa; $i++) {
+		my $value = $dataa[$i];
+		$grouping{$value} = "*grp:A";
+	}
+	for ($i=0; $i<@datab; $i++) {
+		my $value = $datab[$i];
+		$grouping{$value} = "*grp:B";
+	}
+
+	my @groupdata;
+	for ($i=0; $i<@stardata; $i++) {
+		$groupdata[$i] = "*";
+	}
+	$counter = 0;
+	for ($i=0; $i<@stardata; $i++) {
+		if ($stardata[$i] eq "**kern") {
+			$counter++;
+		} else {
+			next if !$dynamicsQ;
+		}
+		if ($grouping{$counter} !~ /^\s*$/) {
+			$groupdata[$i] = $grouping{$counter};
+		}
+	}
+	my $groupstring = join("\t", @groupdata);
+	if ($groupindex > 0) {
+			$contents[$groupindex] = "$groupstring\n";
+	} else {
+		$contents[$starindex] .= "$groupstring\n";
+	}
+
+	if ($replaceQ) {
+		open (OFILE, ">$kerndir/$file") or die "Cannot open $kerndir/$file for writing.";
+		print OFILE @contents;
+		close OFILE;
+	} else {
+		print @contents;
+		print "\n";
+	}
+}
+
+
+
+##############################
+##
+## getGroupLine --
+##
+
+sub getGroupLine {
+	my @contents = @_;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line !~ /^\*/;
+		if ($line =~ /\*grp:[A-Za-z]/) {
+			return $i;
+		}
+	}
+	return -1;
+}
+
+
+
+##############################
+##
+## getExclusiveInterpretationIndex --
+##
+
+sub getExclusiveInterpretationIndex {
+	my @contents = @_;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\*\*/) {
+			return $i;
+		}
+	}
+	return -1;
+}
+
+
+
+##############################
+##
+## checkCounters -- the $parts variable is the total count of numbers
+##   in each group.  Check to see that all numbers are assigned to
+##   either Group A or Group B, and that no number is assigned to both
+##   groups.
+##
+
+sub checkCounters {
+	my ($file, $parts, $groupa, $groupb) = @_;
+	die "Invalid Part number: $parts" if $parts !~ /^\d+$/;
+	$groupa =~ s/\s//g;
+	$groupb =~ s/\s//g;
+	my @dataa = split(/,/, $groupa);
+	my @datab = split(/,/, $groupb);
+	my $acount = @dataa;
+	my $bcount = @datab;
+	if ($acount + $bcount != $parts) {
+		if (($groupa !~ /^0$/) && ($groupb !~ /^0$/)) {
+			die "Problem with entry: $file\t$parts\t$groupa\t$groupb: number of groups does not sum to total\n";
+		}
+	}
+	my %list;
+	foreach my $item (@dataa) {
+		next if $item =~ /^0$/;
+		if ($list{$item} !~ /^\s*$/) {
+			die "Problem with duplicate number in group A: $groupa for file $file\n";
+		}
+		$list{$item} = 1;
+	}
+	foreach my $item (@datab) {
+		next if $item =~ /^0$/;
+		if ($list{$item} !~ /^\s*$/) {
+			die "Problem with duplicate number in group B: $groupb for file $file\n";
+		}
+		$list{$item} = 1;
+	}
+}
+
+
+
+##############################
+##
+## getIndexes -- Return a list of the index numbers for each header string type
+##
+
+sub getIndexes {
+	my ($line) = @_;
+	chomp $line;
+	my @data = split(/\t/, $line);
+	my %output;
+	for (my $i=0; $i<@data; $i++) {
+		my $datum = $data[$i];
+		next if $datum =~ /^\s*$/;
+		$datum =~ s/^\s+//;
+		$datum =~ s/\s+$//;
+		$output{$datum} = $i;
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## buildExampleIndex -- Take a list of files to process and extract the example number
+##     for the files and create a lookup table for the filenames based on the example
+##     numbers and an optional letter after the example number.
+##
+
+sub buildExampleIndex {
+	my (@files) = @_;
+	my %output;
+	foreach my $file (@files) {
+		$file =~ s/.*\///;
+		$file =~ /^[RT]?(\d+[A-Z]?)/;
+		my $example = $1;
+		if ($example =~ /^\s*$/) {
+			die "Error: File $file is missing an example number.\n";
+		}
+		if ($output{$example}) {
+			die "Error: $example matches two files: $output{$example} and $file\n";
+		}
+		$output{$example} = $file;
+	}
+	return %output;
+}
+
+
+

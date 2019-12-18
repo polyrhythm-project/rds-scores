@@ -1,7 +1,7 @@
 !!!COM:	Janacek
 !!!OTL:	131_Jan-43/6/1-4
 **kern	**dynam	**kern
-*grp:A	*	*grp:B
+*grp:A	*grp:A	*grp:B
 *part3	*part3	*part1
 *staff3	*S	*staff1
 *I"BASS 1	*	*I"TENOR 1

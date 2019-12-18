@@ -1,7 +1,7 @@
 !!!COM:	Bartok
 !!!OTL:	350_Bar-30/4/22-30
 **kern	**kern	**dynam
-*grp:A	*grp:B	*
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Piano	*	*

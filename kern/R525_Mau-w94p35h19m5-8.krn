@@ -1,7 +1,7 @@
 !!!COM:	Martinu
 !!!OTL:	525_Mau-94/35/[19]5-8
 **kern	**dynam	**kern	**kern	**kern
-*grp:A	*	*grp:B	*grp:B	*grp:A
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A
 *part3	*part3	*part2	*part2	*part1
 *staff4	*S	*staff3	*staff2	*staff1
 *I"Violoncello	*	*I"Piano	*	*I"Violin I

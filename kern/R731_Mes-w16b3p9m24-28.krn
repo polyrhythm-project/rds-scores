@@ -1,7 +1,7 @@
 !!!COM:	Messaien
 !!!OTL:	731_Mes-16^3/9/24-28
 **kern	**kern	**dynam
-*grp:A	*grp:B	*
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Organ	*	*

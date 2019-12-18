@@ -1,7 +1,7 @@
 !!!COM:	Copland
 !!!OTL:	724_Cop-42/64/[66]1-7
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
-*grp:A	*grp:B	*	*grp:B	*grp:A	*grp:A	*grp:A
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part6	*part5	*part5	*part4	*part3	*part2	*part1
 *staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
 *I"Bass Drum	*I"Timbales	*	*I"Congas	*I"Tenor Drum	*I"Trombone	*I"Trombone
