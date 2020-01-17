@@ -1,0 +1,98 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Jan 17 07:26:39 PST 2020
+# Last Modified: Fri Jan 17 07:51:26 PST 2020
+# Filename:      addtempoline
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Add a *MM tempo line to a file if there is non already.
+#                The default tempo is set to 121.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die "cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	chomp @contents;
+	if (hasMMTempo(@contents)) {
+		# don't add MM tempo again
+		return;
+	}
+	my $meterIndex = getMeterIndex(@contents);
+	if (!$meterIndex) {
+		# no meter for some reason
+		return;
+	}
+	my $mm = $contents[$meterIndex];
+	$mm =~ s/M\d[^\t]*/MM121/g;
+	$contents[$meterIndex] .= "\n$mm";
+	open (FILE, ">$file") or die "cannot write $file\n";
+	for (my $i=0; $i<@contents; $i++) {
+		print FILE "$contents[$i]\n";
+	}
+	close FILE;
+}
+
+
+
+##############################
+##
+## hasMMTempo --
+##
+
+sub hasMMTempo {
+	my @contents = @_;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\!/;
+		next if $line =~ /^\s*$/;
+		next if $line =~ /^=/;
+		last if $line !~ /^\*/;
+		return $i if $line =~ /\*MM\d+/;
+	}
+	return 0;
+}
+
+
+
+##############################
+##
+## getMeterIndex --
+##
+
+sub getMeterIndex {
+	my @contents = @_;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\!/;
+		next if $line =~ /^\s*$/;
+		next if $line =~ /^=/;
+		last if $line !~ /^\*/;
+		return $i if $line =~ /\*M\d+/;
+	}
+	return 0;
+}
+
+
+
