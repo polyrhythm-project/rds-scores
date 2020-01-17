@@ -1,5 +1,7 @@
 !!!COM: Ives, Charles
 !!!OTL: Robert Browning Overture
+!!!example: 258
+!!!work: Ive-30
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part18	*part17	*part16	*part15	*part14	*part13	*part12	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*	*k[]	*k[]	*k[]	*	*	*k[]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 6AAAn^^ 6AAn	6AAn^^ 6An	2fn 2g#X 2cc#X	2ddn 2ee 2bbn	2cccn 2eee-X 2gggn	3x	12x	.	4x	4BB-X	6AAn^^ 6An	6dd	1r	6d	6AAn^^ 6An	6e^^	4dd	4dd	4ddd
 .	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.
@@ -81,12 +84,10 @@
 !!!MPN:
 !!!ODT: 1914 (rev. 1942)
 !!!PDT: 1959
-!!!example: 258
-!!!work: Ive-30
-!!!excerpt-end-measure: 57
-!!!excerpt-end-time: 4:11
 !!!excerpt-start-measure: 55
+!!!excerpt-end-measure: 57
 !!!excerpt-start-time: 4:03
+!!!excerpt-end-time: 4:11
 !!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)][(s10)][(s11,s12,s13)][(s14,s15,s16,s17,s18)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

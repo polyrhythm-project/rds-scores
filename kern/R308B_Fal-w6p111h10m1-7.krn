@@ -1,5 +1,7 @@
 !!!COM: Falla (y Matheu), Manuel de
 !!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!example: 308B
+!!!work: Fal-6
 **kern	**dynam
 *grp:A	*grp:A
 *I"Flute	*
@@ -8,6 +10,7 @@
 *k[f#c#]	*
 *D:	*
 *M3/8	*
+*MM121	*
 =1	=1
 8r	.
 (16ddd'LL	pp
@@ -57,11 +60,9 @@
 !!!MPN: Rosovsku, Zoia
 !!!ODT: 1919
 !!!PDT: 1921
-!!!example: 308B
-!!!work: Fal-6
-!!!excerpt-end-measure: 101
-!!!excerpt-end-time: 1:50
 !!!excerpt-start-measure: 95
+!!!excerpt-end-measure: 101
 !!!excerpt-start-time: 1:43
+!!!excerpt-end-time: 1:50
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

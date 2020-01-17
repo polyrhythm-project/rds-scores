@@ -1,5 +1,7 @@
 !!!COM: Janáček, Leoš [Leo Eugen]
 !!!OTL: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
+!!!example: 144
+!!!work: Jan-47
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M3/8	*M3/8	*
+*MM121	*MM121	*
 =1	=1	=1
 8.A-XL	(24cLL 24cc	p
 .	24f 24b-X	.
@@ -63,12 +66,10 @@
 !!!MPN: Čvanová, Alexandra
 !!!ODT: 1925
 !!!PDT: 1970
-!!!example: 144
-!!!work: Jan-47
-!!!excerpt-end-measure: 41
-!!!excerpt-end-time: 1:13
 !!!excerpt-start-measure: 38
+!!!excerpt-end-measure: 41
 !!!excerpt-start-time: 1:08
+!!!excerpt-end-time: 1:13
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

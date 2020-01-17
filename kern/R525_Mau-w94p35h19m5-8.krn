@@ -1,5 +1,7 @@
 !!!COM: Martinů, Bohuslav (Jan)
 !!!OTL: Piano Trio No. 2 in D Minor
+!!!example: 525
+!!!work: Mau-94
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A
 *part3	*part3	*part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]
 *C:	*	*C:	*C:	*C:
 *M2/4	*	*M2/4	*M2/4	*M2/4
+*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1
 4c~	.	16FFLL	16cLL	4ccc~
 .	.	16C	16f	.
@@ -62,12 +65,10 @@
 !!!MPN: Finkel, George; Liepmann, Klaus; Tucker, Gregory
 !!!ODT: 1950
 !!!PDT: 1961
-!!!example: 525
-!!!work: Mau-94
-!!!excerpt-end-measure: 198
-!!!excerpt-end-time: 3:34
 !!!excerpt-start-measure: 195
+!!!excerpt-end-measure: 198
 !!!excerpt-start-time: 3:29
+!!!excerpt-end-time: 3:34
 !!!system-decoration: s1{(s2,s3)}s4
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

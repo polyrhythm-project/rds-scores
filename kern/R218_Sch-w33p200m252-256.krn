@@ -1,5 +1,7 @@
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
 !!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!example: 218
+!!!work: Sch-33
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A
 *part5	*part5	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*
 *M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1
 *^	*	*	*	*	*	*
 4ryy	(4G#X	8e-XL	p	4r	4G#X	(8e-XL	4r
@@ -69,12 +72,10 @@
 !!!MPN: Fiedler, Hans; Melchert, Helmut
 !!!ODT: 1932
 !!!PDT: 1957
-!!!example: 218
-!!!work: Sch-33
-!!!excerpt-end-measure: 143
-!!!excerpt-end-time: 5:33
 !!!excerpt-start-measure: 139
+!!!excerpt-end-measure: 143
 !!!excerpt-start-time: 5:28
+!!!excerpt-end-time: 5:33
 !!!system-decoration: [(s1,s2,s3)][(s4)]{(s5,s6)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

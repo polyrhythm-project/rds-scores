@@ -1,5 +1,7 @@
 !!!COM: Martinů, Bohuslav (Jan)
 !!!OTL: Piano Trio No. 1
+!!!example: 492
+!!!work: Mau-24
 **kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part3	*part3	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*	*k[]	*k[]
 *C:	*C:	*	*C:	*C:
 *M4/4	*M4/4	*	*M4/4	*M4/4
+*MM121	*MM121	*	*MM121	*MM121
 =1	=1	=1	=1	=1
 8d'	8.ddd	f	(4F#X	(4ddd
 8r	.	.	.	.
@@ -63,12 +66,10 @@
 !!!MPN: unknown
 !!!ODT: 1930
 !!!PDT: 1931
-!!!example: 492
-!!!work: Mau-24
-!!!excerpt-end-measure: 104
-!!!excerpt-end-time: 1:40
 !!!excerpt-start-measure: 99
+!!!excerpt-end-measure: 104
 !!!excerpt-start-time: 1:34
+!!!excerpt-end-time: 1:40
 !!!system-decoration: [(s1,s2)]{(s3,s4)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

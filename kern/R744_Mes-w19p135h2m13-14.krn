@@ -1,5 +1,7 @@
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
 !!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!example: 744
+!!!work: Mes-19
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 *	*	*	*	*	*	*	*	*	*	*8va	*8ba	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8AAAn^L	8AAn^L	8An^L	8An^L	(12D-XL	(16ff#XLL	(16aaLL 16ccc-X	(16eeeLL 16ggg#X	(12GL	(12B-XL 12e-X	8AAAn^L 8AAn	24cccc#XLL	8anL	8eeeL	8ddddL
@@ -87,12 +90,10 @@
 !!!MPN: Grimaud, Yvette; Loriod, Yvonne; Martenot, Ginettea
 !!!ODT: 1944
 !!!PDT: 1952
-!!!example: 744
-!!!work: Mes-19
-!!!excerpt-end-measure: 48
-!!!excerpt-end-time: 1:54
 !!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
 !!!excerpt-start-time: 1:49
+!!!excerpt-end-time: 1:54
 !!!system-decoration: {(s1,s2)}s3{(s4,s5)}[(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Janáček, Leoš [Leo Eugen]
 !!!OTL: Pohádka (Fairy Tale) for Violincello and Piano
+!!!example: 129
+!!!work: Jan-30
 **kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:A
 *part2	*part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]
 *A:	*A:	*	*A:
 *M2/8	*M2/8	*	*M2/8
+*MM121	*MM121	*	*MM121
 =1	=1	=1	=1
 *^	*	*	*
 (8.GnL	(24EELL	4r	.	24r
@@ -73,12 +76,10 @@
 !!!MPN: Pavlata, Rudolf; Prokopová, Ludmila
 !!!ODT: 1910 (rev. 1923)
 !!!PDT: 1910
-!!!example: 129
-!!!work: Jan-30
-!!!excerpt-end-measure: 127
-!!!excerpt-end-time: 3:58
 !!!excerpt-start-measure: 124
+!!!excerpt-end-measure: 127
 !!!excerpt-start-time: 3:53
+!!!excerpt-end-time: 3:58
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

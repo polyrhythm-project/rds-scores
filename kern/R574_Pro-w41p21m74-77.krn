@@ -1,5 +1,7 @@
 !!!COM: Prokofiev, Sergey (Sergeyevich)
 !!!OTL: Piano Sonata No. 9 in C Major, op. 103
+!!!example: 574
+!!!work: Pro-41
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[b-e-a-d-]	*k[b-e-a-d-]	*
 *A-:	*A-:	*
 *M4/4	*M4/4	*
+*MM121	*MM121	*
 =1	=1	=1
 20AAA-LL	8.AA-~L	.
 20CC-X	.	.
@@ -129,12 +132,10 @@
 !!!MPN: Richter, Sviatoslav
 !!!ODT: 1947
 !!!PDT: 1955
-!!!example: 574
-!!!work: Pro-41
-!!!excerpt-end-measure: 77
-!!!excerpt-end-time: 5:04
 !!!excerpt-start-measure: 74
+!!!excerpt-end-measure: 77
 !!!excerpt-start-time: 4:54
+!!!excerpt-end-time: 5:04
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

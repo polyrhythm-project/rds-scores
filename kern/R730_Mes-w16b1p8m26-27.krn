@@ -1,5 +1,7 @@
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
 !!!OTL: Les Corps glorieux (Glorious Bodies) for Organ
+!!!example: 730
+!!!work: Mes-16
 **kern	**kern	**kern
 *grp:A	*grp:B	*grp:B
 *part2	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M11/8	*M11/8	*M11/8
+*MM121	*MM121	*MM121
 =1	=1	=1
 8C#XL	4c#X 4e 4f#X 4b-X	4ee 4aa 4ddd#X
 [8D#X	.	.
@@ -59,12 +62,10 @@
 !!!MPN: Messiaen, Olivier
 !!!ODT: 1939
 !!!PDT: 1942
-!!!example: 730
-!!!work: Mes-16
-!!!excerpt-end-measure: 27
-!!!excerpt-end-time: 2:51
 !!!excerpt-start-measure: 26
+!!!excerpt-end-measure: 27
 !!!excerpt-start-time: 2:22
+!!!excerpt-end-time: 2:51
 !!!system-decoration: {(s1,s2)}s3
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

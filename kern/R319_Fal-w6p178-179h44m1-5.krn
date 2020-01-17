@@ -1,5 +1,7 @@
 !!!COM: Falla (y Matheu), Manuel de
 !!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!example: 319
+!!!work: Fal-6
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part14	*part13	*part12	*part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*	*k[f#c#]	*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
 *D:	*D:	*D:	*D:	*D:	*D:	*	*	*D:	*	*	*D:	*D:	*D:	*D:	*D:	*D:
 *M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*
 2.AA^	16ALL 16d	16f#LL	8d	8r	4.A 4.d 4.f#	.	4AA	12bL	4bn~	[2.d	4.An 4.f#X	[2.AA	2.r	2.r	2.r	2.r	8r
@@ -135,12 +138,10 @@
 !!!MPN: Rosovsku, Zoia
 !!!ODT: 1919
 !!!PDT: 1921
-!!!example: 319
-!!!work: Fal-6
-!!!excerpt-end-measure: 414
-!!!excerpt-end-time: 10:36
 !!!excerpt-start-measure: 410
+!!!excerpt-end-measure: 414
 !!!excerpt-start-time: 10:28
+!!!excerpt-end-time: 10:36
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

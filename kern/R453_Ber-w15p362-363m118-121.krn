@@ -1,5 +1,7 @@
 !!!COM: Berg, Alban (Maria Johannes)
 !!!OTL: Lulu, Unfinished Opera
+!!!example: 453
+!!!work: Ber-15
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part15	*part14	*part13	*part12	*part11	*part10	*part9	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*	*	*	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 (4AAAn	(4AAn	8E'	8En'	1.r	1.r	12enL	.	1.r	2r	1.r	1.r	1.r	2r	8d-X'L	4.E'	12r
 .	.	.	.	.	.	12f#X	f	.	.	.	.	.	.	.	.	12g-X'L
@@ -108,12 +111,10 @@
 !!!MPN: Hadžić, Bahrija
 !!!ODT: 1935
 !!!PDT: 1936
-!!!example: 453
-!!!work: Ber-15
-!!!excerpt-end-measure: 121
-!!!excerpt-end-time: 6:51
 !!!excerpt-start-measure: 118
+!!!excerpt-end-measure: 121
 !!!excerpt-start-time: 6:01
+!!!excerpt-end-time: 6:51
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6,s7)]{(s8,s9)}[(s10,s11,s12)][(s13,s14,s15,s16)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

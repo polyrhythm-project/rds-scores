@@ -1,5 +1,7 @@
 !!!COM: Hindemith, Paul
 !!!OTL: String Quartet in F Minor, op. 10
+!!!example: 616
+!!!work: Hin-6
 **kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A
 *part4	*part3	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*k[b-e-a-d-]
 *A-:	*A-:	*	*A-:	*A-:
 *M3/4	*M3/4	*	*M3/4	*M3/4
+*MM121	*MM121	*	*MM121	*MM121
 =1	=1	=1	=1	=1
 4r	16DnLL	.	2.r	4r
 .	(16dn	.	.	.
@@ -96,12 +99,10 @@
 !!!MPN: Frank, Mauritz; Hegar, Johannes; Hindemith, Paul; Rebner, Adolf
 !!!ODT: 1918
 !!!PDT: 1920
-!!!example: 616
-!!!work: Hin-6
-!!!excerpt-end-measure: 117
-!!!excerpt-end-time: 4:12
 !!!excerpt-start-measure: 114
+!!!excerpt-end-measure: 117
 !!!excerpt-start-time: 4:05
+!!!excerpt-end-time: 4:12
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

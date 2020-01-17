@@ -1,5 +1,7 @@
 !!!COM: Copland, Aaron
 !!!OTL: Music for a Great City for Orchestra
+!!!example: 724
+!!!work: Cop-42
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part6	*part5	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *	*	*	*	*	*k[]	*k[]
 *	*	*	*	*	*C:	*C:
 *M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1
 4r	16r	.	8.r	16xLL	4r	4r
 .	16xLL	.	.	16x	.	.
@@ -146,12 +149,10 @@
 !!!MPN:
 !!!ODT: 1964
 !!!PDT: 1965
-!!!example: 724
-!!!work: Cop-42
-!!!excerpt-end-measure: 36
-!!!excerpt-end-time: 1:03
 !!!excerpt-start-measure: 30
+!!!excerpt-end-measure: 36
 !!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:03
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

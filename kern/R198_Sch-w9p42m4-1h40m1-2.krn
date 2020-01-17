@@ -1,5 +1,7 @@
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
 !!!OTL: Kammersymphonie (Chamber Symphony) No. 1, op. 9
+!!!example: 198
+!!!work: Sch-9
 **kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part11	*part10	*part9	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *E-:	*E-:	*E-:	*	*E-:	*E-:	*	*E-:	*E-:	*E-:	*E-:	*E-:
 *M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4EE-X	4.GG	8r	.	2.d-X	4r	4BB-X 4B-X	4GGG	4E-X	2.d-XT	4B-X	4B-X
 .	.	8en'L	p	.	.	.	.	.	.	.	.
@@ -39,12 +42,10 @@
 !!!MPN:
 !!!ODT: 1906
 !!!PDT: 1913
-!!!example: 198
-!!!work: Sch-9
-!!!excerpt-end-measure: 171
-!!!excerpt-end-time: 6:19
 !!!excerpt-start-measure: 170
+!!!excerpt-end-measure: 171
 !!!excerpt-start-time: 6:17
+!!!excerpt-end-time: 6:19
 !!!system-decoration: [(s1,s2,s3,s4,s5)]s6[(s7,s8,s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Berg, Alban (Maria Johannes)
 !!!OTL: Wozzeck, Opera in Three Acts
+!!!example: 443
+!!!work: Ber-10
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part4	*part3	*part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!LO:TX:B:t=593	!	!	!	!	!	!	!	!
 [2.BB-X	(2c#X	(8fnL	(4.ddn	8A-X	2.r	2.r	4Gn	2Gn	(8ee-XL	(8f-XL	(8b-XL	.	2.r
@@ -72,12 +75,10 @@
 !!!MPN: Hermann, Uhde; Steber, Eleanor
 !!!ODT: 1922
 !!!PDT: 1923
-!!!example: 443
-!!!work: Ber-10
-!!!excerpt-end-measure: 48
-!!!excerpt-end-time: 2:24
 !!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
 !!!excerpt-start-time: 2:18
+!!!excerpt-end-time: 2:24
 !!!system-decoration: [(s1,s2)]s3{(s4,s5)}s6,s7[(s8,s9)][(s10,s11,s12,s13)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
 !!!OTL: Violin Concerto, op. 36
+!!!example: 222
+!!!work: Sch-35
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A
 *part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]
 *	*	*	*	*
 *M4/4	*	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1
 4r	.	4r	4r	8bn 8aa-X 8dddn
 .	.	.	.	8r
@@ -76,12 +79,10 @@
 !!!MPN: Krasner, Louis
 !!!ODT: 1936
 !!!PDT: 1939
-!!!example: 222
-!!!work: Sch-35
-!!!excerpt-end-measure: 75
-!!!excerpt-end-time: 3:15
 !!!excerpt-start-measure: 73
+!!!excerpt-end-measure: 75
 !!!excerpt-start-time: 3:08
+!!!excerpt-end-time: 3:15
 !!!system-decoration: s1,s2[(s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

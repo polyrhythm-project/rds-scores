@@ -1,5 +1,7 @@
 !!!COM: Honegger, Arthur
 !!!OTL: Rapsodie (Rhapsody) for Two Flutes, Clarinet and Piano
+!!!example: 584
+!!!work: Hon-4
 **kern	**kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
 *E:	*E:	*	*E:	*E:	*E:
 *M5/4	*M5/4	*	*M5/4	*M5/4	*M5/4
+*MM121	*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1
 8CC#L	4r	p	4r	4r	4r
 8C#J	.	.	.	.	.
@@ -62,12 +65,10 @@
 !!!MPN: Roy, Manouvrier; Tournier; Vaurabourg, Andrée
 !!!ODT: 1917
 !!!PDT: 1923
-!!!example: 584
-!!!work: Hon-4
-!!!excerpt-end-measure: 48
-!!!excerpt-end-time: 3:48
 !!!excerpt-start-measure: 46
+!!!excerpt-end-measure: 48
 !!!excerpt-start-time: 3:43
+!!!excerpt-end-time: 3:48
 !!!system-decoration: [(s1,s2,s3)]{(s4,s5)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

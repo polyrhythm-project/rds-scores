@@ -1,5 +1,7 @@
 !!!COM: Bartók, Béla
 !!!OTL: Román népi táncok (Romanian Folk Dances) for Piano
+!!!example: 324
+!!!work: Bar-14
 **kern	**kern
 *grp:A	*grp:B
 *part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]
 *C:	*C:
 *M3/4	*M3/4
+*MM121	*MM121
 =1	=1
 4e 4cc#X	2ee~
 (4A	.
@@ -80,12 +83,10 @@
 !!!MPN: Hevesi, Piroska
 !!!ODT: 1915
 !!!PDT: 1918
-!!!example: 324
-!!!work: Bar-14
-!!!excerpt-end-measure: 10
-!!!excerpt-end-time: 0:19
 !!!excerpt-start-measure: 3
+!!!excerpt-end-measure: 10
 !!!excerpt-start-time: 0:04
+!!!excerpt-end-time: 0:19
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

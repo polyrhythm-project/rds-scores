@@ -1,5 +1,7 @@
 !!!COM: Prokofiev, Sergey (Sergeyevich)
 !!!OTL: Piano Sonata No. 8 in B-flat Major, op. 84
+!!!example: 573
+!!!work: Pro-36
 **kern	**kern
 *grp:A	*grp:B
 *part1	*part1
@@ -10,6 +12,7 @@
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]
 *D-:	*D-:
 *M3/4	*M3/4
+*MM121	*MM121
 =1	=1
 4dd-	(4.ddd-
 4a-'	.
@@ -42,12 +45,10 @@
 !!!MPN: Gilels, Emile
 !!!ODT: 1944
 !!!PDT: 1946
-!!!example: 573
-!!!work: Pro-36
-!!!excerpt-end-measure: 295
-!!!excerpt-end-time: 5:42
 !!!excerpt-start-measure: 293
+!!!excerpt-end-measure: 295
 !!!excerpt-start-time: 5:39
+!!!excerpt-end-time: 5:42
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

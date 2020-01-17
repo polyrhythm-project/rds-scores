@@ -1,5 +1,7 @@
 !!!COM: Debussy, (Achille-)Claude
 !!!OTL: La Boîte à joujoux (The Toy Box), Ballet for Children
+!!!example: 187
+!!!work: Deb-42
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[b-]	*k[b-]	*
 *F:	*F:	*
 *M2/4	*M2/4	*
+*MM121	*MM121	*
 *8ba	*	*
 =1	=1	=1
 *^	*	*
@@ -138,12 +141,10 @@
 !!!MPN:
 !!!ODT: 1913
 !!!PDT: 1920
-!!!example: 187
-!!!work: Deb-42
-!!!excerpt-end-measure: 137
-!!!excerpt-end-time: 4:02
 !!!excerpt-start-measure: 122
+!!!excerpt-end-measure: 137
 !!!excerpt-start-time: 3:44
+!!!excerpt-end-time: 4:02
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

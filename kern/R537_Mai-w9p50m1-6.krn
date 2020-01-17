@@ -1,5 +1,7 @@
 !!!COM: Martin, Frank
 !!!OTL: Mass for Unaccomapnied Mixed Double Choir
+!!!example: 537
+!!!work: Mai-9
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *G:	*	*G:	*G:	*G:	*G:	*G:	*G:	*G:
 *M5/4	*	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 4BB	p	4F#	4B	4f#	4%5r	4%5r	4%5r	4%5r
 4BB	.	4F#	4B	4f#	.	.	.	.
@@ -74,12 +77,10 @@
 !!!MPN:
 !!!ODT: 1922 (rev. 1926)
 !!!PDT: 1972
-!!!example: 537
-!!!work: Mai-9
-!!!excerpt-end-measure: 6
-!!!excerpt-end-time: 0:29
 !!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 6
 !!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:29
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

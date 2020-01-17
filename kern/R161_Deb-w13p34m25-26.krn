@@ -1,5 +1,7 @@
 !!!COM: Debussy, (Achille-)Claude
 !!!OTL: String Quartet, op. 10
+!!!example: 161
+!!!work: Deb-13
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:A	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
 *D-:	*	*D-:	*D-:	*D-:
 *M12/8	*	*M12/8	*M12/8	*M12/8
+*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1
 16%3g-^L	f	8b-^L	16%3gg-^L	8bb-^L
 .	.	8dd-^	.	8ddd-^
@@ -57,12 +60,10 @@
 !!!MPN: Crickboom, Mathieu; Hout, Léon; Jacob, Joseph; Ysaÿe, Eugène
 !!!ODT: 1893
 !!!PDT: 1894
-!!!example: 161
-!!!work: Deb-13
-!!!excerpt-end-measure: 26
-!!!excerpt-end-time: 1:38
 !!!excerpt-start-measure: 25
+!!!excerpt-end-measure: 26
 !!!excerpt-start-time: 1:34
+!!!excerpt-end-time: 1:38
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

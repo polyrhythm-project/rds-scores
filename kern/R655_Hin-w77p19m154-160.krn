@@ -1,5 +1,7 @@
 !!!COM: Hindemith, Paul
 !!!OTL: Sonata for Two Pianos, Four Hands
+!!!example: 655
+!!!work: Hin-77
 **kern	**kern	**kern	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
+*MM121	*MM121	*MM121	*MM121	*
 *8va	*	*	*	*
 =1	=1	=1	=1	=1
 2r	(4ddd	1r	8BL 8f#X	.
@@ -92,12 +95,10 @@
 !!!MPN: Dougherty, Celuis; Ruzicka, Vincenz
 !!!ODT: 1942
 !!!PDT: 1942
-!!!example: 655
-!!!work: Hin-77
-!!!excerpt-end-measure: 160
-!!!excerpt-end-time: 2:53
 !!!excerpt-start-measure: 154
+!!!excerpt-end-measure: 160
 !!!excerpt-start-time: 2:46
+!!!excerpt-end-time: 2:53
 !!!system-decoration: {(s1,s2)}{(s3,s4)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Stravinsky, Igor (Fyodorovich)
 !!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!example: 392
+!!!work: Str-33
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
 *part6	*part5	*part4	*part3	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
 *D:	*D:	*D:	*D:	*	*D:	*D:
 *M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4
+*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1
 !LO:TX:t=pizz.	!	!	!	!	!	!
 !LO:TX:t=arco	!LO:TX:t=pizz.	!	!	!	!	!
@@ -238,12 +241,10 @@
 !!!MPN: Maison, René; Rubinstein, Ida
 !!!ODT: 1934
 !!!PDT: 1934
-!!!example: 392
-!!!work: Str-33
-!!!excerpt-end-measure: 88
-!!!excerpt-end-time: 4:48
 !!!excerpt-start-measure: 64
+!!!excerpt-end-measure: 88
 !!!excerpt-start-time: 3:47
+!!!excerpt-end-time: 4:48
 !!!system-decoration: s1[(s2,s3,s4,s5,s6)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

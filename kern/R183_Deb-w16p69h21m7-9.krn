@@ -1,5 +1,7 @@
 !!!COM: Debussy, (Achille-)Claude
 !!!OTL: Nocturnes for Orchestra
+!!!example: 183
+!!!work: Deb-16
 **kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B
 *part3	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*	*A:	*
 *M3/4	*	*M3/4	*M3/4
+*MM121	*	*MM121	*MM121
 =1	=1	=1	=1
 12AAAL	ppp	12AAL	8x^
 12AAA	.	12AA	.
@@ -62,12 +65,10 @@
 !!!MPN:
 !!!ODT: 1899
 !!!PDT: 1901
-!!!example: 183
-!!!work: Deb-16
-!!!excerpt-end-measure: 268
-!!!excerpt-end-time: 5:58
 !!!excerpt-start-measure: 266
+!!!excerpt-end-measure: 268
 !!!excerpt-start-time: 5:54
+!!!excerpt-end-time: 5:58
 !!!system-decoration: s1[(s2,s3)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

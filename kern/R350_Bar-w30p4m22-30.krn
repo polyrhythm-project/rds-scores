@@ -1,5 +1,7 @@
 !!!COM: Bartók, Béla
 !!!OTL: Piano Sonata
+!!!example: 350
+!!!work: Bar-30
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M2/4	*M2/4	*
+*MM121	*MM121	*
 =1	=1	=1
 *	*^	*
 8GG#XL 8C#X 8D	4G [4g	8r	.
@@ -96,12 +99,10 @@
 !!!MPN: Bartók, Béla
 !!!ODT: 1926
 !!!PDT: 1927
-!!!example: 350
-!!!work: Bar-30
-!!!excerpt-end-measure: 30
-!!!excerpt-end-time: 0:32
 !!!excerpt-start-measure: 22
+!!!excerpt-end-measure: 30
 !!!excerpt-start-time: 0:23
+!!!excerpt-end-time: 0:32
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

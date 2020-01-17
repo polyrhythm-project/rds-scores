@@ -1,5 +1,7 @@
 !!!COM: Honegger, Arthur
 !!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!example: 588
+!!!work: Hon-18
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	4An	.	4a-X	4A-X	4c#X	1r	1r	1r	4r	4r	4r	4A-X	4An	4A-X	4c#X 4a-X	4c#X 4a-X
 .	4r	.	4r	4r	4r	.	.	.	8GGG-X	8G-XL	8GG-XL	4r	4r	4r	4r	4r
@@ -168,12 +171,10 @@
 !!!MPN:
 !!!ODT: 1923
 !!!PDT: 1924
-!!!example: 588
-!!!work: Hon-18
-!!!excerpt-end-measure: 66
-!!!excerpt-end-time: 1:44
 !!!excerpt-start-measure: 51
+!!!excerpt-end-measure: 66
 !!!excerpt-start-time: 1:21
+!!!excerpt-end-time: 1:44
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10)]s11[(s12,s13,s14,s15,s16)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

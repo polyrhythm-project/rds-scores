@@ -1,5 +1,7 @@
 !!!COM: Gershwin, George
 !!!OTL: Piano Concerto in F Major
+!!!example: 687
+!!!work: Ger-6
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8BBL	<	8BL	4.g	4.b	4.dd	(12dL	(12ddL	4.x	4.dn	1r	4.gn	4.b 4.dd
 .	.	.	.	.	.	12d#X	12dd#X	.	.	.	.	.
@@ -76,12 +79,10 @@
 !!!MPN: Gerschwin, George
 !!!ODT: 1925
 !!!PDT: 1927
-!!!example: 687
-!!!work: Ger-6
-!!!excerpt-end-measure: 205
-!!!excerpt-end-time: 6:04
 !!!excerpt-start-measure: 203
+!!!excerpt-end-measure: 205
 !!!excerpt-start-time: 6:00
+!!!excerpt-end-time: 6:04
 !!!system-decoration: [(s1,s2)][(s3,s4)]s5{(s6,s7)}[(s8,s9,s10,s11,s12)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

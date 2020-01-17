@@ -1,5 +1,7 @@
 !!!COM: Martin, Frank
 !!!OTL: Eight Preludes for Piano
+!!!example: 560
+!!!work: Mai-29
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M9/8	*M9/8	*
+*MM121	*MM121	*
 =1	=1	=1
 16FF#X'LL	8r	mf
 16A'	.	.
@@ -122,12 +125,10 @@
 !!!MPN: Bidal, Denise
 !!!ODT: 1948
 !!!PDT: 1949
-!!!example: 560
-!!!work: Mai-29
-!!!excerpt-end-measure: 14
-!!!excerpt-end-time: 0:41
 !!!excerpt-start-measure: 10
+!!!excerpt-end-measure: 14
 !!!excerpt-start-time: 0:27
+!!!excerpt-end-time: 0:41
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Webern, Anton (Friedrich Wilhelm von)
 !!!OTL: Langsamer Satz (Slow Movement) for String Quartet
+!!!example: 409
+!!!work: Web-3
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]
 *C:	*	*C:	*C:	*C:
 *M4/4	*	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1
 4C#X	.	2e	2g	(12bbL
 .	.	.	.	12aa
@@ -79,12 +82,10 @@
 !!!MPN: Ferrin, Richard; Heinitz, Eva; Sokol, Vilem; Zetlin, Emanuel
 !!!ODT: 1905
 !!!PDT: 1962
-!!!example: 409
-!!!work: Web-3
-!!!excerpt-end-measure: 49
-!!!excerpt-end-time: 4:29
 !!!excerpt-start-measure: 46
+!!!excerpt-end-measure: 49
 !!!excerpt-start-time: 4:14
+!!!excerpt-end-time: 4:29
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

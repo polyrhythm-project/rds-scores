@@ -1,5 +1,7 @@
 !!!COM: Hindemith, Paul
 !!!OTL: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
+!!!example: 630
+!!!work: Hin-22
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*	*k[]
 *	*	*	*	*
 *M4/4	*	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1
 12cc^L	.	1r	1r	1r
 12an	.	.	.	.
@@ -107,12 +110,10 @@
 !!!MPN: Lübbecke-Job, Emma
 !!!ODT: 1924
 !!!PDT: 1924
-!!!example: 630
-!!!work: Hin-22
-!!!excerpt-end-measure: 58
-!!!excerpt-end-time: 1:39
 !!!excerpt-start-measure: 53
+!!!excerpt-end-measure: 58
 !!!excerpt-start-time: 1:28
+!!!excerpt-end-time: 1:39
 !!!system-decoration: s1[(s2,s3)]{(s4,s5)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

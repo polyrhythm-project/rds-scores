@@ -1,5 +1,7 @@
 !!!COM: Janáček, Leoš [Leo Eugen]
 !!!OTL: Potulný šílenec (The Wandering Madman) for Soprano Solo and Male Chorus
+!!!example: 131
+!!!work: Jan-43
 **kern	**dynam	**kern
 *grp:A	*grp:A	*grp:B
 *part3	*part3	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]
 *C:	*	*C:
 *M3/4	*	*M3/4
+*MM121	*	*MM121
 =1	=1	=1
 4B-X	.	4r
 4B-	pp	6E-X 6A-X
@@ -44,12 +47,10 @@
 !!!MPN: Janecková, Eliska
 !!!ODT: 1922
 !!!PDT: 1925
-!!!example: 131
-!!!work: Jan-43
-!!!excerpt-end-measure: 4
-!!!excerpt-end-time: 0:03
 !!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 4
 !!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:03
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

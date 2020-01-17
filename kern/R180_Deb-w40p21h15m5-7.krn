@@ -1,5 +1,7 @@
 !!!COM: Debussy, (Achille-)Claude
 !!!OTL: Jeux (Games), Ballet in One Act for Orchestra
+!!!example: 180
+!!!work: Deb-40
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
 *part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*	*	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
 *A:	*	*A:	*A:	*A:	*A:	*A:	*A:	*A:	*A:	*	*	*A:	*A:	*A:	*A:
 *M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
 8.FF#L 8.AA	p	8.F#L 8.A	8.dL 8.f#	32aLLL	32bLLL	32ddLLL	32ee#XLLL	32ee#XLLL	4.r	4.r	4.r	([4d [4f#	24bLL	4.r	4.r
@@ -89,12 +92,10 @@
 !!!MPN:
 !!!ODT: 1913
 !!!PDT: 1914
-!!!example: 180
-!!!work: Deb-40
-!!!excerpt-end-measure: 132
-!!!excerpt-end-time: 3:15
 !!!excerpt-start-measure: 130
+!!!excerpt-end-measure: 132
 !!!excerpt-start-time: 3:12
+!!!excerpt-end-time: 3:15
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

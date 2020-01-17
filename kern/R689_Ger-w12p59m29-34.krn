@@ -1,5 +1,7 @@
 !!!COM: Gershwin, George
 !!!OTL: Girl Crazy, Three Excerpts for Voice and Piano
+!!!example: 689
+!!!work: Ger-12
 **kern	**kern	**kern
 *grp:A	*grp:B	*grp:B
 *part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-e-]	*k[b-e-]	*k[b-e-]
 *B-:	*B-:	*B-:
 *M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121
 =1	=1	=1
 4BBB- 4BB-	4r	4r
 4r	[4B-^ [4d [4f	[4f
@@ -67,12 +70,10 @@
 !!!MPN: Dorse, Jimmy; Goodman, Benny; Howard, Willie; Kearns, Allen; Krupa, Gene; Merman, Ethel; Miller, Glen; Rodgers, Ginger
 !!!ODT: 1930
 !!!PDT: 1930
-!!!example: 689
-!!!work: Ger-12
-!!!excerpt-end-measure: 34
-!!!excerpt-end-time: 1:00
 !!!excerpt-start-measure: 29
+!!!excerpt-end-measure: 34
 !!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:00
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

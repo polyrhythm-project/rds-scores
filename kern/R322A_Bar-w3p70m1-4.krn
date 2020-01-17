@@ -1,5 +1,7 @@
 !!!COM: Bartók, Béla
 !!!OTL: Suite No. 1 for Orchestra, op. 3
+!!!example: 322A
+!!!work: Bar-3
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*
 *M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 4r	p	4r	4r	4r	(12gL	4r	4r	4r	4r	4r	4r
 .	.	.	.	.	12a	.	.	.	.	.	.
 .	.	.	.	.	12bJ	.	.	.	.	.	.
@@ -48,12 +51,10 @@
 !!!MPN:
 !!!ODT: 1905 (rev. 1920)
 !!!PDT: 1912
-!!!example: 322A
-!!!work: Bar-3
-!!!excerpt-end-measure: 4
-!!!excerpt-end-time: 0:03
 !!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 4
 !!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:03
 !!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6)][(s7,s8,s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

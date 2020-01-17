@@ -1,5 +1,7 @@
 !!!COM: Ives, Charles
 !!!OTL: String Quartet No. 2
+!!!example: 255
+!!!work: Ive-35
 **kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]
 *C:	*C:	*C:	*C:
 *M3/8	*M3/8	*M3/8	*M3/8
+*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1
 *^	*	*	*
 8r	8DL	16BLL	8G#X 8d	16aLL 16ee
@@ -71,12 +74,10 @@
 !!!MPN: Goldberg, Alla; Koff, Alla; Levin, Walter; Robbins, Rena
 !!!ODT: 1915
 !!!PDT: 1954
-!!!example: 255
-!!!work: Ive-35
-!!!excerpt-end-measure: 24
-!!!excerpt-end-time: 0:24
 !!!excerpt-start-measure: 19
+!!!excerpt-end-measure: 24
 !!!excerpt-start-time: 0:19
+!!!excerpt-end-time: 0:24
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Ravel, (Joseph) Maurice
 !!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
+!!!example: 281
+!!!work: Rav-21
 **kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#]	*k[f#]	*	*k[f#]
 *G:	*G:	*	*G:
 *M4/4	*M4/4	*	*M4/4
+*MM121	*MM121	*	*MM121
 =1	=1	=1	=1
 8r	(32bLLL	.	(4e
 .	32dd	.	.
@@ -91,12 +94,10 @@
 !!!MPN: Bathori, Jane
 !!!ODT: 1913
 !!!PDT: 1914
-!!!example: 281
-!!!work: Rav-21
-!!!excerpt-end-measure: 9
-!!!excerpt-end-time: 0:59
 !!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 9
 !!!excerpt-start-time: 0:46
+!!!excerpt-end-time: 0:59
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,7 @@
 !!!COM: Honegger, Arthur
 !!!OTL: Concertino for Piano and Orchestra
+!!!example: 602
+!!!work: Hon-20
 **kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part10	*part9	*part8	*part7	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 2r	2r	1r	8B-XL	16cLL	.	1r	1r	1r	1r	1r	1r
 .	.	.	.	16e	.	.	.	.	.	.	.
@@ -115,12 +118,10 @@
 !!!MPN: Vaurabourg, Andrée
 !!!ODT: 1924
 !!!PDT: 1926
-!!!example: 602
-!!!work: Hon-20
-!!!excerpt-end-measure: 36
-!!!excerpt-end-time: 1:36
 !!!excerpt-start-measure: 32
+!!!excerpt-end-measure: 36
 !!!excerpt-start-time: 1:23
+!!!excerpt-end-time: 1:36
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)]{(s7,s8)}[(s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

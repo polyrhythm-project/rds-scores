@@ -1,5 +1,7 @@
 !!!COM: Ives, Charles
 !!!OTL: A Symphony: New England Holidays
+!!!example: 262
+!!!work: Ive-33
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *C:	*C:	*	*C:	*C:	*C:	*C:	*C:	*C:	*C:
 *M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *^	*	*	*	*	*	*	*^	*	*
 8EEE 8EE	2.EEE 2.EE	2C	.	8.dL	4cc	8B 8f#X 8a#X	8.GL	4r	[4ff#X	2.r	2.r
@@ -117,12 +120,10 @@
 !!!MPN:
 !!!ODT: 1919
 !!!PDT: 1936
-!!!example: 262
-!!!work: Ive-33
-!!!excerpt-end-measure: 124
-!!!excerpt-end-time: 7:09
 !!!excerpt-start-measure: 121
+!!!excerpt-end-measure: 124
 !!!excerpt-start-time: 6:51
+!!!excerpt-end-time: 7:09
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

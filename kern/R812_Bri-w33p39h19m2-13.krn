@@ -1,5 +1,7 @@
 !!!COM: Britten, (Edward) Benjamin
 !!!OTL: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
+!!!example: 812
+!!!work: Bri-33
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part11	*part10	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-]	*k[b-]	*k[b-]	*	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*	*
 *F:	*F:	*F:	*	*	*F:	*F:	*F:	*F:	*F:	*	*
 *M6/8	*M6/8	*M6/8	*M6/8	*	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 (16FKL	(16FKL	(16fKL	8xt	.	8r	8AA`L	8AA`L 8C	8B-`L	8B-`L 8c	8G`L 8g	8G`L 8g
 8G	8G	8g	.	.	.	.	.	.	.	.	.
@@ -117,12 +120,10 @@
 !!!MPN: Ferrier, Kathleen; Pears, Peter; Vincent, Joe
 !!!ODT: 1949
 !!!PDT: 1951
-!!!example: 812
-!!!work: Bri-33
-!!!excerpt-end-measure: 31
-!!!excerpt-end-time: 1:46
 !!!excerpt-start-measure: 20
+!!!excerpt-end-measure: 31
 !!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:46
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)]s8[(s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

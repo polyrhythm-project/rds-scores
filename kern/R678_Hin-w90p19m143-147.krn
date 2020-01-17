@@ -1,5 +1,7 @@
 !!!COM: Hindemith, Paul
 !!!OTL: Sinfonietta in E Major
+!!!example: 678
+!!!work: Hin-90
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1.r	1.r	1.r	1.r	1.r	1.r	1.r	1.r	[4E	8e	.	8r	8ee	(4c	4.r	8eee
 .	.	.	.	.	.	.	.	.	8r	pp	(8c-X	8r	.	.	8r
@@ -83,12 +86,10 @@
 !!!MPN:
 !!!ODT: 1950
 !!!PDT: 1950
-!!!example: 678
-!!!work: Hin-90
-!!!excerpt-end-measure: 147
-!!!excerpt-end-time: 4:06
 !!!excerpt-start-measure: 143
+!!!excerpt-end-measure: 147
 !!!excerpt-start-time: 3:58
+!!!excerpt-end-time: 4:06
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14)]s15
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

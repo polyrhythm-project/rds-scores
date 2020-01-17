@@ -1,5 +1,7 @@
 !!!COM: Ravel, (Joseph) Maurice
 !!!OTL: Rapsodie espagnole (Spanish Rhapsody) for Orchestra
+!!!example: 279
+!!!work: Rav-15
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A
 *part8	*part8	*part7	*part6	*part5	*part4	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *C:	*	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:
 *M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!	!	!	!	!	!
 4DD^	p	4D^	(8fL	(8ffL	4g#X	4b-X	[4A-X'^ [4B-X	(8ffL	[4a-X'^ [4b-X
@@ -40,12 +43,10 @@
 !!!MPN:
 !!!ODT: 1908
 !!!PDT: 1908
-!!!example: 279
-!!!work: Rav-15
-!!!excerpt-end-measure: 5
-!!!excerpt-end-time: 0:17
 !!!excerpt-start-measure: 4
+!!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:10
+!!!excerpt-end-time: 0:17
 !!!system-decoration: [(s1,s2,s3)]{(s4,s5)}[(s6,s7,s8,s9)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

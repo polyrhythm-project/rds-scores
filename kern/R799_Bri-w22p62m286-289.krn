@@ -1,5 +1,7 @@
 !!!COM: Britten, (Edward) Benjamin
 !!!OTL: Scottish Ballad for Two Pianos and Orchestra, op. 26
+!!!example: 799
+!!!work: Bri-22
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part5	*part5	*part4	*part3	*part2	*part2	*part1	*part1
@@ -10,6 +12,7 @@
 *k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
 *D:	*	*D:	*D:	*D:	*D:	*D:	*D:
 *M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1
 2r	.	2ff#t	2ff#t	8r	8r	8D-XL	8d-XL
 .	.	.	.	8a-X^	8aa-X^	8Fn	8fn
@@ -63,12 +66,10 @@
 !!!MPN: Bartlett, Ethel; Robertson, Rae
 !!!ODT: 1941
 !!!PDT: 1969
-!!!example: 799
-!!!work: Bri-22
-!!!excerpt-end-measure: 289
-!!!excerpt-end-time: 12:53
 !!!excerpt-start-measure: 286
+!!!excerpt-end-measure: 289
 !!!excerpt-start-time: 12:48
+!!!excerpt-end-time: 12:53
 !!!system-decoration: {(s1,s2)}{(s3,s4)}[(s5,s6,s7)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

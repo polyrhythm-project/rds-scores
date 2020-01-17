@@ -1,5 +1,7 @@
 !!!COM: Stravinsky, Igor (Fyodorovich)
 !!!OTL: Duo Concertant for Violin and Piano
+!!!example: 389
+!!!work: Str-32
 **kern	**kern	**kern
 *grp:A	*grp:A	*grp:B
 *part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:
 *M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121
 =1	=1	=1
 *	*^	*
 16GLL	(8ddL	16fnLL	4a^ 4ddd
@@ -108,12 +111,10 @@
 !!!MPN: Dushkin, Samuel; Stravinsky, Igor
 !!!ODT: 1932
 !!!PDT: 1933
-!!!example: 389
-!!!work: Str-32
-!!!excerpt-end-measure: 5
-!!!excerpt-end-time: 0:37
 !!!excerpt-start-measure: 5
+!!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:25
+!!!excerpt-end-time: 0:37
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

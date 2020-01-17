@@ -1,5 +1,7 @@
 !!!COM: Martinů, Bohuslav (Jan)
 !!!OTL: Symphony No. 5
+!!!example: 485
+!!!work: Mau-85
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part17	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *C:	*	*C:	*C:	*C:	*C:	*	*C:	*	*	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:
 *M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8CC'	f	8C'L	8c'L	8c'L	8c'L	8C	8r	8r	8r	2.B	4e 4g	2.b	4ee 4gg	2.bb	4ee 4gg	4eee 4ggg	4ggg
 8r	f	(8E'J	(8e'J	(8e'J	(8e'J	8r	4cc~	4c~	4c~	.	.	.	.	.	.	.	.
@@ -63,12 +66,10 @@
 !!!MPN:
 !!!ODT: 1946
 !!!PDT: 1950
-!!!example: 485
-!!!work: Mau-85
-!!!excerpt-end-measure: 60
-!!!excerpt-end-time: 2:37
 !!!excerpt-start-measure: 57
+!!!excerpt-end-measure: 60
 !!!excerpt-start-time: 2:32
+!!!excerpt-end-time: 2:37
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10,s11)][(s12)][(s13,s14,s15,s16,s17)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

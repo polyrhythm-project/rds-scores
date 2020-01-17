@@ -1,5 +1,7 @@
 !!!COM: Bartók, Béla
 !!!OTL: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!example: 332
+!!!work: Bar-24
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4CC#Xt	4GG#Xt	4FnT	4AnT	4B#X	8r	8r	8d#X	8.B#XL	.	1r	2r	4B#X	1r	1r	2r
 .	.	.	.	.	8CC#X	8GG#X	8r	.	.	.	.	.	.	.	.
@@ -74,12 +77,10 @@
 !!!MPN:
 !!!ODT: 1919 (rev. 1931)
 !!!PDT: 1924
-!!!example: 332
-!!!work: Bar-24
-!!!excerpt-end-measure: 209
-!!!excerpt-end-time: 6:44
 !!!excerpt-start-measure: 207
+!!!excerpt-end-measure: 209
 !!!excerpt-start-time: 6:13
+!!!excerpt-end-time: 6:44
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

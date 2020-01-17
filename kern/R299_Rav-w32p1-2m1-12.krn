@@ -1,5 +1,7 @@
 !!!COM: Ravel, (Joseph) Maurice
 !!!OTL: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
+!!!example: 299
+!!!work: Rav-32
 **kern	**dynam	**kern
 *grp:A	*grp:A	*grp:B
 *part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]
 *C:	*	*C:
 *M6/8	*	*M6/8
+*MM121	*	*MM121
 =1	=1	=1
 4r	p	(16gLL
 .	.	16fJ
@@ -154,12 +157,10 @@
 !!!MPN: Bathori, Jane
 !!!ODT: 1926
 !!!PDT: 1932
-!!!example: 299
-!!!work: Rav-32
-!!!excerpt-end-measure: 12
-!!!excerpt-end-time: 0:56
 !!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 12
 !!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:56
 !!!system-decoration: s1,s2
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

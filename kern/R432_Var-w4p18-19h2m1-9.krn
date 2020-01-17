@@ -1,5 +1,7 @@
 !!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
 !!!OTL: Octandre for Eight Instruments
+!!!example: 432
+!!!work: Var-4
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 8r	.	8r	4r	8r	8r	8r	8r	8r
 [8FFF#X^ [8DDn	p	[8BBn^	.	[8cn^	[8CC#X^	[8an^	[8ee-X^	[8g#X^
@@ -113,12 +116,10 @@
 !!!MPN:
 !!!ODT: 1923
 !!!PDT: 1923
-!!!example: 432
-!!!work: Var-4
-!!!excerpt-end-measure: 32
-!!!excerpt-end-time: 1:16
 !!!excerpt-start-measure: 24
+!!!excerpt-end-measure: 32
 !!!excerpt-start-time: 1:01
+!!!excerpt-end-time: 1:16
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)]s8
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

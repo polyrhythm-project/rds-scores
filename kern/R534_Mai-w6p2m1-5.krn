@@ -1,5 +1,7 @@
 !!!COM: Martin, Frank
 !!!OTL: Esquisses (Sketches) for Small Orchestra
+!!!example: 534
+!!!work: Mai-6
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part13	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1	*part1
@@ -10,6 +12,7 @@
 *k[f#]	*k[f#]	*k[f#]	*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:	*G:	*	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:
 *M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM121	*MM121	*MM121	*MM121	*	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121	*MM121
 8r	8r	8r	8ee	.	8r	8ee	8gg	8bb	8ee	8gg	8bb	8r	8r	8r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	[1GG [1C	[1G [1c	(8ddL	.	[1G [1c	(4ee	(4gg	(4aa#X	(4ee	(4gg	(4aa#X	2g 2gg	1r	1r
@@ -62,12 +65,10 @@
 !!!MPN:
 !!!ODT: 1920
 !!!PDT: unknown
-!!!example: 534
-!!!work: Mai-6
-!!!excerpt-end-measure: 5
-!!!excerpt-end-time: 0:19
 !!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:19
 !!!system-decoration: {(s1,s2)}{(s3,s4)}[(s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08
