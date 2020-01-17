@@ -1,0 +1,514 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Jan 16 17:02:22 PST 2020
+# Last Modified: Thu Jan 16 22:54:42 PST 2020
+# Filename:      polymeta
+# Syntax:        perl 5
+#
+# Description:   Command-line interface to Polyrhythm metadata from master spreadsheet.
+#                Adds metadta to Humdrum file reference records, and adds tempo information.
+#
+# Options:
+#    --url      == Display URL of spreadsheet data.
+#    -r         == Download and print raw spreadsheet contents.
+#    -l         == Show a list of the heading labels.
+#    -d label   == Extract column of data for a givening heading label.
+#                  Example: addmetadata -d Filename
+#                  to list all of the filenames.
+#         -s    == sort data list, equivalent to piping through sort command.
+#         -c    == sort data list, equivalent to piping through "sort | uniq -c" command.
+#         -u    == unique list of elements, equivalent to piping through "sort | uniq" command.
+#
+
+use strict;
+use Getopt::Long;
+
+# Program requires wget.  On MacOS, install Homebrew (https://brew.sh), and then "brew install wget" to install.
+my $wget = `which wget`;
+chomp $wget;
+if ($wget =~ /^\s*$/) {
+	die "Cannot find wget command.  Try installing Homebrew on MacOS: https://brew.sh, then 'brew install wget'\n";
+}
+
+# Humdrum reference records mapping with spreadsheet header labels.
+my %RECORD;
+$RECORD{"Conductor"}        = "MCN";   # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
+$RECORD{"Birth Date"}       = "CDT1";  # run through convertDateToHumdrum();
+$RECORD{"Death Date"}       = "CDT2";  # run through convertDateToHumdrum();
+$RECORD{"Birth Place"}      = "CBL";   # run through addSpaceAfterComma();
+$RECORD{"Death Place"}      = "CDL";   # run through addSpaceAfterComma();
+$RECORD{"Nationality"}      = "CNT";   # run through addSpaceAfterComma();
+$RECORD{"Composer Name"}    = "COM";
+$RECORD{"Source Work Full Unit"}    = "OMV";
+$RECORD{"Genre"}            = "AGN1";
+$RECORD{"Ensemble"}            = "MGN";
+$RECORD{"Soloists"}            = "MPN";
+$RECORD{"Example No."}            = "example";
+$RECORD{"Work ID"}            = "work";
+$RECORD{"First Public Performance Year"} = "MPD";
+$RECORD{"Work Title"}       = "OTL";
+$RECORD{"Example Start Time"}   = "excerpt-start-time";
+$RECORD{"Example End Time"}     = "excerpt-end-time";
+$RECORD{"Example Start Measure"}   = "excerpt-start-measure";
+$RECORD{"Example End Measure"}     = "excerpt-end-measure";
+$RECORD{"First Publication Year"} = "PDT";
+$RECORD{"Premiere Date"}    = "MDT";   # run through convertDateToHumdrum();
+$RECORD{"Sub-Genre"}        = "AGN2";
+$RECORD{"Composition Year"} = "ODT";   # there is also revision dates included.
+$RECORD{"Premiere City"}    = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
+
+# column headings that are not real data columns:
+my %DUMMY;
+$DUMMY{"Work Info"} = 1;
+$DUMMY{"Composer Info"} = 1;
+$DUMMY{"Example Info"} = 1;
+$DUMMY{"Score Link"} = 1;   # at least no data content in column right now (highlighted in red)
+$DUMMY{"First Public Perfromance Info"} = 1;
+
+my %RRECORD = reverseIndex(%RECORD);
+
+my $countQ = 0;
+my $dataColumn = "";
+my $headingListQ = 0;
+my $rawQ = 0;
+my $sortQ = 0;
+my $uniqueQ = 0;
+my $urlQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'c|count' => \$countQ,
+   's|sort' => \$sortQ,
+   'd|data-column=s' => \$dataColumn,
+	'r|raw' => \$rawQ,
+	'l|label' => \$headingListQ,
+	'u|unique|uniq' => \$uniqueQ,
+	'url' => \$urlQ
+);
+
+# Generate TSV URL for master index index and download:
+my $sid = "17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng";
+my $gid = "900860769";
+my $url = "https://docs.google.com/spreadsheets/d/";
+$url .= "$sid/export?gid=$gid&format=tsv";
+
+if ($urlQ) {
+	print "$url\n";
+	exit(0);
+}
+
+my @contents = getSpreadsheetContents($url);
+
+if ($rawQ) {
+	print join("\n", @contents), "\n";
+	exit(0);
+}
+
+my %HEADER = getHeaderIndexes($contents[0]);
+
+if ($headingListQ) {
+	my @keys = keys %HEADER;
+	for (my $i=0; $i<@keys; $i++) {
+		next if $keys[$i] =~ /^[A-Z]{3}\d*$/;
+		next if $keys[$i] !~ /[A-Z]/; # requires a capital letter
+		next if $DUMMY{$keys[$i]};
+		my $humref = $RECORD{$keys[$i]};
+		print "$humref\t$keys[$i]\n";
+	}
+	exit(0);
+}
+
+# Interesting header text:
+# "Filename"    == The filename base (no suffix).
+# "Example No." == The example number.
+# "Example Start Tsig Beat" == The textual duration of the beat in the
+#                              following field:
+# "Example Start Tsig Mean Beat Rate" == The tempo to add to *MM records.
+
+if ($dataColumn !~ /^\s*$/) {
+	my @output = getDataColumn($dataColumn, @contents);
+	if ($sortQ || $countQ || $uniqueQ) {
+		@output = sort @output;
+	}
+	if ($countQ || $uniqueQ) {
+		my %counts;
+		my @unique = grep !$counts{$_}++, @output;
+		for (my $i=0; $i<@unique; $i++) {
+			if ($uniqueQ) {
+				print "$unique[$i]\n";
+			} else {
+				print "$counts{$unique[$i]}\t$unique[$i]\n";
+			}
+		}
+	} else {
+		print join("\n", @output), "\n";
+	}
+	exit(0);
+}
+
+exit(0);
+
+
+###########################################################################
+
+##############################
+##
+## getMetadataParameter --  Extract a reference record value from a spreadsheet row.
+##    If a Humdrum parameter, it will be cleaned; otherwise, it will be the raw value.
+##
+
+sub getMetadataParameter {
+	my ($parameter, $line) = @_;
+	my @fields = split(/\t/, $line);
+
+	my $pindex;
+	my $value;
+
+	if ($parameter =~ /^AGN$/) {
+		my $pindex1 = $HEADER{"AGN1"};
+		my $value1 = $fields[$pindex1];
+		my $pindex2 = $HEADER{"AGN2"};
+		my $value2 = $fields[$pindex2];
+		$value = $value1;
+		if ($value =~ /^\s*$/) {
+			$value = $value2;
+		} else {
+			$value .= "; $value2";
+		}
+	} elsif ($parameter =~ /^CDT$/) {
+		my $pindex1 = $HEADER{"CDT1"};
+		my $value1 = $fields[$pindex1];
+		my $pindex2 = $HEADER{"CDT2"};
+		my $value2 = $fields[$pindex2];
+		$value1 = convertDateToHumdrum($value1);
+		$value2 = convertDateToHumdrum($value2);
+		$value = "$value1-$value2";
+	} else {
+		if ($parameter =~ /^\d*$/) {
+			$pindex = $parameter;
+		} else {
+			$pindex = $HEADER{$parameter};
+		}
+		die "Cannot understand parameter $parameter\n" if $pindex =~ /^\s*$/;
+		$value = $fields[$pindex];
+	}
+
+	return $value if $parameter !~ /^[A-Z]{3}$/;
+	
+	# clean various parameters for Humdrum reference records.
+	if ($parameter eq "MLC") {
+		return cleanMLC($value);
+	} elsif ($parameter eq "CDT") {
+		return $value;
+	} elsif ($parameter eq "MDT") {
+		return convertDateToHumdrum($value);
+	} elsif ($parameter eq "CBL") {
+		return addSpaceAfterComma($value);
+	} elsif ($parameter eq "CDL") {
+		return addSpaceAfterComma($value);
+	} elsif ($parameter eq "CNT") {
+		return addSpaceAfterComma($value);
+	} elsif ($parameter eq "MCN") {
+		return addSpaceAfterSemicolon(addSpaceAfterComma($value));
+	}
+
+	return $value;
+}
+
+
+
+##############################
+##
+## getDataColumn -- Get a specific column of data.
+##
+
+sub getDataColumn {
+	my ($parameter, @data) = @_;
+
+	my @output;
+	for (my $i=1; $i<@data; $i++) {
+		my $line = $data[$i];
+		$output[@output] = getMetadataParameter($parameter, $line);
+	}
+	return @output;
+}
+
+
+
+##############################
+##
+## getHeaderIndexes -- Return the header text to column index for data.
+##
+
+sub getHeaderIndexes {
+	my ($line) = @_;
+	my %output;
+	my @fields = split(/\t/, $line);
+	for (my $i=0; $i<@fields; $i++) {
+		my $value = $fields[$i];
+		$value =~ s/^\s+//;
+		$value =~ s/\s+$//;
+		$value =~ s/\s+$/ /g;
+		next if $value =~ /^\s*$/;
+		$output{$value} = $i;
+	}
+
+	# map Humdrum reference records to indexes
+	my @keys = keys %RECORD;
+	for my $key (@keys) {
+		$output{$RECORD{$key}} = $output{$key};
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## getSpreadsheetContents -- Download spread sheet with metadata.
+##     https://docs.google.com/spreadsheets/d/17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng/edit#gid=900860769
+## As a TSV text file:
+##     https://docs.google.com/spreadsheets/d/17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng/export?gid=900860769&format=tsv
+##
+
+sub getSpreadsheetContents  {
+	my ($url) = @_;
+	my $data = `$wget "$url" -O - 2> /dev/null`;
+	$data =~ s/\xc2\xa0/ /g;
+	$data =~ s/ +\t/\t/g;
+	$data =~ s/\t +/\t/g;
+	if ($data =~ /^\s*$/) {
+		print STDERR "CONTENTS: $data\n";
+		die "Problem downloading spreadsheet $url\n";
+	}
+	my @output = split("\n", $data);
+	for (my $i=0; $i<@output; $i++) {
+		$output[$i] =~ s/ +$//;
+		$output[$i] =~ s/^ +//;
+	}
+	chomp @output;
+	return @output;
+}
+
+
+
+##############################
+##
+## convertDateToHumdrum --
+##    9-Feb-1885
+## goes to:
+##    1885/02/09
+##
+
+sub convertDateToHumdrum {
+	my ($input) = @_;
+	if ($input =~ /^\s*$/) {
+		return "";
+	}
+	die "Date is incorrect: >>$input<<" if $input !~ /\d{4}/;
+	if ($input !~ /^(\d+)-([^-]+)-(\d{4})$/) {
+		die "Problem with date: >>$input<<\n";
+	}
+	my $day = $1;
+	my $month = $2;
+	my $year = $3;
+	if ($month eq "Jan") {
+		$month = "01";
+	} elsif ($month eq "Feb") {
+		$month = "02";
+	} elsif ($month eq "Mar") {
+		$month = "03";
+	} elsif ($month eq "Apr") {
+		$month = "04";
+	} elsif ($month eq "May") {
+		$month = "05";
+	} elsif ($month eq "Jun") {
+		$month = "06";
+	} elsif ($month eq "Jul") {
+		$month = "07";
+	} elsif ($month eq "Aug") {
+		$month = "08";
+	} elsif ($month eq "Sep") {
+		$month = "09";
+	} elsif ($month eq "Oct") {
+		$month = "10";
+	} elsif ($month eq "Nov") {
+		$month = "11";
+	} elsif ($month eq "Dec") {
+		$month = "12";
+	}
+	if ($day < 10) {
+		$day = "0$day";
+	}
+	my $output = "$year/$month/$day";
+	return $output;
+}
+
+
+
+##############################
+##
+## addSpaceAfterComma -- 
+##
+
+sub addSpaceAfterComma {
+	my ($value) = @_;
+	$value =~ s/,\s*/, /g;
+	return $value;
+}
+
+
+
+##############################
+##
+## addSpaceAfterSemicolon -- 
+##
+
+sub addSpaceAfterSemicolon {
+	my ($value) = @_;
+	$value =~ s/;\s*/; /g;
+	return $value;
+}
+
+
+
+##############################
+##
+## reverseIndex -- reverse a hash (presumes 1-to-1 mapping).
+##
+
+sub reverseIndex {
+	my %input = @_;
+	my %output;
+	my @keys = keys %input;
+	foreach my $key (@keys) {
+		$output{$input{$key}} = $key;
+	}
+	return %output;
+}
+
+
+##############################
+##
+## cleanMLC -- Clean the performance premiere location (MLC).
+##
+
+sub cleanMLC {
+	my %MLC;
+	$MLC{"Albuquerque"}       =	"Albuquerque, New Mexico, United States of America";
+	$MLC{"Amsterdam"}         =	"Amsterdam, The Netherlands";
+	$MLC{"Ann Arbor"}         =	"Ann Arbor, Michigan, United States of America";
+	$MLC{"Baltimore"}         =	"Baltimore, Maryland, United States of America";
+	$MLC{"Barcelona"}         =	"Barcelona, Spain";
+	$MLC{"Basel"}             =	"Basel, Switzerland";
+	$MLC{"Benesov"}           =	"Benešov, Czechia";
+	$MLC{"Berea"}             =	"Berea, Ohio, United States of America";
+	$MLC{"Berlin"}            =	"Berlin, Germany";
+	$MLC{"Bochum"}            =	"Bochum, Germany";
+	$MLC{"Boston"}            =	"Boston, Massachusetts, United States of America";
+	$MLC{"Bratislava"}        =	"Bratislava, Slovakia";
+	$MLC{"Braunschweig"}      =	"Braunschweig, Germany";
+	$MLC{"Brno"}              =	"Brno, Czechia";
+	$MLC{"Brussels"}          =	"Brussels, Belgium";
+	$MLC{"Budapest"}          =	"Budapest, Hungary";
+	$MLC{"Buenos Aires"}      =	"Buenos Aires, Argentina";
+	$MLC{"Cambridge"}         =	"Cambridge, United Kingdom";
+	$MLC{"Cheltenham"}        =	"Cheltenham, United Kingdom";
+	$MLC{"Chicago"}           =	"Chicago, Illinois, United States of America";
+	$MLC{"Churchill"}         =	"Churchill, Ireland";
+	$MLC{"Cincinnati"}        =	"Cincinnati, Ohio, United States of America";
+	$MLC{"Cologne"}           =	"Cologne, Germany";
+	$MLC{"Coventry"}          =	"Coventry, United Kingdom";
+	$MLC{"Dallas"}            =	"Dallas, Texas, United States of America";
+	$MLC{"Dessau"}            =	"Dessau, Germany";
+	$MLC{"Donaueschingen"}    =	"Donaueschingen, Germany";
+	$MLC{"Dresden"}           =	"Dresden, Germany";
+	$MLC{"Duisburg"}          =	"Duisburg, Germany";
+	$MLC{"France"}            =	"France";
+	$MLC{"Frankfurt"}         =	"Frankfurt, Germany";
+	$MLC{"Frankfurt am Main"} =	"Frankfurt, Germany";
+	$MLC{"Geneva"}            =	"Geneva, Switzerland";
+	$MLC{"Görlitz"}           =	"Görlitz, Germany";
+	$MLC{"Hamburg"}           =	"Hamburg, Germany";
+	$MLC{"Hannover"}          =	"Hannover, Germany";
+	$MLC{"Heidelberg"}        =	"Heidelberg, Germany";
+	$MLC{"Hollywood"}         =	"Hollywood, California, United States of America";
+	$MLC{"Houston"}           =	"Houston, Texas, United States of America";
+	$MLC{"Jerusalem"}         =	"Jerusalem, Israel";
+	$MLC{"Kolozsvár"}         =	"Kolozsvár, Hungary";
+	$MLC{"Königsberg"}        =	"Königsberg, Prussia (Kaliningrad, Russia)";
+	$MLC{"Lausanne"}          =	"Lausanne, Switzerland";
+	$MLC{"Leeds"}             =	"Leeds, United Kingdom";
+	$MLC{"Lenox"}             =	"Lenox, Massachusetts, United States of America";
+	$MLC{"Lisbon"}            =	"Lisbon, Spain";
+	$MLC{"Liverpool"}         =	"Liverpool, United Kingdom";
+	$MLC{"London"}            =	"London, United Kingdom";
+	$MLC{"Los Angeles"}       =	"Los Angeles, California, United States of America";
+	$MLC{"Louisville"}        =	"Louisville, Kentucky, United States of America";
+	$MLC{"Lyon"}              =	"Lyon, France";
+	$MLC{"Madrid"}            =	"Madrid, Spain";
+	$MLC{"Mexico City"}       =	"Mexico City, Mexico";
+	$MLC{"Minneapolis"}       =	"Minneapolis, Minnesota, United States of America";
+	$MLC{"Monte Carlo"}       =	"Monte Carlo, Monaco";
+	$MLC{"Moscow"}            =	"Moscow, Russia";
+	$MLC{"Munich"}            =	"Munich, Germany";
+	$MLC{"Mâcon"}             =	"Mâcon, France";
+	$MLC{"Mézières"}          =	"Charleville-Mézières, France";
+	$MLC{"New York"}          =	"New York, New York, United States of America";
+	$MLC{"Nice"}              =	"Nice, France";
+	$MLC{"Norwich"}           =	"Norwich, United Kingdom";
+	$MLC{"Oldenurg"}          =	"Oldenburg, Germany";
+	$MLC{"Paris"}             =	"Paris, France";
+	$MLC{"Philadelphia"}      =	"Philadelphia, Pennsylvania, United States of America";
+	$MLC{"Pittsburgh"}        =	"Pittsburgh, Pennsylvania, United States of America";
+	$MLC{"Plön"}              =	"Plön, Germany";
+	$MLC{"Prague"}            =	"Prague, Czechia";
+	$MLC{"Rome"}              =	"Rome, Italy";
+	$MLC{"Rosice u Brna"}     =	"Rosice u Brna, Czechia";
+	$MLC{"Salzburg"}          =	"Salzburg, Austria";
+	$MLC{"San Francisco"}     =	"San Francisco, California, United States of America";
+	$MLC{"Seattle"}           =	"Seattle, Washington, United States of America";
+	$MLC{"Seville"}           =	"Seville, Spain";
+	$MLC{"Solothurn"}         =	"Solothurn, Switzerland";
+	$MLC{"St. Louis"}         =	"St. Louis, Missouri, United States of America";
+	$MLC{"St. Petersburg"}    =	"St. Petersburg, Russia";
+	$MLC{"Stuttgart"}         =	"Stuttgart, Germany";
+	$MLC{"Swindon"}           =	"Swindon, United Kingdom";
+	$MLC{"Sydney"}            =	"Sydney, Australia";
+	$MLC{"Tunis"}             =	"Tunis, Tunisia";
+	$MLC{"Venice"}            =	"Venice, Italy";
+	$MLC{"Vienna"}            =	"Vienna, Austria";
+	$MLC{"Waltham"}           =	"Waltham, Massachusetts, United States of America";
+	$MLC{"Washington DC"}     =	"Washington, D.C., United States of America";
+	$MLC{"Wiesbaden"}         =	"Wiesbaden, Germany";
+	$MLC{"Winterthur"}        =	"Winterthur, Switzerland";
+	$MLC{"Zürich"}            =	"Zürich, Switzerland";
+
+	my ($input) = @_;
+
+	my @data;
+	if ($input =~ /;/) {
+		@data = split(/\s*;\s*/, $input);
+	} else {
+		$data[0] = $input;
+	}
+	my @new;
+	for (my $i=0; $i<@data; $i++) {
+		$new[$i] = $MLC{$data[$i]};
+		if ($new[$i] =~ /^\s*$/) {
+			$new[$i] = $data[$i];
+		}
+	}
+
+	my $output = "";
+	for (my $i=0; $i<@new; $i++) {
+		$output .= $new[$i];
+		if ($i < $#new) {
+			$output .= "; ";
+		}
+	}
+	return $output;
+}
+
+
