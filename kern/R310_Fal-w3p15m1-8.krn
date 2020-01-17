@@ -1,5 +1,5 @@
-!!!COM:	Falla
-!!!OTL:	310_Fal-3/15/1-8
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Seven Spanish Folksongs for Voice and Piano
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -77,6 +77,25 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Vocal; Solo
+!!!MCN:
+!!!MDT: 1915/01/14
+!!!MGN:
+!!!MLC: Madrid, Spain
+!!!MPD: 1915
+!!!MPN: Falla, Manuel de; Vela, Luisa
+!!!ODT: 1914
+!!!PDT: 1922
+!!!example: 310
+!!!work: Fal-3
+!!!excerpt-end-measure: 8
+!!!excerpt-end-time: 0:06
+!!!excerpt-start-measure: 1
+!!!excerpt-start-time: 0:00
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

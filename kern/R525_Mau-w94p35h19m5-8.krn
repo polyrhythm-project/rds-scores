@@ -1,5 +1,5 @@
-!!!COM:	Martinu
-!!!OTL:	525_Mau-94/35/[19]5-8
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Piano Trio No. 2 in D Minor
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A
 *part3	*part3	*part2	*part2	*part1
@@ -49,6 +49,25 @@
 .	.	16CJJ	16fJJ	16aJJ
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1950/05/19
+!!!MGN: MIT Trio
+!!!MLC: Cambridge, United Kingdom
+!!!MPD: 1950
+!!!MPN: Finkel, George; Liepmann, Klaus; Tucker, Gregory
+!!!ODT: 1950
+!!!PDT: 1961
+!!!example: 525
+!!!work: Mau-94
+!!!excerpt-end-measure: 198
+!!!excerpt-end-time: 3:34
+!!!excerpt-start-measure: 195
+!!!excerpt-start-time: 3:29
 !!!system-decoration: s1{(s2,s3)}s4
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

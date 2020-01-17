@@ -1,5 +1,5 @@
-!!!COM:	Martinu
-!!!OTL:	488_Mau-56/9/35-37
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Concertino for Piano and Orchestra
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -57,6 +57,25 @@
 .	.	.	16r	16r	16gJJ	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Orchestral; Concerto
+!!!MCN: Pařík, Otakar
+!!!MDT: 1947/03/30
+!!!MGN: Symphony Orchestra of the Slovak Radio
+!!!MLC: Bratislava, Slovakia
+!!!MPD: 1947
+!!!MPN: Fuchsová, Lisa
+!!!ODT: 1938
+!!!PDT: 1956
+!!!example: 488
+!!!work: Mau-56
+!!!excerpt-end-measure: 37
+!!!excerpt-end-time: 1:22
+!!!excerpt-start-measure: 35
+!!!excerpt-start-time: 1:15
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

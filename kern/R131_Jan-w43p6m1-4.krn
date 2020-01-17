@@ -1,5 +1,5 @@
-!!!COM:	Janacek
-!!!OTL:	131_Jan-43/6/1-4
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Potulný šílenec (The Wandering Madman) for Soprano Solo and Male Chorus
 **kern	**dynam	**kern
 *grp:A	*grp:A	*grp:B
 *part3	*part3	*part1
@@ -31,7 +31,25 @@
 8%3B-	.	.
 ==	==	==
 *-	*-	*-
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Vocal; Choral
+!!!MCN: Vach, Ferndinand
+!!!MDT: 1924/09/21
+!!!MGN: Moravian Teachers' Choral Society
+!!!MLC: Rosice u Brna, Czechia
+!!!MPD: 1924
+!!!MPN: Janecková, Eliska
+!!!ODT: 1922
+!!!PDT: 1925
+!!!example: 131
+!!!work: Jan-43
+!!!excerpt-end-measure: 4
+!!!excerpt-end-time: 0:03
+!!!excerpt-start-measure: 1
+!!!excerpt-start-time: 0:00
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!YEM:	Copyright © Natalie Dietterich
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,5 @@
-!!!COM:	Copland
-!!!OTL:	700_Cop-2/64/[38]3-10
+!!!COM: Copland, Aaron
+!!!OTL: Dance Symphony
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part13	*part12	*part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -69,6 +69,25 @@
 .	.	.	.	.	16ee-~JJ	16ee-~JJ 16eee-	.	.	.	.	.	16dd#~JJ	16ee-~JJ	16ee-~JJ	16ee-~JJ	16eee-~JJ
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1931/04/15
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1931
+!!!MPN:
+!!!ODT: 1929
+!!!PDT: 1931
+!!!example: 700
+!!!work: Cop-2
+!!!excerpt-end-measure: 139
+!!!excerpt-end-time: 1:48
+!!!excerpt-start-measure: 132
+!!!excerpt-start-time: 1:42
 !!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)]s10{(s11,s12)}[(s13,s14,s15,s16)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

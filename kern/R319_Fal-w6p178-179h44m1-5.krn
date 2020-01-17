@@ -1,5 +1,5 @@
-!!!COM:	Falla
-!!!OTL:	319_Fal-6/178-179/[44]1-5
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part14	*part13	*part12	*part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -122,6 +122,25 @@
 *	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage; Ballet
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1919/07/22
+!!!MGN: Ballets Russes
+!!!MLC: London, United Kingdom
+!!!MPD: 1919
+!!!MPN: Rosovsku, Zoia
+!!!ODT: 1919
+!!!PDT: 1921
+!!!example: 319
+!!!work: Fal-6
+!!!excerpt-end-measure: 414
+!!!excerpt-end-time: 10:36
+!!!excerpt-start-measure: 410
+!!!excerpt-start-time: 10:28
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

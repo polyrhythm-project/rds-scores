@@ -1,5 +1,5 @@
-!!!COM:	Messaien
-!!!OTL:	744_Mes-19/135/[2]13-14
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part1	*part1
@@ -74,6 +74,25 @@
 .	.	.	.	.	16G#XJJ)	16B-XJJ) 16c#X	16fnJJ) 16a	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Choral
+!!!MCN: Désormière, Roger
+!!!MDT: 1945/04/21
+!!!MGN: Orchestre de la Société des Concerts du Conservatoire; Chorale Yvonne Gouverné
+!!!MLC: Paris, France
+!!!MPD: 1945
+!!!MPN: Grimaud, Yvette; Loriod, Yvonne; Martenot, Ginettea
+!!!ODT: 1944
+!!!PDT: 1952
+!!!example: 744
+!!!work: Mes-19
+!!!excerpt-end-measure: 48
+!!!excerpt-end-time: 1:54
+!!!excerpt-start-measure: 47
+!!!excerpt-start-time: 1:49
 !!!system-decoration: {(s1,s2)}s3{(s4,s5)}[(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

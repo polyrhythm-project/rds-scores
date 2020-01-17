@@ -1,5 +1,5 @@
-!!!COM:	Martin
-!!!OTL:	536_Mai-8/11/32-41
+!!!COM: Martin, Frank
+!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
 **kern	**kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A
 *part4	*part3	*part2	*part2	*part1
@@ -97,6 +97,25 @@
 .	8gJ)	8ffJ)	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Vocal; Solo
+!!!MCN: Martin, Frank
+!!!MDT: 1923/04/07
+!!!MGN:
+!!!MLC: Geneva, Switzerland
+!!!MPD: 1923
+!!!MPN: Wyss, Colette
+!!!ODT: 1921
+!!!PDT: 1940?
+!!!example: 536
+!!!work: Mai-8
+!!!excerpt-end-measure: 41
+!!!excerpt-end-time: 1:23
+!!!excerpt-start-measure: 32
+!!!excerpt-start-time: 1:02
 !!!system-decoration: s1,s2[(s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

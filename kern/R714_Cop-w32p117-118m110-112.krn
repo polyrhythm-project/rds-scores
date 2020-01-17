@@ -1,5 +1,5 @@
-!!!COM:	Copland
-!!!OTL:	714_Cop-32/117-118/110-112
+!!!COM: Copland, Aaron
+!!!OTL: The Red Pony, Suite for Orchestra
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A
 *part18	*part17	*part17	*part16	*part15	*part14	*part13	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -44,6 +44,25 @@
 .	8cJ	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ 8gg	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Kurtz, Efrem
+!!!MDT: 1948/10/30
+!!!MGN: Houston Symphony Orchestra
+!!!MLC: Houston, Texas, United States of America
+!!!MPD: 1948
+!!!MPN:
+!!!ODT: 1948
+!!!PDT: 1951
+!!!example: 714
+!!!work: Cop-32
+!!!excerpt-end-measure: 112
+!!!excerpt-end-time: 2:35
+!!!excerpt-start-measure: 110
+!!!excerpt-start-time: 2:30
 !!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15,s16,s17,s18,s19)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

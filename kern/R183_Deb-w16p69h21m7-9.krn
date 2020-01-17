@@ -1,5 +1,5 @@
-!!!COM:	Debussy
-!!!OTL:	183_Deb-16/69/[21]7-9
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Nocturnes for Orchestra
 **kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B
 *part3	*part3	*part2	*part1
@@ -49,6 +49,25 @@
 12GGGJ	.	12GGJ	.
 ==	==	==	==
 *-	*-	*-	*-
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Chevillard, Camille
+!!!MDT: 1901/10/27
+!!!MGN: Orchestre Lamoureux
+!!!MLC: Paris, France
+!!!MPD: 1901
+!!!MPN:
+!!!ODT: 1899
+!!!PDT: 1901
+!!!example: 183
+!!!work: Deb-16
+!!!excerpt-end-measure: 268
+!!!excerpt-end-time: 5:58
+!!!excerpt-start-measure: 266
+!!!excerpt-start-time: 5:54
 !!!system-decoration: s1[(s2,s3)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

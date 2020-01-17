@@ -1,5 +1,5 @@
-!!!COM:	Hindemith
-!!!OTL:	678_Hin-90/19/143-147
+!!!COM: Hindemith, Paul
+!!!OTL: Sinfonietta in E Major
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
@@ -70,6 +70,25 @@
 .	.	.	.	.	.	.	.	.	8G#J	.	[8B-J)	8A-'	8r	.	8d)
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Hindemith, Paul
+!!!MDT: 1950/03/01
+!!!MGN: Louisville Orchestra
+!!!MLC: Louisville, Kentucky, United States of America
+!!!MPD: 1950
+!!!MPN:
+!!!ODT: 1950
+!!!PDT: 1950
+!!!example: 678
+!!!work: Hin-90
+!!!excerpt-end-measure: 147
+!!!excerpt-end-time: 4:06
+!!!excerpt-start-measure: 143
+!!!excerpt-start-time: 3:58
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14)]s15
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

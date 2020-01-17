@@ -1,5 +1,5 @@
-!!!COM:	Webern
-!!!OTL:	415_Web-28/2-3/11-19
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Concerto for Nine Instruments, op. 24
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
 *part9	*part9	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part1
@@ -76,6 +76,25 @@
 12r	12r	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral; Concerto
+!!!MCN: Janowetz, Heinrich
+!!!MDT: 1934/09/04
+!!!MGN: Prague Symphony Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1934
+!!!MPN:
+!!!ODT: 1934
+!!!PDT: 1948
+!!!example: 415
+!!!work: Web-28
+!!!excerpt-end-measure: 19
+!!!excerpt-end-time: 0:38
+!!!excerpt-start-measure: 11
+!!!excerpt-start-time: 0:16
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)]{(s9,s10)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

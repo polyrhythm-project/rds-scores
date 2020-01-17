@@ -1,5 +1,5 @@
-!!!COM:	Prokofiev
-!!!OTL:	573_Pro-36/38/293-295
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Piano Sonata No. 8 in B-flat Major, op. 84
 **kern	**kern
 *grp:A	*grp:B
 *part1	*part1
@@ -29,6 +29,25 @@
 *v	*v	*
 ==	==
 *-	*-
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1944/12/30
+!!!MGN:
+!!!MLC: Moscow, Russia
+!!!MPD: 1944
+!!!MPN: Gilels, Emile
+!!!ODT: 1944
+!!!PDT: 1946
+!!!example: 573
+!!!work: Pro-36
+!!!excerpt-end-measure: 295
+!!!excerpt-end-time: 5:42
+!!!excerpt-start-measure: 293
+!!!excerpt-start-time: 5:39
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

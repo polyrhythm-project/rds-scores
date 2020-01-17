@@ -1,5 +1,5 @@
-!!!COM:	Janacek
-!!!OTL:	130_Jan-33/13/63-71
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part14	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -63,6 +63,25 @@
 *	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Ostrcil, Otakar
+!!!MDT: 1917/11/14
+!!!MGN: Czech Philharmonic Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1917
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!example: 130
+!!!work: Jan-33
+!!!excerpt-end-measure: 71
+!!!excerpt-end-time: 1:36
+!!!excerpt-start-measure: 63
+!!!excerpt-start-time: 1:28
 !!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

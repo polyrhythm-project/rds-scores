@@ -1,5 +1,5 @@
-!!!COM:	Hindemith
-!!!OTL:	655_Hin-77/19/154-160
+!!!COM: Hindemith, Paul
+!!!OTL: Sonata for Two Pianos, Four Hands
 **kern	**kern	**kern	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part1	*part1	*part1
@@ -79,6 +79,25 @@
 .	.	8BBB	8BJ	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1942/11/20
+!!!MGN:
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1942
+!!!MPN: Dougherty, Celuis; Ruzicka, Vincenz
+!!!ODT: 1942
+!!!PDT: 1942
+!!!example: 655
+!!!work: Hin-77
+!!!excerpt-end-measure: 160
+!!!excerpt-end-time: 2:53
+!!!excerpt-start-measure: 154
+!!!excerpt-start-time: 2:46
 !!!system-decoration: {(s1,s2)}{(s3,s4)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,5 @@
-!!!COM:	Prokofiev
-!!!OTL:	572_Pro-32/63/[48]7
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -26,6 +26,25 @@
 .	.	12E#X^J	.	.	.	12E#X^J	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Stage; Theatrical
+!!!MCN: Prokofiev, Sergei
+!!!MDT: 1936/05/02
+!!!MGN: Moscow Philharmonic
+!!!MLC: Moscow, Russia
+!!!MPD: 1936
+!!!MPN: Satz, Natalia
+!!!ODT: 1936
+!!!PDT: 1937
+!!!example: 572
+!!!work: Pro-32
+!!!excerpt-end-measure: 559
+!!!excerpt-end-time: 24:39
+!!!excerpt-start-measure: 559
+!!!excerpt-start-time: 24:36
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

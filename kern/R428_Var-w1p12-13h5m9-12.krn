@@ -1,5 +1,5 @@
-!!!COM:	Varese
-!!!OTL:	428_Var-1/12-13/[5]9-12
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: Amériques (America) for Orchestra
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part26	*part25	*part24	*part23	*part22	*part21	*part20	*part19	*part18	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part2	*part1
@@ -104,6 +104,25 @@
 *	*	*	*v	*v	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French, American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1926/04/09
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1926
+!!!MPN:
+!!!ODT: 1921
+!!!PDT: 1925
+!!!example: 428
+!!!work: Var-1
+!!!excerpt-end-measure: 58
+!!!excerpt-end-time: 3:48
+!!!excerpt-start-measure: 55
+!!!excerpt-start-time: 3:36
 !!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9,s10,s11,s12,s13,s14)][(s15)][(s16,s17,s18,s19,s20,s21,s22,s23)][(s24,s25,s26)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

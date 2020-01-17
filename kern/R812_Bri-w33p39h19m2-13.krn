@@ -1,5 +1,5 @@
-!!!COM:	Britten
-!!!OTL:	812_Bri-33/39/[19]2-13
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part11	*part10	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -104,6 +104,25 @@
 8FnJ	8FnJ	8fnJ	8r	.	8CT	[8AA~J	[8AA~J [8C	[8B-~J	[8B~J [8c	[8G~J [8g	[8G~J [8g
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal; Choral
+!!!MCN: Beinum, Eduard van
+!!!MDT: 1949/07/14
+!!!MGN: Dutch Radio Chorus; Concertgebouw Orchestra
+!!!MLC: Amsterdam, The Netherlands
+!!!MPD: 1949
+!!!MPN: Ferrier, Kathleen; Pears, Peter; Vincent, Joe
+!!!ODT: 1949
+!!!PDT: 1951
+!!!example: 812
+!!!work: Bri-33
+!!!excerpt-end-measure: 31
+!!!excerpt-end-time: 1:46
+!!!excerpt-start-measure: 20
+!!!excerpt-start-time: 1:09
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)]s8[(s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

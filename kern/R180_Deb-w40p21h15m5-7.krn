@@ -1,5 +1,5 @@
-!!!COM:	Debussy
-!!!OTL:	180_Deb-40/21/[15]5-7
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Jeux (Games), Ballet in One Act for Orchestra
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
 *part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -76,6 +76,25 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Monteux, Pierre
+!!!MDT: 1913/05/15
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1913
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!example: 180
+!!!work: Deb-40
+!!!excerpt-end-measure: 132
+!!!excerpt-end-time: 3:15
+!!!excerpt-start-measure: 130
+!!!excerpt-start-time: 3:12
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14,s15)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

@@ -1,5 +1,5 @@
-!!!COM:	Messaien
-!!!OTL:	770_Mes-22/273/[7]3-6
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B
 *part29	*part28	*part27	*part26	*part25	*part24	*part23	*part23	*part22	*part21	*part20	*part19	*part18	*part18	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -60,6 +60,25 @@
 .	.	.	.	.	.	.	.	[16ffnJk [16ggn	16gggJJ	.	[16xJk	.	.	.	.	.	.	.	.	.	16r	16r	.	16r	16r	16r	.	.	16ggJJ)	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Concerto
+!!!MCN: Bernstein, Leonard
+!!!MDT: 1949/12/02
+!!!MGN: Boston Symphony Orchestra
+!!!MLC: Boston, Massachusetts, United States of America
+!!!MPD: 1949
+!!!MPN: Loriod, Yvonne; Martenot, Ginette
+!!!ODT: 1948 (rev. 1990)
+!!!PDT: 1953
+!!!example: 770
+!!!work: Mes-22
+!!!excerpt-end-measure: 60
+!!!excerpt-end-time: 2:32
+!!!excerpt-start-measure: 57
+!!!excerpt-start-time: 2:25
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9,s10)][(s11,s12,s13,s14,s15,s16,s17,s18,s19)][(s20)][(s21)][(s22)]{(s23,s24)}s25[(s26,s27,s28,s29,s30)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

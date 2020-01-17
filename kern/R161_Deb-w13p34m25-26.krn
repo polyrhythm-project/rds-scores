@@ -1,5 +1,5 @@
-!!!COM:	Debussy
-!!!OTL:	161_Deb-13/34/25-26
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: String Quartet, op. 10
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:A	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -44,6 +44,25 @@
 .	.	8Bn^J	.	8bn^J
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1893/12/29
+!!!MGN: Ysaÿe Quartet
+!!!MLC: Paris, France
+!!!MPD: 1893
+!!!MPN: Crickboom, Mathieu; Hout, Léon; Jacob, Joseph; Ysaÿe, Eugène
+!!!ODT: 1893
+!!!PDT: 1894
+!!!example: 161
+!!!work: Deb-13
+!!!excerpt-end-measure: 26
+!!!excerpt-end-time: 1:38
+!!!excerpt-start-measure: 25
+!!!excerpt-start-time: 1:34
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

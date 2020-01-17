@@ -1,5 +1,5 @@
-!!!COM:	Hindemith
-!!!OTL:	630_Hin-22/74-75/[D]4-9
+!!!COM: Hindemith, Paul
+!!!OTL: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -94,6 +94,25 @@
 12ggnJ	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Orchestral; Concerto
+!!!MCN: Kraus, Clemens
+!!!MDT: 1924/10/31
+!!!MGN: Ensemble of the Frankfurter Museumgesellschaft
+!!!MLC: Frankfurt, Germany
+!!!MPD: 1924
+!!!MPN: Lübbecke-Job, Emma
+!!!ODT: 1924
+!!!PDT: 1924
+!!!example: 630
+!!!work: Hin-22
+!!!excerpt-end-measure: 58
+!!!excerpt-end-time: 1:39
+!!!excerpt-start-measure: 53
+!!!excerpt-start-time: 1:28
 !!!system-decoration: s1[(s2,s3)]{(s4,s5)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

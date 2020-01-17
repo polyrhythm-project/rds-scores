@@ -1,5 +1,5 @@
-!!!COM:	Bartok
-!!!OTL:	324_Bar-14/6/3-10
+!!!COM: Bartók, Béla
+!!!OTL: Román népi táncok (Romanian Folk Dances) for Piano
 **kern	**kern
 *grp:A	*grp:B
 *part1	*part1
@@ -67,6 +67,25 @@
 4c)	.
 ==	==
 *-	*-
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1920/01/16
+!!!MGN:
+!!!MLC: Kolozsvár, Hungary
+!!!MPD: 1920
+!!!MPN: Hevesi, Piroska
+!!!ODT: 1915
+!!!PDT: 1918
+!!!example: 324
+!!!work: Bar-14
+!!!excerpt-end-measure: 10
+!!!excerpt-end-time: 0:19
+!!!excerpt-start-measure: 3
+!!!excerpt-start-time: 0:04
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

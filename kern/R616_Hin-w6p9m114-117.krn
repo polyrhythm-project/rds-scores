@@ -1,5 +1,5 @@
-!!!COM:	Hindemith
-!!!OTL:	616_Hin-6/9/114-117
+!!!COM: Hindemith, Paul
+!!!OTL: String Quartet in F Minor, op. 10
 **kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A
 *part4	*part3	*part3	*part2	*part1
@@ -83,6 +83,25 @@
 .	.	.	16gJJ)	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1919/06/02
+!!!MGN: Rebner Quartet
+!!!MLC: Frankfurt, Germany
+!!!MPD: 1919
+!!!MPN: Frank, Mauritz; Hegar, Johannes; Hindemith, Paul; Rebner, Adolf
+!!!ODT: 1918
+!!!PDT: 1920
+!!!example: 616
+!!!work: Hin-6
+!!!excerpt-end-measure: 117
+!!!excerpt-end-time: 4:12
+!!!excerpt-start-measure: 114
+!!!excerpt-start-time: 4:05
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

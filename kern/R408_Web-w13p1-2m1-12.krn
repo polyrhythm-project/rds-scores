@@ -1,5 +1,5 @@
-!!!COM:	Webern
-!!!OTL:	408_Web-13/1-2/1-12
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Fünf Stücke (Five Pieces) for Orchestra, op. 10
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
 *part10	*part9	*part8	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1	*part1
@@ -97,6 +97,25 @@
 .	.	.	.	.	.	8r	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Webern, Anton
+!!!MDT: 1924/06/22
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1923
+!!!example: 408
+!!!work: Web-13
+!!!excerpt-end-measure: 12
+!!!excerpt-end-time: 0:58
+!!!excerpt-start-measure: 1
+!!!excerpt-start-time: 0:00
 !!!system-decoration: [(s1,s2)][(s3,s4)]{(s5,s6)}{(s7,s8)}[(s9)][(s10,s11,s12)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

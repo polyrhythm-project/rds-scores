@@ -1,5 +1,5 @@
-!!!COM:	Honegger
-!!!OTL:	599_Hon-38/60/[5]8-20
+!!!COM: Honegger, Arthur
+!!!OTL: Symphony No. 4 "Deliciae basiliensis" (Pleasures of Basel) for Chamber Orchestra
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part12	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -133,6 +133,25 @@
 .	.	.	.	.	.	8FF 8AA	8a 8b-	.	8b-X	8dd	8a	8aa	8bb-X
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Sacher, Paul
+!!!MDT: 1947/01/21
+!!!MGN: Basel Chamber Orchestra
+!!!MLC: Basel, Switzerland
+!!!MPD: 1947
+!!!MPN:
+!!!ODT: 1946
+!!!PDT: 1947
+!!!example: 599
+!!!work: Hon-38
+!!!excerpt-end-measure: 108
+!!!excerpt-end-time: 2:35
+!!!excerpt-start-measure: 96
+!!!excerpt-start-time: 2:17
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)]{(s7,s8)}[(s9,s10,s11,s12,s13)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

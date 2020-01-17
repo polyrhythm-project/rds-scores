@@ -1,5 +1,5 @@
-!!!COM:	Stravinsky
-!!!OTL:	396_Str-47/8/1[8]-[10]1
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Symphony in Three Movements
 **kern	**kern	**kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part6	*part5	*part4	*part4	*part3	*part2	*part1
@@ -114,6 +114,25 @@
 .	.	12r	.	12r	12r	12r
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Stravinsky, Igor
+!!!MDT: 1946/01/24
+!!!MGN: New York Philharmonic Orchestra
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1946
+!!!MPN:
+!!!ODT: 1945
+!!!PDT: 1946
+!!!example: 396
+!!!work: Str-47
+!!!excerpt-end-measure: 43
+!!!excerpt-end-time: 0:56
+!!!excerpt-start-measure: 34
+!!!excerpt-start-time: 0:45
 !!!system-decoration: {(s1,s2)}[(s3,s4,s5,s6,s7)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

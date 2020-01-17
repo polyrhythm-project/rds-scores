@@ -1,5 +1,5 @@
-!!!COM:	Debussy
-!!!OTL:	187_Deb-42/9/lignes 3 et 4
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: La Boîte à joujoux (The Toy Box), Ballet for Children
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -125,6 +125,25 @@
 8B-'J	.	.
 ==	==	==
 *-	*-	*-
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1919/12/10
+!!!MGN: Orchestre du Théâtre du Vaudeville
+!!!MLC: Paris, France
+!!!MPD: 1919
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1920
+!!!example: 187
+!!!work: Deb-42
+!!!excerpt-end-measure: 137
+!!!excerpt-end-time: 4:02
+!!!excerpt-start-measure: 122
+!!!excerpt-start-time: 3:44
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

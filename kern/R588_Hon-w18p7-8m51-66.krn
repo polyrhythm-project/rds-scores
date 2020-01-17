@@ -1,5 +1,5 @@
-!!!COM:	Honegger
-!!!OTL:	588_Hon-18/7-8/51-66
+!!!COM: Honegger, Arthur
+!!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -155,6 +155,25 @@
 .	4A-X	.	4d-X	4cc	4cc	4r	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Koussevitzky, Serge
+!!!MDT: 1924/05/08
+!!!MGN: Orchestre de l'Opéra
+!!!MLC: Paris, France
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1924
+!!!example: 588
+!!!work: Hon-18
+!!!excerpt-end-measure: 66
+!!!excerpt-end-time: 1:44
+!!!excerpt-start-measure: 51
+!!!excerpt-start-time: 1:21
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10)]s11[(s12,s13,s14,s15,s16)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

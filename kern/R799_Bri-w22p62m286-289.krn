@@ -1,5 +1,5 @@
-!!!COM:	Britten
-!!!OTL:	799_Bri-22/62/286-289
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Scottish Ballad for Two Pianos and Orchestra, op. 26
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part5	*part5	*part4	*part3	*part2	*part2	*part1	*part1
@@ -50,6 +50,25 @@
 .	.	.	.	8E-J	8e-J	8ffnJ	8fffnJ
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Orchestral; Concerto
+!!!MCN: Goossens, Eugene Aynsley
+!!!MDT: 1941/11/28
+!!!MGN: Cincinnati Symphony Orchestra
+!!!MLC: Cincinnati, Ohio, United States of America
+!!!MPD: 1941
+!!!MPN: Bartlett, Ethel; Robertson, Rae
+!!!ODT: 1941
+!!!PDT: 1969
+!!!example: 799
+!!!work: Bri-22
+!!!excerpt-end-measure: 289
+!!!excerpt-end-time: 12:53
+!!!excerpt-start-measure: 286
+!!!excerpt-start-time: 12:48
 !!!system-decoration: {(s1,s2)}{(s3,s4)}[(s5,s6,s7)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

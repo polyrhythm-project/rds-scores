@@ -1,5 +1,5 @@
-!!!COM:	Varese
-!!!OTL:	420_Var-8/23/[7]10-14
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part20	*part19	*part18	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -88,6 +88,25 @@
 .	.	.	.	.	16x^	.	.	16cJJ	16CJJ)	16cJJ)	.	.	.	.	.	.	.	.	16cJJ	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French, American
+!!!AGN: Stage; Theatrical
+!!!MCN: Slonimsky, Nicolas
+!!!MDT: 1934/04/15
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1934
+!!!MPN: Baromeo, Chase
+!!!ODT: 1934
+!!!PDT: 1934
+!!!example: 420
+!!!work: Var-8
+!!!excerpt-end-measure: 97
+!!!excerpt-end-time: 4:51
+!!!excerpt-start-measure: 93
+!!!excerpt-start-time: 4:37
 !!!system-decoration: s1,s2[(s3)][(s4,s5,s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15)][(s16,s17,s18,s19,s20,s21)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

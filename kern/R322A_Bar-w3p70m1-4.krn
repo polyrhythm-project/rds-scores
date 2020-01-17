@@ -1,5 +1,5 @@
-!!!COM:	Bartok
-!!!OTL:	322A_Bar-3/70/1-4
+!!!COM: Bartók, Béla
+!!!OTL: Suite No. 1 for Orchestra, op. 3
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -35,6 +35,25 @@
 4r	.	4r	4c	4e	4g	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Loewe, Ferdinand
+!!!MDT: 1905/11/29
+!!!MGN: Vienna Symphony Orchestra
+!!!MLC: Vienna, Austria
+!!!MPD: 1905
+!!!MPN:
+!!!ODT: 1905 (rev. 1920)
+!!!PDT: 1912
+!!!example: 322A
+!!!work: Bar-3
+!!!excerpt-end-measure: 4
+!!!excerpt-end-time: 0:03
+!!!excerpt-start-measure: 1
+!!!excerpt-start-time: 0:00
 !!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6)][(s7,s8,s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

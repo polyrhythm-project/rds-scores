@@ -1,5 +1,5 @@
-!!!COM:	Stravinsky
-!!!OTL:	371_Str-15/19/2-1[1]1-5
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -59,6 +59,25 @@
 .	.	.	.	.	.	16ffJJ	.	.
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Stage; Theatrical
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1918/09/28
+!!!MGN: unknown
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1918
+!!!MPN: unknown
+!!!ODT: 1918
+!!!PDT: 1924
+!!!example: 371
+!!!work: Str-15
+!!!excerpt-end-measure: 14
+!!!excerpt-end-time: 0:14
+!!!excerpt-start-measure: 8
+!!!excerpt-start-time: 0:07
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6)][(s7,s8)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

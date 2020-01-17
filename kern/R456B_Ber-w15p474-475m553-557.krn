@@ -1,5 +1,5 @@
-!!!COM:	Berg
-!!!OTL:	456B_Ber-15/474-475/553-557
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Lulu, Unfinished Opera
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part20	*part19	*part18	*part17	*part16	*part14	*part13	*part13	*part12	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part4	*part3	*part2	*part1
@@ -84,6 +84,25 @@
 16AAAn'JJ	.	.	.	.	.	16AAAn'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Denzler, Robert
+!!!MDT: 1937/06/02
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1937
+!!!MPN: Hadžić, Bahrija
+!!!ODT: 1935
+!!!PDT: 1936
+!!!example: 456B
+!!!work: Ber-15
+!!!excerpt-end-measure: 557
+!!!excerpt-end-time: 24:09
+!!!excerpt-start-measure: 553
+!!!excerpt-start-time: 24:00
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9)][(s10,s11)]{(s12,s13)}{(s14,s15)}[(s16,s17)][(s18,s19,s20,s21,s22)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

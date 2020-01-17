@@ -1,5 +1,5 @@
-!!!COM:	Ravel
-!!!OTL:	281_Rav-21/2/8-9
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
 **kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part2	*part1
@@ -78,6 +78,25 @@
 .	32ddJJJ)	.	.
 ==	==	==	==
 *-	*-	*-	*-
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Solo
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1914/01/24
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1914
+!!!MPN: Bathori, Jane
+!!!ODT: 1913
+!!!PDT: 1914
+!!!example: 281
+!!!work: Rav-21
+!!!excerpt-end-measure: 9
+!!!excerpt-end-time: 0:59
+!!!excerpt-start-measure: 8
+!!!excerpt-start-time: 0:46
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

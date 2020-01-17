@@ -1,5 +1,5 @@
-!!!COM:	Gershwin
-!!!OTL:	689_Ger-12/59/29-34
+!!!COM: Gershwin, George
+!!!OTL: Girl Crazy, Three Excerpts for Voice and Piano
 **kern	**kern	**kern
 *grp:A	*grp:B	*grp:B
 *part2	*part2	*part1
@@ -54,6 +54,25 @@
 .	8cc	8cc
 ==	==	==
 *-	*-	*-
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Stage; Theatrical
+!!!MCN: Gershwin, George
+!!!MDT: 1930/10/14
+!!!MGN: pick-up ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1930
+!!!MPN: Dorse, Jimmy; Goodman, Benny; Howard, Willie; Kearns, Allen; Krupa, Gene; Merman, Ethel; Miller, Glen; Rodgers, Ginger
+!!!ODT: 1930
+!!!PDT: 1930
+!!!example: 689
+!!!work: Ger-12
+!!!excerpt-end-measure: 34
+!!!excerpt-end-time: 1:00
+!!!excerpt-start-measure: 29
+!!!excerpt-start-time: 0:51
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

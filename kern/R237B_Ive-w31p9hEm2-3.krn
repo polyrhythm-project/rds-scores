@@ -1,5 +1,5 @@
-!!!COM:	Ives
-!!!OTL:	237B_Ive-31/9/[E]2-3
+!!!COM: Ives, Charles
+!!!OTL: The Gong on the Hook and Ladder for Chamber Orchestra
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part15	*part14	*part13	*part12	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -39,6 +39,25 @@
 .	.	16GJk] 16d	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	16x)	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Stage; Ballet
+!!!MCN: Stoessel, Albert
+!!!MDT: 1934/04/22
+!!!MGN: pick-up ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1934
+!!!MPN:
+!!!ODT: 1912
+!!!PDT: 1960
+!!!example: 237B
+!!!work: Ive-31
+!!!excerpt-end-measure: 24
+!!!excerpt-end-time: 1:17
+!!!excerpt-start-measure: 23
+!!!excerpt-start-time: 1:09
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)][(s9)]{(s10,s11)}[(s12,s13,s14,s15,s16)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

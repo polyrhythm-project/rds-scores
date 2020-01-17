@@ -1,5 +1,5 @@
-!!!COM:	Webern
-!!!OTL:	409_Web-3/7/46-49
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Langsamer Satz (Slow Movement) for String Quartet
 **kern	**dynam	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part3	*part2	*part1
@@ -66,6 +66,25 @@
 12e^J	.	12ee^J	12ee^J	12eee^J
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1962/05/27
+!!!MGN: University of Washington String Quartet
+!!!MLC: Seattle, Washington, United States of America
+!!!MPD: 1962
+!!!MPN: Ferrin, Richard; Heinitz, Eva; Sokol, Vilem; Zetlin, Emanuel
+!!!ODT: 1905
+!!!PDT: 1962
+!!!example: 409
+!!!work: Web-3
+!!!excerpt-end-measure: 49
+!!!excerpt-end-time: 4:29
+!!!excerpt-start-measure: 46
+!!!excerpt-start-time: 4:14
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

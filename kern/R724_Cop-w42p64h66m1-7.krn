@@ -1,5 +1,5 @@
-!!!COM:	Copland
-!!!OTL:	724_Cop-42/64/[66]1-7
+!!!COM: Copland, Aaron
+!!!OTL: Music for a Great City for Orchestra
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part6	*part5	*part5	*part4	*part3	*part2	*part1
@@ -133,6 +133,25 @@
 .	16r	.	16x	16xJJ	.	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Copland, Aaron
+!!!MDT: 1964/05/26
+!!!MGN: London Symphony Orchestra
+!!!MLC: London, United Kingdom
+!!!MPD: 1964
+!!!MPN:
+!!!ODT: 1964
+!!!PDT: 1965
+!!!example: 724
+!!!work: Cop-42
+!!!excerpt-end-measure: 36
+!!!excerpt-end-time: 1:03
+!!!excerpt-start-measure: 30
+!!!excerpt-start-time: 0:51
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

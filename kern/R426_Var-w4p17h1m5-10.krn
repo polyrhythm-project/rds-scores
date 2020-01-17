@@ -1,5 +1,5 @@
-!!!COM:	Varese
-!!!OTL:	426_Var-4/17/[1]5-10
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: Octandre for Eight Instruments
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part6	*part5	*part4	*part3	*part2	*part2
@@ -75,6 +75,25 @@
 [16AA#Jk	.	.	.	.	.	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French, American
+!!!AGN: Instrumental; Chamber
+!!!MCN: Schmitz, Robert
+!!!MDT: 1924/01/13
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1923
+!!!example: 426
+!!!work: Var-4
+!!!excerpt-end-measure: 18
+!!!excerpt-end-time: 0:49
+!!!excerpt-start-measure: 13
+!!!excerpt-start-time: 0:35
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)]s7
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

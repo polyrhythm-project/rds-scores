@@ -1,5 +1,5 @@
-!!!COM:	Schoenberg
-!!!OTL:	198_Sch-9/42/4-1[40]1-2
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Kammersymphonie (Chamber Symphony) No. 1, op. 9
 **kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part11	*part10	*part9	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -26,6 +26,25 @@
 .	8D- 8B-X	.	.	.	8b'J	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Schoenberg, Arnold
+!!!MDT: 1907/02/08
+!!!MGN: Rosé Quartet; Wind Ensemble of Vienna Philharmonic
+!!!MLC: Vienna, Austria
+!!!MPD: 1907
+!!!MPN:
+!!!ODT: 1906
+!!!PDT: 1913
+!!!example: 198
+!!!work: Sch-9
+!!!excerpt-end-measure: 171
+!!!excerpt-end-time: 6:19
+!!!excerpt-start-measure: 170
+!!!excerpt-start-time: 6:17
 !!!system-decoration: [(s1,s2,s3,s4,s5)]s6[(s7,s8,s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

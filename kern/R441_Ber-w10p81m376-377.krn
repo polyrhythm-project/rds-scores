@@ -1,5 +1,5 @@
-!!!COM:	Berg
-!!!OTL:	441_Ber-10/81/376-377
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Wozzeck, Opera in Three Acts
 **kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part10	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -29,6 +29,25 @@
 [8E-~	.	.	[8g'~)	.	.	8r	.	8A~	8d~	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Kleiber, Erich
+!!!MDT: 1925/12/14
+!!!MGN: Staatsoper Orchestra and Chorus
+!!!MLC: Berlin, Germany
+!!!MPD: 1925
+!!!MPN: Hermann, Uhde; Steber, Eleanor
+!!!ODT: 1922
+!!!PDT: 1923
+!!!example: 441
+!!!work: Ber-10
+!!!excerpt-end-measure: 146
+!!!excerpt-end-time: 5:25
+!!!excerpt-start-measure: 144
+!!!excerpt-start-time: 5:12
 !!!system-decoration: [(s1,s2)][(s3,s4)]{(s5,s6)}s7[(s8,s9,s10,s11,s12)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

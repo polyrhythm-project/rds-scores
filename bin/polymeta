@@ -5,6 +5,7 @@
 # Last Modified: Thu Jan 16 22:54:42 PST 2020
 # Filename:      polymeta
 # Syntax:        perl 5
+# vim:           ts=3:nowrap
 #
 # Description:   Command-line interface to Polyrhythm metadata from master spreadsheet.
 #                Adds metadta to Humdrum file reference records, and adds tempo information.
@@ -33,38 +34,39 @@ if ($wget =~ /^\s*$/) {
 
 # Humdrum reference records mapping with spreadsheet header labels.
 my %RECORD;
-$RECORD{"Conductor"}        = "MCN";   # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
-$RECORD{"Birth Date"}       = "CDT1";  # run through convertDateToHumdrum();
-$RECORD{"Death Date"}       = "CDT2";  # run through convertDateToHumdrum();
-$RECORD{"Birth Place"}      = "CBL";   # run through addSpaceAfterComma();
-$RECORD{"Death Place"}      = "CDL";   # run through addSpaceAfterComma();
-$RECORD{"Nationality"}      = "CNT";   # run through addSpaceAfterComma();
-$RECORD{"Composer Name"}    = "COM";
-$RECORD{"Source Work Full Unit"}    = "OMV";
-$RECORD{"Genre"}            = "AGN1";
-$RECORD{"Ensemble"}            = "MGN";
-$RECORD{"Soloists"}            = "MPN";
-$RECORD{"Example No."}            = "example";
-$RECORD{"Work ID"}            = "work";
-$RECORD{"First Public Performance Year"} = "MPD";
-$RECORD{"Work Title"}       = "OTL";
-$RECORD{"Example Start Time"}   = "excerpt-start-time";
-$RECORD{"Example End Time"}     = "excerpt-end-time";
-$RECORD{"Example Start Measure"}   = "excerpt-start-measure";
-$RECORD{"Example End Measure"}     = "excerpt-end-measure";
-$RECORD{"First Publication Year"} = "PDT";
-$RECORD{"Premiere Date"}    = "MDT";   # run through convertDateToHumdrum();
-$RECORD{"Sub-Genre"}        = "AGN2";
-$RECORD{"Composition Year"} = "ODT";   # there is also revision dates included.
-$RECORD{"Premiere City"}    = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
 
-# column headings that are not real data columns:
+$RECORD{"Birth Date"}             = "CDT1";  # run through convertDateToHumdrum();
+$RECORD{"Birth Place"}            = "CBL";   # run through addSpaceAfterComma();
+$RECORD{"Composer Name"}          = "COM";
+$RECORD{"Composition Year"}       = "ODT";   # There is also revision dates included.
+$RECORD{"Conductor"}              = "MCN";   # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
+$RECORD{"Death Date"}             = "CDT2";  # run through convertDateToHumdrum();
+$RECORD{"Death Place"}            = "CDL";   # run through addSpaceAfterComma();
+$RECORD{"Ensemble"}               = "MGN";   # rn through addSpaceAfterSemicolon();
+$RECORD{"Example End Measure"}    = "excerpt-end-measure";
+$RECORD{"Example End Time"}       = "excerpt-end-time";
+$RECORD{"Example No."}            = "example";
+$RECORD{"Example Start Measure"}  = "excerpt-start-measure";
+$RECORD{"Example Start Time"}     = "excerpt-start-time";
+$RECORD{"First Public Performance Year"} = "MPD";
+$RECORD{"First Publication Year"} = "PDT";
+$RECORD{"Genre"}                  = "AGN1";
+$RECORD{"Sub-Genre"}              = "AGN2";
+$RECORD{"Nationality"}            = "CNT";   # run through addSpaceAfterComma();
+$RECORD{"Premiere City"}          = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
+$RECORD{"Premiere Date"}          = "MDT";   # Run through convertDateToHumdrum();
+$RECORD{"Soloists"}               = "MPN";  # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
+$RECORD{"Source Work Full Unit"}  = "OMV";
+$RECORD{"Work ID"}                = "work";
+$RECORD{"Work Title"}             = "OTL";
+
+# Column headings that are not real data columns (used to suppress from -l list):
 my %DUMMY;
-$DUMMY{"Work Info"} = 1;
-$DUMMY{"Composer Info"} = 1;
-$DUMMY{"Example Info"} = 1;
-$DUMMY{"Score Link"} = 1;   # at least no data content in column right now (highlighted in red)
-$DUMMY{"First Public Perfromance Info"} = 1;
+$DUMMY{"Work Info"}      = 1;
+$DUMMY{"Composer Info"}  = 1;
+$DUMMY{"Example Info"}   = 1;
+$DUMMY{"Score Link"}     = 1; # At least no data content in column right now (highlighted in red)
+$DUMMY{"First Public Performance Info"} = 1;
 
 my %RRECORD = reverseIndex(%RECORD);
 
@@ -78,13 +80,13 @@ my $urlQ = 0;
 
 Getopt::Long::Configure("bundling");
 GetOptions (
-   'c|count' => \$countQ,
-   's|sort' => \$sortQ,
-   'd|data-column=s' => \$dataColumn,
-	'r|raw' => \$rawQ,
-	'l|label' => \$headingListQ,
-	'u|unique|uniq' => \$uniqueQ,
-	'url' => \$urlQ
+	'c|count'         => \$countQ,
+	'd|data-column=s' => \$dataColumn,
+	'l|label'         => \$headingListQ,
+	'r|raw'           => \$rawQ,
+	's|sort'          => \$sortQ,
+	'url'             => \$urlQ,
+	'u|unique|uniq'   => \$uniqueQ
 );
 
 # Generate TSV URL for master index index and download:
@@ -98,14 +100,17 @@ if ($urlQ) {
 	exit(0);
 }
 
-my @contents = getSpreadsheetContents($url);
+my @CONTENTS = getSpreadsheetContents($url);
+
 
 if ($rawQ) {
-	print join("\n", @contents), "\n";
+	print join("\n", @CONTENTS), "\n";
 	exit(0);
 }
 
-my %HEADER = getHeaderIndexes($contents[0]);
+my %HEADER = getHeaderIndexes($CONTENTS[0]);
+
+my %EXAMPLEINDEX = getExampleIndexes();
 
 if ($headingListQ) {
 	my @keys = keys %HEADER;
@@ -127,7 +132,7 @@ if ($headingListQ) {
 # "Example Start Tsig Mean Beat Rate" == The tempo to add to *MM records.
 
 if ($dataColumn !~ /^\s*$/) {
-	my @output = getDataColumn($dataColumn, @contents);
+	my @output = getDataColumn($dataColumn, @CONTENTS);
 	if ($sortQ || $countQ || $uniqueQ) {
 		@output = sort @output;
 	}
@@ -147,10 +152,105 @@ if ($dataColumn !~ /^\s*$/) {
 	exit(0);
 }
 
+my @filelist = @ARGV;
+
+
+foreach my $file (@filelist) {
+	processFile($file, @CONTENTS);
+}
+
+
+
 exit(0);
 
 
 ###########################################################################
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($filename) = @_;
+	die "Cannot find file $filename\n" if !-r $filename;
+	my $basename = $filename;
+	$basename =~ s/.*\///;
+	die "Filename is not a kern file ending in .krn: $basename\n" if $basename !~ /\.krn$/;
+	$basename =~ s/\.krn$//;
+	if ($basename !~ /^(R|T)(\d+[A-Z]?)_/) {
+		die "PROBLEM WITH FILENAME $basename\n";
+	}
+	my $examplenum = $2;
+	my $cline = getExampleLine($examplenum);
+	open (FILE, $filename) or die "Cannot read $filename\n";
+	my @filedata = <FILE>;
+	close FILE;
+	chomp @filedata;
+	my $changed = 0;
+	for (my $i = 0; $i<@filedata; $i++) {
+		my $line = $filedata[$i];
+		next if $line !~ /\!\!\!([^\!:]+)\s*:\s*(.*)\s*$/;
+		my $key = $1;
+		my $value = $2;
+		my $index = $HEADER{$key};
+		next if $index =~ /^s*$/;
+		my $newvalue = getMetadataParameter($key, $cline);
+		next if $value eq $newvalue;
+		$changed = 1;
+		print STDERR "FILE $filename: CHANGING PARAMETER $key FROM $value TO $newvalue\n";
+		if ($newvalue =~ /^\s*$/) {
+			$line = "!!!$key:";
+		} else {
+			$line = "!!!$key: $newvalue";
+		}
+		$filedata[$i] = $line;
+	}
+
+	return if !$changed;
+	open (FILE, ">$filename") or die "Cannot write to $filename\n";
+	print FILE join("\n", @filedata), "\n";
+	close FILE;
+}
+
+
+
+##############################
+##
+## getExampleLine -- return the data line for a particular example.
+##
+
+sub getExampleLine {
+	my ($examplenum) = @_;
+	my $index = $EXAMPLEINDEX{$examplenum};
+	if ($index =~ /^\s*$/) {
+		die "Error: example >>$examplenum<< not found\n";
+	}
+	my $output = $CONTENTS[$index];
+	if ($output =~ /^\s*$/) {
+		die "Error: missing contents for Example number: $examplenum\n";
+	}
+	return $CONTENTS[$index];
+}
+
+
+
+##############################
+##
+## getExampleIndexes -- Return the index lines for each example number in the data.
+##
+
+sub getExampleIndexes {
+	my @data = getDataColumn("Example No.", @CONTENTS);
+	my %output;
+	for (my $i=0; $i<@data; $i++) {
+		$output{$data[$i]} = $i+1;
+	}
+	return %output;
+}
+
+
 
 ##############################
 ##
@@ -210,10 +310,30 @@ sub getMetadataParameter {
 	} elsif ($parameter eq "CNT") {
 		return addSpaceAfterComma($value);
 	} elsif ($parameter eq "MCN") {
-		return addSpaceAfterSemicolon(addSpaceAfterComma($value));
+		return addSpaceAfterSemicolon(addSpaceAfterComma(removeNone($value)));
+	} elsif ($parameter eq "MGN") {
+		return addSpaceAfterSemicolon(addSpaceAfterComma(removeNone($value)));
+	} elsif ($parameter eq "MPN") {
+		return addSpaceAfterSemicolon(addSpaceAfterComma(removeNone($value)));
 	}
 
 	return $value;
+}
+
+
+
+##############################
+##
+## removeNone --
+##
+
+sub removeNone {
+	my ($input) = @_;
+	if ($input eq "none") {
+		return "";
+	} else {
+		return $input;
+	}
 }
 
 
@@ -259,6 +379,11 @@ sub getHeaderIndexes {
 	for my $key (@keys) {
 		$output{$RECORD{$key}} = $output{$key};
 	}
+
+	# compound parameters:
+	$output{"AGN"} = -1;
+	$output{"CDT"} = -1;
+
 	return %output;
 }
 
@@ -288,6 +413,10 @@ sub getSpreadsheetContents  {
 		$output[$i] =~ s/^ +//;
 	}
 	chomp @output;
+	for (my $i=0; $i<@output; $i++) {
+		$output[$i] =~ s/[ ]+$//;
+		$output[$i] =~ s/^[ ]+//;
+	}
 	return @output;
 }
 

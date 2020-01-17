@@ -1,5 +1,5 @@
-!!!COM:	Bartok
-!!!OTL:	350_Bar-30/4/22-30
+!!!COM: Bartók, Béla
+!!!OTL: Piano Sonata
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -83,6 +83,25 @@
 8GGJ 8E#X 8F#	.	sf
 ==	==	==
 *-	*-	*-
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1926/12/08
+!!!MGN:
+!!!MLC: Budapest, Hungary
+!!!MPD: 1926
+!!!MPN: Bartók, Béla
+!!!ODT: 1926
+!!!PDT: 1927
+!!!example: 350
+!!!work: Bar-30
+!!!excerpt-end-measure: 30
+!!!excerpt-end-time: 0:32
+!!!excerpt-start-measure: 22
+!!!excerpt-start-time: 0:23
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

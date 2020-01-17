@@ -1,5 +1,5 @@
-!!!COM:	Ives
-!!!OTL:	262_Ive-33^4/26
+!!!COM: Ives, Charles
+!!!OTL: A Symphony: New England Holidays
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -104,6 +104,25 @@
 *	*v	*v	*	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Dorati, Antal
+!!!MDT: 1954/04/09
+!!!MGN: Minneapolis Symphony Orchestra
+!!!MLC: Minneapolis, Minnesota, United States of America
+!!!MPD: 1954
+!!!MPN:
+!!!ODT: 1919
+!!!PDT: 1936
+!!!example: 262
+!!!work: Ive-33
+!!!excerpt-end-measure: 124
+!!!excerpt-end-time: 7:09
+!!!excerpt-start-measure: 121
+!!!excerpt-start-time: 6:51
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

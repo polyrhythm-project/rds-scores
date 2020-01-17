@@ -1,5 +1,5 @@
-!!!COM:	Honegger
-!!!OTL:	602_Hon-20/7/[3]1-5
+!!!COM: Honegger, Arthur
+!!!OTL: Concertino for Piano and Orchestra
 **kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part10	*part9	*part8	*part7	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -102,6 +102,25 @@
 .	16AA'JJ	.	.	16g-JJ	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Concerto
+!!!MCN: Koussevitzky, Serge
+!!!MDT: 1925/05/23
+!!!MGN: Orchestre de l'Opéra
+!!!MLC: Paris, France
+!!!MPD: 1925
+!!!MPN: Vaurabourg, Andrée
+!!!ODT: 1924
+!!!PDT: 1926
+!!!example: 602
+!!!work: Hon-20
+!!!excerpt-end-measure: 36
+!!!excerpt-end-time: 1:36
+!!!excerpt-start-measure: 32
+!!!excerpt-start-time: 1:23
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)]{(s7,s8)}[(s9,s10,s11)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

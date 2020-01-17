@@ -1,5 +1,5 @@
-!!!COM:	Martinu
-!!!OTL:	485_Mau-85/12/57-60
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Symphony No. 5
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part17	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -50,6 +50,25 @@
 (8EE')	.	(8E')	(8e')	(8ee')	(8eee')	.	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Kubelik, Rafael
+!!!MDT: 1947/05/28
+!!!MGN: Czech Philharmonic Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1947
+!!!MPN:
+!!!ODT: 1946
+!!!PDT: 1950
+!!!example: 485
+!!!work: Mau-85
+!!!excerpt-end-measure: 60
+!!!excerpt-end-time: 2:37
+!!!excerpt-start-measure: 57
+!!!excerpt-start-time: 2:32
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10,s11)][(s12)][(s13,s14,s15,s16,s17)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

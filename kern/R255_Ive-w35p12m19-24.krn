@@ -1,5 +1,5 @@
-!!!COM:	Ives
-!!!OTL:	255_Ive-35/12/19-24
+!!!COM: Ives, Charles
+!!!OTL: String Quartet No. 2
 **kern	**kern	**kern	**kern
 *grp:A	*grp:B	*grp:B	*grp:B
 *part4	*part3	*part2	*part1
@@ -58,6 +58,25 @@
 *v	*v	*	*	*
 ==	==	==	==
 *-	*-	*-	*-
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1946/05/11
+!!!MGN: Juilliard School Student Ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1946
+!!!MPN: Goldberg, Alla; Koff, Alla; Levin, Walter; Robbins, Rena
+!!!ODT: 1915
+!!!PDT: 1954
+!!!example: 255
+!!!work: Ive-35
+!!!excerpt-end-measure: 24
+!!!excerpt-end-time: 0:24
+!!!excerpt-start-measure: 19
+!!!excerpt-start-time: 0:19
 !!!system-decoration: [(s1,s2,s3,s4)]
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

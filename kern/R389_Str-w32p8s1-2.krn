@@ -1,5 +1,5 @@
-!!!COM:	Stravinsky
-!!!OTL:	389_Str-32/8/lignes 1 et 2
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Duo Concertant for Violin and Piano
 **kern	**kern	**kern
 *grp:A	*grp:A	*grp:B
 *part2	*part2	*part1
@@ -95,6 +95,25 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1932/10/28
+!!!MGN:
+!!!MLC: Berlin, Germany
+!!!MPD: 1932
+!!!MPN: Dushkin, Samuel; Stravinsky, Igor
+!!!ODT: 1932
+!!!PDT: 1933
+!!!example: 389
+!!!work: Str-32
+!!!excerpt-end-measure: 5
+!!!excerpt-end-time: 0:37
+!!!excerpt-start-measure: 5
+!!!excerpt-start-time: 0:25
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08
