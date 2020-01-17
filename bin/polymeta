@@ -21,6 +21,11 @@
 #         -c    == sort data list, equivalent to piping through "sort | uniq -c" command.
 #         -u    == unique list of elements, equivalent to piping through "sort | uniq" command.
 #
+# Compound -d labels:
+#   AGN ==  AGN1; AGN2
+#   CDT ==  CDT1; CDT2
+#   *MM ==  *MM1 and *MM2
+#
 
 use strict;
 use Getopt::Long;
@@ -52,6 +57,8 @@ $RECORD{"First Public Performance Year"} = "MPD";
 $RECORD{"First Publication Year"} = "PDT";
 $RECORD{"Genre"}                  = "AGN1";
 $RECORD{"Sub-Genre"}              = "AGN2";
+$RECORD{"Example Start Tsig Beat"}           = "*MM1";
+$RECORD{"Example Start Tsig Mean Beat Rate"} = "*MM2";
 $RECORD{"Nationality"}            = "CNT";   # run through addSpaceAfterComma();
 $RECORD{"Premiere City"}          = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
 $RECORD{"Premiere Date"}          = "MDT";   # Run through convertDateToHumdrum();
@@ -183,20 +190,38 @@ sub processFile {
 		die "PROBLEM WITH FILENAME $basename\n";
 	}
 	my $examplenum = $2;
-	my $cline = getExampleLine($examplenum);
+	my $eline = getExampleLine($examplenum);
 	open (FILE, $filename) or die "Cannot read $filename\n";
 	my @filedata = <FILE>;
 	close FILE;
 	chomp @filedata;
 	my $changed = 0;
+	my $foundData = 0; # only deal with initial tempo marking
 	for (my $i = 0; $i<@filedata; $i++) {
 		my $line = $filedata[$i];
+		next if $line =~ /^\s*$/;
+		if (($line !~ /^\!/) && ($line !~ /^\*/) && ($line !~ /^=/)) {
+			$foundData = 1;
+		}
+		if ((!$foundData) && ($line =~ /^\*/) && ($line =~ /\*MM\d/)) {
+			my $mmtempo = getMetadataParameter("*MM", $eline);
+			if ($mmtempo =~ /^MM\d+$/) {
+				my $newline = $line;
+				$newline =~ s/MM\d+/$mmtempo/g;
+				if ($newline ne $line) {
+					print STDERR "Changed tempo to $mmtempo in $filename\n";
+					$changed = 1;
+					$filedata[$i] = $newline;
+				}
+			}
+			next;
+		}
 		next if $line !~ /\!\!\!([^\!:]+)\s*:\s*(.*)\s*$/;
 		my $key = $1;
 		my $value = $2;
 		my $index = $HEADER{$key};
 		next if $index =~ /^s*$/;
-		my $newvalue = getMetadataParameter($key, $cline);
+		my $newvalue = getMetadataParameter($key, $eline);
 		next if $value eq $newvalue;
 		$changed = 1;
 		print STDERR "FILE $filename: CHANGING PARAMETER $key FROM $value TO $newvalue\n";
@@ -276,6 +301,18 @@ sub getMetadataParameter {
 		} else {
 			$value .= "; $value2";
 		}
+	} elsif ($parameter =~ /^\*MM$/) {
+		my $pindex1 = $HEADER{"*MM1"};
+		my $value1 = $fields[$pindex1];
+		my $pindex2 = $HEADER{"*MM2"};
+		my $value2 = $fields[$pindex2];
+		$value1 =~ s/\s*[,;]\s*.*//;
+		$value2 =~ s/\s*[,;]\s*.*//;
+		if ($value2 && $value1) {
+			$value = getMMTempo($value1, $value2);
+		} else {
+			$value = "MM121";
+		}
 	} elsif ($parameter =~ /^CDT$/) {
 		my $pindex1 = $HEADER{"CDT1"};
 		my $value1 = $fields[$pindex1];
@@ -318,6 +355,36 @@ sub getMetadataParameter {
 	}
 
 	return $value;
+}
+
+
+
+##############################
+##
+## getMMTempo --
+##
+
+sub getMMTempo {
+	my ($beat, $tempo) = @_;
+	return "MM121" if $tempo !~ /^\d+$/;
+	my $factor = 0;
+	if ($beat eq "half") {
+		$factor = "2.0";
+	} elsif ($beat eq "quarter") {
+		$factor = "1.0";
+	} elsif ($beat eq "eighth") {
+		$factor = "0.5";
+	} elsif ($beat eq "sixteenth") {
+		$factor = "0.5";
+	} elsif ($beat eq "dotted-quarter") {
+		$factor = "1.5";
+	} elsif ($beat eq "dotted-half") {
+		$factor = "3.0";
+	}
+	return "MM121" if $factor == 0;
+	my $qtempo = $tempo * $factor;
+	$qtempo = int($qtempo + 0.5);
+	return "MM$qtempo"
 }
 
 
