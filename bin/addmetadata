@@ -1,0 +1,118 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Jan 16 17:02:22 PST 2020
+# Last Modified: Thu Jan 16 17:02:28 PST 2020
+# Filename:      addmetadata
+# Syntax:        perl 5
+#
+# Description:   Add metadta to Humdrum files, including tempo.
+#
+
+use strict;
+use Getopt::Long;
+
+my $dataColumn = "";
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'd|data-column=s' => \$dataColumn
+);
+
+# Generate TSV URL for master index index and download:
+my $sid = "17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng";
+my $gid = "900860769";
+my $url = "https://docs.google.com/spreadsheets/d/";
+$url .= "$sid/export?gid=$gid&format=tsv";
+
+print "URL = $url\n";
+my @contents = getSpreadsheetContents($url);
+
+my %header = getHeaderIndexes($contents[0]);
+
+# Interesting header text:
+# "Filename"    == The filename base (no suffix).
+# "Example No." == The example number.
+# "Example Start Tsig Beat" == The textual duration of the beat in the
+#                              following field:
+# "Example Start Tsig Mean Beat Rate" == The tempo to add to *MM records.
+
+if ($dataColumn !~ /^\s*$/) {
+	my @output;
+	if ($dataColumn =~ /^\d+$/) {
+		@output = getDataColumn($dataColumn);
+	} else {
+		@output = getDataColumn($header{$dataColumn}, @contents);
+	}
+	print join("\n", @output), "\n";
+	exit(0);
+}
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## getDataColumn -- Get a specific column of data.
+##
+
+sub getDataColumn {
+	my ($index, @data) = @_;
+	my @output;
+	die "Invalid index: $index\n" if $index !~ /^\d+$/;
+	foreach my $line (@data) {
+		my @data = split(/\t/, $line);
+		$output[@output] = $data[$index];
+	}
+	return @output;
+}
+
+
+
+##############################
+##
+## getHeaderIndexes -- Return the header text to column index for data.
+##
+
+sub getHeaderIndexes {
+	my ($line) = @_;
+	my %output;
+	my @fields = split(/\t/, $line);
+	for (my $i=0; $i<@fields; $i++) {
+		my $value = $fields[$i];
+		$value =~ s/^\s+//;
+		$value =~ s/\s+$//;
+		$value =~ s/\s+$/ /g;
+		next if $value =~ /^\s*$/;
+		$output{$value} = $i;
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## getSpreadsheetContents -- Download spread sheet with metadata.
+##     https://docs.google.com/spreadsheets/d/17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng/edit#gid=900860769
+## As a TSV text file:
+##     https://docs.google.com/spreadsheets/d/17rjKQ3lXJHEHAcDfOXTDNX5a0A_jVqwokcaqhd3Ddng/export?gid=900860769&format=tsv
+##
+
+sub getSpreadsheetContents  {
+	my ($url) = @_;
+	my $data = `wget "$url" -O - >& /dev/null`;
+	if ($data =~ /^\s*$/) {
+		print STDERR "CONTENTS: $data\n";
+		die "Problem downloading spreadsheet $url\n";
+	}
+	my @output = split("\n", $data);
+	chomp @output;
+	return @output;
+}
+
+
+
+
