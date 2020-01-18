@@ -16,7 +16,7 @@ hum:	humdrum
 humdrum:
 	for i in musicxml/*.xml; \
 	do \
-		musicxml2hum $$i > kern/$$(basename $$i .xml).krn; \
+		musicxml2hum $$i | autobeam -g > kern/$$(basename $$i .xml).krn; \
 		echo "!!!ONB: Converted from MusicXML on $$(date +'%Y/%m/%d')" >> kern/$$(basename $$i .xml).krn; \
 	done
 	
