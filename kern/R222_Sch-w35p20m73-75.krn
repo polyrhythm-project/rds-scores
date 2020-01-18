@@ -14,7 +14,7 @@
 *	*	*	*	*
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *MM128	*	*MM128	*MM128	*MM128
-=1	=1	=1	=1	=1
+=73	=73	=73	=73	=73
 4r	.	4r	4r	8bn 8aa-X 8dddn
 .	.	.	.	8r
 *	*	*	*8va	*
@@ -30,7 +30,7 @@
 8b-X	.	8r	8eeee-X	8b-X`
 8b-J	.	(16aa-XLL	8fffff-XJ	8b-`J
 .	.	16fnJJ)	.	.
-=2	=2	=2	=2	=2
+=74	=74	=74	=74	=74
 8b-X	.	16fn'LL	8eeee-XL	8b-X`
 .	.	16aa-X'	.	.
 8r	.	(16aa-	8fffff-X	8r
@@ -47,7 +47,7 @@
 *	*	*X8va	*	*
 8b-J	.	16bb'	8fffffJ	8b-`J
 .	.	16g#X'JJ	.	.
-=3	=3	=3	=3	=3
+=75	=75	=75	=75	=75
 8r	.	(16bbLL	16eeeenLL	8r
 .	.	16g#XJJ)	16fffff	.
 8b-X	.	8r	16eeee	8b-X`

@@ -14,11 +14,11 @@
 *C:	*C:
 *M3/4	*M3/4
 *MM100	*MM100
-=1	=1
+=3	=3
 4e 4cc#X	2ee~
 (4A	.
 4e 4cc#	4ee~
-=2	=2
+=4	=4
 4A	(12ggL
 .	12ff
 .	12eeJ
@@ -26,7 +26,7 @@
 .	16cc#XJk
 4A	8.ddL
 .	16eeJk
-=3	=3
+=5	=5
 4d 4b-X	12ffL
 .	12ee
 .	12ddJ
@@ -34,19 +34,19 @@
 .	16aJk
 4d 4f	8.b-XL
 .	16ddJk)
-=4	=4
+=6	=6
 4A	(16cc#XLL
 .	16a)
 .	(16b-X
 .	16ddJJ)
 4c#X 4e	2a
 4A)	.
-=5	=5
+=7	=7
 !!linebreak:original
 (4g 4ccn	2ee~
 4A	.
 4f#X 4cc	4ee~
-=6	=6
+=8	=8
 4A	(12ggL
 .	12ffn
 .	12eeJ
@@ -54,7 +54,7 @@
 .	16cc#XJk
 4A	8.ddL
 .	16eeJk
-=7	=7
+=9	=9
 4e 4a	12ffL
 .	12ee
 .	12ddJ
@@ -62,7 +62,7 @@
 .	16aJk
 4d 4g	8.b-XL
 .	16ddJk)
-=8	=8
+=10	=10
 4A	(16cc#XLL
 .	16a)
 .	(16b-X

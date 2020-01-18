@@ -40,34 +40,40 @@ if ($wget =~ /^\s*$/) {
 # Humdrum reference records mapping with spreadsheet header labels.
 my %RECORD;
 
-$RECORD{"Birth Date"}             = "CDT1";  # run through convertDateToHumdrum();
-$RECORD{"Birth Place"}            = "CBL";   # run through addSpaceAfterComma();
-$RECORD{"Composer Name"}          = "COM";
-$RECORD{"Composition Year"}       = "ODT";   # There is also revision dates included.
-$RECORD{"Conductor"}              = "MCN";   # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
-$RECORD{"Death Date"}             = "CDT2";  # run through convertDateToHumdrum();
-$RECORD{"Death Place"}            = "CDL";   # run through addSpaceAfterComma();
-$RECORD{"Ensemble"}               = "MGN";   # rn through addSpaceAfterSemicolon();
-$RECORD{"Example End Measure"}    = "excerpt-end-measure";
-$RECORD{"Example End Time"}       = "excerpt-end-time";
-$RECORD{"Example No."}            = "example";
-$RECORD{"Example Start Measure"}  = "excerpt-start-measure";
-$RECORD{"Example Start Time"}     = "excerpt-start-time";
-$RECORD{"First Public Performance Year"} = "MPD";
-$RECORD{"First Publication Year"} = "PDT";
-$RECORD{"Genre"}                  = "AGN1";
-$RECORD{"Sub-Genre"}              = "AGN2";
-$RECORD{"Example Start Tsig Beat"}           = "*MM1";
-$RECORD{"Example Start Tsig Mean Beat Rate"} = "*MM2";
-$RECORD{"Nationality"}            = "CNT";   # run through addSpaceAfterComma();
-$RECORD{"Premiere City"}          = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
-$RECORD{"Premiere Date"}          = "MDT";   # Run through convertDateToHumdrum();
-$RECORD{"Soloists"}               = "MPN";  # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
-$RECORD{"Source Work Full Unit"}  = "OMV";  # run through cleanOMV();
-$RECORD{"Work ID"}                = "work";
-$RECORD{"Work Title"}             = "OTL";
+# Reference records to display before start of data:
+$RECORD{"Composer Name"}                     = "COM";
+$RECORD{"Work Title"}                        = "OTL";
+$RECORD{"Source Work Full Unit"}             = "OMV";  # run through cleanOMV();
+$RECORD{"Example No."}                       = "example";
+$RECORD{"Work ID"}                           = "work";
 
-# Column headings that are not real data columns (used to suppress from -l list):
+
+# Reference records to display after end of data:
+$RECORD{"Birth Date"}                        = "CDT1";  # run through convertDateToHumdrum();
+$RECORD{"Death Date"}                        = "CDT2";  # run through convertDateToHumdrum();
+$RECORD{"Birth Place"}                       = "CBL";   # run through addSpaceAfterComma();
+$RECORD{"Death Place"}                       = "CDL";   # run through addSpaceAfterComma();
+$RECORD{"Nationality"}                       = "CNT";   # run through addSpaceAfterComma();
+$RECORD{"Genre"}                             = "AGN1";
+$RECORD{"Sub-Genre"}                         = "AGN2";
+$RECORD{"Conductor"}                         = "MCN";   # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
+$RECORD{"Premiere Date"}                     = "MDT";   # Run through convertDateToHumdrum();
+$RECORD{"Ensemble"}                          = "MGN";   # run through addSpaceAfterSemicolon();
+$RECORD{"Premiere City"}                     = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
+$RECORD{"First Public Performance Year"}     = "MPD";
+$RECORD{"Soloists"}                          = "MPN";  # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
+$RECORD{"Composition Year"}                  = "ODT";   # There is also revision dates included.
+$RECORD{"First Publication Year"}            = "PDT";
+$RECORD{"Example Start Measure"}             = "excerpt-start-measure"; # run through cleanMeasureNumber();
+$RECORD{"Example End Measure"}               = "excerpt-end-measure";  # run through cleanMeasureNumber();
+$RECORD{"Example Start Time"}                = "excerpt-start-time";
+$RECORD{"Example End Time"}                  = "excerpt-end-time";
+
+# Interpretation metadata:
+$RECORD{"Example Start Tsig Beat"}           = "*MM1";  # Used for *MM tempos (tempo in terms of quarter notes)
+$RECORD{"Example Start Tsig Mean Beat Rate"} = "*MM2";  # Used for *MM tempos (tempo in terms of quarter notes)
+
+# Column headings in spreadsheet that are not real data columns (used to suppress from -l list):
 my %DUMMY;
 $DUMMY{"Work Info"}      = 1;
 $DUMMY{"Composer Info"}  = 1;
@@ -108,7 +114,6 @@ if ($urlQ) {
 }
 
 my @CONTENTS = getSpreadsheetContents($url);
-
 
 if ($rawQ) {
 	print join("\n", @CONTENTS), "\n";
@@ -161,12 +166,9 @@ if ($dataColumn !~ /^\s*$/) {
 
 my @filelist = @ARGV;
 
-
 foreach my $file (@filelist) {
 	processFile($file, @CONTENTS);
 }
-
-
 
 exit(0);
 
@@ -189,6 +191,7 @@ sub processFile {
 	if ($basename !~ /^(R|T)(\d+[A-Z]?)_/) {
 		die "PROBLEM WITH FILENAME $basename\n";
 	}
+	my $barstart = -1;
 	my $examplenum = $2;
 	my $eline = getExampleLine($examplenum);
 	open (FILE, $filename) or die "Cannot read $filename\n";
@@ -197,6 +200,16 @@ sub processFile {
 	chomp @filedata;
 	my $changed = 0;
 	my $foundData = 0; # only deal with initial tempo marking
+
+	# Enforce correct names for data files:
+	my $filebase = getMetadataParameter("Filename", $eline);
+	my $realbase = $filename;
+	$realbase =~ s/.*\///;
+	$realbase =~ s/\.krn$//;
+	if ($realbase ne $filebase) {
+		die "Input filename $filename does not match expected name on spreadsheet: $filebase\n";
+	}
+
 	for (my $i = 0; $i<@filedata; $i++) {
 		my $line = $filedata[$i];
 		next if $line =~ /^\s*$/;
@@ -222,6 +235,9 @@ sub processFile {
 		my $index = $HEADER{$key};
 		next if $index =~ /^s*$/;
 		my $newvalue = getMetadataParameter($key, $eline);
+		if ($key eq "excerpt-start-measure") {
+			$barstart = $newvalue;
+		}
 		next if $value eq $newvalue;
 		$changed = 1;
 		print STDERR "FILE $filename: CHANGING PARAMETER $key FROM $value TO $newvalue\n";
@@ -230,7 +246,25 @@ sub processFile {
 		} else {
 			$line = "!!!$key: $newvalue";
 		}
+		if ($key eq "excerpt-start-measure") {
+			$barstart = $newvalue;
+		}
 		$filedata[$i] = $line;
+	}
+
+	if ($barstart > 1) {
+		# if $barstart == 1, then there is nothing to do since barnumbers will start with 1 by default.
+		my $barnum = $barstart;
+		for (my $i = 0; $i<@filedata; $i++) {
+			my $line = $filedata[$i];
+			next if $line !~ /^=(\d+)/;
+			my $currentbar = $1;
+			last if $currentbar == $barnum;
+			$line =~ s/=\d+/=$barnum/g;
+			$filedata[$i] = $line;
+			$changed = 1;
+			$barnum++;
+		}
 	}
 
 	return if !$changed;
@@ -354,9 +388,28 @@ sub getMetadataParameter {
 		return addSpaceAfterSemicolon(addSpaceAfterComma(removeNone($value)));
 	} elsif ($parameter eq "MPN") {
 		return addSpaceAfterSemicolon(addSpaceAfterComma(removeNone($value)));
+	} elsif ($parameter eq "excerpt-start-measure") {
+		return cleanMeasureNumber($value);
+	} elsif ($parameter eq "excerpt-end-measure") {
+		return cleanMeasureNumber($value);
 	}
 
 	return $value;
+}
+
+
+
+##############################
+##
+## cleanMeasureNumber -- Removing any extra qualifiers.  There is one case where a
+##    "b" is appended to the measure number to think about.
+##
+
+sub cleanMeasureNumber {
+	my ($input) = @_;
+	$input =~ s/^\s+//;
+	$input =~ s/[^\d]+$//;
+	return $input;
 }
 
 

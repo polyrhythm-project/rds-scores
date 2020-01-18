@@ -14,7 +14,7 @@
 *C:	*C:	*	*C:	*C:
 *M4/4	*M4/4	*	*M4/4	*M4/4
 *MM264	*MM264	*	*MM264	*MM264
-=1	=1	=1	=1	=1
+=99	=99	=99	=99	=99
 8d'	8.ddd	f	(4F#X	(4ddd
 8r	.	.	.	.
 .	16r	.	.	.
@@ -24,30 +24,30 @@
 4B-X'	4gg' 4bbn 4ggg	.	.	.
 4e-X' 4g	4een' 4gg#X 4eeen	<	(4Fn	(4ccc#X
 *clefF4	*	*	*	*
-=2	=2	=2	=2	=2
+=100	=100	=100	=100	=100
 4G'	4aa' 4ccc#X 4aaa	[	2d-X)	2aaa-X)
 4c#X' 4en	4ff#X' 4aa 4fff#X	.	.	.
 4En'	4ddn' 4ffn 4aan 4dddn	<	(4E	(4cccn
 4B-X' 4d	4aa-X' 4ccc-X 4aaa-X	.	4c)	4aaa-)
-=3	=3	=3	=3	=3
+=101	=101	=101	=101	=101
 4C#X'	4een' 4gg#X 4eeen	<	(4Bn	(4een
 4G#X' 4Bn	4cc#X' 4ee 4ccc#X	.	2g)	2ccc#X)
 4F#X'	4ff#X' 4aa 4fff#X	.	.	.
 4B' 4dn	4dd' 4ffn 4ddd	<	(4f	(4dd
 *X8va	*	*	*	*
-=4	=4	=4	=4	=4
+=102	=102	=102	=102	=102
 4E'	4b' 4dd 4bb	[	2a-X)	2bb)
 *clefG2	*	*	*	*
 4d-X' 4fn	4ffn' 4ddd-X 4fffn	.	.	.
 4dn' 4f#X	4cc#X' 4aa 4ccc#X	<	(4f#X	(4cc#X
 4e-X' 4gn	4a' 4ffn 4aa	.	4a-)	4aa)
 *	*	*	*clefG2	*
-=5	=5	=5	=5	=5
+=103	=103	=103	=103	=103
 4c' 4en	4ee' 4cccn 4eee	[	(4g	(4b
 4d-X' 4fn	4cc' 4aa-X 4ccc	.	2dd)	2fn)
 4dn' 4f#X	4g#X' 4ee 4gg#X	.	.	.
 4B' 4d#X	4dd#X' 4bb 4ddd#X	.	(4d#X	(4g
-=6	=6	=6	=6	=6
+=104	=104	=104	=104	=104
 4c' 4e	4b' 4gg 4bb	.	2b)	2d)
 4d-X' 4f	4g' 4ee-X 4gg	.	.	.
 4dn' 4f#X	4en' 4cc 4een	.	(4c#X	(4e

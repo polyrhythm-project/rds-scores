@@ -14,7 +14,7 @@
 *C:	*C:	*C:	*	*C:	*C:	*C:
 *M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
 *MM160	*MM160	*MM160	*	*MM160	*MM160	*MM160
-=1	=1	=1	=1	=1	=1	=1
+=34	=34	=34	=34	=34	=34	=34
 4CC	4C	12G'L	.	12e-X'L	12g'L	1r
 .	.	12G'J	.	12e-'J	12g'J	.
 .	.	12r	.	12r	12r	.
@@ -24,7 +24,7 @@
 4CC	4C	12G'L	.	12e-'L	12g'L	.
 .	.	12G'J	.	12e-'J	12g'J	.
 .	.	12r	.	12r	12r	.
-=2	=2	=2	=2	=2	=2	=2
+=35	=35	=35	=35	=35	=35	=35
 4AA	4A	12G'L	.	12e-X'L	12g'L	1r
 .	.	12G'J	.	12e-'J	12g'J	.
 .	.	12r	.	12r	12r	.
@@ -34,7 +34,7 @@
 4CC	4C	8r	.	8r	8r	.
 .	.	8G	sf	8e-	8g	.
 4AA	4A	4r	.	4r	4r	.
-=3	=3	=3	=3	=3	=3	=3
+=36	=36	=36	=36	=36	=36	=36
 4AAA	4AA	12G'L	.	12g'L	12b-X'L	12ggL 12bb-X 12ccc-X 12ddd-X 12fff
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd-X 12ee-X 12gg
 .	.	12r	.	12r	12r	12r
@@ -44,7 +44,7 @@
 4AA	4A	8r	.	8r	8r	8r
 .	.	8G 8g 8b-X	.	8G 8g 8b-X	8G 8g 8b-	8g 8b- 8cc 8een 8gg 8bb- 8ccc- 8eeen 8ggg
 4AAA	4AA	4r	.	4r	4r	4r
-=4	=4	=4	=4	=4	=4	=4
+=37	=37	=37	=37	=37	=37	=37
 4CC	4C	12G'L	.	12g'L	12b-X'L	12dd-XL 12ee-X 12gg 12bb-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd- 12ee- 12gg
 .	.	12r	.	12r	12r	12r
@@ -54,7 +54,7 @@
 4CC	4C	12G'L	.	12g'L	12b-'L	12dd-L 12ee-X 12gg 12bb-
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b- 12dd- 12ee- 12gg
 .	.	12r	.	12r	12r	12r
-=5	=5	=5	=5	=5	=5	=5
+=38	=38	=38	=38	=38	=38	=38
 !!linebreak:original
 *M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4
 4AA	4A	12G'L	.	12g'L	12b-X'L	12eenL 12gg 12bb-X 12ccc
@@ -63,7 +63,7 @@
 4AAA	4AA	8r	.	8r	8r	8r
 .	.	8G 8g 8b-X	.	8G 8g 8b-X	8G 8g 8b-	8g 8b- 8dd-X 8ee-X 8gg 8bb- 8ddd-X
 4CC	4C	4r	.	4r	4r	4r
-=6	=6	=6	=6	=6	=6	=6
+=39	=39	=39	=39	=39	=39	=39
 *M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
 4AA	4A	12G'L	.	12g'L	12b-X'L	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd-X 12ee- 12gg
@@ -74,7 +74,7 @@
 4AA	4A	12G'L	.	12g'L	12b-'L	12eenL 12gg 12bb- 12ccc
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b- 12cc 12ee 12gg
 .	.	12r	.	12r	12r	12r
-=7	=7	=7	=7	=7	=7	=7
+=40	=40	=40	=40	=40	=40	=40
 *M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4
 4AAA	4AA	12G'L	.	12g'L	12b-X'L	12ee-XL 12gg 12bb-X 12ddd-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd-X 12ee-X 12gg
@@ -84,7 +84,7 @@
 .	.	12r	.	12r	12r	12r
 4AA	4A	8r	.	8r	8r	8r
 .	.	8G 8g 8b-X	.	8G 8g 8b-X	8G 8g 8b-	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
-=8	=8	=8	=8	=8	=8	=8
+=41	=41	=41	=41	=41	=41	=41
 !!pagebreak:original
 *M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
 4AAA	4AA	4r	.	4r	4r	4r
@@ -97,7 +97,7 @@
 4AAA	4AA	12G'L	.	12g'L	12b-'L	12ee-XL 12gg 12bb- 12ddd-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b- 12dd- 12ee- 12gg
 .	.	12r	.	12r	12r	12r
-=9	=9	=9	=9	=9	=9	=9
+=42	=42	=42	=42	=42	=42	=42
 *M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4
 4CC	4C	12G'L	.	12g'L	12b-X'L	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd-X 12ee- 12gg
@@ -105,7 +105,7 @@
 4AA	4A	8r	.	8r	8r	8r
 .	.	8G 8g 8b-X	.	8G 8g 8b-X	8G 8g 8b-	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
 4AAA	4AA	4r	.	4r	4r	4r
-=10	=10	=10	=10	=10	=10	=10
+=43	=43	=43	=43	=43	=43	=43
 *M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
 4CC	4C	12G'L	.	12g'L	12b-X'L	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
 .	.	12G'J	.	12g'J	12b-'J	12gJ 12b-X 12dd-X 12ee-X 12gg

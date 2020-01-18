@@ -14,7 +14,7 @@
 *F:	*F:	*	*F:	*F:	*F:	*F:	*F:	*	*F:	*F:	*F:	*F:	*	*	*F:	*F:	*F:	*F:	*F:
 *M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM144	*MM144	*	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144	*MM144
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 1r	8cL	.	8dL 8f	4.fff	4.fff	8cL 8d 8f	8b-L 8dd	8xL	4.c	4.cc	4.ff	4een	8cL 8f	8b-XL	8cL	8dL	1r	8b-L 8dd	4eeee
 .	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	8c 8f	8b-	8c	8d	.	8b- 8dd	.
 .	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	4cc	8c 8f	8b-	8c	8d	.	8b- 8dd	4cccc
@@ -23,7 +23,7 @@
 .	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	8c 8f	8b-	8c	8d	.	8b- 8dd	.
 .	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	4G	.	.	4dd	8c 8f	8b-	8c	8d	.	8b- 8dd	4dddd
 .	8cJ	ff	8dJ 8f	8cc 8ccc	8cc 8ccc	8cJ 8d 8f	8b-J 8dd	8xJ	.	8g	8c	.	8cJ 8f	8b-J	8cJ	8dJ	.	8b-J 8dd	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
 *	*	*	*	*8va	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 2r	8cL	.	8dL 8f	3ccc 3cccc	3ccc 3cccc	8cL 8d 8f	8b-L 8dd 8ff	8xL	4.F	4.f	3cc	3cc	8cL 8f	8ddL	8cL	8dL	8b-L 8ff	8b-L 8dd	3cccc
 .	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
@@ -36,7 +36,7 @@
 8r	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
 .	.	.	.	6gg 6ggg	6gg 6ggg	.	.	.	.	.	6g	6gg	.	.	.	.	.	.	6ggg
 8CC	8cJ	.	8dJ 8f	.	.	8cJ 8d 8f	8b-J 8dd 8ff	8xJ	8CC	8C	.	.	8cJ 8f	8ddJ	8cJ	8dJ	8b-J 8ff	8b-J 8dd	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
 *	*	*	*	*X8va	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 3C	8c 8d	.	8d 8f 8b-	3f 3ff	3f 3ff	2c^ 2d 2f 2b-	2dd^ 2gg 2ccc	2x	3C^	3c^	3f	3ff	2e^ 2a	2dd^	2e^	2f^	2dd^ 2ccc	2gg^ 2ccc	3fff
 .	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
