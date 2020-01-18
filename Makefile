@@ -23,3 +23,10 @@ humdrum:
 
 index:
 	bin/makehmdindex > index.hmd
+
+
+meta: metadata
+metadata:
+	bin/polymeta kern/*.krn
+
+

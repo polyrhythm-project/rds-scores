@@ -63,7 +63,7 @@ $RECORD{"Nationality"}            = "CNT";   # run through addSpaceAfterComma();
 $RECORD{"Premiere City"}          = "MLC";   # There is also "Premiere Location" that mostly duplicates.  Run through cleanMLC(); 
 $RECORD{"Premiere Date"}          = "MDT";   # Run through convertDateToHumdrum();
 $RECORD{"Soloists"}               = "MPN";  # run through addSpaceAfterComma(); and addSpaceAfterSemicolon();
-$RECORD{"Source Work Full Unit"}  = "OMV";
+$RECORD{"Source Work Full Unit"}  = "OMV";  # run through cleanOMV();
 $RECORD{"Work ID"}                = "work";
 $RECORD{"Work Title"}             = "OTL";
 
@@ -336,6 +336,8 @@ sub getMetadataParameter {
 	# clean various parameters for Humdrum reference records.
 	if ($parameter eq "MLC") {
 		return cleanMLC($value);
+	} elsif ($parameter eq "OMV") {
+		return cleanOMV($value);
 	} elsif ($parameter eq "CDT") {
 		return $value;
 	} elsif ($parameter eq "MDT") {
@@ -583,6 +585,21 @@ sub reverseIndex {
 	}
 	return %output;
 }
+
+
+
+##############################
+##
+## cleanOMV --
+##
+
+sub cleanOMV {
+	my ($input) = @_;
+	return "" if $input eq "single movement";
+	$input =~ s/\s*:\s*/: /g;
+	return $input;
+}
+
 
 
 ##############################
