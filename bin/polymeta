@@ -282,8 +282,10 @@ sub processFile {
 
 sub getExampleLine {
 	my ($examplenum) = @_;
+	$examplenum =~ s/^0+//;
 	my $index = $EXAMPLEINDEX{$examplenum};
 	if ($index =~ /^\s*$/) {
+		print join("\n", %EXAMPLEINDEX), "\n";
 		die "Error: example >>$examplenum<< not found\n";
 	}
 	my $output = $CONTENTS[$index];
