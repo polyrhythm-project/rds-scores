@@ -2,13 +2,15 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Fri Jan 17 07:26:39 PST 2020
-# Last Modified: Fri Jan 17 07:51:26 PST 2020
+# Last Modified: Sun Jan 19 16:47:25 PST 2020
 # Filename:      addtempoline
 # Syntax:        perl 5
 # vim:           ts=3:nowrap
 #
 # Description:   Add a *MM tempo line to a file if there is non already.
-#                The default tempo is set to 121.
+#                The default tempo is set to 121.  This program needs to be
+#                run before running polymeta in order to insert the correct
+#                tempo (if present in spreadsheet).
 #
 
 use strict;

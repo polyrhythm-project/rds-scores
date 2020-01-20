@@ -6,7 +6,7 @@
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefG2	*
@@ -15,7 +15,7 @@
 *M2/4	*M2/4	*
 *MM107	*MM107	*
 *8ba	*	*
-=122	=122	=122
+=122	=	=
 *^	*	*
 8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
@@ -147,5 +147,5 @@
 !!!excerpt-start-time: 3:44
 !!!excerpt-end-time: 4:02
 !!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
+!!!EEV: 2020/01/19

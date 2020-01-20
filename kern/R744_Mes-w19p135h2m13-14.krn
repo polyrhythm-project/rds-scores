@@ -14,8 +14,8 @@
 *C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112	*MM112
-*	*	*	*	*	*	*	*	*	*	*8va	*8ba	*	*	*
-=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+=47	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*	*	*	*	*	*	*	*	*	*	*8ba	*8va	*	*	*
 8AAAn^L	8AAn^L	8An^L	8An^L	(12D-XL	(16ff#XLL	(16aaLL 16ccc-X	(16eeeLL 16ggg#X	(12GL	(12B-XL 12e-X	8AAAn^L 8AAn	24cccc#XLL	8anL	8eeeL	8ddddL
 .	.	.	.	.	.	.	.	.	.	.	24ggg	.	.	.
 .	.	.	.	.	16ffn)	16gg#X) 16bb-X	16ddd) 16fff#X	.	.	.	.	.	.	.
@@ -46,7 +46,7 @@
 *	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 !!pagebreak:original
-*	*	*	*	*	*	*	*	*	*	*X8va	*X8ba	*	*	*
+*	*	*	*	*	*	*	*	*	*	*X8ba	*X8va	*	*	*
 8BBB^L	8BB^L	8B^L	8B^L	8g	(16f#XLL	(16aLL 16cc-X	(16eeLL 16gg#X	(12gL 12dd-X	(12eenL 12aan	8BB^L 8B	24aanLL	8bL	8eee-XL	8gggg#XL
 .	.	.	.	.	.	.	.	.	.	.	24dd	.	.	.
 .	.	.	.	.	16fn)	16g#X) 16b-X	16dd) 16ff#X	.	.	.	.	.	.	.
@@ -96,5 +96,5 @@
 !!!excerpt-start-time: 1:49
 !!!excerpt-end-time: 1:54
 !!!system-decoration: {(s1,s2)}s3{(s4,s5)}[(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
+!!!EEV: 2020/01/19

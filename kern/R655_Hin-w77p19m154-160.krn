@@ -3,86 +3,86 @@
 !!!OMV: Movement 2: Allegro
 !!!example: 655
 !!!work: Hin-77
-**kern	**kern	**kern	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
-*part2	*part2	*part1	*part1	*part1
-*staff4	*staff3	*staff2	*staff1	*S
-*I"Piano	*	*I"Piano	*	*
-*I'Pno.	*	*I'Pno.	*	*
-*clefF4	*clefG2	*clefF4	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-*MM240	*MM240	*MM240	*MM240	*
-*8va	*	*	*	*
-=154	=154	=154	=154	=154
-2r	(4ddd	1r	8BL 8f#X	.
-.	.	.	8BJ 8b	.
-.	8ggg)	.	4r	.
-.	8r	.	.	.
-*clefG2	*	*	*	*
-(4b	[2gg [2ggg	.	8f#XL 8b	.
-.	.	.	8Bn	.
-8ee)	.	.	8dn 8b	.
-8r	.	.	8BJ	.
-=155	=155	=155	=155	=155
-2ee	4gg] 4ggg]	8AAAL	8eL 8b	.
-.	.	8AA	8BJ	.
-.	(8aaaL	8CC#X	4r	.
-.	8gggJ	8FF#XJ	.	.
-2r	4ddd)	8BBBL	4r	.
-.	.	8BBJ	.	.
-.	4ccc	4r	8aL 8b	.
-.	.	.	8BJ	.
-=156	=156	=156	=156	=156
-2r	(8dddL	4r	8eL 8b	.
-.	8fffJ	.	8B	.
-.	8ggg)	8AAAL	8fn 8b	.
-.	8r	8AAJ	8BJ	.
-(8bL	[2gg [2ggg	8CC#XL	2r	.
-8ddJ	.	8FF#X	.	.
-8ee)	.	8BBB	.	.
-8r	.	8BBJ	.	.
-=157	=157	=157	=157	=157
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*I"Piano	*	*	*I"Piano	*	*
+*I'Pno.	*	*	*I'Pno.	*	*
+*clefF4	*clefG2	*	*clefF4	*clefG2	*
+*k[]	*k[]	*	*k[]	*k[]	*
+*C:	*C:	*	*C:	*C:	*
+*M4/4	*M4/4	*	*M4/4	*M4/4	*
+*MM240	*MM240	*	*MM240	*MM240	*
+=154	=	=	=	=	=
+*	*8va	*	*	*	*
+2r	(4ddd	p	1r	8BL 8f#X	.
+.	.	.	.	8BJ 8b	.
+.	8ggg)	.	.	4r	.
+.	8r	.	.	.	.
+*clefG2	*	*	*	*	*
+(4b	[2gg [2ggg	.	.	8f#XL 8b	pp
+.	.	.	.	8Bn	.
+8ee)	.	.	.	8dn 8b	.
+8r	.	.	.	8BJ	.
+=155	=155	=155	=155	=155	=155
+2ee	4gg] 4ggg]	.	8AAAL	8eL 8b	.
+.	.	.	8AA	8BJ	.
+.	(8aaaL	.	8CC#X	4r	.
+.	8gggJ	.	8FF#XJ	.	.
+2r	4ddd)	.	8BBBL	4r	.
+.	.	.	8BBJ	.	.
+.	4ccc	.	4r	8aL 8b	.
+.	.	.	.	8BJ	.
+=156	=156	=156	=156	=156	=156
+2r	(8dddL	.	4r	8eL 8b	.
+.	8fffJ	.	.	8B	.
+.	8ggg)	.	8AAAL	8fn 8b	.
+.	8r	.	8AAJ	8BJ	.
+(8bL	[2gg [2ggg	.	8CC#XL	2r	.
+8ddJ	.	.	8FF#X	.	.
+8ee)	.	.	8BBB	.	.
+8r	.	.	8BBJ	.	.
+=157	=157	=157	=157	=157	=157
 !!linebreak:original
-2ee	8ggL] 8ggg]	4r	8g#XL 8b	.
-.	(8bbb-X	.	8B	.
-.	8aaa-X	4r	8c#X 8b	.
-.	8gggJ	.	8BJ	.
-2r	4ccc)	8AAAL	8dL 8b	.
-.	.	8AA	8BJ	.
-.	4ddd	8CC#X	4r	.
-.	.	8FF#XJ	.	.
-=158	=158	=158	=158	=158
-2r	(8fffL	8BBBL	4r	.
-.	8bbb-XJ	8BBJ	.	.
-.	8eeee-X)	4r	8gnL 8b	.
-.	8r	.	8BJ	.
-(8ccL	[2ccc [2cccc	4r	8dL 8b	.
-8ffJ	.	.	8B	.
-8bb-X)	.	8AAAL	8d#X 8b	.
-8r	.	8AAJ	8BJ	.
-=159	=159	=159	=159	=159
-(4.aa	8cccL] 8cccc]	8CC#XL	2r	.
-.	(8aaa	8FF#X	.	.
-.	8fff	8BBB	.	.
-8bb-X	8dddJ	8BBJ	.	.
-4.aa	4eeen)	4r	8c#XL 8b	.
-.	.	.	8B	.
-.	(8eeeL	4r	8d 8b	.
-8aa-X	8gggJ	.	8BJ	.
-=160	=160	=160	=160	=160
-*X8va	*	*	*	*
-4gg)	4ee)	8AAAL	8gL 8b	.
-.	.	8AA	8BJ	]
-8aanL	4ee	8CC#X	4r	.
-8eeJ	.	8FF#XJ	.	.
-2ff#X	2b	8BBBL	4r	.
-.	.	8BBJ	.	.
-.	.	8r	8eL 8b	.
-.	.	8BBB	8BJ	.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+2ee	8ggL] 8ggg]	.	4r	8g#XL 8b	.
+.	(8bbb-X	.	.	8B	.
+.	8aaa-X	.	4r	8c#X 8b	.
+.	8gggJ	.	.	8BJ	.
+2r	4ccc)	<	8AAAL	8dL 8b	<
+.	.	.	8AA	8BJ	.
+.	4ddd	.	8CC#X	4r	.
+.	.	.	8FF#XJ	.	.
+=158	=158	=158	=158	=158	=158
+2r	(8fffL	.	8BBBL	4r	.
+.	8bbb-XJ	.	8BBJ	.	.
+.	8eeee-X)	.	4r	8gnL 8b	.
+.	8r	[	.	8BJ	.
+(8ccL	[2ccc [2cccc	.	4r	8dL 8b	[
+8ffJ	.	.	.	8B	.
+8bb-X)	.	.	8AAAL	8d#X 8b	.
+8r	.	.	8AAJ	8BJ	.
+=159	=159	=159	=159	=159	=159
+(4.aa	8cccL] 8cccc]	.	8CC#XL	2r	.
+.	(8aaa	.	8FF#X	.	.
+.	8fff	.	8BBB	.	.
+8bb-X	8dddJ	.	8BBJ	.	.
+4.aa	4eeen)	>	4r	8c#XL 8b	>
+.	.	.	.	8B	.
+.	(8eeeL	.	4r	8d 8b	.
+8aa-X	8gggJ	.	.	8BJ	.
+=160	=160	=160	=160	=160	=160
+*	*X8va	*	*	*	*
+4gg)	4ee)	.	8AAAL	8gL 8b	.
+.	.	.	8AA	8BJ	]
+8aanL	4ee	.	8CC#X	4r	.
+8eeJ	.	.	8FF#XJ	.	.
+2ff#X	2b	]	8BBBL	4r	.
+.	.	.	8BBJ	.	.
+.	.	.	8r	8eL 8b	.
+.	.	.	8BBB	8BJ	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
 !!!CDT: 1895/11/16-1963/12/28
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
@@ -101,5 +101,5 @@
 !!!excerpt-start-time: 2:46
 !!!excerpt-end-time: 2:53
 !!!system-decoration: {(s1,s2)}{(s3,s4)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
+!!!EEV: 2020/01/19
