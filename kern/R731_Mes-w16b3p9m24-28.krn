@@ -6,7 +6,7 @@
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Organ	*	*
 *I'Org.	*	*
 *clefG2	*clefG2	*
@@ -87,8 +87,9 @@
 16B-~Jk 16e- 16f	16b-XJJ	.
 8A-X~ 8d-X 8e-	16anLL	.
 .	16ddnJJ)	.
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: {(s1,s2)}
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
@@ -106,6 +107,5 @@
 !!!excerpt-end-measure: 28
 !!!excerpt-start-time: 1:12
 !!!excerpt-end-time: 1:38
-!!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

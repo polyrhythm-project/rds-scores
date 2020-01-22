@@ -1,0 +1,93 @@
+#!/usr/local/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Tue Jan 21 23:08:54 PST 2020
+# Last Modified: Tue Jan 21 23:08:57 PST 2020
+# Filename:      adddummymetadata
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Adds reference records to Humdrum files that will be filled in by the polymeta
+#                script.  This program cannot be run twice in the same file, but could be generalized
+#                to be run multiple times, and add new reference records as the set of metadata
+#                parameters is expanded.
+#
+
+use strict;
+
+
+my @contents = <>;
+chomp @contents;
+
+my $titleindex = getTitleIndex(@contents);
+
+
+# add header reference records:
+if ($titleindex >= 0) {
+	$contents[$titleindex] .= "\n!!!OMV:\n!!!example:\n!!!work:";
+} else {
+	$contents[0] = "!!!COM:\n!!!OTL:\n!!!OMV:\n!!!example:\n!!!work:\n$contents[0]";
+}
+
+
+for (my $i=0; $i<@contents; $i++) {
+	print $contents[$i], "\n";
+}
+
+
+my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
+$year += 1900;
+$mon++;
+$mon = "0$mon" if $mon < 10;
+$mday = "0$mday" if $mday < 10;
+my $eevdate = "$year/$mon/$mday";
+
+
+# add footer reference records
+
+print <<"EOT";
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: $eevdate
+!!!ONB: Converted from MusicXML on $eevdate
+EOT
+
+
+
+
+
+###########################################################################
+
+
+##############################
+##
+## getTitleIndex == return the line that !!!OTL: is on, or -1 if not found.
+##
+
+sub getTitleIndex {
+	my @contents = @_;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\!\!\!OTL[^:]*:/) {
+			return $i;
+		}
+	}
+	return -1;
+}
+
+

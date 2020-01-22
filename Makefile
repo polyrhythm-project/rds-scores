@@ -16,9 +16,14 @@ hum:	humdrum
 humdrum:
 	for i in musicxml/*.xml; \
 	do \
-		musicxml2hum $$i > kern/$$(basename $$i .xml).krn; \
-		echo "!!!ONB: Converted from MusicXML on $$(date +'%Y/%m/%d')" >> kern/$$(basename $$i .xml).krn; \
+		musicxml2hum $$i | extractx --no-rest | bin/adddummymetadata | bin/removedoublebarline > kern/$$(basename $$i .xml).krn; \
 	done
+	echo "ADDING GROUPING INFORMATION TO SCORES"
+	(cd processing/groupings; make doit)
+	echo "ADDING *MM LINES (BEFORE RUNNING POLYMETA)"
+	(cd kern; ../bin/addmmline *.krn)
+	echo "ADDING METADATA INFORMATION TO SCORES"
+	(cd kern; ../bin/polymeta *.krn >& /dev/null)
 	
 
 index:

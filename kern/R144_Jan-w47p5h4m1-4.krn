@@ -6,7 +6,7 @@
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefG2	*
@@ -52,8 +52,9 @@
 .	24gJ) 24b-	.
 .	8a-X^^J	.
 16E-Jk	.	.
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: {(s1,s2)}
 !!!CDT: 1854/07/03-1928/08/12
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
@@ -71,6 +72,5 @@
 !!!excerpt-end-measure: 41
 !!!excerpt-start-time: 1:08
 !!!excerpt-end-time: 1:13
-!!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

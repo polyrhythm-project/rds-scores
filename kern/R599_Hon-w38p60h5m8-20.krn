@@ -3,140 +3,141 @@
 !!!OMV: Movement 3: Allegro
 !!!example: 599
 !!!work: Hon-38
-**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part12	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
-*staff13	*S	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Piano	*	*I"Bassoon	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Flute	*I"Flute
-*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Pno.	*	*I'Bsn.	*I'Cl.	*I'Cl.	*I'Ob.	*I'Fl.	*I'Fl.
-*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
-*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
-*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*M9/8	*	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8
-*MM189	*	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189
-=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
-4.EEn 4.BBn	mf	4.EEn 4.BBn [4.E	16%3B 16%3d#X	16%3g 16%3een	16%3bn 16%3gg	8DDn' 8FF#X 8GG 8BB	8bn' 8dd#X 8een 8gg	8%9r	8gg'	8bbn'	8ddd#X'	8eeen'	8ggg'
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	16%3r	16%3r	16%3r	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	8BB' 8D	8dd#' 8ee	.	8ee'	8gg'	8bb'	8ddd#X'	8eee'
-4.r	.	2.E]	4.r	4.r	4.r	4r	4r	.	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8FF#' 8GG	8g' 8b	.	8b'	8ee-X'	8ee'	8gg'	8bb'
-4.r	.	.	4.r	4.r	4.r	4r	4r	.	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8DD' 8FF#	8e' 8g	.	8g'	8bn'	8dd#X'	8ee'	8gg'
-=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
-8%9r	.	(2.c	8%9r	8%9r	8%9r	8CCL 8EE	8eL 8fn	8%9r	8fnL	8aL	8ccnL	8eeL	8ffnL
-.	.	.	.	.	.	8EEJ 8GG	8fJ 8a	.	8anJ	8ccJ	8eeJ	8ffJ	8aanJ
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8AAL 8C	8ccL 8ee	.	8eeL	8ffL	8aaL	8cccL	8eeeL
-.	.	.	.	.	.	8GGJ 8AA	8aJ 8cc	.	8ccJ	8eeJ	8ffnJ	8aaJ	8cccJ
-.	.	4.Fn)	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8EE 8GG	8f 8a	.	8a	8cc	8ee	8ff	8aa
-=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
-8%9r	.	([4.E	8%9r	8%9r	8%9r	8GG 8AA#X	8a#X 8cc#X	8%9r	8cc#X	8ee	8ff#X	8bb-X	8ccc#X
-.	.	.	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-.	.	16%3EL]	.	.	.	8EE#XL 8AA#	8a#L 8ee	.	8eeL	8cc#XL	8ff#L	8bb-L	8eeeL
-.	.	.	.	.	.	8FF 8AA#	8a# 8dd	.	8dd	8dd	8ff#	8bb-	8ddd
-.	.	16%3F#XJ	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	8GGJ 8AA#	8a#J 8cc#	.	8cc#J	8eeJ	8ff#J	8bb-J	8ccc#J
-.	.	4.G)	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8GG 8C	8a# 8ee	.	8ee	8dd-X	8ff#	8bb-	8eee
-=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
-4.EE-X	.	(4.A-X	8%9r	8%9r	8%9r	8AA 8C-X	8b-X 8dd-X	4EE-X	8dd-X	8ff	8aa-X	8bb-X	8ddd-X
-.	.	.	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	8r	.	.	.	.	.
-4.r	.	2.Fn)	.	.	.	8D-X 8F-X	8ff 8aa-X	4.r	8aa-X	8bb-X	8ddd-X	8fff	8aaa-X
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8C- 8D-	8dd- 8ff	.	8ff	8aa-X	8bb-X	8ddd-X	8fff
-4.r	.	.	.	.	.	8r	8r	4.r	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8AA 8C-	8b- 8dd-	.	8dd-	8ff	8aa-X	8bb-	8ddd-
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part7	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Piano	*	*	*I"Bassoon	*I"Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*	*I"Flute	*
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Pno.	*	*	*I'Bsn.	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*	*I'Fl.	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*M9/8	*	*M9/8	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*MM189	*	*MM189	*MM189	*	*MM189	*	*MM189	*	*MM189	*	*MM189	*
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+4.EEn 4.BBn	4.EEn 4.BBn [4.E	16%3B 16%3d#X	16%3g 16%3een	16%3bn 16%3gg	8DDn' 8FF#X 8GG 8BB	8bn' 8dd#X 8een 8gg	mf mf	8%9r	8gg'	mf	8bbn'	mf	8ddd#X'	mf	8eeen'	mf	8ggg'	mf
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	16%3r	16%3r	16%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BB' 8D	8dd#' 8ee	.	.	8ee'	.	8gg'	.	8bb'	.	8ddd#X'	.	8eee'	.
+4.r	2.E]	4.r	4.r	4.r	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8FF#' 8GG	8g' 8b	.	.	8b'	.	8ee-X'	.	8ee'	.	8gg'	.	8bb'	.
+4.r	.	4.r	4.r	4.r	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8DD' 8FF#	8e' 8g	.	.	8g'	.	8bn'	.	8dd#X'	.	8ee'	.	8gg'	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+8%9r	(2.c	8%9r	8%9r	8%9r	8CCL 8EE	8eL 8fn	.	8%9r	8fnL	.	8aL	.	8ccnL	.	8eeL	.	8ffnL	.
+.	.	.	.	.	8EEJ 8GG	8fJ 8a	.	.	8anJ	.	8ccJ	.	8eeJ	.	8ffJ	.	8aanJ	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8AAL 8C	8ccL 8ee	.	.	8eeL	.	8ffL	.	8aaL	.	8cccL	.	8eeeL	.
+.	.	.	.	.	8GGJ 8AA	8aJ 8cc	.	.	8ccJ	.	8eeJ	.	8ffnJ	.	8aaJ	.	8cccJ	.
+.	4.Fn)	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8EE 8GG	8f 8a	.	.	8a	.	8cc	.	8ee	.	8ff	.	8aa	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+8%9r	([4.E	8%9r	8%9r	8%9r	8GG 8AA#X	8a#X 8cc#X	.	8%9r	8cc#X	.	8ee	.	8ff#X	.	8bb-X	.	8ccc#X	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	16%3EL]	.	.	.	8EE#XL 8AA#	8a#L 8ee	.	.	8eeL	.	8cc#XL	.	8ff#L	.	8bb-L	.	8eeeL	.
+.	.	.	.	.	8FF 8AA#	8a# 8dd	.	.	8dd	.	8dd	.	8ff#	.	8bb-	.	8ddd	.
+.	16%3F#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	8GGJ 8AA#	8a#J 8cc#	.	.	8cc#J	.	8eeJ	.	8ff#J	.	8bb-J	.	8ccc#J	.
+.	4.G)	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8GG 8C	8a# 8ee	.	.	8ee	.	8dd-X	.	8ff#	.	8bb-	.	8eee	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.EE-X	(4.A-X	8%9r	8%9r	8%9r	8AA 8C-X	8b-X 8dd-X	.	4EE-X	8dd-X	.	8ff	.	8aa-X	.	8bb-X	.	8ddd-X	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
+4.r	2.Fn)	.	.	.	8D-X 8F-X	8ff 8aa-X	.	4.r	8aa-X	.	8bb-X	.	8ddd-X	.	8fff	.	8aaa-X	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8C- 8D-	8dd- 8ff	.	.	8ff	.	8aa-X	.	8bb-X	.	8ddd-X	.	8fff	.
+4.r	.	.	.	.	8r	8r	.	4.r	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8AA 8C-	8b- 8dd-	.	.	8dd-	.	8ff	.	8aa-X	.	8bb-	.	8ddd-	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
 !!pagebreak:original
-8%9r	.	4r	8%9r	8%9r	8%9r	8GG 8BB	8b-X 8dd-X	8%9r	8dd-X	8een	8gg	8bb-X	8ddd-X
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	8r	.	.	.	8BB 8D-X	8dd- 8een	.	8een	8gg	8bb-X	8ddd-X	8eeen
-.	.	(4.E	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8GG 8BB	8b- 8dd-	.	8dd-	8ee	8gg	8bb-	8ddd-
-.	.	4.G)	.	.	.	8r	4r	.	8r	8r	4r	4r	8r
-.	.	.	.	.	.	8r	.	.	8r	8r	.	.	8r
-.	.	.	.	.	.	8BB 8D-	8dd- 8ee	.	8ee	8gg	8bb-	8ddd-	8eee
-=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!
-[4.CC [4.C	.	(2.An	8%9r	8%9r	8%9r	8GGL 8AA#X	8bnL 8ddn	[4.C	8ddnL	8eeL	8ff#XL	8bbnL	8dddnL
-.	.	.	.	.	.	8FFJ 8AA#	8bJ 8ee	.	8eeJ	8ddJ	8ff#J	8bbJ	8eeeJ
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-4.CC_ 4.C_	.	.	.	.	.	8r	8r	4.C_	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8AA#L 8D	8ddL 8aa	.	8aaL	8ff#XL	8bbnL	8dddnL	8aaaL
-.	.	.	.	.	.	8CJ 8D	8eeJ 8ff#X	.	8ff#XJ	8aaJ	8bbJ	8eeeJ	8fff#XJ
-4.CC] 4.C]	.	4.E)	.	.	.	4r	4r	4.C]	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8AA# 8D	8dd 8aa	.	8aa	8gg-X	8bb	8ddd	8aaa
-=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
-[4.BBB-X [4.BB-X	.	(4.D-X	8%9r	8%9r	8%9r	8C-X 8E	8dd-X 8ffn	[4.BB-X	8ffn	8aa-X	8ccc	8ddd-X	8fffn
-.	.	.	.	.	.	4r	4r	.	4r	4r	8r	4r	4r
-.	.	.	.	.	.	.	.	.	.	.	8r	.	.
-4.BBB-_ 4.BB-_	.	4.F	.	.	.	8AAL 8E	8dd-L 8aa-X	4.BB-_	8aa-XL	8ffnL	8cccL	8ddd-L	8aaa-XL
-.	.	.	.	.	.	8BB 8E	8dd- 8gg	.	8gg	8ggn	8ccc	8ddd-	8ggg
-.	.	.	.	.	.	8C-J 8E	8dd-J 8ff	.	8ffJ	8aa-J	8cccJ	8ddd-J	8fffJ
-4.BBB-] 4.BB-]	.	4.A-X	.	.	.	4r	4r	4.BB-]	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8AA 8C-	8cc 8dd-	.	8dd-X	8ff	8gg#X	8ccc	8ddd-X
-=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
-[4.AAA [4.AA	.	2.E	8%9r	8%9r	8%9r	8GG-X 8C	8cc 8gg	[4.AAn	8gg	8ee-X	8aa	8ccc	8ggg
-.	.	.	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-4.AAA_ 4.AA_	.	.	.	.	.	8BB 8C	8cc 8ee-X	4.AA_	8ee-X	8gg	8aa	8ccc	8eee-X
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8GG- 8BB	8an 8cc	.	8cc	8ee-	8ggn	8aa	8ccc
-4.AAA] 4.AA]	.	4.G)	.	.	.	8r	8r	4.AA]	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8BB 8C	8cc 8ee-	.	8ee-	8gg	8aa	8ccc	8eee-
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+8%9r	4r	8%9r	8%9r	8%9r	8GG 8BB	8b-X 8dd-X	.	8%9r	8dd-X	.	8een	.	8gg	.	8bb-X	.	8ddd-X	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	8r	.	.	.	8BB 8D-X	8dd- 8een	.	.	8een	.	8gg	.	8bb-X	.	8ddd-X	.	8eeen	.
+.	(4.E	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8GG 8BB	8b- 8dd-	.	.	8dd-	.	8ee	.	8gg	.	8bb-	.	8ddd-	.
+.	4.G)	.	.	.	8r	4r	.	.	8r	.	8r	.	4r	.	4r	.	8r	.
+.	.	.	.	.	8r	.	.	.	8r	.	8r	.	.	.	.	.	8r	.
+.	.	.	.	.	8BB 8D-	8dd- 8ee	.	.	8ee	.	8gg	.	8bb-	.	8ddd-	.	8eee	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[4.CC [4.C	(2.An	8%9r	8%9r	8%9r	8GGL 8AA#X	8bnL 8ddn	.	[4.C	8ddnL	.	8eeL	.	8ff#XL	.	8bbnL	.	8dddnL	.
+.	.	.	.	.	8FFJ 8AA#	8bJ 8ee	.	.	8eeJ	.	8ddJ	.	8ff#J	.	8bbJ	.	8eeeJ	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+4.CC_ 4.C_	.	.	.	.	8r	8r	.	4.C_	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8AA#L 8D	8ddL 8aa	.	.	8aaL	.	8ff#XL	.	8bbnL	.	8dddnL	.	8aaaL	.
+.	.	.	.	.	8CJ 8D	8eeJ 8ff#X	.	.	8ff#XJ	.	8aaJ	.	8bbJ	.	8eeeJ	.	8fff#XJ	.
+4.CC] 4.C]	4.E)	.	.	.	4r	4r	.	4.C]	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8AA# 8D	8dd 8aa	.	.	8aa	.	8gg-X	.	8bb	.	8ddd	.	8aaa	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+[4.BBB-X [4.BB-X	(4.D-X	8%9r	8%9r	8%9r	8C-X 8E	8dd-X 8ffn	.	[4.BB-X	8ffn	.	8aa-X	.	8ccc	.	8ddd-X	.	8fffn	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	8r	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+4.BBB-_ 4.BB-_	4.F	.	.	.	8AAL 8E	8dd-L 8aa-X	.	4.BB-_	8aa-XL	.	8ffnL	.	8cccL	.	8ddd-L	.	8aaa-XL	.
+.	.	.	.	.	8BB 8E	8dd- 8gg	.	.	8gg	.	8ggn	.	8ccc	.	8ddd-	.	8ggg	.
+.	.	.	.	.	8C-J 8E	8dd-J 8ff	.	.	8ffJ	.	8aa-J	.	8cccJ	.	8ddd-J	.	8fffJ	.
+4.BBB-] 4.BB-]	4.A-X	.	.	.	4r	4r	.	4.BB-]	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8AA 8C-	8cc 8dd-	.	.	8dd-X	.	8ff	.	8gg#X	.	8ccc	.	8ddd-X	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+[4.AAA [4.AA	2.E	8%9r	8%9r	8%9r	8GG-X 8C	8cc 8gg	.	[4.AAn	8gg	.	8ee-X	.	8aa	.	8ccc	.	8ggg	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+4.AAA_ 4.AA_	.	.	.	.	8BB 8C	8cc 8ee-X	.	4.AA_	8ee-X	.	8gg	.	8aa	.	8ccc	.	8eee-X	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8GG- 8BB	8an 8cc	.	.	8cc	.	8ee-	.	8ggn	.	8aa	.	8ccc	.
+4.AAA] 4.AA]	4.G)	.	.	.	8r	8r	.	4.AA]	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8BB 8C	8cc 8ee-	.	.	8ee-	.	8gg	.	8aa	.	8ccc	.	8eee-	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
 !!pagebreak:original
-[4.GGG [4.GG	.	[4.E	8%9r	8%9r	8%9r	8D#X 8F	8een 8gg	[4.GG	8gg	8bbn	8fff	8eee	8ggg
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8BB 8D#	8dd#X 8ee	.	8een	8gg	8ddd#X	8ddd#X	8eeen
-4.GGG_ 4.GG_	.	4.E_	.	.	.	4r	4r	4.GG_	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8FF#X 8GG	8g 8b	.	8b	8ee-X	8gg	8gg	8bb
-4.GGG] 4.GG]	.	4.E]	.	.	.	4r	4r	4.GG]	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8DD 8FF#	8e 8g	.	8g	8bn	8ff#X	8ee	8gg
-=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
-[4.FFF [4.FF	.	([4.c	8%9r	8%9r	8%9r	8EEL 8FFn	8fL 8a	[4.FF	8aL	8ccL	8fnL	8ffL	8aaL
-.	.	.	.	.	.	8FFJ 8AA	8aJ 8cc	.	8ccJ	8ddnJ	8aJ	8aaJ	8cccJ
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-4.FFF_ 4.FF_	.	4.c]	.	.	.	8r	8r	4.FF_	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8FFL 8C	8ccL 8ff	.	8ffL	8ddL	8ccL	8cccL	8fffL
-.	.	.	.	.	.	8AAJ 8C	8ccJ 8dd	.	8ddJ	8ffJ	8ccJ	8cccJ	8dddJ
-4.FFF] 4.FF]	.	4.F)	.	.	.	4r	4r	4.FF]	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8FF 8C	8cc 8ff	.	8ff	8dd	8cc	8ccc	8fff
-=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
-[4.EE-X	.	([4.G	8%9r	8%9r	8%9r	8AA 8BB	8b-X 8dd-X	[4.EE-X	8dd-X	8ff	8b	8bb-X	8ddd-X
-.	.	.	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-4.EE-_	.	16%3GL]	.	.	.	8FF-XL 8BB	8b-L 8ff	4.EE-_	8ffL	8dd-XL	8bL	8bb-L	8fffL
-.	.	.	.	.	.	8GG-X 8BB	8b- 8ee-X	.	8ee-X	8ee-X	8b	8bb-	8eee-X
-.	.	16%3A-XJ	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	8AAJ 8BB	8b-J 8dd-X	.	8dd-XJ	8ffJ	8bJ	8bb-J	8ddd-XJ
-4.EE-]	.	4.B-X)	.	.	.	4r	4r	4.EE-]	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8AA 8BB	8b- 8dd-	.	8dd-	8ff	8b	8bb-	8ddd-
-=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
-[4.DD	.	(4.c	8%9r	8%9r	8%9r	8EE 8BB	8an 8een	[4.DD	8een	8cc	8b	8aan	8eeen
-.	.	.	.	.	.	4r	4r	.	4r	4r	4r	4r	4r
-4.DD_	.	4.Bn	.	.	.	8GG 8BB	8a 8cc	4.DD_	8cc	8een	8b	8aa	8ccc
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8BB 8C	8cc 8ee	.	8ee	8gg	8cc	8ccc	8eee
-4.DD_	.	4.An)	.	.	.	8r	8r	4.DD_	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8C 8E	8ee 8gg	.	8gg	8aa	8ee	8eee	8ggg
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
-4.DD]	.	(4.D	8%9r	8%9r	8%9r	8AA 8D-X	8dd 8aa	4.DD]	8aa	8ff	8dd-X	8ddd	8aaa
-.	.	.	.	.	.	8r	8r	.	8r	8r	8r	8r	8r
-.	.	.	.	.	.	8C 8D-	8dd 8ff	.	8ff	8aa	8dd-	8ddd	8fff
-4.r	.	4.A	.	.	.	4r	4r	4.r	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8AA 8C	8b-X 8dd	.	8dd	8ff	8cc	8bb-X	8ddd
-4.r	.	4.G)	.	.	.	4r	4r	4.r	4r	4r	4r	4r	4r
-.	.	.	.	.	.	8FF 8AA	8a 8b-	.	8b-X	8dd	8a	8aa	8bb-X
-==	==	==	==	==	==	==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+[4.GGG [4.GG	[4.E	8%9r	8%9r	8%9r	8D#X 8F	8een 8gg	.	[4.GG	8gg	.	8bbn	.	8fff	.	8eee	.	8ggg	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8BB 8D#	8dd#X 8ee	.	.	8een	.	8gg	.	8ddd#X	.	8ddd#X	.	8eeen	.
+4.GGG_ 4.GG_	4.E_	.	.	.	4r	4r	.	4.GG_	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8FF#X 8GG	8g 8b	.	.	8b	.	8ee-X	.	8gg	.	8gg	.	8bb	.
+4.GGG] 4.GG]	4.E]	.	.	.	4r	4r	.	4.GG]	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8DD 8FF#	8e 8g	.	.	8g	.	8bn	.	8ff#X	.	8ee	.	8gg	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+[4.FFF [4.FF	([4.c	8%9r	8%9r	8%9r	8EEL 8FFn	8fL 8a	.	[4.FF	8aL	.	8ccL	.	8fnL	.	8ffL	.	8aaL	.
+.	.	.	.	.	8FFJ 8AA	8aJ 8cc	.	.	8ccJ	.	8ddnJ	.	8aJ	.	8aaJ	.	8cccJ	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+4.FFF_ 4.FF_	4.c]	.	.	.	8r	8r	.	4.FF_	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8FFL 8C	8ccL 8ff	.	.	8ffL	.	8ddL	.	8ccL	.	8cccL	.	8fffL	.
+.	.	.	.	.	8AAJ 8C	8ccJ 8dd	.	.	8ddJ	.	8ffJ	.	8ccJ	.	8cccJ	.	8dddJ	.
+4.FFF] 4.FF]	4.F)	.	.	.	4r	4r	.	4.FF]	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8FF 8C	8cc 8ff	.	.	8ff	.	8dd	.	8cc	.	8ccc	.	8fff	.
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+[4.EE-X	([4.G	8%9r	8%9r	8%9r	8AA 8BB	8b-X 8dd-X	.	[4.EE-X	8dd-X	.	8ff	.	8b	.	8bb-X	.	8ddd-X	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+4.EE-_	16%3GL]	.	.	.	8FF-XL 8BB	8b-L 8ff	.	4.EE-_	8ffL	.	8dd-XL	.	8bL	.	8bb-L	.	8fffL	.
+.	.	.	.	.	8GG-X 8BB	8b- 8ee-X	.	.	8ee-X	.	8ee-X	.	8b	.	8bb-	.	8eee-X	.
+.	16%3A-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	8AAJ 8BB	8b-J 8dd-X	.	.	8dd-XJ	.	8ffJ	.	8bJ	.	8bb-J	.	8ddd-XJ	.
+4.EE-]	4.B-X)	.	.	.	4r	4r	.	4.EE-]	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8AA 8BB	8b- 8dd-	.	.	8dd-	.	8ff	.	8b	.	8bb-	.	8ddd-	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+[4.DD	(4.c	8%9r	8%9r	8%9r	8EE 8BB	8an 8een	.	[4.DD	8een	.	8cc	.	8b	.	8aan	.	8eeen	.
+.	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
+4.DD_	4.Bn	.	.	.	8GG 8BB	8a 8cc	.	4.DD_	8cc	.	8een	.	8b	.	8aa	.	8ccc	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8BB 8C	8cc 8ee	.	.	8ee	.	8gg	.	8cc	.	8ccc	.	8eee	.
+4.DD_	4.An)	.	.	.	8r	8r	.	4.DD_	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8C 8E	8ee 8gg	.	.	8gg	.	8aa	.	8ee	.	8eee	.	8ggg	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
+4.DD]	(4.D	8%9r	8%9r	8%9r	8AA 8D-X	8dd 8aa	.	4.DD]	8aa	.	8ff	.	8dd-X	.	8ddd	.	8aaa	.
+.	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	8C 8D-	8dd 8ff	.	.	8ff	.	8aa	.	8dd-	.	8ddd	.	8fff	.
+4.r	4.A	.	.	.	4r	4r	.	4.r	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8AA 8C	8b-X 8dd	.	.	8dd	.	8ff	.	8cc	.	8bb-X	.	8ddd	.
+4.r	4.G)	.	.	.	4r	4r	.	4.r	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	8FF 8AA	8a 8b-	.	.	8b-X	.	8dd	.	8a	.	8aa	.	8bb-X	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]{(s7,s8)}[(s9,s10,s11,s12,s13)]
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France
 !!!CDL: Paris, France
@@ -154,6 +155,5 @@
 !!!excerpt-end-measure: 108
 !!!excerpt-start-time: 2:17
 !!!excerpt-end-time: 2:35
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]{(s7,s8)}[(s9,s10,s11,s12,s13)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

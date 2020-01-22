@@ -3,51 +3,52 @@
 !!!OMV: Movement 4
 !!!example: 161
 !!!work: Deb-13
-**kern	**dynam	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:B	*grp:A	*grp:B
-*part4	*part4	*part3	*part2	*part1
-*staff4	*S	*staff3	*staff2	*staff1
-*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I
-*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I
-*clefF4	*	*clefC3	*clefG2	*clefG2
-*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
-*D-:	*	*D-:	*D-:	*D-:
-*M12/8	*	*M12/8	*M12/8	*M12/8
-*MM108	*	*MM108	*MM108	*MM108
-=25	=25	=25	=25	=25
-16%3g-^L	f	8b-^L	16%3gg-^L	8bb-^L
-.	.	8dd-^	.	8ddd-^
-16%3f^	.	.	16%3ff^	.
-.	.	8an^J	.	8aan^J
-16%3en^	.	(4cc	16%3een^	(4ccc
-16%3e-X^J	.	.	16%3ee-X^J	.
-.	.	8a-X)	.	8aa-X)
-16%3dn^L	.	8bn^L	16%3ddn^L	8bbn^L
-.	.	8gn^	.	8ggn^
-16%3d-X^	.	.	16%3dd-X^	.
-.	.	8b-X^J	.	8bb-X^J
-16%3c^	.	8f#X^L	16%3cc^	8ff#X^L
-.	.	8a-^	.	8aa-^
-16%3Bn^J	.	.	16%3bn^J	.
-.	.	8fn^J	.	8ffn^J
-=26	=26	=26	=26	=26
-16%3c^L	.	8en^L	16%3cc^L	8een^L
-.	.	8gn^	.	8ggn^
-16%3Bn^	.	.	16%3bn^	.
-.	.	8e-X^J	.	8ee-X^J
-16%3B-X^	.	(4g-X	16%3b-X^	(4gg-X
-16%3An^J	.	.	16%3an^J	.
-.	.	8dn)	.	8ddn)
-16%3A-X^L	.	8f^L	16%3a-X^L	8ff^L
-.	.	8c#X^	.	8cc#X^
-16%3Gn^	.	.	16%3gn^	.
-.	.	8en^J	.	8een^J
-16%3G-X^	.	8cn^L	16%3g-X^	8ccn^L
-.	.	8e-X^	.	8ee-X^
-16%3F^J	.	.	16%3f^J	.
-.	.	8Bn^J	.	8bn^J
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*	*D-:	*	*D-:	*
+*M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
+*MM108	*	*MM108	*	*MM108	*	*MM108	*
+=25	=25	=25	=25	=25	=25	=25	=25
+16%3g-^L	f	8b-^L	f	16%3gg-^L	f	8bb-^L	f
+.	.	8dd-^	.	.	.	8ddd-^	.
+16%3f^	.	.	.	16%3ff^	.	.	.
+.	.	8an^J	.	.	.	8aan^J	.
+16%3en^	.	(4cc	.	16%3een^	.	(4ccc	.
+16%3e-X^J	.	.	.	16%3ee-X^J	.	.	.
+.	.	8a-X)	.	.	.	8aa-X)	.
+16%3dn^L	.	8bn^L	.	16%3ddn^L	.	8bbn^L	.
+.	.	8gn^	.	.	.	8ggn^	.
+16%3d-X^	.	.	.	16%3dd-X^	.	.	.
+.	.	8b-X^J	.	.	.	8bb-X^J	.
+16%3c^	.	8f#X^L	.	16%3cc^	.	8ff#X^L	.
+.	.	8a-^	.	.	.	8aa-^	.
+16%3Bn^J	.	.	.	16%3bn^J	.	.	.
+.	.	8fn^J	.	.	.	8ffn^J	.
+=26	=26	=26	=26	=26	=26	=26	=26
+16%3c^L	.	8en^L	.	16%3cc^L	.	8een^L	.
+.	.	8gn^	.	.	.	8ggn^	.
+16%3Bn^	.	.	.	16%3bn^	.	.	.
+.	.	8e-X^J	.	.	.	8ee-X^J	.
+16%3B-X^	.	(4g-X	.	16%3b-X^	.	(4gg-X	.
+16%3An^J	.	.	.	16%3an^J	.	.	.
+.	.	8dn)	.	.	.	8ddn)	.
+16%3A-X^L	.	8f^L	.	16%3a-X^L	.	8ff^L	.
+.	.	8c#X^	.	.	.	8cc#X^	.
+16%3Gn^	.	.	.	16%3gn^	.	.	.
+.	.	8en^J	.	.	.	8een^J	.
+16%3G-X^	.	8cn^L	.	16%3g-X^	.	8ccn^L	.
+.	.	8e-X^	.	.	.	8ee-X^	.
+16%3F^J	.	.	.	16%3f^J	.	.	.
+.	.	8Bn^J	.	.	.	8bn^J	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
 !!!CDT: 1862/08/22-1918/03/25
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
@@ -65,6 +66,5 @@
 !!!excerpt-end-measure: 26
 !!!excerpt-start-time: 1:34
 !!!excerpt-end-time: 1:38
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

@@ -3,46 +3,47 @@
 !!!OMV:
 !!!example: 237B
 !!!work: Ive-31
-**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part15	*part14	*part13	*part12	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
-*staff16	*staff15	*staff14	*staff13	*S	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*	*I"Violin I	*I"Piano	*	*I"Timpani	*I"Triangle	*I"Snare Drum	*I"Trombone	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Bassoon	*I"Clarinet in Bb	*I"Flute
-*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*	*I'Vln. I	*I'Pno.	*	*I'Timp.	*I'Tri.	*I'S. D.	*I'Tbn.	*I'Tpt.	*I'Tpt.	*I'Bsn.	*I'Cl.	*I'Fl.
-*clefF4	*clefF4	*clefC3	*clefG2	*	*clefG2	*clefG2	*clefG2	*clefF4	*clefpercussion0	*clefpercussion0	*clefF4	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2
-*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*ITrd1c2	*	*ITrd1c2	*
-*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[b-e-]	*k[b-e-]	*k[]	*k[b-e-]	*k[]
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8
-*MM100	*MM100	*MM100	*MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100
-=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4.C	4.CC 4.GG#X	4.C#X 4.Gn	[2.G#X^^ [2.d	.	[2.d#X^^ [2.a	4d 4e-X 4g 4b-X	8aL 8b 8cc 8ee 8gg	[2.C	4.x	(4.x	(32BB^^LLL	8c'L	4cc	4.CC^^	8c'L	4cc
-.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	[16D^^JJ)	.	.	.	.	.
-.	.	.	.	.	.	.	16g'L 16a 16cc#X 16ee 16gg#X 16aa	.	.	.	4D]	8cc'	.	.	8cc'	.
-.	.	.	.	.	.	.	[16gJ [16a [16cc# [16ee [16gg# [16aa	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	2ff#X 2aa 2ccc#X 2ddd	8gJ] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	8d'J	8cc#X	.	8d'J	8cc#X
-4BB-X	4BB-X	4A	.	.	.	.	8ggg-XL 8bbb-X 8dddd-X	.	4x	16x)	(4An	8eX'L	8ee-^^L	(4BB-X	8eX'L	8ee-X^^L
-.	.	.	.	.	.	.	.	.	.	(4.x	.	.	.	.	.	.
-.	.	.	.	.	.	.	16gggn'L 16bbbn 16ddddn	.	.	.	.	8e-'J	8ddJ	.	8e-'J	8ddn'J
-.	.	.	.	.	.	.	16ggg'JJ 16bbb 16dddd	.	.	.	.	.	.	.	.	.
-4AA-X	4AA-X	4G 4f#X	.	.	.	.	(4ggg-X 4bbb-X 4dddd-X	.	4x	.	4G)	8d-X'L	8cc#XL	4AA-X)	8d-X'L	8ccn^^L
-.	.	.	8r	[	8r	8ff#'^^ 8aa 8ccc# 8ddd	.	8C]	.	.	.	8c-X'J	8b-J	.	8c-X'J	8b-XJ
-.	.	.	.	.	.	.	.	.	.	16x)	.	.	.	.	.	.
-=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4.C	4.CC 4.GG#X	4.C#X 4.Gn	[2.G#X^^ [2.d	.	[2.d#X^^ [2.a	4ff#X 4aa 4ccc#X 4ddd	8gg-XL) 8bb-X 8ddd-X	[2.C	4.x	(4.x	(32BB^^LLL	8c#X'L	4cc^^	4.CC^^	8c#X'L	4cc^^
-.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	[16D^^JJ)	.	.	.	.	.
-.	.	.	.	.	.	.	8aJ 8b 8cc#X 8ee 8gg#X	.	.	.	4D]	8bX'	.	.	8bX'	.
-.	.	.	.	.	.	4d 4e-X 4g 4b-X	8r	.	.	.	.	8cc#X'J	(8.dd^^L	.	8cc#X'J	(8.dd^^L
-4BB-X	4BB-X	4A	.	.	.	.	16gn'LL 16a 16cc# 16ee 16gg# 16aa	.	4x	16x)	(4An	8BX'L	.	(4BB-X	8BX'L	.
-.	.	.	.	.	.	.	[16gJ [16a [16cc# [16ee [16gg# [16aa	.	.	(4.x	.	.	16ccJk)	.	.	16ccJk)
-.	.	.	.	.	.	[4.ff# [4.aa [4.ccc# [4.ddd	8gJ] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	8A'J	4b-	.	8A'J	4b-X^^
-4AA-X	4AA-X	[8.GL 8.f#X	.	.	.	.	8ggg-X^^L 8bbb-X 8dddd-X	.	4x	.	4G)	8f'L	.	4AA-X)	8f'L	.
-.	.	.	8r	[	8r	.	16gggn'^^L 16bbbn 16ddddn	8C]	.	.	.	8f'J	8b-'	.	8f'J	8b-'
-.	.	16GJk] 16d	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	16x)	.	.	.	.	.	.
-==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part15	*part14	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
+*staff16	*staff15	*staff14	*staff13	*	*staff12	*	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*I"Timpani	*I"Triangle	*I"Snare Drum	*I"Trombone	*	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Bassoon	*I"Clarinet in Bb	*I"Flute
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*I'Timp.	*I'Tri.	*I'S. D.	*I'Tbn.	*	*I'Tpt.	*I'Tpt.	*I'Bsn.	*I'Cl.	*I'Fl.
+*clefF4	*clefF4	*clefC3	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*clefF4	*clefpercussion0	*clefpercussion0	*clefF4	*	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*ITrd1c2	*	*ITrd1c2	*
+*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*	*	*	*k[]	*	*k[b-e-]	*k[b-e-]	*k[]	*k[b-e-]	*k[]
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8	*M7/8	*M7/8	*M7/8
+*MM100	*MM100	*MM100	*MM100	*	*MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4.C	4.CC 4.GG#X	4.C#X 4.Gn	[2.G#X^^ [2.d	> sf	[2.d#X^^ [2.a	> sf	4d 4e-X 4g 4b-X	8aL 8b 8cc 8ee 8gg	[2.C	4.x	(4.x	(32BB^^LLL	sf	8c'L	4cc	4.CC^^	8c'L	4cc
+.	.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[16D^^JJ)	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g'L 16a 16cc#X 16ee 16gg#X 16aa	.	.	.	4D]	.	8cc'	.	.	8cc'	.
+.	.	.	.	.	.	.	.	[16gJ [16a [16cc# [16ee [16gg# [16aa	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	2ff#X 2aa 2ccc#X 2ddd	8gJ] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	.	8d'J	8cc#X	.	8d'J	8cc#X
+4BB-X	4BB-X	4A	.	.	.	.	.	8ggg-XL 8bbb-X 8dddd-X	.	4x	16x)	(4An	.	8eX'L	8ee-^^L	(4BB-X	8eX'L	8ee-X^^L
+.	.	.	.	.	.	.	.	.	.	.	(4.x	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gggn'L 16bbbn 16ddddn	.	.	.	.	.	8e-'J	8ddJ	.	8e-'J	8ddn'J
+.	.	.	.	.	.	.	.	16ggg'JJ 16bbb 16dddd	.	.	.	.	.	.	.	.	.	.
+4AA-X	4AA-X	4G 4f#X	.	.	.	.	.	(4ggg-X 4bbb-X 4dddd-X	.	4x	.	4G)	.	8d-X'L	8cc#XL	4AA-X)	8d-X'L	8ccn^^L
+.	.	.	8r	]	8r	]	8ff#'^^ 8aa 8ccc# 8ddd	.	8C]	.	.	.	.	8c-X'J	8b-J	.	8c-X'J	8b-XJ
+.	.	.	.	.	.	.	.	.	.	.	16x)	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4.C	4.CC 4.GG#X	4.C#X 4.Gn	[2.G#X^^ [2.d	> sf	[2.d#X^^ [2.a	> sf	4ff#X 4aa 4ccc#X 4ddd	8gg-XL) 8bb-X 8ddd-X	[2.C	4.x	(4.x	(32BB^^LLL	sf	8c#X'L	4cc^^	4.CC^^	8c#X'L	4cc^^
+.	.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[16D^^JJ)	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8aJ 8b 8cc#X 8ee 8gg#X	.	.	.	4D]	.	8bX'	.	.	8bX'	.
+.	.	.	.	.	.	.	4d 4e-X 4g 4b-X	8r	.	.	.	.	.	8cc#X'J	(8.dd^^L	.	8cc#X'J	(8.dd^^L
+4BB-X	4BB-X	4A	.	.	.	.	.	16gn'LL 16a 16cc# 16ee 16gg# 16aa	.	4x	16x)	(4An	.	8BX'L	.	(4BB-X	8BX'L	.
+.	.	.	.	.	.	.	.	[16gJ [16a [16cc# [16ee [16gg# [16aa	.	.	(4.x	.	.	.	16ccJk)	.	.	16ccJk)
+.	.	.	.	.	.	.	[4.ff# [4.aa [4.ccc# [4.ddd	8gJ] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	.	8A'J	4b-	.	8A'J	4b-X^^
+4AA-X	4AA-X	[8.GL 8.f#X	.	.	.	.	.	8ggg-X^^L 8bbb-X 8dddd-X	.	4x	.	4G)	.	8f'L	.	4AA-X)	8f'L	.
+.	.	.	8r	]	8r	]	.	16gggn'^^L 16bbbn 16ddddn	8C]	.	.	.	.	8f'J	8b-'	.	8f'J	8b-'
+.	.	16GJk] 16d	.	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	16x)	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)][(s9)]{(s10,s11)}[(s12,s13,s14,s15,s16)]
 !!!CDT: 1874/10/20-1954/05/19
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
@@ -60,6 +61,5 @@
 !!!excerpt-end-measure: 24
 !!!excerpt-start-time: 1:09
 !!!excerpt-end-time: 1:17
-!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)][(s9)]{(s10,s11)}[(s12,s13,s14,s15,s16)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

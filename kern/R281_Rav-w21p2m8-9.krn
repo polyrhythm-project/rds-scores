@@ -6,7 +6,7 @@
 **kern	**kern	**dynam	**kern
 *grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part2	*part1
-*staff3	*staff2	*S	*staff1
+*staff3	*staff2	*	*staff1
 *I"Piano	*	*	*I"Soprano Solo
 *I'Pno.	*	*	*I'S. Solo
 *clefG2	*clefG2	*	*clefG2
@@ -80,8 +80,9 @@
 .	32aa	.	.
 .	32ee	.	.
 .	32ddJJJ)	.	.
-==	==	==	==
+=	=	=	=
 *-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!CDT: 1875/03/07-1937/12/28
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
@@ -99,6 +100,5 @@
 !!!excerpt-end-measure: 9
 !!!excerpt-start-time: 0:46
 !!!excerpt-end-time: 0:59
-!!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

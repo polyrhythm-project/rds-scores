@@ -6,7 +6,7 @@
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefF4	*
@@ -118,8 +118,9 @@
 20DDD	.	.
 .	16dJk	.
 20EEEJJ	.	.
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: {(s1,s2)}
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
@@ -137,6 +138,5 @@
 !!!excerpt-end-measure: 77
 !!!excerpt-start-time: 4:54
 !!!excerpt-end-time: 5:04
-!!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

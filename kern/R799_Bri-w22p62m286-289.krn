@@ -3,57 +3,58 @@
 !!!OMV:
 !!!example: 799
 !!!work: Bri-22
-**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part5	*part5	*part4	*part3	*part2	*part2	*part1	*part1
-*staff7	*S	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Viola	*	*I"Violin 2	*I"Violin 1	*I"Piano	*	*I"Piano	*
-*I'Vla.	*	*I'Vln. 2	*I'Vln. 1	*I'Pno.	*	*I'Pno.	*
-*clefC3	*	*clefG2	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2
-*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*	*D:	*D:	*D:	*D:	*D:	*D:
-*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-*MM252	*	*MM252	*MM252	*MM252	*MM252	*MM252	*MM252
-=286	=286	=286	=286	=286	=286	=286	=286
-2r	.	2ff#t	2ff#t	8r	8r	8D-XL	8d-XL
-.	.	.	.	8a-X^	8aa-X^	8Fn	8fn
-.	.	.	.	8fnL	8ffnL	8E-X	8e-X
-.	.	.	.	8e-XJ	8ee-XJ	8G-XJ	8g-XJ
-8ee-X^	mf	2ee-Xt	2ee-Xt	8g-XL	8gg-XL	8FL	8fL
-8r	.	.	.	8e-	8ee-	8A-X	8a-X
-4r	.	.	.	8d-X	8dd-X	8G-	8g-
-.	.	.	.	8fJ	8ffJ	8B-XJ	8b-XJ
-=287	=287	=287	=287	=287	=287	=287	=287
-8dd-X^	<	2dd-Xt	2dd-Xt	8d-XL	8dd-XL	8A-XL	8a-XL
-8r	.	.	.	8c-X	8cc-X	8c-X	8cc-X
-4r	.	.	.	8e-X	8ee-X	8B-X	8b-X
-.	.	.	.	8c-J	8cc-J	8d-XJ	8dd-XJ
-8cc-X^	[	2cc-XT	2cc-XT	8B-XL	8b-XL	4c-^	4cc-^
-8r	.	.	.	8d-	8dd-	.	.
-*	*	*	*	*	*	*clefG2	*
-4r	.	.	.	8B-	8b-	8c-L	8cc-L
-.	.	.	.	8A-XJ	8a-XJ	8e-XJ	8ee-XJ
-*	*	*	*	*clefF4	*	*	*
-=288	=288	=288	=288	=288	=288	=288	=288
-8b-X^	.	2b-Xt	2b-Xt	8c-XL	8cc-XL	8d-XL	8dd-XL
-8r	.	.	.	8A-X	8a-X	8fn	8ffn
-4r	.	.	.	8G-X	8g-X	8e-X	8ee-X
-.	.	.	.	8B-XJ	8b-XJ	8g-XJ	8gg-XJ
-8a-X^	.	2a-XT	2a-XT	8G-L	8g-L	8fL	8ffL
-8r	.	.	.	8Fn	8fn	8a-X	8aa-X
-4r	.	.	.	8A-X	8a-X	8g-	8gg-
-.	.	.	.	8FJ	8fJ	8b-XJ	8bb-XJ
-=289	=289	=289	=289	=289	=289	=289	=289
-8g-X^	<	2g-Xt	2g-Xt	8E-XL	8e-XL	8a-XL	8aa-XL
-8r	.	.	.	8G-X	8g-X	8cc-X	8ccc-X
-4r	.	.	.	8E-	8e-	8b-X	8bb-X
-.	.	.	.	8D-XJ	8d-XJ	8dd-XJ	8ddd-XJ
-8fn^	.	2fnt	2fnt	8FnL	8fnL	8cc-L	8ccc-L
-8r	.	.	.	8D-	8d-	8ee-X	8eee-X
-4r	.	.	.	8C-X	8c-X	8dd-	8ddd-
-.	.	.	.	8E-J	8e-J	8ffnJ	8fffnJ
-==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff7	*	*staff6	*staff5	*staff4	*staff3	*	*staff2	*staff1	*
+*I"Viola	*	*I"Violin 2	*I"Violin 1	*I"Piano	*	*	*I"Piano	*	*
+*I'Vla.	*	*I'Vln. 2	*I'Vln. 1	*I'Pno.	*	*	*I'Pno.	*	*
+*clefC3	*	*clefG2	*clefG2	*clefG2	*clefG2	*	*clefF4	*clefG2	*
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*
+*D:	*	*D:	*D:	*D:	*D:	*	*D:	*D:	*
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*
+*MM252	*	*MM252	*MM252	*MM252	*MM252	*	*MM252	*MM252	*
+=286	=286	=286	=286	=286	=286	=286	=286	=286	=286
+2r	.	2ff#t	2ff#t	8r	8r	.	8D-XL	8d-XL	.
+.	.	.	.	8a-X^	8aa-X^	.	8Fn	8fn	.
+.	.	.	.	8fnL	8ffnL	.	8E-X	8e-X	.
+.	.	.	.	8e-XJ	8ee-XJ	.	8G-XJ	8g-XJ	.
+8ee-X^	mf	2ee-Xt	2ee-Xt	8g-XL	8gg-XL	.	8FL	8fL	.
+8r	.	.	.	8e-	8ee-	.	8A-X	8a-X	.
+4r	.	.	.	8d-X	8dd-X	.	8G-	8g-	.
+.	.	.	.	8fJ	8ffJ	.	8B-XJ	8b-XJ	.
+=287	=287	=287	=287	=287	=287	=287	=287	=287	=287
+8dd-X^	.	2dd-Xt	2dd-Xt	8d-XL	8dd-XL	<	8A-XL	8a-XL	.
+8r	.	.	.	8c-X	8cc-X	.	8c-X	8cc-X	.
+4r	.	.	.	8e-X	8ee-X	.	8B-X	8b-X	.
+.	.	.	.	8c-J	8cc-J	.	8d-XJ	8dd-XJ	.
+8cc-X^	.	2cc-XT	2cc-XT	8B-XL	8b-XL	[	4c-^	4cc-^	.
+8r	.	.	.	8d-	8dd-	.	.	.	.
+*	*	*	*	*	*	*	*clefG2	*	*
+4r	.	.	.	8B-	8b-	.	8c-L	8cc-L	.
+.	.	.	.	8A-XJ	8a-XJ	.	8e-XJ	8ee-XJ	.
+*	*	*	*	*clefF4	*	*	*	*	*
+=288	=288	=288	=288	=288	=288	=288	=288	=288	=288
+8b-X^	.	2b-Xt	2b-Xt	8c-XL	8cc-XL	.	8d-XL	8dd-XL	.
+8r	.	.	.	8A-X	8a-X	.	8fn	8ffn	.
+4r	.	.	.	8G-X	8g-X	.	8e-X	8ee-X	.
+.	.	.	.	8B-XJ	8b-XJ	.	8g-XJ	8gg-XJ	.
+8a-X^	.	2a-XT	2a-XT	8G-L	8g-L	.	8fL	8ffL	.
+8r	.	.	.	8Fn	8fn	.	8a-X	8aa-X	.
+4r	.	.	.	8A-X	8a-X	.	8g-	8gg-	.
+.	.	.	.	8FJ	8fJ	.	8b-XJ	8bb-XJ	.
+=289	=289	=289	=289	=289	=289	=289	=289	=289	=289
+8g-X^	.	2g-Xt	2g-Xt	8E-XL	8e-XL	<	8a-XL	8aa-XL	<
+8r	.	.	.	8G-X	8g-X	.	8cc-X	8ccc-X	.
+4r	.	.	.	8E-	8e-	.	8b-X	8bb-X	.
+.	.	.	.	8D-XJ	8d-XJ	.	8dd-XJ	8ddd-XJ	.
+8fn^	.	2fnt	2fnt	8FnL	8fnL	.	8cc-L	8ccc-L	.
+8r	.	.	.	8D-	8d-	.	8ee-X	8eee-X	.
+4r	.	.	.	8C-X	8c-X	.	8dd-	8ddd-	.
+.	.	.	.	8E-J	8e-J	.	8ffnJ	8fffnJ	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}{(s3,s4)}[(s5,s6,s7)]
 !!!CDT: 1913/11/22-1976/12/04
 !!!CBL: Lowestoft, England
 !!!CDL: Aldeburgh, England
@@ -71,6 +72,5 @@
 !!!excerpt-end-measure: 289
 !!!excerpt-start-time: 12:48
 !!!excerpt-end-time: 12:53
-!!!system-decoration: {(s1,s2)}{(s3,s4)}[(s5,s6,s7)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

@@ -3,56 +3,57 @@
 !!!OMV: Movement 3
 !!!example: 525
 !!!work: Mau-94
-**kern	**dynam	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:A
-*part3	*part3	*part2	*part2	*part1
-*staff4	*S	*staff3	*staff2	*staff1
-*I"Violoncello	*	*I"Piano	*	*I"Violin I
-*I'Vc.	*	*I'Pno.	*	*I'Vln. I
-*clefF4	*	*clefF4	*clefG2	*clefG2
-*k[]	*	*k[]	*k[]	*k[]
-*C:	*	*C:	*C:	*C:
-*M2/4	*	*M2/4	*M2/4	*M2/4
-*MM120	*	*MM120	*MM120	*MM120
+**kern	**kern	**kern	**dynam	**kern
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
+*part3	*part2	*part2	*part2	*part1
+*staff4	*staff3	*staff2	*	*staff1
+*I"Violoncello	*I"Piano	*	*	*I"Violin I
+*I'Vc.	*I'Pno.	*	*	*I'Vln. I
+*clefF4	*clefF4	*clefG2	*	*clefG2
+*k[]	*k[]	*k[]	*	*k[]
+*C:	*C:	*C:	*	*C:
+*M2/4	*M2/4	*M2/4	*	*M2/4
+*MM120	*MM120	*MM120	*	*MM120
 =195	=195	=195	=195	=195
-4c~	.	16FFLL	16cLL	4ccc~
-.	.	16C	16f	.
-.	.	16F	16a-X	.
-.	.	16CJJ	16cJJ	.
-8r	.	16FLL	16fLL	8r
-.	.	16G	16an	.
-16cLL	.	16FF	16c	(16cccLL
-16AJJ	.	16CJJ	16fJJ	16aaJJ)
+4c~	16FFLL	16cLL	.	4ccc~
+.	16C	16f	.	.
+.	16F	16a-X	.	.
+.	16CJJ	16cJJ	.	.
+8r	16FLL	16fLL	.	8r
+.	16G	16an	.	.
+16cLL	16FF	16c	.	(16cccLL
+16AJJ	16CJJ	16fJJ	.	16aaJJ)
 =196	=196	=196	=196	=196
-8cL	.	16FLL	16a-XLL	8cccL
-.	.	16C	16c	.
-8cJ	.	16F	16f	16cccL
-.	.	16GJJ	16anJJ	16aJJ
+8cL	16FLL	16a-XLL	.	8cccL
+.	16C	16c	.	.
+8cJ	16F	16f	.	16cccL
+.	16GJJ	16anJJ	.	16aJJ
 *clefG2	*	*	*	*
-(8BL	.	16FFLL	16cLL	16dddLL
-.	.	16C	16f	16a
-8dJ)	.	16F	16a-X	16eee
-.	.	16CJJ	16cJJ	16aJJ
+(8BL	16FFLL	16cLL	.	16dddLL
+.	16C	16f	.	16a
+8dJ)	16F	16a-X	.	16eee
+.	16CJJ	16cJJ	.	16aJJ
 =197	=197	=197	=197	=197
-(8AL	.	16FLL	16fLL	16cccLL
-.	.	16G	16an	16aJ
-8BJ)	.	16FF	16c	8ddd~J
-.	.	16CJJ	16fJJ	.
-8r	.	16FLL	16a-XLL	8r
-.	.	16C	16c	.
-(8A	.	16F	16f	16cccLL
-.	.	16GJJ	16anJJ	16aJJ
+(8AL	16FLL	16fLL	.	16cccLL
+.	16G	16an	.	16aJ
+8BJ)	16FF	16c	.	8ddd~J
+.	16CJJ	16fJJ	.	.
+8r	16FLL	16a-XLL	.	8r
+.	16C	16c	.	.
+(8A	16F	16f	.	16cccLL
+.	16GJJ	16anJJ	.	16aJJ
 =198	=198	=198	=198	=198
-8BL	<	16FFLL	16cLL	16cccLL
-.	.	16C	16f	16a
-8dJ	.	16F	16a-X	16ddd
-.	.	16CJJ	16cJJ	16aJJ
-8eL)	.	16FLL	16fLL	16fffLL
-.	.	16G	16an	16a
-8AJ	.	16FF	16c	16ccc
-.	.	16CJJ	16fJJ	16aJJ
-==	==	==	==	==
+8BL	16FFLL	16cLL	<	16cccLL
+.	16C	16f	.	16a
+8dJ	16F	16a-X	.	16ddd
+.	16CJJ	16cJJ	.	16aJJ
+8eL)	16FLL	16fLL	.	16fffLL
+.	16G	16an	.	16a
+8AJ	16FF	16c	.	16ccc
+.	16CJJ	16fJJ	.	16aJJ
+=	=	=	=	=
 *-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}s4
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -70,6 +71,5 @@
 !!!excerpt-end-measure: 198
 !!!excerpt-start-time: 3:29
 !!!excerpt-end-time: 3:34
-!!!system-decoration: s1{(s2,s3)}s4
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

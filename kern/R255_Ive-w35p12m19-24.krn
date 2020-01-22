@@ -60,8 +60,9 @@
 [16E-LL	8CCJ 8GG	16A	8B-X 8d	8ddd
 16DJJ	.	[16CJJ 16A-X 16B-	.	.
 *v	*v	*	*	*
-==	==	==	==
+=	=	=	=
 *-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
 !!!CDT: 1874/10/20-1954/05/19
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
@@ -79,6 +80,5 @@
 !!!excerpt-end-measure: 24
 !!!excerpt-start-time: 0:19
 !!!excerpt-end-time: 0:24
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

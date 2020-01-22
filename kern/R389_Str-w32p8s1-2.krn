@@ -97,8 +97,9 @@
 16f#	8gJ)	16d	.
 16AJJ	.	16cJJ	.
 *	*v	*v	*
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
@@ -116,6 +117,5 @@
 !!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:25
 !!!excerpt-end-time: 0:37
-!!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

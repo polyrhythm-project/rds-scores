@@ -3,38 +3,39 @@
 !!!OMV:
 !!!example: 131
 !!!work: Jan-43
-**kern	**dynam	**kern
-*grp:A	*grp:A	*grp:B
-*part3	*part3	*part1
-*staff3	*S	*staff1
-*I"BASS 1	*	*I"TENOR 1
-*I'B.	*	*I'T.
-*clefF4	*	*clefGv2
-*k[]	*	*k[]
-*C:	*	*C:
-*M3/4	*	*M3/4
-*MM252	*	*MM252
-=1	=1	=1
-4B-X	.	4r
-4B-	pp	6E-X 6A-X
-.	.	6G
-4B-	.	.
-.	.	6G
-=2	=2	=2
-4.B-X	.	2.r
-8B-	.	.
-4B-	.	.
-=3	=3	=3
-8%3B-X	.	4r
-.	.	6c 6f
-8%3B-	.	.
-.	.	6e-X
-.	.	6e-
-=4	=4	=4
-8%3B-X	.	2.r
-8%3B-	.	.
-==	==	==
-*-	*-	*-
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*part3	*part1	*part1
+*staff3	*	*staff1	*
+*I"BASS 1	*	*I"TENOR 1	*
+*I'B.	*	*I'T.	*
+*clefF4	*	*clefGv2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M3/4	*	*M3/4	*
+*MM252	*	*MM252	*
+=1	=1	=1	=1
+4B-X	f	4r	.
+4B-	.	6E-X 6A-X	pp
+.	.	6G	.
+4B-	.	.	.
+.	.	6G	.
+=2	=2	=2	=2
+4.B-X	.	2.r	.
+8B-	.	.	.
+4B-	.	.	.
+=3	=3	=3	=3
+8%3B-X	.	4r	.
+.	.	6c 6f	.
+8%3B-	.	.	.
+.	.	6e-X	.
+.	.	6e-	.
+=4	=4	=4	=4
+8%3B-X	.	2.r	.
+8%3B-	.	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
 !!!CDT: 1854/07/03-1928/08/12
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
@@ -52,6 +53,5 @@
 !!!excerpt-end-measure: 4
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:03
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

@@ -3,70 +3,71 @@
 !!!OMV:
 !!!example: 130
 !!!work: Jan-33
-**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part14	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
-*staff14	*S	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Violin	*I"Timpani	*I"Trombone	*I"Horn in F	*I"Bassoon	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Flute
-*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Vln.	*I'Timp.	*I'Tbn.	*I'Hn.	*I'Bsn.	*I'B. Cl.	*I'Cl.	*I'Ob.	*I'Fl.
-*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*clefF4	*clefF4	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2
-*ITrd0c0	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*ITrd1c2	*	*
-*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*	*E-:	*E-:	*E-:	*E-:	*E-:	*	*E-:	*	*E-:	*E-:	*E-:	*E-:	*E-:
-*M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
-*MM102	*	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102	*MM102
-=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
-4.An 4.Bn 4.d#X	ff	4.e-	4.cc-Xt	4.ccc-Xt	4.ccc-Xt	4.ff	4.E-X	4.E- 4.A- 4.c	8e-X	[4.BB-- [4.C-X	[4.E-	[4.bbXt	[4.bbnt	[4.bbnt
-.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
-=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-4.r	<	4.r	4.cc-X	4.ccc-X	4.ccc-X	4.r	4.E-X	4.r	4.r	4.BB--_ 4.C-_	4.E-_	4.bb_	4.bb_	4.bb_
-=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-4.r	<	4.r	4.cc-X	4.ccc-X	4.ccc-X	4.r	4.E-X	4.r	4.r	4.BB--_ 4.C-_	4.E-_	4.bb_	4.bb_	4.bb_
-=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||
-*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]
-*C:	*	*C:	*C:	*C:	*C:	*C:	*	*C:	*	*C:	*C:	*C:	*C:	*C:
-4.r	<	4.r	4.b	4.b	4.bb	4.r	4.E-X	4.r	4.r	4.BB--_ 4.C-_	4.E-_	4.bb_	4.bb_	4.bb_
-=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
-4.r	f	4.r	64%3gLLL	64%3gLLL	64%3ggLLL	4.r	64%3BBnLLL	4.r	4.r	(4.BB--] 4.C-]	4.E-_	(16%3bbL_	4.bb_	(16%3bbL_
-.	.	.	64%3a	64%3a	64%3aa	.	64%3BB	.	.	.	.	.	.	.
-.	.	.	64%3b	64%3b	64%3bb	.	64%3BB	.	.	.	.	.	.	.
-.	.	.	64%3cc#X	64%3cc#X	64%3ccc#X	.	64%3BB	.	.	.	.	.	.	.
-.	.	.	64%3b	64%3b	64%3bb	.	64%3BB	.	.	.	.	64%3bbLL]	.	64%3bbLL]
-.	.	.	64%3cc#	64%3cc#	64%3ccc#	.	64%3BB	.	.	.	.	64%3ccc#X	.	64%3ccc#X
-.	.	.	64%3dd#X	64%3dd#X	64%3ddd#X	.	64%3BB	.	.	.	.	64%3ddd	.	64%3ddd#X
-.	.	.	64%3eeJJJ	64%3eeJJJ	64%3eeeJJJ	.	64%3BBJJJ	.	.	.	.	64%3eeeXJJJ)	.	64%3eeeJJJ)
-=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part14	*part14	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff8	*	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin	*I"Timpani	*	*I"Trombone	*	*I"Horn in F	*I"Bassoon	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*I'Timp.	*	*I'Tbn.	*	*I'Hn.	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefF4	*	*clefG2	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*	*k[b-e-a-]	*	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*	*E-:	*	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*MM102	*	*MM102	*MM102	*	*MM102	*	*MM102	*	*MM102	*MM102	*	*MM102	*	*MM102	*MM102	*	*MM102	*	*MM102	*	*MM102	*	*MM102	*
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+4.An 4.Bn 4.d#X	.	4.e-	4.cc-Xt	ff	4.ccc-Xt	ff	4.ccc-Xt	ff	4.ff	4.E-X	f	4.E- 4.A- 4.c	<[	8e-X	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXt	ff	[4.bbnt	ff	[4.bbnt	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+4.r	.	4.r	4.cc-X	<	4.ccc-X	<	4.ccc-X	<	4.r	4.E-X	.	4.r	.	4.r	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_	.	4.bb_	.	4.bb_	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+4.r	.	4.r	4.cc-X	.	4.ccc-X	.	4.ccc-X	.	4.r	4.E-X	<	4.r	.	4.r	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_	.	4.bb_	.	4.bb_	.
+=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||
+*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+4.r	.	4.r	4.b	[	4.b	[	4.bb	[	4.r	4.E-X	[[	4.r	.	4.r	4.BB--_ 4.C-_	.	4.E-_	<[	4.bb_	<[	4.bb_	<[	4.bb_	<[
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+4.r	.	4.r	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	4.r	64%3BBnLLL	< f	4.r	.	4.r	(4.BB--] 4.C-]	.	4.E-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
+.	.	.	64%3a	.	64%3a	.	64%3aa	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	64%3b	.	64%3b	.	64%3bb	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	64%3cc#X	.	64%3cc#X	.	64%3ccc#X	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	64%3b	.	64%3b	.	64%3bb	.	.	64%3BB	.	.	.	.	.	.	.	.	64%3bbLL]	.	.	.	64%3bbLL]	.
+.	.	.	64%3cc#	.	64%3cc#	.	64%3ccc#	.	.	64%3BB	.	.	.	.	.	.	.	.	64%3ccc#X	.	.	.	64%3ccc#X	.
+.	.	.	64%3dd#X	.	64%3dd#X	.	64%3ddd#X	.	.	64%3BB	.	.	.	.	.	.	.	.	64%3ddd	.	.	.	64%3ddd#X	.
+.	.	.	64%3eeJJJ	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	64%3BBJJJ	[[	.	.	.	.	.	.	.	64%3eeeXJJJ)	.	.	.	64%3eeeJJJ)	.
+=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
 !!pagebreak:original
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*
-4G	f	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4BB^^)	[4.GG^^	8E-^^]	8eee-^^	8bb^^]	8ddd#XL
-.	.	.	.	.	.	.	.	.	.	.	.	8r	8r	8r	8bb
-.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	8r	.	8r	8r	8r	8ddd#J
-=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-4G	.	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.GG^^_	4.r	4.r	4.r	8ccc#XL
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa
-.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J
-=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-4G	.	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.GG^^_	4.r	4.r	4.r	8bbL
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg
-.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ
-=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
-4G	ff	16%3r	4.r	64%3gLLL	64%3ggLLL	4.r	4.r	4.r	4.r	4.r	4.GG^^]	4.r	4.r	4.r	4.bb]
-.	.	.	.	64%3a	64%3aa	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	64%3b	64%3bb	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	64%3cc#X	64%3ccc#X	.	.	.	.	.	.	.	.	.	.
-.	.	16%3BB 16%3D#X	.	64%3b	64%3bb	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	64%3cc#	64%3ccc#	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	64%3dd#X	64%3ddd#X	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	64%3eeJJJ	64%3eeeJJJ	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*
-=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+4G	f	16%3r	4.r	.	4.r	.	4.r	.	4.r	4.r	.	4.r	.	4.r	4BB^^)	[4.GG^^	.	8E-^^]	.	8eee-^^	.	8bb^^]	.	8ddd#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8bb	.
+.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	8r	.	8r	.	8ddd#J	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+4G	.	16%3r	4.r	.	4.r	.	4.r	.	4.r	4.r	.	4.r	.	4.r	4.r	4.GG^^_	.	4.r	.	4.r	.	4.r	.	8ccc#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
+.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+4G	.	16%3r	4.r	.	4.r	.	4.r	.	4.r	4.r	.	4.r	.	4.r	4.r	4.GG^^_	.	4.r	.	4.r	.	4.r	.	8bbL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.
+.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+4G	.	16%3r	4.r	.	64%3gLLL	ff	64%3ggLLL	ff	4.r	4.r	.	4.r	.	4.r	4.r	4.GG^^]	.	4.r	.	4.r	.	4.r	.	4.bb]	.
+.	.	.	.	.	64%3a	.	64%3aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	64%3b	.	64%3bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	64%3cc#X	.	64%3ccc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16%3BB 16%3D#X	.	.	64%3b	.	64%3bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	64%3cc#	.	64%3ccc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	64%3dd#X	.	64%3ddd#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
 !!!CDT: 1854/07/03-1928/08/12
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
@@ -84,6 +85,5 @@
 !!!excerpt-end-measure: 71
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:36
-!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

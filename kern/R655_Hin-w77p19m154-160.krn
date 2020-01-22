@@ -14,8 +14,8 @@
 *C:	*C:	*	*C:	*C:	*
 *M4/4	*M4/4	*	*M4/4	*M4/4	*
 *MM240	*MM240	*	*MM240	*MM240	*
-=154	=	=	=	=	=
 *	*8va	*	*	*	*
+=154	=154	=154	=154	=154	=154
 2r	(4ddd	p	1r	8BL 8f#X	.
 .	.	.	.	8BJ 8b	.
 .	8ggg)	.	.	4r	.
@@ -81,8 +81,9 @@
 .	.	.	8BBJ	.	.
 .	.	.	8r	8eL 8b	.
 .	.	.	8BBB	8BJ	.
-==	==	==	==	==	==
+=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}{(s3,s4)}
 !!!CDT: 1895/11/16-1963/12/28
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
@@ -100,6 +101,5 @@
 !!!excerpt-end-measure: 160
 !!!excerpt-start-time: 2:46
 !!!excerpt-end-time: 2:53
-!!!system-decoration: {(s1,s2)}{(s3,s4)}
-!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
-!!!EEV: 2020/01/19
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

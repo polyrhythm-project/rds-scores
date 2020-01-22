@@ -6,7 +6,7 @@
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefF4	*
@@ -64,7 +64,7 @@
 8r	8c#'J	16c#	.
 .	.	16BJJ	.
 =8	=8	=8	=8
-8c#' 8d#	8f#'L	16f#LL	>
+8c#' 8d#	8f#'L	16f#LL	[ >
 .	.	16A#	.
 8r	8d#'	16d#	.
 .	.	16A#	.
@@ -79,8 +79,9 @@
 .	.	24c#	.
 .	.	24F#JJ	.
 *	*v	*v	*
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: {(s1,s2)}
 !!!CDT: 1876/11/23-1946/11/14
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
@@ -98,6 +99,5 @@
 !!!excerpt-end-measure: 8
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:06
-!!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

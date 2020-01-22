@@ -3,63 +3,64 @@
 !!!OMV: Act I, Scene 3
 !!!example: 218
 !!!work: Sch-33
-**kern	**kern	**dynam	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A
-*part5	*part5	*part5	*part4	*part3	*part2	*part1
-*staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
-*I"Piano	*	*	*I"Piano	*I"Tenor	*I"Alto	*I"Soprano
-*I'Pno.	*	*	*I'Pno.	*I'T.	*I'A.	*I'S.
-*clefF4	*clefG2	*	*clefG2	*clefGv2	*clefG2	*clefG2
-*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
-*	*	*	*	*	*	*
-*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
-*MM160	*MM160	*	*MM160	*MM160	*MM160	*MM160
-=139	=139	=139	=139	=139	=139	=139
-*^	*	*	*	*	*	*
-4ryy	(4G#X	8e-XL	p	4r	4G#X	(8e-XL	4r
-.	.	8dJ	.	.	.	8dnJ)	.
-4ryy	4Bn	8b-XL	p	(8ffn^L	4Bn	4d	8b-XL
-.	.	8anJ	.	8ddn'J) 8gg-X	.	.	8anJ
-8r	4Gn	8fnL	.	4r	4Gn	(8fnL	8an
-(8B-X	.	8enJ	.	.	.	8enJ)	8r
-*v	*v	*	*	*	*	*	*
-=140	=140	=140	=140	=140	=140	=140
-*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4
-*^	*	*	*	*	*	*
-4An)	4F#X	8dd-XL	.	(8ddn^L	4F#X	4en	8dd-XL
-.	.	8ccnJ	.	8cc#X'J) 8ggn	.	.	8ccnJ
-8r	4Gn)	8ccL	<	4r	4Gn	8r	8ccL
-(8E-X	.	8dd-J	.	.	.	8fn	8dd-J
-*v	*v	*	*	*	*	*	*
-=141	=141	=141	=141	=141	=141	=141
-*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
-*^	*	*	*	*	*	*
-4Dn)	(4en	8g-XL	[	(8g#X^L 8b-X	4en	(8g-XL	8dd-X
-.	.	8fnJ	.	8an'J) 8bn	.	8fnJ)	8r
-4ryy	4G#X	8b-XL	.	4r	4G#X	(8b-XL	4r
-.	.	8cc-XJ	.	.	.	8cc-XJ)	.
-4ryy	4An)	8ddnL	.	(8c#X^L 8gn	4An	4cc-	(8ddnL
-.	.	8ee-XJ	.	8cn'J) 8f#X	.	.	8ee-XJ)
-=142	=142	=142	=142	=142	=142	=142	=142
-4ryy	(4en	8ccnL	.	4r	4en	(8ccnL	8ee-X
-.	.	8dd-XJ	.	.	.	8dd-XJ)	8r
-*	*	*	*	*clefF4	*	*	*
-4ryy	4fn	8ff#XL	mf	(8Dn^L 8an	4fn	4dd-	(8ff#XL
-.	.	8ggnJ	.	8E-X'J) 8a-X	.	.	8ggnJ)
-8r	4An)	8dnL	.	4r	4An	(8dnL	8gg
-(8D-X	.	8e-XJ	.	.	.	8e-XJ)	8r
-*	*	*	*	*clefG2	*	*	*
-*v	*v	*	*	*	*	*	*
-=143	=143	=143	=143	=143	=143	=143
-*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4
-*^	*	*	*	*	*	*
-4Cn)	(4B-X	8ccnL	.	(8g-XL 8een	4B-X	4e-X	(8ccnL
-.	.	8dd-XJ	.	8fnJ) 8gn	.	.	8dd-XJ)
-8r	4c-X)	8anL	.	4r	4c-X	8anL	8dd-
-8C	.	8a-XJ	.	.	.	8a-XJ	8r
-*v	*v	*	*	*	*	*	*
-==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-
+**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part5	*part5	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Piano	*	*I"Tenor	*I"Alto	*	*I"Soprano	*
+*I'Pno.	*	*	*I'Pno.	*	*I'T.	*I'A.	*	*I'S.	*
+*clefF4	*clefG2	*	*clefG2	*	*clefGv2	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
+*MM160	*MM160	*	*MM160	*	*MM160	*MM160	*	*MM160	*
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+*^	*	*	*	*	*	*	*	*	*
+4ryy	(4G#X	8e-XL	.	4r	.	4G#X	(8e-XL	p	4r	.
+.	.	8dJ	.	.	.	.	8dnJ)	.	.	.
+4ryy	4Bn	8b-XL	.	(8ffn^L	.	4Bn	4d	.	8b-XL	p
+.	.	8anJ	.	8ddn'J) 8gg-X	.	.	.	.	8anJ	.
+8r	4Gn	8fnL	.	4r	.	4Gn	(8fnL	.	8an	.
+(8B-X	.	8enJ	.	.	.	.	8enJ)	.	8r	.
+*v	*v	*	*	*	*	*	*	*	*	*
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*
+*^	*	*	*	*	*	*	*	*	*
+4An)	4F#X	8dd-XL	.	(8ddn^L	.	4F#X	4en	.	8dd-XL	.
+.	.	8ccnJ	.	8cc#X'J) 8ggn	.	.	.	.	8ccnJ	.
+8r	4Gn)	8ccL	<	4r	.	4Gn	8r	.	8ccL	.
+(8E-X	.	8dd-J	.	.	.	.	8fn	.	8dd-J	.
+*v	*v	*	*	*	*	*	*	*	*	*
+=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
+*^	*	*	*	*	*	*	*	*	*
+4Dn)	(4en	8g-XL	[	(8g#X^L 8b-X	.	4en	(8g-XL	.	8dd-X	.
+.	.	8fnJ	.	8an'J) 8bn	.	.	8fnJ)	.	8r	.
+4ryy	4G#X	8b-XL	.	4r	.	4G#X	(8b-XL	.	4r	.
+.	.	8cc-XJ	.	.	.	.	8cc-XJ)	.	.	.
+4ryy	4An)	8ddnL	.	(8c#X^L 8gn	.	4An	4cc-	.	(8ddnL	.
+.	.	8ee-XJ	.	8cn'J) 8f#X	.	.	.	.	8ee-XJ)	.
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+4ryy	(4en	8ccnL	.	4r	.	4en	(8ccnL	.	8ee-X	.
+.	.	8dd-XJ	.	.	.	.	8dd-XJ)	.	8r	.
+*	*	*	*	*clefF4	*	*	*	*	*	*
+4ryy	4fn	8ff#XL	.	(8Dn^L 8an	mf	4fn	4dd-	.	(8ff#XL	.
+.	.	8ggnJ	.	8E-X'J) 8a-X	.	.	.	.	8ggnJ)	.
+8r	4An)	8dnL	.	4r	.	4An	(8dnL	.	8gg	.
+(8D-X	.	8e-XJ	.	.	.	.	8e-XJ)	.	8r	.
+*	*	*	*	*clefG2	*	*	*	*	*	*
+*v	*v	*	*	*	*	*	*	*	*	*
+=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*
+*^	*	*	*	*	*	*	*	*	*
+4Cn)	(4B-X	8ccnL	.	(8g-XL 8een	.	4B-X	4e-X	.	(8ccnL	.
+.	.	8dd-XJ	.	8fnJ) 8gn	.	.	.	.	8dd-XJ)	.
+8r	4c-X)	8anL	.	4r	.	4c-X	8anL	.	8dd-	.
+8C	.	8a-XJ	.	.	.	.	8a-XJ	.	8r	.
+*v	*v	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)]{(s5,s6)}
 !!!CDT: 1874/09/13-1951/07/13
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
@@ -77,6 +78,5 @@
 !!!excerpt-end-measure: 143
 !!!excerpt-start-time: 5:28
 !!!excerpt-end-time: 5:33
-!!!system-decoration: [(s1,s2,s3)][(s4)]{(s5,s6)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

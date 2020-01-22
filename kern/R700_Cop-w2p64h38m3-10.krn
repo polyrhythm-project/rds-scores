@@ -14,8 +14,8 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 *MM150	*	*MM150	*	*MM150	*	*MM150	*	*MM150	*MM150	*	*MM150	*MM150	*MM150	*MM150	*MM150	*MM150	*	*MM150	*	*MM150	*	*MM150	*	*MM150	*
-=132	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 8r	.	8r	.	8r	.	8r	.	8r	8r	.	8ggg^	8c#X 8f#X	8f 8b-X	8c#X 8f#X	8f 8b-X	8r	.	8r	.	8r	.	8r	.	8r	.
 !LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8dL	f	8dL	f	8eL	f	8g#XL	f	8bb-X^L	8bbb-X^L 8bbbb-X	fff	8r	8r	8r	8r	8r	8aa#X^L	ff	8bbb-X^L	ff	8bb-X^L	ff	8bb-X^L	ff	8bbb-X^L	ff
@@ -72,8 +72,9 @@
 .	.	.	.	.	.	.	.	16ff~	16ff~ 16fff	.	.	.	.	.	.	16ee#~	.	16ff~	.	16ff~	.	16ff~	.	16fff~	.
 8eJ	.	8eJ	.	8eJ	.	8g#XJ	.	16gg'	16gg' 16ggg	.	.	.	.	.	.	16ff##'	.	16gg'	.	16gg'	.	16gg'	.	16ggg'	.
 .	.	.	.	.	.	.	.	16ee-~JJ	16ee-~JJ 16eee-	.	.	.	.	.	.	16dd#~JJ	.	16ee-~JJ	.	16ee-~JJ	.	16ee-~JJ	.	16eee-~JJ	.
-==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)]s10{(s11,s12)}[(s13,s14,s15,s16)]
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
@@ -91,6 +92,5 @@
 !!!excerpt-end-measure: 139
 !!!excerpt-start-time: 1:42
 !!!excerpt-end-time: 1:48
-!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)]s10{(s11,s12)}[(s13,s14,s15,s16)]
-!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
-!!!EEV: 2020/01/19
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

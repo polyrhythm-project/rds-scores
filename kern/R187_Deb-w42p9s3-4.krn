@@ -15,7 +15,7 @@
 *M2/4	*M2/4	*
 *MM107	*MM107	*
 *8ba	*	*
-=122	=	=
+=122	=122	=122
 *^	*	*
 8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
@@ -127,8 +127,9 @@
 8G'J	.	.
 8BB-'L	.	.
 8B-'J	.	.
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: {(s1,s2)}
 !!!CDT: 1862/08/22-1918/03/25
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
@@ -146,6 +147,5 @@
 !!!excerpt-end-measure: 137
 !!!excerpt-start-time: 3:44
 !!!excerpt-end-time: 4:02
-!!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
-!!!EEV: 2020/01/19
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

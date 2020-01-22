@@ -1,0 +1,29 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Jan 22 00:39:23 PST 2020
+# Last Modified: Wed Jan 22 00:39:26 PST 2020
+# Filename:      removedoublebarline
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Remove the double barline at the end of the music.
+#
+
+use strict;
+
+my @contents = <>;
+chomp @contents;
+
+my $found = 0;
+for (my $i=$#contents; $i>=0; $i--) {
+	my $line = $contents[$i];
+	next if $line !~ /^=/;
+	$line =~ s/==/=/g;
+	$contents[$i] = $line;
+}
+
+print join("\n", @contents), "\n";
+
+
+

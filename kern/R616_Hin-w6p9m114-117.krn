@@ -3,90 +3,91 @@
 !!!OMV: Movement 1
 !!!example: 616
 !!!work: Hin-6
-**kern	**kern	**dynam	**kern	**kern
-*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
-*part4	*part3	*part3	*part2	*part1
-*staff4	*staff3	*S	*staff2	*staff1
-*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I
-*I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I
-*clefC4	*clefC3	*	*clefG2	*clefG2
-*k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*k[b-e-a-d-]
-*A-:	*A-:	*	*A-:	*A-:
-*M3/4	*M3/4	*	*M3/4	*M3/4
-*MM103	*MM103	*	*MM103	*MM103
-=114	=114	=114	=114	=114
-4r	16DnLL	.	2.r	4r
-.	(16dn	.	.	.
-.	16B-	.	.	.
-.	16GJJ	.	.	.
-12CL	16FLL	.	.	12ffL
-.	16D)	]	.	.
-12Dn	.	.	.	12ggn
-.	(16d	mf	.	.
-12EnJ	.	.	.	12aanJ
-.	16B-JJ	.	.	.
-[4F	16GLL	.	.	[4bb-
-.	16F	.	.	.
-.	16D)	.	.	.
-.	(16dJJ	.	.	.
-=115	=115	=115	=115	=115
-12FL]	16B-LL	.	2.r	12bb-L]
-.	16G	.	.	.
-12En	.	.	.	12aan
-.	16F	.	.	.
-12FJ	.	.	.	12bb-J
-.	16DnJJ)	.	.	.
-12EL	(16dnLL	.	.	12aaL
-.	16B-	.	.	.
-12D-	.	.	.	12gg
-.	16G	.	.	.
-12EJ	.	.	.	12aaJ
-.	16FJJ	.	.	.
-(12D-L	16DLL)	.	.	(12ggL
-.	(16d	.	.	.
-12AAn)	.	.	.	12ddn)
-.	16B-	.	.	.
-12BB-J	.	.	.	12ee-J
-.	16GJJ	.	.	.
-=116	=116	=116	=116	=116
-*M4/4	*M4/4	*	*M4/4	*M4/4
-(6C	16FLL)	.	[2.a- 2.cc	6ff
-.	(16c	.	.	.
-.	16A-	.	.	.
-12D-)	.	.	.	12gg
-.	16GJJ	.	.	.
-[4C	16FLL	.	.	4.ff
-.	16C)	.	.	.
-.	(16c	.	.	.
-.	16A-JJ	.	.	.
-12CL]	16GLL	.	.	.
-.	16F	.	.	.
-12D-	.	.	.	.
-.	16C)	.	.	8ffL
-12E-J	.	.	.	.
-.	(16cJJ	.	.	.
-[4F	16A-LL	.	12a-L]	(12aa-^
-.	16G	.	.	.
-.	.	.	(12g	12cc
-.	16F	.	.	.
-.	.	.	12fJ)	12ddnJ)
-.	16B-JJ)	.	.	.
-=117	=117	=117	=117	=117
-*M2/4	*M2/4	*	*M2/4	*M2/4
-12FL]	4G	.	16e-LL	[4ee-
-.	.	.	(16b-	.
-12G	.	.	.	.
-.	.	.	16g	.
-12AnJ	.	.	.	.
-.	.	.	16fJJ	.
-[4B-	12E-L	.	16e-LL	12ee-L]
-.	.	.	16B-)	.
-.	12F	.	.	12ff
-.	.	.	(16b-	.
-.	12GJ	.	.	12ggJ
-.	.	.	16gJJ)	.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
+*A-:	*	*A-:	*	*A-:	*	*A-:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*MM103	*	*MM103	*	*MM103	*	*MM103	*
+=114	=114	=114	=114	=114	=114	=114	=114
+4r	.	16DnLL	>	2.r	.	4r	.
+.	.	(16dn	.	.	.	.	.
+.	.	16B-	.	.	.	.	.
+.	.	16GJJ	.	.	.	.	.
+12CL	< f	16FLL	.	.	.	12ffL	< f
+.	.	16D)	]	.	.	.	.
+12Dn	.	.	.	.	.	12ggn	.
+.	.	(16d	mf	.	.	.	.
+12EnJ	.	.	.	.	.	12aanJ	.
+.	.	16B-JJ	.	.	.	.	.
+[4F	[[	16GLL	.	.	.	[4bb-	[[
+.	.	16F	.	.	.	.	.
+.	.	16D)	.	.	.	.	.
+.	.	(16dJJ	.	.	.	.	.
+=115	=115	=115	=115	=115	=115	=115	=115
+12FL]	.	16B-LL	.	2.r	.	12bb-L]	.
+.	.	16G	.	.	.	.	.
+12En	.	.	.	.	.	12aan	.
+.	.	16F	.	.	.	.	.
+12FJ	.	.	.	.	.	12bb-J	.
+.	.	16DnJJ)	.	.	.	.	.
+12EL	.	(16dnLL	.	.	.	12aaL	.
+.	.	16B-	.	.	.	.	.
+12D-	>	.	.	.	.	12gg	>
+.	.	16G	.	.	.	.	.
+12EJ	.	.	.	.	.	12aaJ	.
+.	.	16FJJ	.	.	.	.	.
+(12D-L	.	16DLL)	.	.	.	(12ggL	.
+.	.	(16d	.	.	.	.	.
+12AAn)	.	.	.	.	.	12ddn)	.
+.	.	16B-	.	.	.	.	.
+12BB-J	]	.	.	.	.	12ee-J	]]
+.	.	16GJJ	.	.	.	.	.
+=116	=116	=116	=116	=116	=116	=116	=116
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+(6C	.	16FLL)	.	[2.a- 2.cc	< f	6ff	.
+.	.	(16c	.	.	.	.	.
+.	.	16A-	.	.	.	.	.
+12D-)	.	.	.	.	.	12gg	.
+.	.	16GJJ	.	.	.	.	.
+[4C	.	16FLL	.	.	.	4.ff	.
+.	.	16C)	.	.	.	.	.
+.	.	(16c	.	.	.	.	.
+.	.	16A-JJ	.	.	.	.	.
+12CL]	<	16GLL	.	.	.	.	.
+.	.	16F	.	.	.	.	.
+12D-	.	.	.	.	.	.	.
+.	.	16C)	.	.	.	8ffL	.
+12E-J	.	.	.	.	.	.	.
+.	.	(16cJJ	.	.	.	.	.
+[4F	[	16A-LL	.	12a-L]	[	(12aa-^	.
+.	.	16G	.	.	.	.	.
+.	.	.	.	(12g	.	12cc	.
+.	.	16F	.	.	.	.	.
+.	.	.	.	12fJ)	.	12ddnJ)	.
+.	.	16B-JJ)	.	.	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+12FL]	.	4G	.	16e-LL	mf	[4ee-	.
+.	.	.	.	(16b-	.	.	.
+12G	.	.	.	.	.	.	.
+.	.	.	.	16g	.	.	.
+12AnJ	.	.	.	.	.	.	.
+.	.	.	.	16fJJ	.	.	.
+[4B-	.	12E-L	.	16e-LL	.	12ee-L]	.
+.	.	.	.	16B-)	.	.	.
+.	.	12F	.	.	.	12ff	.
+.	.	.	.	(16b-	.	.	.
+.	.	12GJ	.	.	.	12ggJ	.
+.	.	.	.	16gJJ)	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
 !!!CDT: 1895/11/16-1963/12/28
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
@@ -104,6 +105,5 @@
 !!!excerpt-end-measure: 117
 !!!excerpt-start-time: 4:05
 !!!excerpt-end-time: 4:12
-!!!system-decoration: [(s1,s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

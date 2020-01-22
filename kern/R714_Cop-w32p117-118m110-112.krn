@@ -14,7 +14,7 @@
 *F:	*F:	*F:	*F:	*	*F:	*	*F:	*F:	*	*	*F:	*	*F:	*F:	*	*F:	*	*	*	*	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:
 *M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
 *MM144	*MM144	*MM144	*MM144	*	*MM144	*	*MM144	*MM144	*MM144	*	*MM144	*	*MM144	*MM144	*	*MM144	*	*MM144	*	*MM144	*	*MM144	*	*MM144	*	*MM144	*	*MM144	*	*MM144
-=110	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 1r	8cL	8dL 8f	4.fff	.	4.fff	.	8cL 8d 8f	8b-L 8dd	8xL	.	4.c	.	4.cc	4.ff	.	4een	.	8cL 8f	.	8b-XL	.	8cL	.	8dL	.	1r	.	8b-L 8dd	f	4eeee
 .	8c	8d 8f	.	.	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	.	.	.	.	8c 8f	.	8b-	.	8c	.	8d	.	.	.	8b- 8dd	.	.
 .	8c	8d 8f	.	.	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	.	.	4cc	.	8c 8f	.	8b-	.	8c	.	8d	.	.	.	8b- 8dd	.	4cccc
@@ -46,8 +46,9 @@
 .	8cL 8d	8dL 8f 8b-	.	.	.	.	4c^ 4d 4f 4b-	4dd^ 4gg 4ccc	4x^	???	.	.	.	.	.	.	.	4e^ 4a	.	4dd^	.	4e^	.	4f^	.	8dd^L 8ccc	.	4gg^ 4ccc	.	.
 6GG	.	.	6g 6cc	.	6g 6cc	.	.	.	.	.	6GG	.	6G	6r	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	6ccc
 .	8cJ	8ccJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ 8gg	.	.	.	.
-==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15,s16,s17,s18,s19)]
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
@@ -65,6 +66,5 @@
 !!!excerpt-end-measure: 112
 !!!excerpt-start-time: 2:30
 !!!excerpt-end-time: 2:35
-!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15,s16,s17,s18,s19)]
-!!!ONB: Converted from MusicXML on 2020/01/19 and edited by Craig Stuart Sapp
-!!!EEV: 2020/01/19
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

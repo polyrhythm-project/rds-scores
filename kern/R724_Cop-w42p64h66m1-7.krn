@@ -3,140 +3,141 @@
 !!!OMV: Movement 3: Subway Jam
 !!!example: 724
 !!!work: Cop-42
-**kern	**kern	**dynam	**kern	**kern	**kern	**kern
-*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
-*part6	*part5	*part5	*part4	*part3	*part2	*part1
-*staff6	*staff5	*S	*staff4	*staff3	*staff2	*staff1
-*I"Bass Drum	*I"Timbales	*	*I"Congas	*I"Tenor Drum	*I"Trombone	*I"Trombone
-*I'B. D.	*I'Timb.	*	*I'Congas	*I'T. D.	*I'Tbn.	*I'Tbn.
-*clefpercussion0	*clefpercussion0	*	*clefpercussion0	*clefpercussion0	*clefF4	*clefF4
-*	*	*	*	*	*k[]	*k[]
-*	*	*	*	*	*C:	*C:
-*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
-*MM132	*MM132	*	*MM132	*MM132	*MM132	*MM132
-=30	=30	=30	=30	=30	=30	=30
-4r	16r	.	8.r	16xLL	4r	4r
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	([8AA~	([8D-X~ [8E-X
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	4AA]	4D-] 4E-]
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	.	.
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	f	16r	.	8FF#X^)	8C^) 8Dn
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	4r	4r
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=31	=31	=31	=31	=31	=31	=31
-4r	16r	.	8.r	16xLL	4r	4r
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	4D'~	4E-X'~ 4B-X
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	.	.
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	8r	8r
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	<	16r	.	([8AA~	([8D-X~ [8E-
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	4AA]	4D-] 4E-]
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=32	=32	=32	=32	=32	=32	=32
-4r	16r	.	8.r	16xLL	8FF#X^)	8C^) 8Dn
-.	16xLL	.	.	16x	.	.
-.	16xJJ	[	.	16x	8r	8r
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	4D'~	4E-X'~ 4B-X
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	.	.
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	8r	8r
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	<	16r	.	(4.D~	(4.E-~ 4.B-
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	.	.
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=33	=33	=33	=33	=33	=33	=33
+**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
+*I"Bass Drum	*I"Timbales	*I"Congas	*I"Tenor Drum	*I"Trombone	*	*I"Trombone	*
+*I'B. D.	*I'Timb.	*I'Congas	*I'T. D.	*I'Tbn.	*	*I'Tbn.	*
+*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefF4	*	*clefF4	*
+*	*	*	*	*k[]	*	*k[]	*
+*	*	*	*	*C:	*	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
+*MM132	*MM132	*MM132	*MM132	*MM132	*	*MM132	*
+=30	=30	=30	=30	=30	=30	=30	=30
+4r	16r	8.r	16xLL	4r	.	4r	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	([8AA~	<	([8D-X~ [8E-X	<
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	4AA]	.	4D-] 4E-]	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	.	.	.	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	8FF#X^)	f	8C^) 8Dn	f
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	4r	[	4r	[
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+4r	16r	8.r	16xLL	4r	.	4r	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	4D'~	.	4E-X'~ 4B-X	.
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	.	.	.	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	8r	.	8r	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	([8AA~	<	([8D-X~ [8E-	<
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	4AA]	.	4D-] 4E-]	.
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+4r	16r	8.r	16xLL	8FF#X^)	.	8C^) 8Dn	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	8r	[	8r	[
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	4D'~	.	4E-X'~ 4B-X	.
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	.	.	.	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	8r	.	8r	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	(4.D~	<[	(4.E-~ 4.B-	<[
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	.	.	.	.
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
 !!linebreak:original
-4r	16r	.	8.r	16xLL	8Fn'^)	8G'^) 8e-X
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	8r	8r
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	4D'~	4E-X'~ 4Bn
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	.	.
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	4r	4r
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	.	16r	.	.	.
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	(4AA~	(4D-X~ 4E-X
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=34	=34	=34	=34	=34	=34	=34
-4r	16r	.	8.r	16xLL	8FFn'^)	8C'^) 8D-X
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	8r	8r
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	4r	4r
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	.	.
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	8r	8r
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	.	16r	.	8FF'^	8C'^ 8D-
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	4r	4r
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=35	=35	=35	=35	=35	=35	=35
+4r	16r	8.r	16xLL	8Fn'^)	.	8G'^) 8e-X	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	8r	.	8r	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	4D'~	.	4E-X'~ 4Bn	.
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	.	.	.	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	4r	.	4r	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	.	.	.	.
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	(4AA~	<	(4D-X~ 4E-X	<
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+4r	16r	8.r	16xLL	8FFn'^)	.	8C'^) 8D-X	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	8r	.	8r	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	4r	[	4r	[
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	.	.	.	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	8r	.	8r	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	8FF'^	.	8C'^ 8D-	.
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	4r	.	4r	.
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
 !!pagebreak:original
-4r	16r	.	8.r	16xLL	8r	8r
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	4.D~	4.E-X~ 4.B-X
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	.	.
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	.	.
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	8r	8r
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	<	16r	.	(4.F~	(4.G~ 4.e-X
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	.	.
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-=36	=36	=36	=36	=36	=36	=36
-4r	16r	.	8.r	16xLL	8D'^)	8E-X'^) 8Bn
-.	16xLL	.	.	16x	.	.
-.	16xJJ	.	.	16x	8r	8r
-.	16r	.	16x	16xJJ	.	.
-8xL	4r	.	16xLL	16xLL	8r	8r
-.	.	.	16xJJ	16x	.	.
-8xJ	.	.	16r	16x	[8C~	[8D-X~ [8A
-.	.	.	16x	16xJJ	.	.
-4r	16r	.	16xLL	4r	8C]	8D-] 8A]
-.	16xLL	.	16xJJ	.	.	.
-.	16xJJ	.	16r	.	8r	8r
-.	16r	.	16x	.	.	.
-8xL	16r	.	16xLL	16xLL	4AA~	4D-~ [4E-X
-.	16xLL	.	16xJJ	16x	.	.
-8xJ	16xJJ	.	16r	16x	.	.
-.	16r	.	16x	16xJJ	.	.
-==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-
+4r	16r	8.r	16xLL	8r	.	8r	.
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	4.D~	.	4.E-X~ 4.B-X	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	.	.	.	.
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	.	.	.	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	8r	.	8r	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	(4.F~	<	(4.G~ 4.e-X	<
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	.	.	.	.
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+4r	16r	8.r	16xLL	8D'^)	[	8E-X'^) 8Bn	[
+.	16xLL	.	16x	.	.	.	.
+.	16xJJ	.	16x	8r	.	8r	.
+.	16r	16x	16xJJ	.	.	.	.
+8xL	4r	16xLL	16xLL	8r	.	8r	.
+.	.	16xJJ	16x	.	.	.	.
+8xJ	.	16r	16x	[8C~	.	[8D-X~ [8A	.
+.	.	16x	16xJJ	.	.	.	.
+4r	16r	16xLL	4r	8C]	.	8D-] 8A]	.
+.	16xLL	16xJJ	.	.	.	.	.
+.	16xJJ	16r	.	8r	.	8r	.
+.	16r	16x	.	.	.	.	.
+8xL	16r	16xLL	16xLL	4AA~	<[	4D-~ [4E-X	<[
+.	16xLL	16xJJ	16x	.	.	.	.
+8xJ	16xJJ	16r	16x	.	.	.	.
+.	16r	16x	16xJJ	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6)]
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
@@ -154,6 +155,5 @@
 !!!excerpt-end-measure: 36
 !!!excerpt-start-time: 0:51
 !!!excerpt-end-time: 1:03
-!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6)]
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

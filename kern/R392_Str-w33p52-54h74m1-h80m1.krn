@@ -27,10 +27,10 @@
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
 *^	*	*	*	*	*	*	*	*
 4D]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[
+.	.	.	.	.	.	8g	4go	[8bJ	[ >
 4r	.	.	4r	.	4E)	8r	.	4b]	.
 .	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4C#	[4C#	.	[4CC#	.	4r	8r	.	8eeL	[
+[4C#	[4C#	.	[4CC#	.	4r	8r	.	8eeL	]
 .	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
 *v	*v	*	*	*	*	*	*	*	*
 =66	=66	=66	=66	=66	=66	=66	=66	=66
@@ -69,10 +69,10 @@
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
 *^	*	*	*	*	*	*	*	*
 2AA]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[
+.	.	.	.	.	.	8g	4go	[8bJ	[ >
 .	.	.	4r	.	4E)	8r	.	4b]	.
 .	.	.	.	.	.	8ff#'	4B 4e	.	.
-[4GG	[4GG	.	[4GG	.	4r	8r	.	8eeL	[
+[4GG	[4GG	.	[4GG	.	4r	8r	.	8eeL	]
 .	.	.	.	.	.	8fff#'	[8f# [8b	8dd#XJ	.
 *v	*v	*	*	*	*	*	*	*	*
 =71	=71	=71	=71	=71	=71	=71	=71	=71
@@ -110,10 +110,10 @@
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
 *^	*	*	*	*	*	*	*	*
 2BB]	2r	.	4r	.	4f#	8r	8go]	8aL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	[8bJ	[
+.	.	.	.	.	.	8ff#'	4B 4f#	[8bJ	[ >
 .	.	.	4r	.	4G)	8r	.	4b]	.
 .	.	.	.	.	.	8bb	4B 4e	.	.
-[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	[
+[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	]
 .	.	.	.	.	.	8fff#'	[8f# [8b	8dd#XJ	.
 *v	*v	*	*	*	*	*	*	*	*
 =76	=76	=76	=76	=76	=76	=76	=76	=76
@@ -152,10 +152,10 @@
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
 *^	*	*	*	*	*	*	*	*
 4C#]	2r	.	4r	.	4dd	8r	8go]	8aL	.
-.	.	.	.	.	.	8bb	4B 4e	[8bJ	[
+.	.	.	.	.	.	8bb	4B 4e	[8bJ	[ >
 4r	.	.	4r	.	4e)	8r	.	4b]	.
 .	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	[
+[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	]
 .	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
 *v	*v	*	*	*	*	*	*	*	*
 =81	=81	=81	=81	=81	=81	=81	=81	=81
@@ -194,10 +194,10 @@
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
 *^	*	*	*	*	*	*	*	*
 2BB]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[
+.	.	.	.	.	.	8g	4go	[8bJ	[ >
 .	.	.	4r	.	4E)	8r	.	4b]	.
 .	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	[
+[4BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	]
 .	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
 *v	*v	*	*	*	*	*	*	*	*
 =86	=86	=86	=86	=86	=86	=86	=86	=86
@@ -227,8 +227,9 @@
 .	.	.	.	.	4D)	8r	.	4f#	.
 .	.	.	.	.	.	8bb	[8B [8e	.	.
 *v	*v	*	*	*	*	*	*	*	*
-==	==	==	==	==	==	==	==	==
+=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4,s5,s6)]
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
@@ -246,6 +247,5 @@
 !!!excerpt-end-measure: 88
 !!!excerpt-start-time: 3:47
 !!!excerpt-end-time: 4:48
-!!!system-decoration: s1[(s2,s3,s4,s5,s6)]
-!!!ONB: Converted from MusicXML on 2020/01/20 and edited by Craig Stuart Sapp
-!!!EEV: 2020/01/20
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22

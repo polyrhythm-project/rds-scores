@@ -54,8 +54,9 @@
 .	.	.	(8c
 [8BBn~ [8B-X	8ccn)	.	[8enJ)
 *	*v	*v	*
-==	==	==
+=	=	=
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!CDT: 1874/09/13-1951/07/13
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
@@ -73,6 +74,5 @@
 !!!excerpt-end-measure: 86
 !!!excerpt-start-time: 2:57
 !!!excerpt-end-time: 3:15
-!!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
-!!!EEV: 2019/10/08
+!!!EEV: 2020/01/22
+!!!ONB: Converted from MusicXML on 2020/01/22
