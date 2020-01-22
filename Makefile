@@ -12,11 +12,16 @@ check-pdf:
 check-kern:
 	(cd kern; ../bin/renamefile -c *.krn)
 
+kern:	humdrum
+krn:	humdrum
 hum:	humdrum
 humdrum:
 	for i in musicxml/*.xml; \
 	do \
-		musicxml2hum $$i | extractx --no-rest | bin/adddummymetadata | bin/removedoublebarline > kern/$$(basename $$i .xml).krn; \
+		musicxml2hum $$i | extractx --no-rest | \
+		   bin/adddummymetadata | bin/removedoublebarline | \
+		   grep -v "break:original" > \
+		   kern/$$(basename $$i .xml).krn; \
 	done
 	echo "ADDING GROUPING INFORMATION TO SCORES"
 	(cd processing/groupings; make doit)
