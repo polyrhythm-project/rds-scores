@@ -31,6 +31,11 @@ humdrum:
 	(cd kern; ../bin/polymeta *.krn >& /dev/null)
 	
 
+xml: utf8
+utf16: utf8
+utf8:
+	(cd musicxml && ../bin/utf16toutf8 *.xml)
+
 index:
 	bin/makehmdindex > index.hmd
 

@@ -1,4 +1,15 @@
 #!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Fri Jan 17 07:26:39 PST 2020
+# Last Modified: Sun Jan 19 16:47:25 PST 2020
+# Filename:      makehmdindex
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Create an index that allows the scores to be loaded into
+#                Verovio Humdrum Viewer through a index.
+#
 
 use strict;
 

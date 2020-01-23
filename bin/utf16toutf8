@@ -1,0 +1,62 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Jan 22 20:12:04 PST 2020
+# Last Modified: Wed Jan 22 20:19:43 PST 2020
+# Filename:      utf16toutf8
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Convert a MusicXML file from UTF-16 to UTF-8.  This is the encoding that comes
+#                out of the default MusicXML export from Sibelius.  First check what the encoding
+#                is and only convert if UTF-16.  Also change the encoding type in the XML header
+#                record in the file.  UTF-16 versions of MusicXML are causing problems in the
+#                MusicXML-to-Humdrum converter, so this is the main reason to convert.  Also
+#                UTF-16 files are about twice as large as UTF-8 files, so storing in UTF-8
+#                encoding saves space.
+#
+
+use strict;
+
+my $iconv = `which iconv`;
+chomp $iconv;
+die "Cannot find iconv program\n" if $iconv =~ /^\s*$/;
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	die "Cannot read file $file\n" if !-r $file;
+
+	my $type = `file $file`;
+	return if $type !~ /UTF-16/i;
+
+	print "Converting $file to UTF-8...\n";
+	my @contents = `$iconv -f UTF-16 -t UTF-8 $file`;
+
+	return if @contents == 0;
+
+	if ($contents[0] =~ s/UTF-16/UTF-8/) {
+		open (FILE, ">$file") or die "Cannot write $file\n";
+		print FILE @contents;
+		close FILE;
+	}
+}
+
+
+

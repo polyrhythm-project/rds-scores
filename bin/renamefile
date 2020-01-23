@@ -1,4 +1,15 @@
 #!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Jan 22 00:39:23 PST 2020
+# Last Modified: Wed Jan 22 00:39:26 PST 2020
+# Filename:      renamefile
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:   Make sure that files are named according to the master spreadsheet name
+#                for the example.
+#
 
 use strict;
 use Getopt::Long;

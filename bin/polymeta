@@ -8,7 +8,7 @@
 # vim:           ts=3:nowrap
 #
 # Description:   Command-line interface to Polyrhythm metadata from master spreadsheet.
-#                Adds metadta to Humdrum file reference records, and adds tempo information.
+#                Adds metadata to Humdrum file reference records, and adds tempo information.
 #
 # Options:
 #    --url      == Display URL of spreadsheet data.
