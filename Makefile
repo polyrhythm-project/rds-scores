@@ -15,7 +15,7 @@ check-kern:
 kern:	humdrum
 krn:	humdrum
 hum:	humdrum
-humdrum:
+humdrum: utf8
 	for i in musicxml/*.xml; \
 	do \
 		musicxml2hum $$i | extractx --no-rest | \
