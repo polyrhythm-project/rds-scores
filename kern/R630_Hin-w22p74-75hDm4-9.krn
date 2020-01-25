@@ -28,7 +28,7 @@
 12d 12a	.	.	.	.	.	.
 12enJ	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54
-!LO:TX:t=cresc.	!	!	!	!	!	!
+!LO:TX:b:t=cresc.	!	!	!	!	!	!
 12f#XL	1EE	< p [[	1r	.	1r	.
 12g	.	.	.	.	.	.
 12dd-XJ	.	.	.	.	.	.
@@ -82,7 +82,7 @@
 12cn	.	.	.	.	.	.
 12e-XJ	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58
-!	!LO:TX:t=cresc.	!	!	!	!LO:TX:t=cresc.	!
+!	!LO:TX:b:t=cresc.	!	!	!	!LO:TX:b:t=cresc.	!
 12dd#XL	2.EE	< mf	1r	> ]	[1D	p
 12g#X	.	.	.	.	.	.
 12c#XJ	.	.	.	.	.	.
@@ -115,5 +115,5 @@
 !!!excerpt-end-measure: 58
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:39
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

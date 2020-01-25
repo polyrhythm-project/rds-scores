@@ -15,7 +15,7 @@
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 *MM87	*	*MM87	*	*MM87	*	*MM87	*	*MM87	*MM87	*MM87	*	*MM87	*MM87	*MM87	*	*MM87	*	*MM87	*	*MM87	*
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-!	!	!	!	!	!	!	!	!	!LO:TX:B:t=593	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!	!	!	!	!	!	!	!
 [2.BB-X	p	(2c#X	<	(8fnL	<	(4.ddn	< >	8A-X	2.r	2.r	.	4Gn	2Gn	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
 .	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	8ddnJ	.	8e-XJ	.	8anJ	.	.	.
 .	.	.	.	(2g	[	.	.	8GnL	.	.	.	4B-X 4dn	.	8b-XL)	.	8c-XL)	.	8a-XL)	.	.	.
@@ -33,9 +33,9 @@
 .	.	.	.	.	.	.	.	8E-XJ	.	.	.	.	8a-XJ	(8f-XJ	8ee-'J 8gg	.	(8A-XJ	.	(8f-XJ	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-!	!	!	!	!	!	!	!	!	!LO:TX:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!
 2DD]	.	2e-_	.	2g-_	.	2b-_	.	8DnL	4r	2.Dn	.	4an 4ddn 4ggn	4e-X)	8ddn 8ggn	.	4G')	[	4e-X')	[	8r	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=pizz.	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
 .	.	.	.	.	.	.	.	8AAnJ	.	.	.	.	.	8r	.	.	.	.	.	8aan	mf
 .	.	.	.	.	.	.	.	4Gn	8r	.	.	4f#X 4an 4ddn	2e-	4r	.	2G~	.	2e-~	.	8dddnL	.
 .	.	.	.	.	.	.	.	.	8ggn	.	.	.	.	.	.	.	.	.	.	8gggnJ	.
@@ -45,7 +45,7 @@
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 8BB-L]	<	(8dnL	.	(8fnL	.	(8bnL	.	8BnL	8b-XL	8DDn	.	4Dn	2Dn	(8b-XL	f	(8cnL	.	(8dnL	p	8r	.
 8AAnJ	[	8c#XJ)	.	8f#XJ)	.	8ddnJ)	[	8dnJ	8anJ	8r	.	.	.	8anJ)	.	8BJ)	.	8c#XJ)	.	8aan	p
-!	!	!	!	!	!	!	!	!	!LO:TX:B:t=595	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=595	!	!	!	!	!	!	!	!	!	!	!	!
 8EE-XL	>	(4.c#X	[ <	(4.f#X	[ <	(4.ddn	<	4r	8e-XL	4r	.	4an 4ddn 4ff#X	.	(8e-XL	.	(8EnL	.	(8B-XL	.	8dddnL	.
 8DDnJ)	]	.	.	.	.	.	.	.	8dnJ	.	.	.	.	8dnJ)	.	8FnJ)	.	8AnJ)	.	8gggnJ	.
 (8BB-XL	<	.	.	.	.	.	.	4r	(8b-XL	4r	.	4a 4dd 4ff#	4r	(8b-XL	.	(8cnL	.	(8dnL	.	4ddd	.
@@ -81,5 +81,5 @@
 !!!excerpt-end-measure: 48
 !!!excerpt-start-time: 2:18
 !!!excerpt-end-time: 2:24
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

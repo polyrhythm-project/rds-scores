@@ -36,14 +36,14 @@
 .	.	.	.	.	.	.	.	.	8r	8EEJ	8EE-J	.	.	.	.	.
 .	4G#X	4f#X	4c	4dn	.	.	.	.	4r	4r	4r	4G#X	4c	4G#X	4d#X 4f#X	4d#X 4f#X
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4CC	(4.D#X	4g	4c	4Bn	1r	.	4c~	1r	4CC'	1r	1r	(2.An	(2.An	(2.B	8c 8g	8c 8g
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	8r
 4GG	.	4r	4r	4r	.	.	4e-X~	.	4GG'	.	.	.	.	.	4r	4r
 .	8C##X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 4FFF#X	4D#)	4r	4r	2r	.	.	6g	.	4FFF#X'	.	.	.	.	.	2r	2r
 .	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
-!	!	!LO:TX:t=pizz.	!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:t=pizz.	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
 4r	4r	8A-XL	8c#XL	.	.	.	.	.	4r	.	.	8A-XL	8A-XL	8c#XL	.	.
 .	.	.	.	.	.	.	6cc	.	.	.	.	.	.	.	.	.
 .	.	8GJ	8dJ	.	.	.	.	.	.	.	.	8GnJ)	8GJ)	8dJ)	.	.
@@ -125,7 +125,7 @@
 .	4D~	4F##X~	4r	4c#X~	4r	.	4r	4r	.	.	.	2r	2r	2r	.	.
 2.FF	4E~	4A#X~	4r	4d~	4r	.	4r	4r	.	2.FF	.	.	.	.	.	.
 .	4Fn~	4B~	4r	4c#~	4r	.	4r	4r	.	.	.	4r	4r	4r	.	.
-!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	4E^	4F#X^	4Gn	4r	4x	sf	4E#^ 4F	4Gn	.	.	.	4r	4r	4r	.	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 2.EE	4D#X~	4An~	1.r	2r	4r	.	2r	2r	1.r	2.EE	1.r	1.r	1.r	1.r	1.r	1.r
@@ -175,5 +175,5 @@
 !!!excerpt-end-measure: 66
 !!!excerpt-start-time: 1:21
 !!!excerpt-end-time: 1:44
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

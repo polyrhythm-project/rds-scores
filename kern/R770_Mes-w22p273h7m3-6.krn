@@ -15,7 +15,7 @@
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!LO:TX:t=Onde	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=NOTE&colon;  Score calls for bass clarinet in A.  Transposed manually - there is no option to have this instrument in A	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=Onde	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=NOTE&colon;  Score calls for bass clarinet in A.  Transposed manually - there is no option to have this instrument in A	!	!	!	!	!	!	!	!	!
 4BBBn'	ff	16r	.	16r	.	16r	.	16r	.	2r	.	8cnL 8fn 8f#X	16ddKL 16ee-X 16gg 16bb-X	8aaL 8bb	16ffffnLL	4gggg	[2x	16xLL	.	8.xt	.	2r	.	8r	.	4r	.	16r	.	8r	.	[4x	2r	.	2r	.	16r	.	8r	.	8r	.	2r	.	8r	.	4r	.	16fffLL	.	4r	.
 .	.	16Fn^	ff	16ccn^ 16ggn	ff	16ff#X^ 16ccc#X	ff	16gg#X 16ddd#X	ff	.	.	.	8ccn 8cc#X 8ff#X 8aa	.	16eee	.	.	16xJ	.	.	.	.	.	.	.	.	.	[8.x^	ff	.	.	.	.	.	.	.	16cc^	ff	.	.	.	.	.	.	.	.	.	.	(16ee	p	.	.
 .	.	8r	.	8r	.	8r	.	8r	.	.	.	[8d#XJ [8g#X [8a	.	[8ee-XJ [8ff	16fff#X	.	.	8xJ	.	.	.	.	.	[8x	p	.	.	.	.	16r	.	.	.	.	.	.	8r	.	16G-X 16c 16f	p	16D#X 16E 16A	p	.	.	16G#X	p	.	.	16ff#X	.	.	.
@@ -29,7 +29,7 @@
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 4r	.	2r	.	2r	.	2r	.	2r	.	4EE	pp	16cnKL] 16fn] 16f#X]	16ccnKL] 16cc#X] 16ff#] 16aa]	8gg#L] 8aa#]	16fff#XLL	16cccc#KL]	4x_	16xLL	.	2x_	.	[2x^	???	2r	.	2r	.	2r	.	2r	.	4x]	[4DDn	??? pp	[4EE [4GG#X [4BB	??? pp	2r	.	[4EEEn	??? pp	[4BBB-X [4DDn [4FF	??? pp	[4BB--	??? pp	2r	.	2r	.	(16ff#XLL	p	2r	.
 .	.	.	.	.	.	.	.	.	.	.	.	8d#X 8g#X 8an	8.eenJ 8.ff#X 8.gg#X 8.bbn	.	16fffn	8.ffff#XJ	.	16xJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffn	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qx/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	8ddnJ 8een	16ggg	.	.	[8x~J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggn	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	[16fnJk [16a#X [16bn	.	.	16aaa-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa-XJJ	.	.	.
@@ -82,5 +82,5 @@
 !!!excerpt-end-measure: 60
 !!!excerpt-start-time: 2:25
 !!!excerpt-end-time: 2:32
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

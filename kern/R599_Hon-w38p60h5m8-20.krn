@@ -43,7 +43,7 @@
 .	4.G)	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
 .	.	.	.	.	8GG 8C	8a# 8ee	.	.	8ee	.	8dd-X	.	8ff#	.	8bb-	.	8eee	.
 =99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4.EE-X	(4.A-X	8%9r	8%9r	8%9r	8AA 8C-X	8b-X 8dd-X	.	4EE-X	8dd-X	.	8ff	.	8aa-X	.	8bb-X	.	8ddd-X	.
 .	.	.	.	.	4r	4r	.	.	4r	.	4r	.	4r	.	4r	.	4r	.
 .	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
@@ -63,7 +63,7 @@
 .	.	.	.	.	8r	.	.	.	8r	.	8r	.	.	.	.	.	8r	.
 .	.	.	.	.	8BB 8D-	8dd- 8ee	.	.	8ee	.	8gg	.	8bb-	.	8ddd-	.	8eee	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 [4.CC [4.C	(2.An	8%9r	8%9r	8%9r	8GGL 8AA#X	8bnL 8ddn	.	[4.C	8ddnL	.	8eeL	.	8ff#XL	.	8bbnL	.	8dddnL	.
 .	.	.	.	.	8FFJ 8AA#	8bJ 8ee	.	.	8eeJ	.	8ddJ	.	8ff#J	.	8bbJ	.	8eeeJ	.
 .	.	.	.	.	8r	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
@@ -153,5 +153,5 @@
 !!!excerpt-end-measure: 108
 !!!excerpt-start-time: 2:17
 !!!excerpt-end-time: 2:35
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

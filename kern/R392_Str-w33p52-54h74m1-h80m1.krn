@@ -15,9 +15,9 @@
 *M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
 *MM60	*	*MM60	*	*MM60	*MM60	*MM60	*MM60	*
 =64	=64	=64	=64	=64	=64	=64	=64	=64
-!LO:TX:t=pizz.	!	!	!	!	!	!	!	!
-!LO:TX:t=arco	!	!LO:TX:t=pizz.	!	!	!	!	!	!
 *^	*	*	*	*	*	*	*	*
+!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
 [2D	[4DD	p	[4DD	p	4r	8r	8r	8dL	.
 .	.	.	.	.	.	8fff#'	4f# 4b	8eJ	.
 .	4r	.	4r	.	(4F#	8r	.	8f#L	.
@@ -243,5 +243,5 @@
 !!!excerpt-end-measure: 88
 !!!excerpt-start-time: 3:47
 !!!excerpt-end-time: 4:48
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

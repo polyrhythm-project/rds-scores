@@ -15,7 +15,7 @@
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 *MM51	*	*MM51	*	*MM51	*	*MM51	*	*MM51	*MM51	*	*MM51	*	*MM51	*	*MM51	*
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-!LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4DD^	> p	4D^	> p	(8fL	> p	(8ffL	> p	4g#X	4b-X	p	[4A-X'^ [4B-X	> p	(8ffL	> p	[4a-X'^ [4b-X	> p
 .	.	.	.	8eJ	.	8eeJ	.	.	.	.	.	.	8eeJ	.	.	.
 4r	.	4r	.	8dL	.	8ddL	.	4r	4r	.	2A-'] 2B-]	.	8ddL	.	2a-'] 2b-]	.
@@ -49,5 +49,5 @@
 !!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:10
 !!!excerpt-end-time: 0:17
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25

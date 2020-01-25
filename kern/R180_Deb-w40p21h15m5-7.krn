@@ -15,7 +15,7 @@
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 *MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*	*MM108	*
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
-!LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:b:t=pizz.	!	!LO:TX:b:t=pizz.	!	!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8.FF#L 8.AA	p	8.F#L 8.A	p	8.dL 8.f#	p	32aLLL	p	32bLLL	p	32ddLLL	p	32ee#XLLL	p	32ee#XLLL	p	4.r	.	4.r	.	4.r	.	([4d [4f#	p	24bLL	p	4.r	.	4.r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
@@ -98,5 +98,5 @@
 !!!excerpt-end-measure: 132
 !!!excerpt-start-time: 3:12
 !!!excerpt-end-time: 3:15
-!!!EEV: 2020/01/22
-!!!ONB: Converted from MusicXML on 2020/01/22
+!!!EEV: 2020/01/25
+!!!ONB: Converted from MusicXML on 2020/01/25
