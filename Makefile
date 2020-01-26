@@ -18,9 +18,10 @@ hum:	humdrum
 humdrum: utf8
 	for i in musicxml/*.xml; \
 	do \
-		musicxml2hum $$i | extractx --no-rest | \
+		musicxml2hum $$i | extractxx --no-rest | \
 		   bin/adddummymetadata | bin/removedoublebarline | \
-		   grep -v "break:original" > \
+		   grep -v "break:original" | \
+		   egrep -v "^\!\!\!(YEM|YEC)" > \
 		   kern/$$(basename $$i .xml).krn; \
 	done
 	echo "ADDING GROUPING INFORMATION TO SCORES"
