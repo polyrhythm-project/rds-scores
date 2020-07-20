@@ -1,0 +1,12 @@
+# CHECKING 1 against 2
+mv R536_Mai-w8p11m32-41_1.pdf new-files
+mv R572_Pro-w32p63h48m7_5.pdf new-files
+mv R573_Pro-w36p38m293-295-2_1.pdf new-files
+mv R574_Pro-w41p21m74-77_3.pdf new-files
+mv R582_Pro-35_25_lignes_1-3.pdf new-files
+mv R584_Hon-w4p5h6m.pdf new-files
+
+# CHECKING 2 against 1
+mv ../R536_Mai-w8p11m32-41.pdf old-files
+mv ../R572_Pro-w32p63h48m7.pdf old-files
+

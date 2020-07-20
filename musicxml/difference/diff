@@ -1,0 +1,15 @@
+
+# CHECKING 1 against 2
+mv ../R536_Mai-w8p11m32-41_1.xml	.
+mv ../R572_Pro-w32p63h48m7_5.xml	.
+mv ../R573_Pro-w36p38m293-295-2.xml	.
+mv ../R573_Pro-w36p38m293-295-2_1.xml	.
+mv ../R574_Pro-w41p21m74-77_3.xml	.
+mv ../R582_Pro-35_25_lignes_1-3.xml	.
+mv ../R584_Hon-w4p5h6m.xml	.
+
+# CHECKING 2 against 1
+# R536_Mai-w8p11m32-41.xml
+# R572_Pro-w32p63h48m7.xml
+# R573_Pro-w36p38m293-295.xml
+# R584_Hon-w4p5h6m1-3.xml
