@@ -7,9 +7,9 @@
  <identification>
   <creator type="composer">Sergey [Sergeyevich] Prokofiev</creator>
   <encoding>
-   <encoding-date>2020-04-04</encoding-date>
-   <encoder>Anna Wright</encoder>
-   <software>Sibelius 20.1.0</software>
+   <encoding-date>2020-05-25</encoding-date>
+   <encoder>Walker Williams</encoder>
+   <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -93,8 +93,8 @@
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -137,6 +137,23 @@
     <staff-details number="1" print-object="yes" />
     <staff-details number="2" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="120" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">[p]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>96</per-minute>
+     </metronome>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="126">
     <pitch>
      <step>A</step>
@@ -274,6 +291,13 @@
    <backup>
     <duration>1024</duration>
    </backup>
+   <direction>
+    <direction-type>
+     <words default-x="120" default-y="-97" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">[p]</words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <note color="#000000" default-x="126" default-y="-17">
     <pitch>
      <step>A</step>

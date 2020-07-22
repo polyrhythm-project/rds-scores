@@ -10,9 +10,9 @@
 Sergey (Sergeyevich) Prokofiev</creator>
   <rights>Copyright © Natalie Dietterich</rights>
   <encoding>
-   <encoding-date>2020-04-06</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
-   <software>Sibelius 20.1.0</software>
+   <encoding-date>2020-05-25</encoding-date>
+   <encoder>Walker Williams</encoder>
+   <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -88,6 +88,11 @@ Sergey (Sergeyevich) Prokofiev</credit-words>
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -101,8 +106,8 @@ Sergey (Sergeyevich) Prokofiev</credit-words>
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -156,9 +161,19 @@ Sergey (Sergeyevich) Prokofiev</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <words default-y="50" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="10.2313" font-weight="bold">Precipitato (</words>
+     <words default-y="61" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="10.2313" font-weight="bold">Precipitato (</words>
      <words justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">q_q_e</words>
      <words justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="10.2313" font-weight="bold">)</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+      <beat-unit>eighth</beat-unit>
+      <per-minute>368</per-minute>
+     </metronome>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
