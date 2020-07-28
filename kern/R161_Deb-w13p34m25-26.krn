@@ -1,10 +1,9 @@
-!!!COM: Debussy, (Achille-)Claude
-!!!OTL: String Quartet, op. 10
-!!!OMV: Movement 4
-!!!example: 161
-!!!work: Deb-13
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [R161_Deb-w13p34m25-26]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -13,8 +12,8 @@
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*	*D-:	*	*D-:	*
 *M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
-*MM108	*	*MM108	*	*MM108	*	*MM108	*
-=25	=25	=25	=25	=25	=25	=25	=25
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter]=108	!
 16%3g-^L	f	8b-^L	f	16%3gg-^L	f	8bb-^L	f
 .	.	8dd-^	.	.	.	8ddd-^	.
 16%3f^	.	.	.	16%3ff^	.	.	.
@@ -27,10 +26,10 @@
 16%3d-X^	.	.	.	16%3dd-X^	.	.	.
 .	.	8b-X^J	.	.	.	8bb-X^J	.
 16%3c^	.	8f#X^L	.	16%3cc^	.	8ff#X^L	.
-.	.	8a-^	.	.	.	8aa-^	.
+.	.	8an^	.	.	.	8aan^	.
 16%3Bn^J	.	.	.	16%3bn^J	.	.	.
 .	.	8fn^J	.	.	.	8ffn^J	.
-=26	=26	=26	=26	=26	=26	=26	=26
+=2	=2	=2	=2	=2	=2	=2	=2
 16%3c^L	.	8en^L	.	16%3cc^L	.	8een^L	.
 .	.	8gn^	.	.	.	8ggn^	.
 16%3Bn^	.	.	.	16%3bn^	.	.	.
@@ -49,22 +48,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!CDT: 1862/08/22-1918/03/25
-!!!CBL: St Germain-en-Laye, France
-!!!CDL: Paris, France
-!!!CNT: French
-!!!AGN: Instrumental; Chamber
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1893/12/29
-!!!MGN: Ysaÿe Quartet
-!!!MLC: Paris, France
-!!!MPD: 1893
-!!!MPN: Crickboom, Mathieu; Hout, Léon; Jacob, Joseph; Ysaÿe, Eugène
-!!!ODT: 1893
-!!!PDT: 1894
-!!!excerpt-start-measure: 25
-!!!excerpt-end-measure: 26
-!!!excerpt-start-time: 1:34
-!!!excerpt-end-time: 1:38
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

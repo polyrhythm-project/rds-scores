@@ -1,118 +1,104 @@
-!!!COM: Britten, (Edward) Benjamin
-!!!OTL: Festival Te Deum for Trumpet, Chorus and Organ, op. 32
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [R809_Bri-w28p5m22-30]
 !!!OMV:
-!!!example: 809
-!!!work: Bri-28
-**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff7	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Pedals	*I"Organ	*	*	*I"BASS	*	*I"TENOR	*	*I"ALTO	*	*I"SOPRANO	*
-*I'Ped.	*I'Org.	*	*	*I'B.	*	*I'T.	*	*I'A.	*	*I'S.	*
-*clefF4	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
-*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
-*E:	*E:	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*
-*M7/8	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
-*MM72	*MM72	*MM72	*	*MM72	*	*MM72	*	*MM72	*	*MM72	*
-=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-8r	8r	8r	.	(8BBL	f	(8BL	f	(8BL	f	(8BL	f
-!	!	!	!	!LO:TX:a:t=cresc.	!	!LO:TX:a:t=cresc.	!	!LO:TX:a:t=cresc.	!	!LO:TX:a:t=cresc.	!
-8r	8r	8r	.	8C#	.	8c#	.	8c#	.	8c#	.
-8r	8r	8r	.	8EJ	.	8eJ	.	8eJ	.	8eJ	.
-8r	8r	8r	.	8F#	.	8f#	.	8f#	.	8f#	.
-.	(16qE/LL	(16qbb/LL	.	.	.	.	.	.	.	.	.
-.	16qF#/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.
-[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	.	4.G#)	.	4.g#)	.	4.g#)	.	4.g#)	.
-=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4.EE]	4.E] 4.G#] 4.B]	4.ee] 4.gg#] 4.bb]	.	(8D#L	<	(8d#L	<	(8d#L	<	(8d#L	<
-.	.	.	.	8E	.	8e	.	8e	.	8e	.
-.	.	.	.	8G#J	.	8g#J	.	8g#J	.	8g#J	.
-.	(16qE/LL	(16qbb/LL	.	.	.	.	.	.	.	.	.
-.	16qF#/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.
-[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	.	8A#X	.	8a#X	.	8a#X	.	8a#X	.
-.	.	.	.	4.B)	[[	4.b)	[[	4.b)	[[	4.b)	[[
-8EE_	8E_ 8G#_ 8B_	8ee_ 8gg#_ 8bb_	.	.	.	.	.	.	.	.	.
-=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4EE]	4E] 4G#] 4B]	4ee] 4gg#] 4bb]	.	(8G#L	<	(8g#L	<	(8G#L	<	(8g#L	<
-.	.	.	.	8A#X	.	8a#X	.	8A#X	.	8a#X	.
-.	(16qE/LL	(16qbb/LL	.	.	.	.	.	.	.	.	.
-.	16qF#/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.
-[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	.	8c#J	.	8cc#J	.	8c#J	.	8cc#J	.
-.	.	.	.	8d#	.	8dd#	.	8d#	.	8dd#	.
-.	.	.	.	4.e)	[[	4.ee)	[[	4.e)	[[	4.ee)	[[
-8EEL_	8EL_ 8G#_ 8B_	8eeL_ 8gg#_ 8bb_	.	.	.	.	.	.	.	.	.
-8EEJ_	8EJ_ 8G#_ 8B_	8eeJ_ 8gg#_ 8bb_	.	.	.	.	.	.	.	.	.
-=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-*M3/4	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-8EE]	8E] 8G#] 8B]	8ee] 8gg#] 8bb]	.	4e^	ff	4ee^	ff	4e^	ff	4ee^	ff
-.	(16qE/LL	(16qbb/LL	<	.	.	.	.	.	.	.	.
-.	16qF#/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.
-[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	.	.	.	.	.	.	.	.	.
-.	.	.	.	4e^	.	4ee^	.	4e^	.	4ee^	.
-8EEL_	8EL_ 8G#_ 8B_	8eeL_ 8gg#_ 8bb_	.	4e^	.	4ee^	.	4e^	.	4ee^	.
-8EEJ_	8EJ_ 8G#_ 8B_	8eeJ_ 8gg#_ 8bb_	.	.	.	.	.	.	.	.	.
-=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-*M11/8	*M11/8	*M11/8	*	*M11/8	*	*M11/8	*	*M11/8	*	*M11/8	*
-8EE]	8E] 8G#] 8B]	8ee] 8gg#] 8bb]	.	(4.e^	.	(4.ee^	.	(4.e^	.	(4.ee^	.
-.	(16qCn/LL	(16qcccn/LL	[ ff	.	.	.	.	.	.	.	.
-.	16qD#X/JJ	16qbb-X/JJ	.	.	.	.	.	.	.	.	.
-2.EEn	2.E) 2.A-X 2.cn	2.ee-X) 2.aa-X 2.ccc#	.	.	.	.	.	.	.	.	.
-.	.	.	.	8Cn)	.	8cn)	.	8cn)	.	8cn)	.
-.	.	.	.	[4.C	>	[4.c	>	[4.c	>	[4.c	>
-.	(16qC/LL	(16qcccn/LL	>	.	.	.	.	.	.	.	.
-.	16qD#X/JJ	16qbb-/JJ	.	.	.	.	.	.	.	.	.
-[2EEn	[2E) [2A- [2c	[2ee-) [2aa- [2ccc#	.	4C]	.	4c]	.	4c]	.	4c]	.
-.	.	.	.	4r	]	4r	]	4r	]	4r	]
-=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-*M7/8	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
-4EEn_	4E] 4A-] 4c]	4ee-] 4aa-] 4ccc#]	.	8CnL	pp	8cnL	pp	8cnL	pp	8cnL	pp
-.	.	.	.	8C	.	8c	.	8c	.	8c	.
-.	(16qCn/LL	(16qcccn/LL	] ppp	.	.	.	.	.	.	.	.
-.	16qD#X/JJ	16qbb-X/JJ	.	.	.	.	.	.	.	.	.
-2EEn_	[2E) [2A-X [2cn	[2ee-X) [2aa-X [2ccc#	.	8CJ	.	8cJ	.	8cJ	.	8cJ	.
-.	.	.	.	8DnL	.	8dnL	.	8dnL	.	8dnL	.
-.	.	.	.	8E-XJ	.	8e-XJ	.	8e-XJ	.	8e-XJ	.
-.	.	.	.	8DL	.	8dL	.	8dL	.	8dL	.
-8EE_	8E_ 8A-_ 8c_	8ee-_ 8aa-_ 8ccc#_	.	8CJ	.	8cJ	.	8cJ	.	8cJ	.
-=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-*M5/8	*M5/8	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*
-8EE]	8E] 8A-] 8c]	8ee-] 8aa-] 8ccc#]	.	8GnL	.	8gnL	.	8gnL	.	8gnL	.
-.	(16qCn/LL	(16qcccn/LL	.	.	.	.	.	.	.	.	.
-.	16qD#X/JJ	16qbb-X/JJ	.	.	.	.	.	.	.	.	.
-[2EE	[2E) [2A-X [2cn	[2ee-X) [2aa-X [2ccc#	.	8G	.	8g	.	8g	.	8g	.
-.	.	.	.	8GJ	.	8gJ	.	8gJ	.	8gJ	.
-.	.	.	.	8FnL	.	8fnL	.	8fnL	.	8fnL	.
-.	.	.	.	8E-XJ	.	8e-XJ	.	8e-XJ	.	8e-XJ	.
-=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-*M2/4	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
-4EE]	8EL_ 8A-_ 8c_	8ee-L_ 8aa-_ 8ccc#_	.	4Cn	>	4cn	>	4cn	>	4cn	>
-.	8EJ] 8A-] 8c]	8ee-J] 8aa-] 8ccc#]	.	.	.	.	.	.	.	.	.
-.	(16qE/LL	(16qcccn/LL	.	.	.	.	.	.	.	.	.
-.	16qF#X/JJ	16qdddn/JJ	.	.	.	.	.	.	.	.	.
-[4CCn	[4E) [4Gn [4cn	[4een) [4ggn [4cccn	.	4C	]]	4c	]]	4c	]]	4c	]]
-=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2CC]	4E_ 4G_ 4c_	4ee_ 4gg_ 4ccc_	.	2r	.	2r	.	2r	.	2r	.
-.	8EL_ 8G_ 8c_	8eeL_ 8gg_ 8ccc_	.	.	.	.	.	.	.	.	.
-.	8EJ] 8G] 8c]	8eeJ] 8gg] 8ccc]	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]{(s5,s6)}s7
-!!!CDT: 1913/11/22-1976/12/04
-!!!CBL: Lowestoft, England
-!!!CDL: Aldeburgh, England
-!!!CNT: English
-!!!AGN: Vocal; Choral
-!!!MCN: Gale, J., J.
-!!!MDT: 1945/04/24
-!!!MGN: Choir of St. Mark’s
-!!!MLC: Swindon, United Kingdom
-!!!MPD: 1945
-!!!MPN: Curnow, Gustavos; Titcombe, Peter
-!!!ODT: 1944
-!!!PDT: 1945
-!!!excerpt-start-measure: 22
-!!!excerpt-end-measure: 30
-!!!excerpt-start-time: 0:55
-!!!excerpt-end-time: 1:26
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!example:
+!!!work:
+**kern	**kern	**kern	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*I"Pedals	*	*I"Organ	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
+*I'Ped.	*	*I'Org.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*	*stria2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*clefG2	*clefF4	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[f#c#g#d#]	*k[]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
+*E:	*C:	*E:	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+!	!	!	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	8b	.	.	.	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
+.	8b	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
+.	8bJ	.	.	.	8F#J	.	.	8f#J	.	.	8f#J	.	.	8f#J	.	.
+.	.	16qqE/LL	((((16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16qqF#X/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+(((2.EE	4.b	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	4.G#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.
+.	8bL	.	.	.	(8D#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<
+.	8b	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
+.	8bJ	.	.	.	8G#	.	.	8g#	.	.	8g#	.	.	8g#	.	.
+.	.	16qqE/LL	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	8b	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	8A#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.
+.	4.b	.	.	.	4.B)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.
+.	8bL	.	.	.	(8G#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <
+.	8bJ	.	.	.	8A#X	.	.	8a#X	.	.	8a#X	.	.	8a#X	.	.
+.	.	16qqE/LL	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	8bL	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	8c#	.	.	8cc#	.	.	8cc#	.	.	8cc#	.	.
+.	8bJ	.	.	.	8d#J	.	.	8dd#J	.	.	8dd#J	.	.	8dd#J	.	.
+.	4.b	.	.	.	4.e)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	[8b	.	.	.	4e^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff
+.	.	16qqE/LL	(16qqbb/LL	<	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	8b]	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	4b	.	.	.	4e^	God	.	4ee^	God	.	4ee^	God	.	4ee^	God	.
+.	4b	.	.	.	4e^	of	.	4ee^	of	.	4ee^	of	.	4ee^	of	.
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	[8b	.	.	.	(4.e^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.
+.	.	16qqEn/LL	(16qqcccn/LL	ff [	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:TX:b:i:t=dim. subito	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	4b]	2.E 2.A-X 2.cn	2.ee-X 2.aa-X 2.ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8b	.	.	.	8Cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.
+.	[4.b	.	.	.	[4.C	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>
+.	.	16qqEn/LL	(16qqcccn/LL	>	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	4b]	2.E 2.A-X 2.cn	2.ee-X 2.aa-X 2.ccc)	.	4C]	.	]	4c]	.	]	4c]	.	]	4c]	.	]
+.	4r	.	.	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	8b	.	.	.	8Cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp
+.	8b	.	.	.	8C	and	.	8c	and	.	8c	and	.	8c	and	.
+.	.	16qqEn/LL	(16qqcccn/LL	ppp ]	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	8b	2.E 2.A-X 2.cn	2.ee-X 2.aa-X 2.ccc)	.	8C	earth	.	8c	earth	.	8c	earth	.	8c	earth	.
+.	8b	.	.	.	8Dn	are	.	8dn	are	.	8dn	are	.	8dn	are	.
+.	8b	.	.	.	8E-X	full	.	8e-X	full	.	8e-X	full	.	8e-X	full	.
+.	8b	.	.	.	8D	of	.	8d	of	.	8d	of	.	8d	of	.
+.	8b	.	.	.	8C	the	.	8c	the	.	8c	the	.	8c	the	.
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	8b	.	.	.	8Gn	ma-	.	8gn	ma-	.	8gn	ma-	.	8gn	ma-	.
+.	.	16qqEn/LL	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	8b	2.E 2.A-X 2.cn	2.ee-X 2.aa-X 2.ccc)	.	8G	-jes-	.	8g	-jes-	.	8g	-jes-	.	8g	-jes-	.
+.	8b	.	.	.	8G	-ty	.	8g	-ty	.	8g	-ty	.	8g	-ty	.
+.	8b	.	.	.	8Fn	of	.	8fn	of	.	8fn	of	.	8fn	of	.
+.	8b	.	.	.	8E-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.
+!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
+.	4b	.	.	.	4Cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>
+.	.	16qqEn/LL	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	16qqdddn/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.CCn	4b	2.E 2.Gn 2.cn	2.een 2.ggn 2.ccc)	.	4C	-ry.	.	4c	-ry.	.	4c	-ry.	.	4c	-ry.	.
+.	4r	.	.	.	2r	.	]	2r	.	]	2r	.	]	2r	.	]
+.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]s7,s8
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

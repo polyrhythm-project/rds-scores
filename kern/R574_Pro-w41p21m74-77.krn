@@ -1,10 +1,9 @@
-!!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: Piano Sonata No. 9 in C Major, op. 103
-!!!OMV: Movement 3
-!!!example: 574
-!!!work: Pro-41
+!!!COM: Sergey [Sergeyevich] Prokofiev
+!!!OTL: [R574_Pro-w41p21m74-77]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -13,8 +12,10 @@
 *k[b-e-a-d-]	*k[b-e-a-d-]	*
 *A-:	*A-:	*
 *M4/4	*M4/4	*
-*MM96	*MM96	*
-=74	=74	=74
+=1	=1	=1
+!	!LO:TX:t=[quarter]=96	!
+!	!LO:TX:b:t=[p]	!
+!	!LO:TX:b:t=[p]	!
 20AAA-LL	8.AA-~L	.
 20CC-X	.	.
 20AAA-	.	.
@@ -39,7 +40,7 @@
 20FFF#	.	.
 .	16BBnJk	.
 20GGGJJ	.	.
-=75||	=75||	=75||
+=2||	=2||	=2||
 *k[]	*k[]	*
 *C:	*C:	*
 20GGGLL	8.E~L	<
@@ -66,8 +67,8 @@
 20DDD#	.	.
 .	16c#XJk	.
 20EEEJJ	.	.
+=3	=3	=3
 *	*clefG2	*
-=76	=76	=76
 20GGGLL	8.c#X~L	.
 20CC	.	.
 20GGG	.	.
@@ -92,7 +93,7 @@
 20DDD#	.	.
 .	16dnJk	.
 20EEEJJ	.	.
-=77	=77	=77
+=4	=4	=4
 20GGGLL	8.g~L	.
 20CC	.	.
 20GGG	.	.
@@ -115,27 +116,27 @@
 20CC	.	.
 20GGG	.	.
 20DDD	.	.
-.	16dJk	.
+.	16dJk	[
 20EEEJJ	.	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
-!!!CDT: 1891/04/23-1953/03/05
-!!!CBL: Sontsovka, Ukraine
-!!!CDL: Moscow, Russia
-!!!CNT: Russian
-!!!AGN: Instrumental; Keyboard
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1951/04/21
+!!!MDT:
 !!!MGN:
-!!!MLC: Moscow, Russia
-!!!MPD: 1951
-!!!MPN: Richter, Sviatoslav
-!!!ODT: 1947
-!!!PDT: 1955
-!!!excerpt-start-measure: 74
-!!!excerpt-end-measure: 77
-!!!excerpt-start-time: 4:54
-!!!excerpt-end-time: 5:04
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

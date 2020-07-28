@@ -1,75 +1,78 @@
-!!!COM: Debussy, (Achille-)Claude
-!!!OTL: Nocturnes for Orchestra
-!!!OMV: II: Fêtes (Festivals)
-!!!example: 183
-!!!work: Deb-16
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [R183_Deb-w16p69h21m7-9]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Tambour militaire	*
 *I'Cb.	*	*I'Vc.	*	*I'Perc.	*
-*clefF4	*	*clefF4	*	*clefpercussion0	*
-*k[f#c#g#]	*	*k[f#c#g#]	*	*	*
-*A:	*	*A:	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*Trd0c0	*	*	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[]	*
+*A:	*	*A:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*
-*MM135	*	*MM135	*	*MM135	*
-=266	=266	=266	=266	=266	=266
-12AAAL	pp	12AAL	pp	8x^	ppp
-12AAA	.	12AA	.	.	.
+=1	=1	=1	=1	=1	=1
+!LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
+!LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!LO:TX:t=[quarter]=135	!
+12AAL	pp	12AAL	pp	8Rcc^\	ppp
+12AA	.	12AA	.	.	.
 .	.	.	.	8r	.
-12AAAJ	.	12AAJ	.	.	.
-12AAA-XL	.	12AA-XL	.	12xL	.
-12AAA-	.	12AA-	.	12x	.
-12AAA-J	.	12AA-J	.	12xJ	.
-12GGGnL	.	12GGnL	.	8.xL	.
-12GGG	.	12GG	.	.	.
-12GGGJ	.	12GGJ	.	.	.
-.	.	.	.	16xJk	.
-=267	=267	=267	=267	=267	=267
-12AAA-XL	.	12AA-XL	.	8.xL	.
-12AAA-	.	12AA-	.	.	.
-12AAA-J	.	12AA-J	.	.	.
-.	.	.	.	16xJk	.
-12GGGnL	.	12GGnL	.	8x^	.
-12GGG	.	12GG	.	.	.
+!	!	!LO:TX:a:i:t=et toujours en s'éloignant davantage	!	!	!
+12AAJ	.	12AAJ	.	.	.
+12AA-XL	.	12AA-XL	.	12Rcc\L	.
+12AA-	.	12AA-	.	12Rcc\	.
+12AA-J	.	12AA-J	.	12Rcc\J	.
+12GGnL	.	12GGnL	.	8.Rcc\L	.
+12GG	.	12GG	.	.	.
+12GGJ	.	12GGJ	.	.	.
+.	.	.	.	16Rcc\Jk	.
+=2	=2	=2	=2	=2	=2
+12AA-XL	.	12AA-XL	.	8.Rcc\L	.
+12AA-	.	12AA-	.	.	.
+12AA-J	.	12AA-J	.	.	.
+.	.	.	.	16Rcc\Jk	.
+*Xtuplet	*	*Xtuplet	*	*	*
+12GGnL	.	12GGnL	.	8Rcc^\	.
+12GG	.	12GG	.	.	.
 .	.	.	.	8r	.
-12GGGJ	.	12GGJ	.	.	.
-12FFF#L	.	12FF#L	.	12xL	.
-12FFF#	.	12FF#	.	12x	.
-12FFF#J	.	12FF#J	.	12xJ	.
-=268	=268	=268	=268	=268	=268
-12AAAnL	.	12AAnL	.	8.xL	.
-12AAA	.	12AA	.	.	.
-12AAAJ	.	12AAJ	.	.	.
-.	.	.	.	16xJk	.
-12AAA-XL	.	12AA-XL	.	8.xL	.
-12AAA-	.	12AA-	.	.	.
-12AAA-J	.	12AA-J	.	.	.
-.	.	.	.	16xJk	.
-12GGGnL	.	12GGnL	.	8x	.
-12GGG	.	12GG	.	.	.
+12GGJ	.	12GGJ	.	.	.
+12FF#L	.	12FF#L	.	12Rcc\L	.
+12FF#	.	12FF#	.	12Rcc\	.
+12FF#J	.	12FF#J	.	12Rcc\J	.
+=3	=3	=3	=3	=3	=3
+12AAnL	.	12AAnL	.	8.Rcc\L	.
+12AA	.	12AA	.	.	.
+12AAJ	.	12AAJ	.	.	.
+.	.	.	.	16Rcc\Jk	.
+12AA-XL	.	12AA-XL	.	8.Rcc\L	.
+12AA-	.	12AA-	.	.	.
+12AA-J	.	12AA-J	.	.	.
+.	.	.	.	16Rcc\Jk	.
+12GGnL	.	12GGnL	.	8Rcc\	.
+12GG	.	12GG	.	.	.
 .	.	.	.	8r	.
-12GGGJ	.	12GGJ	.	.	.
+12GGJ	.	12GGJ	.	.	.
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: s1[(s2,s3)]
-!!!CDT: 1862/08/22-1918/03/25
-!!!CBL: St Germain-en-Laye, France
-!!!CDL: Paris, France
-!!!CNT: French
-!!!AGN: Orchestral; Programmatic
-!!!MCN: Chevillard, Camille
-!!!MDT: 1901/10/27
-!!!MGN: Orchestre Lamoureux
-!!!MLC: Paris, France
-!!!MPD: 1901
+!!!system-decoration: [(s1[(s2,s3)])]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
 !!!MPN:
-!!!ODT: 1899
-!!!PDT: 1901
-!!!excerpt-start-measure: 266
-!!!excerpt-end-measure: 268
-!!!excerpt-start-time: 5:54
-!!!excerpt-end-time: 5:58
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

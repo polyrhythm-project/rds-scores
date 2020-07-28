@@ -1,247 +1,252 @@
-!!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
-!!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
-!!!example: 392
-!!!work: Str-33
-**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
-*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1	*part1
-*staff6	*	*staff5	*	*staff4	*staff3	*staff2	*staff1	*
-*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Treble Solo	*
-*I'Vc.	*	*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Tr. Solo	*
-*clefF4	*	*clefF4	*	*clefC3	*clefG2	*clefG2	*clefG2	*
-*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*
-*D:	*	*D:	*	*D:	*D:	*D:	*D:	*
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*MM60	*	*MM60	*	*MM60	*MM60	*MM60	*MM60	*
-=64	=64	=64	=64	=64	=64	=64	=64	=64
-*^	*	*	*	*	*	*	*	*
-!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!
-!LO:TX:a:t=arco	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
-[2D	[4DD	p	[4DD	p	4r	8r	8r	8dL	.
-.	.	.	.	.	.	8fff#'	4f# 4b	8eJ	.
-.	4r	.	4r	.	(4F#	8r	.	8f#L	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8gJ	<
-*v	*v	*	*	*	*	*	*	*	*
-=65	=65	=65	=65	=65	=65	=65	=65	=65
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4D]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[ >
-4r	.	.	4r	.	4E)	8r	.	4b]	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4C#	[4C#	.	[4CC#	.	4r	8r	.	8eeL	]
-.	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=66	=66	=66	=66	=66	=66	=66	=66	=66
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2C#_	2r	.	2r	.	(4G	8r	8B] 8f#]	4b	.
-.	.	.	.	.	.	8g	4go	.	.
-.	.	.	.	.	4e	8r	.	8gL	.
-.	.	.	.	.	.	8bb	[8B [8e	8aJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=67	=67	=67	=67	=67	=67	=67	=67	=67
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4C#]	4r	.	4r	.	4F#)	8r	8B] 8e]	4b	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[2BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8dd#XJ	.
-.	4r	.	4r	.	(4E	8r	.	8bL	.
-.	.	.	.	.	.	8g	[8go	8gJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=68	=68	=68	=68	=68	=68	=68	=68	=68
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2BB]	2r	.	2r	.	4c#	8r	8g]	8f#L	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8eJ	.
-.	.	.	.	.	4D)	8r	.	4f#	.
-.	.	.	.	.	.	8bb	[8B [8e	.	.
-=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-[2AA	[4AA	.	[4AA	.	4r	8r	8B] 8e]	8dL	.
-.	.	.	.	.	.	8fff#'	4f# 4b	8eJ	.
-.	4r	.	4r	.	(4F#	8r	.	8f#L	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8gJ	<
-*v	*v	*	*	*	*	*	*	*	*
-=70	=70	=70	=70	=70	=70	=70	=70	=70
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-2AA]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[ >
-.	.	.	4r	.	4E)	8r	.	4b]	.
-.	.	.	.	.	.	8ff#'	4B 4e	.	.
-[4GG	[4GG	.	[4GG	.	4r	8r	.	8eeL	]
-.	.	.	.	.	.	8fff#'	[8f# [8b	8dd#XJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=71	=71	=71	=71	=71	=71	=71	=71	=71
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2GG_	2r	.	2r	.	(4G	8r	8f#] 8b]	4b	.
-.	.	.	.	.	.	8ff#'	4B 4f#	.	.
-.	.	.	.	.	4e	8r	.	8gL	.
-.	.	.	.	.	.	8g	[8go	8aJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=72	=72	=72	=72	=72	=72	=72	=72	=72
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4GG]	4r	.	4r	.	4F#)	8r	8go]	4b	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[2AA	[4AA	.	[4AA	.	4r	8r	.	8eeL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8dd#XJ	.
-.	4r	.	4r	.	(4A	8r	.	8bL	.
-.	.	.	.	.	.	8g	[8go	8gJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=73	=73	=73	=73	=73	=73	=73	=73	=73
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2AA]	2r	.	2r	.	4f#	8r	8go]	8f#L	.
-.	.	.	.	.	.	8bb	4B 4e	8eJ	.
-.	.	.	.	.	4G)	8r	.	4f#	.
-.	.	.	.	.	.	8fff#'	[8f# [8b	.	.
-=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
-[2BB	[4BB	.	[4BB	.	4r	8r	8f#] 8b]	8dL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8eJ	.
-.	4r	.	4r	.	(4A	8r	.	8f#L	.
-.	.	.	.	.	.	8g	[8go	8gJ	<
-*v	*v	*	*	*	*	*	*	*	*
-=75	=75	=75	=75	=75	=75	=75	=75	=75
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-2BB]	2r	.	4r	.	4f#	8r	8go]	8aL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	[8bJ	[ >
-.	.	.	4r	.	4G)	8r	.	4b]	.
-.	.	.	.	.	.	8bb	4B 4e	.	.
-[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	]
-.	.	.	.	.	.	8fff#'	[8f# [8b	8dd#XJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=76	=76	=76	=76	=76	=76	=76	=76	=76
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2Cn_	2r	.	2r	.	(4B	8r	8f#] 8b]	4b	.
-.	.	.	.	.	.	8ff#'	4B 4f#	.	.
-.	.	.	.	.	4e	8r	.	8gL	.
-.	.	.	.	.	.	8g	[8go	8aJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=77	=77	=77	=77	=77	=77	=77	=77	=77
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4C]	4r	.	4r	.	4F#)	8r	8go]	4b	.
-.	.	.	.	.	.	8bb	4B 4e	.	.
-[2D	[4D	.	[4D	.	4r	8r	.	8eeL	.
-.	.	.	.	.	.	8fff#'	4f# 4b	8dd#XJ	.
-.	4r	.	4r	.	(4A	8r	.	8bL	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8gJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=78	=78	=78	=78	=78	=78	=78	=78	=78
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2D]	2r	.	2r	.	4f#	8r	8B] 8f#]	8f#L	.
-.	.	.	.	.	.	8g	4go	8eJ	.
-.	.	.	.	.	4E)	8r	.	4f#	.
-.	.	.	.	.	.	8fff#'	[8f# [8b	.	.
-=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
-[2C#	[4C#	.	[4C#	.	4r	8r	8f#] 8b]	8dL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8eJ	.
-.	4r	.	4r	.	(4f#	8r	.	8f#L	.
-.	.	.	.	.	.	8g	[8go	8gJ	<
-*v	*v	*	*	*	*	*	*	*	*
-=80	=80	=80	=80	=80	=80	=80	=80	=80
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4C#]	2r	.	4r	.	4dd	8r	8go]	8aL	.
-.	.	.	.	.	.	8bb	4B 4e	[8bJ	[ >
-4r	.	.	4r	.	4e)	8r	.	4b]	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4C#	[4Cn	.	[4Cn	.	4r	8r	.	8eeL	]
-.	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=81	=81	=81	=81	=81	=81	=81	=81	=81
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2C_	2r	.	2r	.	(4e	8r	8B] 8f#]	4b	.
-.	.	.	.	.	.	8g	4go	.	.
-.	.	.	.	.	4cc#	8r	.	8gL	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8aJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=82	=82	=82	=82	=82	=82	=82	=82	=82
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4C]	4r	.	4r	.	4d)	8r	8B] 8f#]	4b	.
-.	.	.	.	.	.	8bb	4B 4e	.	.
-[2BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	.
-.	.	.	.	.	.	8fff#'	4f# 4b	8dd#XJ	.
-.	4r	.	4r	.	(4d	8r	.	8bL	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8gJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=83	=83	=83	=83	=83	=83	=83	=83	=83
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2BB]	2r	.	2r	.	4b	8r	8B] 8f#]	8f#L	.
-.	.	.	.	.	.	8g	4go	8eJ	.
-.	.	.	.	.	4c#)	8r	.	4f#	.
-.	.	.	.	.	.	8bb	[8B [8e	.	.
-=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
-[2BB	[4BB	.	[4BB	.	4r	8r	8B] 8e]	8dL	.
-.	.	.	.	.	.	8fff#'	4f# 4b	8eJ	.
-.	4r	.	4r	.	(4F#	8r	.	8f#L	.
-.	.	.	.	.	.	8ff#'	[8B [8f#	8gJ	<
-*v	*v	*	*	*	*	*	*	*	*
-=85	=85	=85	=85	=85	=85	=85	=85	=85
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-2BB]	2r	.	4r	.	4d	8r	8B] 8f#]	8aL	.
-.	.	.	.	.	.	8g	4go	[8bJ	[ >
-.	.	.	4r	.	4E)	8r	.	4b]	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[4BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	]
-.	.	.	.	.	.	8ff#'	[8B [8f#	8dd#XJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=86	=86	=86	=86	=86	=86	=86	=86	=86
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2BB_	2r	.	2r	.	(4G	8r	8B] 8f#]	4b	.
-.	.	.	.	.	.	8g	4go	.	.
-.	.	.	.	.	4e	8r	.	8gL	.
-.	.	.	.	.	.	8bb	[8B [8e	8aJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=87	=87	=87	=87	=87	=87	=87	=87	=87
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*
-*^	*	*	*	*	*	*	*	*
-4BB]	4r	.	4r	.	4F#)	8r	8B] 8e]	4b	.
-.	.	.	.	.	.	8fff#'	4f# 4b	.	.
-[2BB	[4BB	.	[4BB	.	4r	8r	.	8eeL	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8dd#XJ	.
-.	4r	.	4r	.	(4E	8r	.	8bL	.
-.	.	.	.	.	.	8g	[8go	8gJ	.
-*v	*v	*	*	*	*	*	*	*	*
-=88	=88	=88	=88	=88	=88	=88	=88	=88
-*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*
-*^	*	*	*	*	*	*	*	*
-2BB]	2r	.	2r	.	4c#	8r	8go]	8f#L	.
-.	.	.	.	.	.	8ff#'	4B 4f#	8eJ	.
-.	.	.	.	.	4D)	8r	.	4f#	.
-.	.	.	.	.	.	8bb	[8B [8e	.	.
-*v	*v	*	*	*	*	*	*	*	*
-=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [R392_Str-w33p52-54h74m1-h80m1]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part2	*part1	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*staff1	*staff1	*
+*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Treble Solo	*	*
+*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*I'Vln. I	*I'Tr. Solo	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*clefG2	*clefG2	*	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*
+*D:	*	*D:	*	*D:	*	*D:	*D:	*D:	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*	*	*^	*	*	*
+!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=60	!	!
+!LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!LO:TX:t=[quarter]=60	!	!LO:TX:a:i:t=cantabile dolce	!	!
+[2D	[4DD	p	[4DD	p	4r	.	8r	8ryy	8r	8d	Sur	.
+!	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4ryy	4f# 4b	8e	ce	.
+.	4r	.	4r	.	(4F#	p	8r	.	.	8f#	lit	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	(8gL	el-	<
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4D]	2r	.	4r	.	4d	.	8r	8ff#J	8BJ] 8f#]	8aJ)	.	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	[8b	-le	[ >
+4r	.	.	4r	.	4E)	.	8r	8ryy	.	4b]	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.
+[4C#	[4C#	.	[4CC#	.	4r	.	8r	.	.	8eeL	re-	]
+!	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8dd#XJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2C#_	2r	.	2r	.	(4G	.	8r	8ff#J	8BJ] 8f#]	4b	-po-	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	.	.	.
+.	.	.	.	.	4e	.	8r	8ryy	.	8gL	-se	.
+.	.	.	.	.	.	.	8bbv	8bbL	[8BL [8e	8aJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4C#]	4r	.	4r	.	4F#)	.	8r	8bbJ	8BJ] 8e]	4b	Et	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.
+[2BB	[4BB	.	[4BB	.	4r	.	8r	.	.	8eeL	je	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8dd#XJ	.	.
+.	4r	.	4r	.	(4E	.	8r	8ff#J	8BJ] 8f#]	8b	n'ose	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8g	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2BB]	2r	.	2r	.	4c#	.	8r	8ryy	8gJ]	8f#	la	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	trou-	.
+.	.	.	.	.	4D)	.	8r	.	.	4f#	-bler.	.
+.	.	.	.	.	.	.	8bbv	8bbL	[8BL [8e	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+[2AA	[4AA	.	[4AA	.	4r	.	8r	8bbJ	8BJ] 8e]	8d	En-	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8e	-core	.
+.	4r	.	4r	.	(4F#	.	8r	.	.	8f#	as-	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8g	-sou-	<
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!
+2AA]	2r	.	4r	.	4d	.	8r	8ff#J	8BJ] 8f#]	8aL	-pie,	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	[8bJ	.	[ >
+.	.	.	4r	.	4E)	.	8r	8ryy	.	4b]	.	.
+.	.	.	.	.	.	.	8ff#'v	4bb	4B 4e	.	.	.
+[4GG	[4GG	.	[4GG	.	4r	.	8r	.	.	8ee	en-	]
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	8dd#X	-core	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2GG_	2r	.	2r	.	(4G	.	8r	8fff#J	8f#J] 8b]	4b	as-	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.
+.	.	.	.	.	4e	.	8r	.	.	8gL	-sou-	.
+.	.	.	.	.	.	.	8gv	8ryy	[8g	8aJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4GG]	4r	.	4r	.	4F#)	.	8r	8ryy	8g]	4b	-pie,	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.
+[2AA	[4AA	.	[4AA	.	4r	.	8r	.	.	8ee	as-	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8dd#X	-sou-	.
+.	4r	.	4r	.	(4A	.	8r	.	.	8bL	-pie	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8gJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2AA]	2r	.	2r	.	4f#	.	8r	8ryy	8gJ]	8f#	à	.
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	8e	moi-	.
+.	.	.	.	.	4G)	.	8r	.	.	4f#	-tié	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+[2BB	[4BB	.	[4BB	.	4r	.	8r	8fff#J	8f#J] 8b]	8dL	El	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	.	.
+.	4r	.	4r	.	(4A	.	8r	.	.	8f#J	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8g	le	<
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!
+2BB]	2r	.	4r	.	4f#	.	8r	8ryy	8gJ]	8a	pres-	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	4.b	-se,	[ >
+.	.	.	4r	.	4G)	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.
+[4C#	[4Cn	.	[4Cn	.	4r	.	8r	.	.	8ee	pres-	]
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	8dd#X	-se	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2Cn_	2r	.	2r	.	(4B	.	8r	8fff#J	8f#J] 8b]	4b	sur	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.
+.	.	.	.	.	4e	.	8r	.	.	8gL	son	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8aJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4Cn]	4r	.	4r	.	4F#)	.	8r	8ryy	8gJ]	4b	coeur	.
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.
+[2D	[4D	.	[4D	.	4r	.	8r	.	.	8ee	Le	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	8dd#X	nar-	.
+.	4r	.	4r	.	(4F#	.	8r'	8fff#J	8f#J] 8b]	8b	-cis-	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8g	-se	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2D]	2r	.	2r	.	4d	.	8r	8ff#J	8BJ] 8f#]	8f#	dont	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	8e	l'o-	.
+.	.	.	.	.	4E)	.	8r	8ryy	.	4f#	-deur	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+[2C#	[4C#	.	[4C#	.	4r	.	8r'	8fff#J	8f#J] 8b]	(8dL	L'a	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	.	.
+.	4r	.	4r	.	(4f#	.	8r	.	.	8f#	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8gJ	.	<
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!
+4C#]	2r	.	4r	.	4dd	.	8r	8ryy	8gJ]	8a	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	4.b)	.	[ >
+4r	.	.	4r	.	4e)	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	.	.	.
+[4C#	[4Cn	.	[4Cn	.	4r	.	8r'	8fff#J	8f#J] 8b]	8eeL	con-	]
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8dd#XJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2Cn_	2r	.	2r	.	(4e	.	8r	8ff#J	8BJ] 8f#]	4b	-qui-	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	.	.	.
+.	.	.	.	.	4cc#	.	8r	8ryy	.	8gL	.	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8aJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4Cn]	4r	.	4r	.	4d)	.	8r'	8ff#J	8BJ] 8f#]	4b	-se	.
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.
+[2BB	[4BB	.	[4BB	.	4r	.	8r	.	.	8ee	l'a	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	8dd#X	con-	.
+.	4r	.	4r	.	(4d	.	8r'	8fff#J	8f#J] 8b]	8b	-quise	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8g	à	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2BB]	2r	.	2r	.	4b	.	8r	8ff#J	8BJ] 8f#]	8f#	la	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	8e	pi-	.
+.	.	.	.	.	4c#)	.	8r	8ryy	.	4f#	-tié.	.
+.	.	.	.	.	.	.	8bbv	8bbL	[8BL [8e	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+[2BB	[4BB	.	4BB_	.	4r	.	8r	8bbJ	8BJ] 8e]	8d	Sur	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8e	ce	.
+.	4r	.	4r	.	(4F#	.	8r'	.	.	8f#	lit	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	(8g	el-	<
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!
+2BB]	2r	.	4r	.	4d	.	8r	8ff#J	8BJ] 8f#]	8a)	.	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	4.b	-le	[ >
+.	.	.	4r	.	4E)	.	8r	8ryy	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	.	.	.
+[4BB	[4BB	.	4BB_	.	4r	.	8r'	8fff#J	8f#J] 8b]	8eeL	re-	]
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8dd#XJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2BB_	2r	.	2r	.	(4G	.	8r	8ff#J	8BJ] 8f#]	4b	-po-	.
+.	.	.	.	.	.	.	8gv	8ryy	4g	.	.	.
+.	.	.	.	.	4e	.	8r	8ryy	.	8gL	-se	.
+.	.	.	.	.	.	.	8bbv	8bbL	[8BL [8e	8aJ	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+4BB]	4r	.	4r	.	4F#)	.	8r	8bbJ	8BJ] 8e]	4b	Et	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.
+[2BB	[4BB	.	4BB_	.	4r	.	8r'	.	.	8eeL	je	.
+.	.	.	.	.	.	.	8ff#'v	8ff#L	[8BL [8f#	8dd#XJ	.	.
+.	4r	.	4r	.	(4E	.	8r	8ff#J	8BJ] 8f#]	8b	n’o-	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gL	8g	-se	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+*^	*	*	*	*	*	*	*^	*	*	*
+2BB]	2r	.	2r	.	4c#	.	8r	8ryy	8gJ]	8f#	la	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	trou-	.
+.	.	.	.	.	4D)	.	8r	.	.	4f#	-bler.	.
+.	.	.	.	.	.	.	8bbv	8bb	[8B [8e	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1[(s2,s3,s4,s5,s6)]
-!!!CDT: 1882/06/17-1971/04/06
-!!!CBL: Lomonosov (Oranienbaum), Russia
-!!!CDL: New York, United States
-!!!CNT: Russian, French, American
-!!!AGN: Stage; Theatrical
-!!!MCN: Stravinsky, Igor
-!!!MDT: 1934/04/30
-!!!MGN: Orchestre de l'Opéra
-!!!MLC: Paris, France
-!!!MPD: 1934
-!!!MPN: Maison, René; Rubinstein, Ida
-!!!ODT: 1934
-!!!PDT: 1934
-!!!excerpt-start-measure: 64
-!!!excerpt-end-measure: 88
-!!!excerpt-start-time: 3:47
-!!!excerpt-end-time: 4:48
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

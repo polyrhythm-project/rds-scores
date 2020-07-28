@@ -1,86 +1,90 @@
-!!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: Pohádka (Fairy Tale) for Violincello and Piano
-!!!OMV: Movement 1
-!!!example: 129
-!!!work: Jan-30
-**kern	**kern	**dynam	**kern
-*grp:A	*grp:B	*grp:B	*grp:A
-*part2	*part2	*part2	*part1
-*staff3	*staff2	*	*staff1
-*I"Piano	*	*	*I"Violoncello
-*I'Pno.	*	*	*I'Vc.
-*clefF4	*clefG2	*	*clefF4
-*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]
-*A:	*A:	*	*A:
-*M2/8	*M2/8	*	*M2/8
-*MM42	*MM42	*	*MM42
-=124	=124	=124	=124
-*^	*	*	*
-(8.GnL	(24EELL	4r	.	24r
-.	24E	.	.	(24BB'LL
-.	24EJJ) 24G#X	.	.	24BB'J 24E
-.	8r	.	.	24BB'L 24E
-.	.	.	.	24BB') 24E
-16BJk)	.	.	.	.
-.	.	.	.	24gnJJ
-*v	*v	*	*	*
-=125	=125	=125	=125
-(24EELL	64ff#XLLLL	f	(16aLL
-.	64ee	.	.
-.	64b	.	.
-24E'	.	.	.
-.	64gn	.	.
-.	64cc#X	.	16gn
-.	64b	.	.
-24E'J) 24Gn	.	.	.
-.	64g	.	.
-.	64eJJJJ	.	.
-(24EEL	8r	.	16f#X
-24E'	.	.	.
-.	.	.	16BJJ)
-24E'JJ) 24G	.	.	.
-=126	=126	=126	=126
-(24EELL	8r	.	(8.eL
-24E'	.	.	.
-24E'J) 24Gn	.	.	.
-(24EEL	8r	.	.
-24E'	.	.	.
-.	.	.	16gnJk)
-24E'JJ) 24G	.	.	.
-=127	=127	=127	=127
-(24EELL	64ff#XLLLL	f	(16aLL
-.	64ee	.	.
-.	64b	.	.
-24E'	.	.	.
-.	64gn	.	.
-.	64cc#X	.	16gn
-.	64b	.	.
-24E'J) 24Gn	.	.	.
-.	64g	.	.
-.	64eJJJJ	.	.
-(24EEL	8r	.	16f#X
-24E'	.	.	.
-.	.	.	16BJJ)
-24E'JJ) 24G	.	.	.
-=	=	=	=
-*-	*-	*-	*-
-!!!system-decoration: s1{(s2,s3)}
-!!!CDT: 1854/07/03-1928/08/12
-!!!CBL: Hukvaldy, Moravia
-!!!CDL: Moravaská Ostrava, Czech Republic
-!!!CNT: Czech
-!!!AGN: Instrumental; Chamber
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [R129_Jan-w30p11m124-127]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*
+*I'Pno.	*	*	*I'Vc.	*
+*clefF4	*clefG2	*	*clefF4	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*A:	*	*A:	*
+*M2/8	*M2/8	*	*M2/8	*
+=1	=1	=1	=1	=1
+*^	*	*	*	*
+!	!	!	!	!LO:TX:t=[eighth]=84	!
+!	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[mf cresc.]	!
+(8.GnL	24EE	4r	f	24r	.
+*	*	*	*	*Xtuplet	*
+.	24ELL	.	.	(24BB'LL	<
+.	24EJJ 24G#X	.	.	24BB'JJ 24E	.
+.	8r	.	.	24BB'LL 24E	.
+!	!	!	!	!LO:TX:b:i:t=espress.	!
+.	.	.	.	24BB'JJ 24E)	[
+16BJk	.	.	.	.	.
+.	.	.	.	24gn	.
+=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:b:i:t=cresc.	!
+24EE	8ryy	(64ff#XLLLL	.	(16aLL	f
+.	.	64ee	.	.	.
+.	.	64b	.	.	.
+24E'LL	.	.	.	.	.
+.	.	64gnJJJ	.	.	.
+.	.	64cc#XLLL	.	16gn	.
+.	.	64b	.	.	.
+24E'JJ 24Gn	.	.	.	.	.
+.	.	64g	.	.	.
+.	.	64eJJJJ)	.	.	.
+24BB	24BB	8r	.	16f#X	.
+24E'LL	24ryy	.	.	.	.
+.	.	.	.	16BJJ)	.
+24E'JJ 24G	24ryy	.	.	.	.
+=3	=3	=3	=3	=3	=3
+24C#X	24C#	8r	.	(8.eL	.
+24E'LL	24ryy	.	.	.	.
+24E'JJ 24Gn	24ryy	.	.	.	.
+24BB	24BB	8r	.	.	.
+24E'LL	24ryy	.	.	.	.
+.	.	.	.	16gnJk)	.
+24E'JJ 24G	24ryy	.	.	.	.
+=4	=4	=4	=4	=4	=4
+24EE	24EE	(64ff#XLLLL	.	(16aLL	.
+.	.	64ee	.	.	.
+.	.	64b	.	.	.
+24E'LL	24ryy	.	.	.	.
+.	.	64gnJJJ	.	.	.
+.	.	64cc#XLLL	.	16gn	.
+.	.	64b	.	.	.
+24E'JJ 24Gn	24ryy	.	.	.	.
+.	.	64g	.	.	.
+.	.	64eJJJJ)	.	.	.
+24BB	24BB	8r	.	16f#X	.
+24E'LL	24ryy	.	.	.	.
+.	.	.	.	16BJJ)	.
+24E'JJ 24G	24ryy	.	.	.	.
+*v	*v	*	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1910/03/13
+!!!MDT:
 !!!MGN:
-!!!MLC: Brno, Czechia
-!!!MPD: 1910
-!!!MPN: Pavlata, Rudolf; Prokopová, Ludmila
-!!!ODT: 1910 (rev. 1923)
-!!!PDT: 1910
-!!!excerpt-start-measure: 124
-!!!excerpt-end-measure: 127
-!!!excerpt-start-time: 3:53
-!!!excerpt-end-time: 3:58
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

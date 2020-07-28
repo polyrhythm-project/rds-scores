@@ -1,119 +1,25 @@
-!!!COM: Hindemith, Paul
-!!!OTL: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
-!!!OMV: Movement 4: Finale
-!!!example: 630
-!!!work: Hin-22
-**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff4	*staff3	*	*staff2	*	*staff1	*
-*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
-*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*
-*clefG2	*clefF4	*	*clefG2	*	*clefF4	*
-*k[]	*k[]	*	*	*	*k[]	*
-*	*	*	*	*	*	*
-*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
-*MM131	*MM131	*	*MM131	*	*MM131	*
-=53	=53	=53	=53	=53	=53	=53
-12cc^L	1r	.	1r	.	1r	.
-12an	.	.	.	.	.	.
-12enJ	.	.	.	.	.	.
-12gnL	.	.	.	.	.	.
-12b	.	.	.	.	.	.
-12g#XJ	.	.	.	.	.	.
-12e#XL	.	.	.	.	.	.
-12g#	.	.	.	.	.	.
-12ccnJ	.	.	.	.	.	.
-12bL	.	.	.	.	.	.
-12d 12a	.	.	.	.	.	.
-12enJ	.	.	.	.	.	.
-=54	=54	=54	=54	=54	=54	=54
-!LO:TX:b:t=cresc.	!	!	!	!	!	!
-12f#XL	1EE	< p [[	1r	.	1r	.
-12g	.	.	.	.	.	.
-12dd-XJ	.	.	.	.	.	.
-12b-XL	.	.	.	.	.	.
-12e-X	.	.	.	.	.	.
-12g-XJ	.	.	.	.	.	.
-12ccL	.	.	.	.	.	.
-12a-X	.	.	.	.	.	.
-12f-XJ	.	.	.	.	.	.
-12a-L	.	.	.	.	.	.
-12dd-	.	.	.	.	.	.
-12ccJ	.	.	.	.	.	.
-*	*	*	*clefF4	*	*	*
-=55	=55	=55	=55	=55	=55	=55
-12d-XL 12b-X	1r	> ]	1FFF	< p [[	1r	.
-12e-X	.	.	.	.	.	.
-12fJ	.	.	.	.	.	.
-12g-XL	.	.	.	.	.	.
-12ddn	.	.	.	.	.	.
-12bnJ	.	.	.	.	.	.
-12dnL	.	.	.	.	.	.
-12f	.	.	.	.	.	.
-12dd-XJ	.	.	.	.	.	.
-12a-XL	.	.	.	.	.	.
-12e-X	.	.	.	.	.	.
-12a-J	.	.	.	.	.	.
-=56	=56	=56	=56	=56	=56	=56
-12ddnL	1EE	<[	1r	> ]	1r	.
-12cc#X	.	.	.	.	.	.
-12cnJ 12b	.	.	.	.	.	.
-12dL	.	.	.	.	.	.
-12e#X	.	.	.	.	.	.
-12fJ	.	.	.	.	.	.
-12ee-X^L	.	.	.	.	.	.
-12ccn	.	.	.	.	.	.
-12c#XJ	.	.	.	.	.	.
-12e#L	.	.	.	.	.	.
-12dd	.	.	.	.	.	.
-12g#XJ	.	.	.	.	.	.
-=57	=57	=57	=57	=57	=57	=57
-12eL	1r	> ]	1FFF	<[	1r	.
-12g#X	.	.	.	.	.	.
-12ee-XJ	.	.	.	.	.	.
-12ddL	.	.	.	.	.	.
-12B 12cc	.	.	.	.	.	.
-12c#XJ	.	.	.	.	.	.
-12d#XL	.	.	.	.	.	.
-12e	.	.	.	.	.	.
-12eenJ	.	.	.	.	.	.
-12cc#XL	.	.	.	.	.	.
-12cn	.	.	.	.	.	.
-12e-XJ	.	.	.	.	.	.
-=58	=58	=58	=58	=58	=58	=58
-!	!LO:TX:b:t=cresc.	!	!	!	!LO:TX:b:t=cresc.	!
-12dd#XL	2.EE	< mf	1r	> ]	[1D	p
-12g#X	.	.	.	.	.	.
-12c#XJ	.	.	.	.	.	.
-12g#XL	.	.	.	.	.	.
-12ee	.	.	.	.	.	.
-12dd#XJ	.	.	.	.	.	.
-12B-XL 12cc#X	.	.	.	.	.	.
-12cn	.	.	.	.	.	.
-12dJ	.	.	.	.	.	.
-12e-XL	4r	] > ]	.	.	.	.
-12b-X 12bb-X	.	.	.	.	.	.
-12ggnJ	.	.	.	.	.	.
-=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1[(s2,s3)]{(s4,s5)}
-!!!CDT: 1895/11/16-1963/12/28
-!!!CBL: Hanau, Germany
-!!!CDL: Frankfurt, Germany
-!!!CNT: German
-!!!AGN: Orchestral; Concerto
-!!!MCN: Kraus, Clemens
-!!!MDT: 1924/10/31
-!!!MGN: Ensemble of the Frankfurter Museumgesellschaft
-!!!MLC: Frankfurt, Germany
-!!!MPD: 1924
-!!!MPN: Lübbecke-Job, Emma
-!!!ODT: 1924
-!!!PDT: 1924
-!!!excerpt-start-measure: 53
-!!!excerpt-end-measure: 58
-!!!excerpt-start-time: 1:28
-!!!excerpt-end-time: 1:39
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!COM:
+!!!OTL:
+!!!OMV:
+!!!example:
+!!!work:
+
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

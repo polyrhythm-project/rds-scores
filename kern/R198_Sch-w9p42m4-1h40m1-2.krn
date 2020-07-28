@@ -1,52 +1,95 @@
-!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Kammersymphonie (Chamber Symphony) No. 1, op. 9
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [R198_Sch-w9p42m4-1h40m1-2]
 !!!OMV:
-!!!example: 198
-!!!work: Sch-9
+!!!example:
+!!!work:
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part3	*part2	*part2	*part1
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*I"Clarinet in Bb	*	*I"Cor Anglais	*	*I"Oboe
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*I'Cl.	*	*I'C. A.	*	*I'Ob.
-*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*clefG2	*	*clefG2	*	*clefG2
-*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]
-*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*	*	*E-:	*	*E-:	*E-:	*	*E-:	*	*E-:
+*clefC4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*clefG2	*	*clefG2	*	*clefG2
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd0c0	*	*	*ITrd1c2	*	*ITrd4c7	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*E-:	*	*E-:	*	*E-:
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4
-*MM282	*	*MM282	*	*MM282	*	*MM282	*	*MM282	*	*MM282	*	*MM282	*	*MM282	*MM282	*	*MM282	*	*MM282
-=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
-4EE-X	.	4.GG	p	8r	.	2.d-X	.	4r	.	4BB-X 4B-X	p	4GGG	p	4E-X	2.d-XT	pp	4B-X	sf	4B-X
-.	.	.	.	8en'L	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4r	.	.	.	8f'	.	.	.	8r	.	4r	.	4r	.	4r	.	.	4r	.	4r
-.	.	8D-X 8A-X	.	8e'J	.	.	.	8b-'	p	.	.	.	.	.	.	.	.	.	.
-4GGG	.	[4GG	.	4a-	.	.	.	8cc-X'L	.	4r	.	4r	.	4r	.	.	4r	.	4r
-.	.	.	.	.	.	.	.	8b-'J	.	.	.	.	.	.	.	.	.	.	.
-=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
-4r	.	8GGL]	<	8r	.	2.d-X	<[	4ee-X	<	2.r	.	2.r	.	2.r	2.d-X	.	2.r	.	2.r
-.	.	8D-XJ 8A-	.	8e-X'	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4GGG	<	4.GG	.	8f'L	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	8e-'J	.	.	.	8bn'	.	.	.	.	.	.	.	.	.	.	.
-4r	[[	.	.	4g	[[	.	.	8ccn'L	.	.	.	.	.	.	.	.	.	.	.
-.	.	8D- 8B-X	[[	.	.	.	.	8b'J	[[	.	.	.	.	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half-dot]=94
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(womöglich)
+!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem immer noch col legno	!	!	!	!	!	!	!	!LO:TX:b:t=[pp]	!	!	!LO:TX:b:t=[pp]	!	!LO:TX:b:t=[fff]
+4B-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB- 4B-	p	4GG	p	4B-X	2.d-XT	pp	4B-	sf	4B-X
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8en'L	p	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8f'	.	32d-X	.	8r	.	4r	.	4r	.	4r	.	.	4r	.	4r
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Bogen	!	!	!	!	!	!	!	!	!	!	!
+.	.	8D-X 8A-X	.	8e'J	.	32d-X	.	8b-'L	p	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG	.	[4GG	.	4a-	.	32d-X	.	8cc-X'	.	4r	.	4r	.	4r	.	.	4r	.	4r
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	8b-'J	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	8GGL]	<	8r	.	32d-XLLL	< [	4ee-X	<	4%3r	.	4%3r	.	4%3r	2.d-X	.	4%3r	.	4%3r
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D-XJ 8An	.	8e-X'L	<	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+4GG	<	4.GG	.	8f'	.	32d-X	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8e-'J	.	32d-X	.	8bn'L	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	[	.	.	4g	[	32d-X	.	8ccn'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D- 8B-X	[	.	.	32d-X	.	8b'J	[	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]s6[(s7,s8,s9,s10,s11)]
-!!!CDT: 1874/09/13-1951/07/13
-!!!CBL: Vienna, Austria
-!!!CDL: Los Angeles, United States
-!!!CNT: Austrian
-!!!AGN: Orchestral; Symphonic
-!!!MCN: Schoenberg, Arnold
-!!!MDT: 1907/02/08
-!!!MGN: Rosé Quartet; Wind Ensemble of Vienna Philharmonic
-!!!MLC: Vienna, Austria
-!!!MPD: 1907
+!!!system-decoration: [([(s1,s2)]s3,s4,s5)][(s6)][(s7,s8,s9,s10,s11)]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
 !!!MPN:
-!!!ODT: 1906
-!!!PDT: 1913
-!!!excerpt-start-measure: 170
-!!!excerpt-end-measure: 171
-!!!excerpt-start-time: 6:17
-!!!excerpt-end-time: 6:19
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

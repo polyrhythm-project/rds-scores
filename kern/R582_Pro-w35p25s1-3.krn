@@ -1,10 +1,9 @@
-!!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: Piano Sonata No. 7 in B-flat Major, op. 83
-!!!OMV: Movement 3
-!!!example: 582
-!!!work: Pro-35
+!!!COM: Sergey (Sergeyevich) Prokofiev
+!!!OTL: [R582_Pro-w35p25s1-3]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -13,8 +12,9 @@
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
 *M7/8	*M7/8	*
-*MM184	*MM184	*
 =1	=1	=1
+!	!LO:TX:t=[eighth]=368	!
+!	!LO:TX:a:B:t=Precipitato (q_q_e)	!
 8r	4D 4F 4B-	mp
 8BBB- 8BB-	.	.
 4CC#X^ 4C#X	8r	.
@@ -29,7 +29,7 @@
 8CC#X 8C#X	.	.
 8r	8BB- 8D 8F	.
 4r	8BB-L 8E- 8G	.
-.	8CnJ 8E- 8G	.
+.	8CJ 8E- 8G	.
 =3	=3	=3
 8r	4C 4F 4A	.
 8BBB- 8BB-	.	.
@@ -37,7 +37,7 @@
 .	4D 4F 4B-	.
 8BBB- 8BB-	.	.
 4r	8DL 8F 8B-	.
-.	8CnJ 8E- 8B-	.
+.	8CJ 8E- 8B-	.
 =4	=4	=4
 8r	4F 4G 4B-	.
 8BBB- 8BB-	.	.
@@ -94,7 +94,7 @@
 8AA 8A	.	.
 8r	8c-X 8e- 8g	.
 4r	8B-L 8e- 8g	.
-.	8A-XJ 8e- 8a-X	.
+.	8B-XJ 8e- 8a-X	.
 =11	=11	=11
 8r	4G 4An 4e- 4an	mf
 8BBB- 8BB-	.	.
@@ -115,7 +115,7 @@
 8r	4G 4A 4e- 4a	.
 8BBB-X 8BB-X	.	.
 4CC#X^ 4C#X	8r	.
-.	4c#X 4a 4cc#X 4ee-	.
+.	4c#X 4a 4ee-	.
 8BBB- 8BB-	.	.
 4r	8BnL 8d#X 8f#X	.
 .	8B-XJ 8d# 8f#	.
@@ -129,23 +129,23 @@
 .	8GJ 8A 8d 8g#X	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
-!!!CDT: 1891/04/23-1953/03/05
-!!!CBL: Sontsovka, Ukraine
-!!!CDL: Moscow, Russia
-!!!CNT: Russian
-!!!AGN: Instrumental; Keyboard
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1943/01/18
+!!!MDT:
 !!!MGN:
-!!!MLC: Moscow, Russia
-!!!MPD: 1943
-!!!MPN: Richter, Sviatoslav
-!!!ODT: 1942
-!!!PDT: 1943
-!!!excerpt-start-measure: 1
-!!!excerpt-end-measure: 14
-!!!excerpt-start-time: 0:00
-!!!excerpt-end-time: 0:16
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

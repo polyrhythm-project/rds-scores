@@ -7,9 +7,9 @@
  <identification>
   <creator type="composer">Alban (Maria Johannes) Berg</creator>
   <encoding>
-   <encoding-date>2020-07-13</encoding-date>
-   <encoder>Walker Williams</encoder>
-   <software>Sibelius 20.3.0</software>
+   <encoding-date>2020-07-08</encoding-date>
+   <encoder>claud</encoder>
+   <software>Sibelius 20.6.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -83,6 +83,11 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Fiddle I</part-name>
    <part-name-display>
     <display-text>Fiddle I</display-text>
@@ -96,17 +101,12 @@
     <instrument-sound>strings.violin</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Violin 1 solo</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Violin</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Fiddle II</part-name>
    <part-name-display>
     <display-text>Fiddle II</display-text>
@@ -120,18 +120,13 @@
     <instrument-sound>strings.violin</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Violin 1 solo</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Violin</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="1" />
   <score-part id="P3">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Clarinet in C</part-name>
    <part-name-display>
     <display-text>Clarinet</display-text>
@@ -146,8 +141,8 @@
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Clarinet Bb 1</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Clarinet</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -155,11 +150,6 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P4">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Accordion</part-name>
    <part-name-display>
     <display-text>Accordion</display-text>
@@ -173,18 +163,13 @@
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Concert Grand Piano</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Acoustic Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="3" />
   <score-part id="P6">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Guitar</part-name>
    <part-name-display>
     <display-text>Guitar</display-text>
@@ -198,17 +183,12 @@
     <instrument-sound>pluck.guitar.steel-string</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>6 String Acoustic Guitar</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Acoustic Guitar (steel)</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P7">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Tuba in F</part-name>
    <part-name-display>
     <display-text>Tuba in F</display-text>
@@ -222,18 +202,13 @@
     <instrument-sound>brass.tuba</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Tuba Bb</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Tuba</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="2" />
   <score-part id="P8">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Andres</part-name>
    <part-name-display>
     <display-text>Andres</display-text>
@@ -245,16 +220,12 @@
    <score-instrument id="P8-I1">
     <instrument-name>Solo Treble</instrument-name>
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Solo Treble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P9">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Wozzeck</part-name>
    <part-name-display>
     <display-text>Wozzeck</display-text>
@@ -266,7 +237,8 @@
    <score-instrument id="P9-I1">
     <instrument-name>Solo Bass</instrument-name>
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Solo Bass</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -277,11 +249,6 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P10">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Violin I mit Dämpfer</part-name>
    <part-name-display>
     <display-text>Violin I</display-text>
@@ -296,17 +263,12 @@
     <instrument-sound>strings.violin</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Violins</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Violin ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P11">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Violin II mit Dämpfer</part-name>
    <part-name-display>
     <display-text>Violin II</display-text>
@@ -319,17 +281,12 @@
    <score-instrument id="P11-I1">
     <instrument-name>Violin II</instrument-name>
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-library>General MIDI</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="4" />
   <score-part id="P12">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Viola mit Dämpfer</part-name>
    <part-name-display>
     <display-text>Viola</display-text>
@@ -344,17 +301,12 @@
     <instrument-sound>strings.viola</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Violas</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Viola ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P13">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -368,8 +320,8 @@
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>Sibelius 7 Sounds</virtual-library>
-     <virtual-name>Celli</virtual-name>
+     <virtual-library>General MIDI</virtual-library>
+     <virtual-name>Cello ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -414,17 +366,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-y="72" justify="center" valign="middle" font-family="Didot" font-style="normal" font-size="9.9988" font-weight="bold" enclosure="rectangle">593</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
-      <beat-unit>quarter</beat-unit>
-      <per-minute>100</per-minute>
-     </metronome>
+     <words default-y="30" justify="center" valign="middle" font-family="Didot" font-style="normal" font-size="9.9988" font-weight="bold" enclosure="rectangle">593</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -481,7 +423,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="906" default-y="24" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.9683" font-weight="normal">pizz.</words>
+     <words default-x="904" default-y="32" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.9683" font-weight="normal">pizz.</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -729,7 +671,7 @@
    </direction>
    <direction>
     <direction-type>
-     <dynamics default-x="80" default-y="-86" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
+     <dynamics default-x="80" default-y="-85" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -806,7 +748,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-81" color="#000000" type="crescendo" />
+     <wedge default-x="11" default-y="-80" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -830,7 +772,7 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="476" default-y="-86" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
+     <dynamics default-x="476" default-y="-85" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
       <f />
      </dynamics>
     </direction-type>
@@ -839,14 +781,14 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="500" default-y="25" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">hervor</words>
+     <words default-x="500" default-y="26" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">hervor</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-y="-81" color="#000000" type="stop" />
+     <wedge default-y="-80" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-75</offset>
     <voice>1</voice>
@@ -899,7 +841,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-81" color="#000000" type="crescendo" />
+     <wedge default-x="11" default-y="-80" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -923,7 +865,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-81" color="#000000" type="stop" />
+     <wedge default-y="-80" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">49</offset>
     <voice>1</voice>
@@ -987,7 +929,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="1209" default-y="-117" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">wieder</words>
+     <words default-x="1202" default-y="-90" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">wieder</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1011,7 +953,7 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="1275" default-y="-86" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
+     <dynamics default-x="1275" default-y="-85" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -1977,7 +1919,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="1209" default-y="-73" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">f </words>
+     <words default-x="1209" default-y="-72" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">f </words>
      <words justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">führend</words>
     </direction-type>
     <voice>1</voice>
@@ -2177,7 +2119,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="434" default-y="-31" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="12.014" font-weight="normal">(</words>
+     <words default-x="411" default-y="-31" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="12.014" font-weight="normal">(</words>
     </direction-type>
     <offset sound="no">-65</offset>
     <voice>2</voice>
@@ -2386,13 +2328,6 @@
     <direction-type>
      <words default-x="47" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="9.9988" font-weight="normal"></words>
      <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="9.9988" font-weight="normal"></words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <words default-x="80" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">[f]</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3432,11 +3367,11 @@
     <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>_</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>_</text>
     </lyric>
@@ -3462,11 +3397,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>es</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>it</text>
     </lyric>
@@ -3483,11 +3418,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>müßt</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>was</text>
     </lyric>
@@ -3505,11 +3440,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>spä</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>begin</syllabic>
      <text>la</text>
     </lyric>
@@ -3528,11 +3463,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
@@ -3549,11 +3484,11 @@
     <accidental>natural</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>sein!</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>still.</text>
     </lyric>
@@ -3578,11 +3513,11 @@
     <accidental>natural</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>Die</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>How</text>
     </lyric>
@@ -3601,11 +3536,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>Zeit</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>begin</syllabic>
      <text>slow</text>
     </lyric>
@@ -3624,11 +3559,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>wird</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>end</syllabic>
      <text>ly</text>
     </lyric>
@@ -3646,11 +3581,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>Ei</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>time</text>
     </lyric>
@@ -3668,11 +3603,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>nem</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>does</text>
     </lyric>
@@ -3689,11 +3624,11 @@
     <accidental>natural</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>lang</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>pass,</text>
     </lyric>
@@ -3712,11 +3647,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>bei</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>at</text>
     </lyric>
@@ -3734,11 +3669,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>der</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>these</text>
     </lyric>
@@ -3755,11 +3690,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>Kurz</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>begin</syllabic>
      <text>pas</text>
     </lyric>
@@ -3777,11 +3712,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>weil</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>end</syllabic>
      <text>times</text>
     </lyric>
@@ -3815,11 +3750,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>Ich</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>I</text>
     </lyric>
@@ -3838,11 +3773,11 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>sitz&apos;</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>sit</text>
     </lyric>
@@ -3866,12 +3801,12 @@
       <accent />
      </articulations>
     </notations>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>gut</text>
      <extend />
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>well</text>
      <extend />
@@ -3908,11 +3843,11 @@
     <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-82" number="part9verse1" color="#000000">
+    <lyric default-y="-83" number="part9verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>da.</text>
     </lyric>
-    <lyric default-y="-107" number="part9verse2" color="#000000">
+    <lyric default-y="-108" number="part9verse2" color="#000000">
      <syllabic>single</syllabic>
      <text>here.</text>
     </lyric>
@@ -3960,31 +3895,14 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="80" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">[p]</words>
+     <words default-y="30" justify="center" valign="middle" font-family="Didot" font-style="normal" font-size="9.9988" font-weight="bold" enclosure="rectangle">593</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <words default-y="72" justify="center" valign="middle" font-family="Didot" font-style="normal" font-size="9.9988" font-weight="bold" enclosure="rectangle">593</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
-      <beat-unit>quarter</beat-unit>
-      <per-minute>100</per-minute>
-     </metronome>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <wedge default-x="25" default-y="-65" color="#000000" type="crescendo" />
+     <wedge default-x="11" default-y="-65" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4097,7 +4015,7 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="720" default-y="-93" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
+     <dynamics default-x="720" default-y="-94" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -4290,7 +4208,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="1698" default-y="32" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.9683" font-weight="normal">)</words>
+     <words default-x="1697" default-y="32" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.9683" font-weight="normal">)</words>
     </direction-type>
     <offset sound="no">47</offset>
     <voice>1</voice>
@@ -4480,14 +4398,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="80" default-y="-81" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">[p]</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <wedge default-x="25" default-y="-76" color="#000000" type="crescendo" />
+     <wedge default-x="11" default-y="-77" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4528,7 +4439,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-76" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4550,7 +4461,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-76" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4573,14 +4484,14 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="720" default-y="-81" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">poco a poco cresc.</words>
+     <words default-x="720" default-y="-82" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">poco a poco cresc.</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-y="-76" color="#000000" type="stop" />
+     <wedge default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-82</offset>
     <voice>1</voice>
@@ -4611,7 +4522,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="2" default-y="-76" color="#000000" type="crescendo" />
+     <wedge default-x="2" default-y="-77" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4669,7 +4580,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-76" color="#000000" type="stop" />
+     <wedge default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">41</offset>
     <voice>1</voice>
@@ -4695,7 +4606,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-2" default-y="-76" color="#000000" type="crescendo" />
+     <wedge default-x="-2" default-y="-77" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4720,14 +4631,14 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-13" default-y="-76" color="#000000" type="stop" />
+     <wedge default-x="-13" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-76" color="#000000" type="diminuendo" number="2" />
+     <wedge default-x="11" default-y="-77" color="#000000" type="diminuendo" number="2" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4765,7 +4676,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-76" color="#000000" type="stop" number="2" />
+     <wedge default-y="-77" color="#000000" type="stop" number="2" />
     </direction-type>
     <offset sound="no">-90</offset>
     <voice>1</voice>
@@ -4773,7 +4684,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-2" default-y="-76" color="#000000" type="crescendo" />
+     <wedge default-x="-2" default-y="-77" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4829,7 +4740,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-18" default-y="-76" color="#000000" type="stop" />
+     <wedge default-x="-18" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">118</offset>
     <voice>1</voice>
@@ -4895,14 +4806,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="80" default-y="-76" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="5.9683" font-weight="normal">[p]</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <wedge default-x="25" default-y="-71" color="#000000" type="crescendo" />
+     <wedge default-x="11" default-y="-65" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4926,7 +4830,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-71" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-256</offset>
     <voice>1</voice>
@@ -4934,7 +4838,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-71" color="#000000" type="diminuendo" number="2" />
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" number="2" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4958,7 +4862,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-71" color="#000000" type="stop" number="2" />
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" number="2" />
     </direction-type>
     <offset sound="no">-1</offset>
     <voice>1</voice>
@@ -4966,7 +4870,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-71" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -4990,14 +4894,14 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="720" default-y="-76" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">poco a poco cresc.</words>
+     <words default-x="720" default-y="-70" justify="left" valign="middle" font-family="Didot" font-style="italic" font-size="5.9683" font-weight="normal">poco a poco cresc.</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-y="-71" color="#000000" type="stop" />
+     <wedge default-y="-65" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-83</offset>
     <voice>1</voice>
@@ -5046,7 +4950,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-2" default-y="-73" color="#000000" type="crescendo" />
+     <wedge default-x="-2" default-y="-66" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -5086,7 +4990,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-73" color="#000000" type="stop" />
+     <wedge default-y="-66" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">35</offset>
     <voice>1</voice>
@@ -5112,7 +5016,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-2" default-y="-73" color="#000000" type="crescendo" />
+     <wedge default-x="-2" default-y="-66" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -5137,7 +5041,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-73" color="#000000" type="stop" />
+     <wedge default-y="-66" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-48</offset>
     <voice>1</voice>
@@ -5145,7 +5049,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-73" color="#000000" type="diminuendo" number="2" />
+     <wedge default-x="11" default-y="-66" color="#000000" type="diminuendo" number="2" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -5185,7 +5089,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="1" default-y="-73" color="#000000" type="stop" number="2" />
+     <wedge default-x="1" default-y="-66" color="#000000" type="stop" number="2" />
     </direction-type>
     <offset sound="no">-128</offset>
     <voice>1</voice>
@@ -5193,7 +5097,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-2" default-y="-71" color="#000000" type="crescendo" />
+     <wedge default-x="-2" default-y="-65" color="#000000" type="crescendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -5252,7 +5156,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-y="-71" color="#000000" type="stop" />
+     <wedge default-y="-65" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">84</offset>
     <voice>1</voice>

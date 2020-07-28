@@ -1,10 +1,9 @@
-!!!COM: Falla (y Matheu), Manuel de
-!!!OTL: Seven Spanish Folksongs for Voice and Piano
-!!!OMV: IV: Jota
-!!!example: 310
-!!!work: Fal-3
+!!!COM: Manuel de Falla (y Matheu)
+!!!OTL: [R310_Fal-w3p15m1-8]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -13,90 +12,97 @@
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
 *M3/8	*M3/8	*
-*MM138	*MM138	*
 =1	=1	=1
-4.r	8r	.
-.	8r	.
-.	24c#LL	pp
+!	!LO:TX:t=[quarter]=120	!
+8%3r	8r	.
+.	8r	pp
+.	(24c#LL	.
 .	24F#	.
-.	24C#JJ	.
+.	24C#J	.
 =2	=2	=2
 *	*^	*
-8r	8C#'L	8r	.
-8r	8f#'	16f#LL	.
+8ryy	8ryy@	8r	.
+8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =3	=3	=3	=3
-4.r	8f#'L	16f#LL	.
+8%3ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
-=4	=4	=4	=4
-8r	8C#'L	8r	.
-8r	8f#'	16f#LL	.
+*^	*v	*v	*
+.	24c#	.	.
+.	24F#JJ	.	.
+*v	*v	*	*
+=4	=4	=4
+*	*^	*
+8ryy	8ryy@	8r	.
+8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =5	=5	=5	=5
-4.r	8f#'L	16f#LL	.
+8%3ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
-=6	=6	=6	=6
-8r	8C#'L	8r	.
-8r	8f#'	16f#LL	<
+*^	*v	*v	*
+.	24c#	.	.
+.	24F#JJ	.	.
+*v	*v	*	*
+=6	=6	=6
+*	*^	*
+8ryy	8ryy@	8r	<
+8r	8f#'L	16f#LL	.
 .	.	16A#	.
-8c#' 8d#	8e#'J	16e#	.
+8d#' 8e#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =7	=7	=7	=7
-8r	8f#'L	16f#LL	.
+8r'	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8d#'	16d#	.
 .	.	16A#	.
-8r	8c#'J	16c#	.
-.	.	16BJJ	.
+8r'	8c#'J	16c#	.
+.	.	16BJJ	[
 =8	=8	=8	=8
-8c#' 8d#	8f#'L	16f#LL	[ >
+8c#' 8d#	8f#'L	16f#LL	>
 .	.	16A#	.
 8r	8d#'	16d#	.
 .	.	16A#	.
 8r	8c#'J	16c#	.
-.	.	16BJJ	.
+.	.	16BJJ	]
 =9	=9	=9	=9
-4.r	8f#'L	16f#LL	]
+8%3ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
-*	*v	*v	*
+*^	*v	*v	*
+.	24c#	.	.
+.	24F#JJ	.	.
+*v	*v	*	*
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
-!!!CDT: 1876/11/23-1946/11/14
-!!!CBL: Cádiz, Spain
-!!!CDL: Alta Gracia, Argentina
-!!!CNT: Spanish
-!!!AGN: Vocal; Solo
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1915/01/14
+!!!MDT:
 !!!MGN:
-!!!MLC: Madrid, Spain
-!!!MPD: 1915
-!!!MPN: Falla, Manuel de; Vela, Luisa
-!!!ODT: 1914
-!!!PDT: 1922
-!!!excerpt-start-measure: 1
-!!!excerpt-end-measure: 8
-!!!excerpt-start-time: 0:00
-!!!excerpt-end-time: 0:06
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

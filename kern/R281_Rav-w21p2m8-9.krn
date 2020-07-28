@@ -1,104 +1,235 @@
-!!!COM: Ravel, (Joseph) Maurice
-!!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
-!!!OMV: I: Soupir (Sigh)
-!!!example: 281
-!!!work: Rav-21
-**kern	**kern	**dynam	**kern
-*grp:A	*grp:B	*grp:B	*grp:B
-*part2	*part2	*part2	*part1
-*staff3	*staff2	*	*staff1
-*I"Piano	*	*	*I"Soprano Solo
-*I'Pno.	*	*	*I'S. Solo
-*clefG2	*clefG2	*	*clefG2
-*k[f#]	*k[f#]	*	*k[f#]
-*G:	*G:	*	*G:
-*M4/4	*M4/4	*	*M4/4
-*MM40	*MM40	*	*MM40
-=8	=8	=8	=8
-8r	(32bLLL	.	(4e
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-[8d~ [8e	32bbLL	pp	.
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-4d_ 4e_ [4g [4a	32bLLL	.	8aL
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-.	32bbLL	.	8aJ
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-4r	32bLLL	.	8gL
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-.	32bbLL	.	8gJ
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-8r	32bLLL	.	4d
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-[8B~ [8d	32bbLL	.	.
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-=9	=9	=9	=9
-4B_ 4d_ [4e [4a [4b	32bLLL	.	8eL
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-.	32bbLL	.	8eJ
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-4r	32bLLL	.	4g
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-.	32bbLL	.	.
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-8r	32bLLL	.	8aL
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-[8d~	32bbLL	.	8aJ
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ	.	.
-4d] 4g 4a	32bLLL	.	[4cc#X)
-.	32dd	.	.
-.	32ee	.	.
-.	32aaJJ	.	.
-.	32bbLL	.	.
-.	32aa	.	.
-.	32ee	.	.
-.	32ddJJJ)	.	.
-=	=	=	=
-*-	*-	*-	*-
-!!!system-decoration: s1{(s2,s3)}
-!!!CDT: 1875/03/07-1937/12/28
-!!!CBL: Ciboure, France
-!!!CDL: Paris, France
-!!!CNT: French
-!!!AGN: Vocal; Solo
-!!!MCN: Inghelbrecht, Désiré-Émile
-!!!MDT: 1914/01/24
+!!!COM: Maurice (Joseph) Ravel
+!!!OTL: [R281_Rav-w21p2m8-9]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**kern	**kern	**text	**kern	**kern	**kern	**kern	**kern	**dynam
+*part7	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1	*part1
+*staff8	*staff7	*staff6	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*I"Piano	*	*I"Voice	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Flute II	*
+*I'Pno.	*	*I'V.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'2.Fl.	*
+*clefF4	*clefG2	*clefG2	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*
+*k[f#]	*k[f#]	*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*
+*G:	*G:	*G:	*	*G:	*G:	*G:	*G:	*G:	*
+*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!	!	!	!
+*	*	*	*	*	*	*Xtuplet	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
+!	!	!	!	!	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!LO:TX:a:t=1	!
+8r	4r	(4e	Et	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	1r	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
+!	!LO:TX:a:t=p sourdine	!	!	!	!	!	!	!	!
+[8FF#~ [8GG	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
+4FF#_ 4GG_	[4g [4a	8aL	vers	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
+.	.	8aJ	le	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
+4r	2r	8gL	ciel	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
+.	.	8gJ	er-	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
+8r	.	4d	-rant	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
+[8DD~ 8FF#_	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2r	[4e 4a_ [4b	8eL	de	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	2r	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
+.	.	8eJ	ton	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
+.	4r	4g	œil	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
+.	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
+8r	4r	8aL	an-	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	4r	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
+8FF#~_ [8GG	.	8aJ	-gé-	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
+4FF#_ 4GG_	[4g 4a_	[4cc#X)	-li-	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	[4d	pp
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJ	.	.	.
+.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
+.	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
+.	.	.	.	64A	64c	.	64g	.	.
+.	.	.	.	.	.	48gg	.	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bbJJ	.	.	.
+.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
+.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
+.	.	.	.	64C	64a	.	64ee	.	.
+.	.	.	.	.	.	48bb	.	.	.
+.	.	.	.	64A)	64c	.	64g	.	.
+.	.	.	.	.	.	48ggJJJ)	.	.	.
+.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4,s5)]s6[({(s7,s8)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
 !!!MGN:
-!!!MLC: Paris, France
-!!!MPD: 1914
-!!!MPN: Bathori, Jane
-!!!ODT: 1913
-!!!PDT: 1914
-!!!excerpt-start-measure: 8
-!!!excerpt-end-measure: 9
-!!!excerpt-start-time: 0:46
-!!!excerpt-end-time: 0:59
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

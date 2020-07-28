@@ -1,10 +1,9 @@
-!!!COM: Bartók, Béla
-!!!OTL: Román népi táncok (Romanian Folk Dances) for Piano
-!!!OMV: IV: Buciumeana, Tanz aus Butschum (Dance of Butschum)
-!!!example: 324
-!!!work: Bar-14
+!!!COM: Béla Bartók
+!!!OTL: [R324_BAR-W14P6M3-10]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**kern
-*grp:A	*grp:B
 *part1	*part1
 *staff2	*staff1
 *I"Piano	*
@@ -13,80 +12,82 @@
 *k[]	*k[]
 *C:	*C:
 *M3/4	*M3/4
-*MM100	*MM100
-=3	=3
+=1	=1
+!	!LO:TX:t=[quarter]=74
+!	!LO:TX:b:i:t=molto espr.
+!	!LO:TX:b:t=[p]
 4e 4cc#X	2ee~
-(4A	.
+4A	.
 4e 4cc#	4ee~
-=4	=4
+=2	=2
 4A	(12ggL
 .	12ff
 .	12eeJ
 4d 4b	8.ddL
-.	16cc#XJk
-4A	8.ddL
+.	16cc#XK
+4A	8.dd
 .	16eeJk
-=5	=5
+=3	=3
 4d 4b-X	12ffL
 .	12ee
 .	12ddJ
 4A	8.cc#XL
-.	16aJk
-4d 4f	8.b-XL
+.	16aK
+4d 4f	8.b-X
 .	16ddJk)
-=6	=6
+=4	=4
 4A	(16cc#XLL
 .	16a)
 .	(16b-X
 .	16ddJJ)
 4c#X 4e	2a
-4A)	.
-=7	=7
-(4g 4ccn	2ee~
+4A	.
+=5	=5
+4g 4ccn	2ee~
 4A	.
 4f#X 4cc	4ee~
-=8	=8
+=6	=6
 4A	(12ggL
 .	12ffn
 .	12eeJ
 4fn 4b-X	8.ddL
-.	16cc#XJk
-4A	8.ddL
+.	16cc#XK
+4A	8.dd
 .	16eeJk
-=9	=9
+=7	=7
 4e 4a	12ffL
 .	12ee
 .	12ddJ
 4A	8.cc#XL
-.	16aJk
-4d 4g	8.b-XL
+.	16aK
+4d 4g	8.b-X
 .	16ddJk)
-=10	=10
+=8	=8
 4A	(16cc#XLL
 .	16a)
 .	(16b-X
 .	16ddJJ)
 4cn 4f	2a
-4c)	.
+4c	.
 =	=
 *-	*-
-!!!system-decoration: {(s1,s2)}
-!!!CDT: 1881/03/25-1945/09/26
-!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
-!!!CDL: New York, United States
-!!!CNT: Hungarian
-!!!AGN: Instrumental; Keyboard
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1920/01/16
+!!!MDT:
 !!!MGN:
-!!!MLC: Kolozsvár, Hungary
-!!!MPD: 1920
-!!!MPN: Hevesi, Piroska
-!!!ODT: 1915
-!!!PDT: 1918
-!!!excerpt-start-measure: 3
-!!!excerpt-end-measure: 10
-!!!excerpt-start-time: 0:04
-!!!excerpt-end-time: 0:19
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

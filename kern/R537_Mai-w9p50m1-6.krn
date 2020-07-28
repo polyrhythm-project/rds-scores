@@ -1,86 +1,90 @@
-!!!COM: Martin, Frank
-!!!OTL: Mass for Unaccomapnied Mixed Double Choir
-!!!OMV: Part V: Agnus Dei
-!!!example: 537
-!!!work: Mai-9
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Bass	*	*I"Tenor	*	*I"Alto	*	*I"Soprano	*	*I"BASS	*	*I"TENOR	*	*I"ALTO	*	*I"SOPRANO	*
-*I'B.	*	*I'T.	*	*I'A.	*	*I'S.	*	*I'B.	*	*I'T.	*	*I'A.	*	*I'S.	*
-*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
-*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
-*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
-*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
-*MM58	*	*MM58	*	*MM58	*	*MM58	*	*MM58	*	*MM58	*	*MM58	*	*MM58	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4BB	p	4F#	p	4B	p	4f#	p	4%5r	.	4%5r	.	4%5r	.	4%5r	.
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4BB	.	4F#	.	4B	.	4f#	.	4B	.	4B	.	4b	.	4b	.
-4BB	.	4F#	.	4B	.	4f#	.	4A	.	4A	.	4a	.	4a	.
-4BB	.	4F#	.	4B	.	4f#	.	4F#	.	4F#	.	4f#	.	4f#	.
-4BB	.	4F#	.	4B	.	4f#	.	4G	.	4G	.	4g	.	4g	.
-4BB	.	4F#	.	4B	.	4f#	.	8F#L	.	8F#L	.	8f#L	.	8f#L	.
-.	.	.	.	.	.	.	.	[8DJ	.	[8DJ	.	[8dJ	.	[8dJ	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-4BB	.	4F#	.	4B	.	4f#	.	8D]	.	8D]	.	8d]	.	8d]	.
-.	.	.	.	.	.	.	.	4D	.	4D	.	4d	.	4d	.
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	8E	.	8E	.	8e	.	8e	.
-4BB	.	4F#	.	4B	.	4f#	.	4F#	.	4F#	.	4f#	.	4f#	.
-4BB	.	4F#	.	4B	.	4f#	.	8DL	.	8DL	.	8dL	.	8dL	.
-.	.	.	.	.	.	.	.	[8CJ	.	[8CJ	.	[8cJ	.	[8cJ	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4BB	.	4F#	.	4B	.	4f#	.	2C]	>	2C]	>	2c]	>	2c]	>
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-4BB	.	4F#	.	4B	.	4f#	.	2C	]]	2C	]]	2c	]]	2c	]]
-4BB	.	4F#	.	4B	.	4f#	.	.	.	.	.	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
-4BB	.	4F#	.	4B	.	4f#	.	4r	.	4r	.	4r	.	4r	.
-4BB	.	4F#	.	4B	.	4f#	.	8C#XL	<	8C#XL	<	8c#XL	<	8c#XL	<
-.	.	.	.	.	.	.	.	8DJ	.	8DJ	.	8dJ	.	8dJ	.
-4AA	.	4E 4A	.	4cn	.	4e 4f#	.	(4E	.	(4E	.	(4e	.	(4e	.
-4AA	.	4E 4A	.	4c	.	4e 4f#	.	8G	[	8G	[	8g	[	8g	[
-.	.	.	.	.	.	.	.	4E	.	4E	.	4e	.	4e	.
-4AA	.	4E 4A	.	4c	.	4e 4f#	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	[8D	.	[8D	.	[8d	.	[8d	.
-=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-4AA	.	4E 4A	.	4c	.	4e 4f#	.	8DL]	.	8DL]	.	8dL]	.	8dL]	.
-.	.	.	.	.	.	.	.	8BB	.	8BB	.	8B	.	8B	.
-4AA	.	4E 4A	.	4c	.	4e 4f#	.	8DJ	.	8DJ	.	8dJ	.	8dJ	.
-.	.	.	.	.	.	.	.	4E	.	4E	.	4e	.	4e	.
-4AA	.	4E 4A	.	4c	.	4e 4f#	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	8G)	.	8G)	.	8g)	.	8g)	.
-4AA	<	4E 4A	<	4c	<	4e 4f#	.	(8AL	.	(8AL	.	(8aL	.	(8aL	.
-.	.	.	.	.	.	.	.	8G	.	8G	.	8g	.	8g	.
-4AA	[	4E 4A	[[	4c	[	4e 4f#	.	8EJ)	.	8EJ)	.	8eJ)	.	8eJ)	.
-.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!COM: Frank Martin
+!!!OTL: [R537_Mai-w9p50m1-6]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff8	*staff8	*	*staff7	*staff7	*	*staff6	*staff6	*	*staff5	*staff5	*	*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"BASS	*	*	*I"TENOR	*	*	*I"ALTO	*	*	*I"SOPRANO	*	*
+*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
+*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=58	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Andante	!	!
+4BB	Ag-	p	4F#	Ag-	p	4B	Ag-	p	4f#	Ag-	p	4%5r	.	.	4%5r	.	.	4%5r	.	.	4%5r	.	.
+4BB	-nus	.	4F#	-nus	.	4B	-nus	.	4f#	-nus	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	De-	.	4F#	De-	.	4B	De-	.	4f#	De-	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	-i,	.	4F#	-i,	.	4B	-i,	.	4f#	-i,	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	qui	.	4F#	qui	.	4B	qui	.	4f#	qui	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!
+4BB	tol-	.	4F#	tol-	.	4B	tol-	.	4f#	tol-	.	4B	Ag-	.	4B	Ag-	.	4b	Ag-	.	4b	Ag-	.
+4BB	-lis	.	4F#	-lis	.	4B	-lis	.	4f#	-lis	.	4A	-nus	.	4A	-nus	.	4a	-nus	.	4a	-nus	.
+4BB	pec-	.	4F#	pec-	.	4B	pec-	.	4f#	pec-	.	4F#	De-	.	4F#	De-	.	4f#	De-	.	4f#	De-	.
+4BB	-ca-	.	4F#	-ca-	.	4B	-ca-	.	4f#	-ca-	.	4G	-i,	.	4G	-i,	.	4g	-i,	.	4g	-i,	.
+4BB	-ta	.	4F#	-ta	.	4B	-ta	.	4f#	-ta	.	8F#L	qui	.	8F#L	qui	.	8f#L	qui	.	8f#L	qui	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8DJ	tol-	.	[8DJ	tol-	.	[8dJ	tol-	.	[8dJ	tol-	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4BB	mun-	.	4F#	mun-	.	4B	mun-	.	4f#	mun-	.	8D]	.	.	8D]	.	.	8d]	.	.	8d]	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4D	-lis	.	4D	-lis	.	4d	-lis	.	4d	-lis	.
+4BB	-di:	.	4F#	-di:	.	4B	-di:	.	4f#	-di:	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8E	pec-	.	8E	pec-	.	8e	pec-	.	8e	pec-	.
+4BB	mi-	.	4F#	mi-	.	4B	mi-	.	4f#	mi-	.	4F#	-ca-	.	4F#	-ca-	.	4f#	-ca-	.	4f#	-ca-	.
+4BB	-se-	.	4F#	-se-	.	4B	-se-	.	4f#	-se-	.	8DL	-ta	<	8DL	-ta	.	8dL	-ta	.	8dL	-ta	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8CJ	mun-	] > ]	[8CJ	mun-	< [ > ]	[8cJ	mun-	< [ > ]	[8cJ	mun-	< [ > ]
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4BB	-re-	.	4F#	-re-	.	4B	-re-	.	4f#	-re-	.	2C]	.	>	2C]	.	>	2c]	.	>	2c]	.	>
+4BB	-re	.	4F#	-re	.	4B	-re	.	4f#	-re	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	no-	.	4F#	no-	.	4B	no-	.	4f#	no-	.	2C	-di:	]	2C	-di:	]	2c	-di:	]	2c	-di:	]
+4BB	-bis.	.	4F#	-bis.	.	4B	-bis.	.	4f#	-bis.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
+4BB	Ag-	.	4F#	Ag-	.	4B	Ag-	.	4f#	Ag-	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
+4BB	-nus	.	4F#	-nus	.	4B	-nus	.	4f#	-nus	.	8C#XL	mi-	<	8C#XL	mi-	<	8c#XL	mi-	<	8c#XL	mi-	<
+.	.	.	.	.	.	.	.	.	.	.	.	8DJ	-se-	.	8DJ	-se-	.	8dJ	-se-	.	8dJ	-se-	.
+4AA	De-	< [ > ]	4E 4A	De-	< [ > ]	4cn	De-	< [ > ]	4e 4f#	De-	< [ > ]	(4E	-re-	< [ > ]	(4E	-re-	< [ > ]	(4e	-re-	< [ > ]	(4e	-re-	< [ > ]
+4AA	-i,	.	4E 4A	-i,	.	4c	-i,	.	4e 4f#	-i,	.	8G	.	]	8G	.	]	8g	.	]	8g	.	]
+.	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
+4AA	qui	.	4E 4A	qui	.	4c	qui	.	4e 4f#	qui	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8D	.	.	[8D	.	.	[8d	.	.	[8d	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4AA	tol-	.	4E 4A	tol-	.	4c	tol-	.	4e 4f#	tol-	.	8DL]	.	.	8DL]	.	.	8dL]	.	.	8dL]	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8BB	.	.	8BB	.	.	8B	.	.	8B	.	.
+4AA	-lis	.	4E 4A	-lis	.	4c	-lis	.	4e 4f#	-lis	.	8DJ	.	.	8DJ	.	.	8dJ	.	.	8dJ	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
+4AA	pec-	.	4E 4A	pec-	.	4c	pec-	.	4e 4f#	pec-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8G)	.	.	8G)	.	.	8g)	.	.	8g)	.	.
+4AA	-ca-	<	4E 4A	-ca-	<	4c	-ca-	<	4e 4f#	-ca-	.	(8AL	-re	.	(8AL	-re	.	(8aL	-re	.	(8aL	-re	.
+.	.	.	.	.	.	.	.	.	.	.	.	8G	.	.	8G	.	.	8g	.	.	8g	.	.
+4AA	-ta	[	4E 4A	-ta	[	4c	-ta	[	4e 4f#	-ta	.	8EJ)	.	.	8EJ)	.	.	8eJ)	.	.	8eJ)	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.	.	8r	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
-!!!CDT: 1890/09/15-1974/11/21
-!!!CBL: Geneva, Switzerland
-!!!CDL: Naarden, Netherlands
-!!!CNT: Swiss
-!!!AGN: Vocal; Choral
-!!!MCN: Brunnert, Franz, W.
-!!!MDT: 1963/11/02
-!!!MGN: Bugenhagen Kantorei
-!!!MLC: Hamburg, Germany
-!!!MPD: 1963
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
 !!!MPN:
-!!!ODT: 1922 (rev. 1926)
-!!!PDT: 1972
-!!!excerpt-start-measure: 1
-!!!excerpt-end-measure: 6
-!!!excerpt-start-time: 0:00
-!!!excerpt-end-time: 0:29
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

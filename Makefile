@@ -18,6 +18,7 @@ hum:	humdrum
 humdrum: utf8
 	for i in musicxml/*.xml; \
 	do \
+		echo Converting $$i; \
 		musicxml2hum $$i | extractxx --no-rest | \
 		   bin/adddummymetadata | bin/removedoublebarline | \
 		   grep -v "break:original" | \

@@ -1,55 +1,56 @@
-!!!COM: Berg, Alban (Maria Johannes)
-!!!OTL: Wozzeck, Opera in Three Acts
-!!!OMV: Act II, Scene 4
-!!!example: 441
-!!!work: Ber-10
-**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part11	*part11	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff12	*	*staff11	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Viola	*	*I"Viola	*I"Viola	*I"Violin	*	*I"Violin	*	*I"Treble Solo	*	*I"Harp	*I"Horn in F	*	*I"Horn in F	*	*I"Bassoon	*	*I"Bass Clarinet in Bb	*
-*I'Vla.	*	*I'Vla.	*I'Vla.	*I'Vln.	*	*I'Vln.	*	*I'Tr. Solo	*	*I'Hp.	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*
-*clefC3	*	*clefC3	*clefC3	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
-*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-*MM100	*	*MM100	*MM100	*MM100	*	*MM100	*	*MM100	*	*MM100	*MM100	*	*MM100	*	*MM100	*	*MM100	*
-=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144
-4en~	mp	8c'	8c'	8.ggnL	p	8ccn'	>	4ggn	f	[2.DD	4an~	mf	4ccn~	mf	[2.DD	mf	[2.BB-X	p
-.	.	8r	8r	.	.	8r	]	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16ccnJk	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4cn~	>	4r	4r	[8eenL	>	4r	.	8eenL	.	.	4fn~	>	4an~	>	.	.	.	.
-.	.	.	.	16eeL])	.	.	.	8g#XJ	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16anJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4An~	]	4r	4r	8.ccnL)	.	4r	.	8bnL	.	.	4dn~	]]	4fn~	]]	.	.	.	.
-.	.	.	.	.	.	.	.	8anJ	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16fnJk	]	.	.	.	.	.	.	.	.	.	.	.	.	.
-=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145
-4Dn~ 4Gn	>	2.r	2.r	8.anL)	.	2.r	.	(4.e-X	>	2.r	4B-X~	.	4e-X~	.	4DD]	.	4BB-]	.
-.	.	.	.	(16e-XJk	>	.	.	.	.	.	.	.	.	.	.	.	.	.
-[8E-X'~	.	.	.	[8gn	.	.	.	.	.	.	[8An~	.	[8d~	.	4r	.	4r	.
-4E-]	.	.	.	4g'~]	.	.	.	4cc#X)	.	.	4A]	>	4d]	>	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4r	.
-[8E-~	] p	.	.	[8g'~)	] pp	.	.	8r	]	.	8A~	] pp	8d~	] pp	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2)][(s3,s4)]{(s5,s6)}s7[(s8,s9,s10,s11,s12)]
-!!!CDT: 1885/02/09-1935/12/24
-!!!CBL: Vienna, Austria
-!!!CDL: Vienna, Austria
-!!!CNT: Austrian
-!!!AGN: Stage; Opera
-!!!MCN: Kleiber, Erich
-!!!MDT: 1925/12/14
-!!!MGN: Staatsoper Orchestra and Chorus
-!!!MLC: Berlin, Germany
-!!!MPD: 1925
-!!!MPN: Hermann, Uhde; Steber, Eleanor
-!!!ODT: 1922
-!!!PDT: 1923
-!!!excerpt-start-measure: 144
-!!!excerpt-end-measure: 146
-!!!excerpt-start-time: 5:12
-!!!excerpt-end-time: 5:25
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [R441_Ber-w10p81m376-377]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part11	*part11	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part6	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff12	*	*staff11	*staff10	*staff9	*	*staff8	*	*staff7	*staff7	*staff7	*	*staff6	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Viola senza sord.	*	*I"Viola Solo II con sord.	*I"Viola Solo I con sord.	*I"Violin I senza sord.	*	*I"Violin Solo I con sord.	*	*I"Marie	*	*	*	*I"Harp	*I"Horn in F II senza sord.	*	*I"Horn in F I senza sord.	*	*I"Bassoon I	*	*I"Bass Clarinet in Bb	*
+*I'Vla.	*	*I'Vla.	*I'Vla.	*I'Vln.	*	*I'Vln.	*	*I'Tr. Solo	*	*	*	*I'Hp.	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*
+*clefC3	*	*clefC3	*clefC3	*clefG2	*	*clefG2	*	*clefG2	*	*	*	*clefF4	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M6/8	*	*M6/8	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*	*	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=senza sord.	!	!LO:TX:t=[quarter-dot]=58	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!LO:TX:a:t=arco	!	!LO:TX:b:t=[pp]	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter-dot]=58	!
+4en~	mp	8e	8e'	8.ggnL	p	(8ccn'	>	4ggn	Ei,	Why	f	[2.DDn	4a~	mp	4cc~	mp	[2.DDn	mf	[2.D	p
+.	.	8r	8r	.	.	8r)	]	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16ccnk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4cn~	>	8r	8r	[8eenJ	>	8r	.	8een	was	such	.	.	4f~	>	4a~	>	.	.	.	.
+.	.	4r	4r	16eeLL])	.	4r	.	8g#XL	frag'	sor-	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16anJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4An~	]	.	.	8.ccn)	.	.	.	8bn	ich	-row	.	.	4d~	]	4f~	]	.	.	.	.
+.	.	8r	8r	.	.	8r	.	8anJ	dar-	pur-	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16fnJk	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:a:t=(non div.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4Dn~ 4Gn	>	4%3r	4%3r	8.anL)	.	4%3r	.	(4.e-X	-nach,	-sue?	>	4%3r	4B-~	.	4e-X~	.	4DD]	.	4D]	.
+.	.	.	.	16e-Xk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8E-X'~	.	.	.	[8gnJ	>	.	.	.	.	.	.	.	[8A'~	.	[8d-X'~	.	8r	.	8r	.
+4E-]	.	.	.	4g'~]	.	.	.	4cc#X)	.	.	.	.	4A]	>	4d-]	>	4r	.	4r	.
+[8E-~	p ]	.	.	[8g'~	pp ]	.	.	8r	.	.	]	.	[8A~	pp ]	[8d-~	pp ]	8r	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})]s7[([(s8,s9)][(s10,s11,s12)])]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

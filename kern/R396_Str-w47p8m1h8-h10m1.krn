@@ -1,138 +1,170 @@
-!!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: Symphony in Three Movements
-!!!OMV: Movement 1
-!!!example: 396
-!!!work: Str-47
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1
-*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff1
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*
-*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2
-*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]
-*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
-*MM160	*	*MM160	*	*MM160	*	*MM160	*	*MM160	*	*MM160
-=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-4CC	p	4C	p	12G'L	sfp	12e-X'L	sfp	12g'L	sfp	1r
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.
-4AA	.	4A	.	8r	.	8r	.	8r	.	.
-.	.	.	.	8G	sf	8e-	sf	8g	sf	.
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	.
-4CC	.	4C	.	12G'L	sfp	12e-'L	sfp	12g'L	sfp	.
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.
-=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-4AA	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.
-4AAA	.	4AA	.	12G'L	.	12e-'L	.	12g'L	.	.
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.
-4CC	.	4C	.	8r	.	8r	.	8r	.	.
-.	.	.	.	8G	sf	8e-	sf	8g	sf	.
-4AA	.	4A	.	4r	.	4r	.	4r	.	.
-=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	12ggL 12bb-X 12ccc-X 12ddd-X 12fff
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd-X 12ee-X 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	12dd-L 12ee- 12gg 12bb-
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc- 8eeen 8ggg
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r
-=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	12dd-XL 12ee-X 12gg 12bb-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	12dd-L 12ee-X 12gg 12bb-
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	12eenL 12gg 12bb-X 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12cc 12ee 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AAA	.	4AA	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8dd-X 8ee-X 8gg 8bb- 8ddd-X
-4CC	.	4C	.	4r	.	4r	.	4r	.	4r
-=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd-X 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AAA	.	4AA	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
-4CC	.	4C	.	4r	.	4r	.	4r	.	4r
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	12eenL 12gg 12bb- 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12cc 12ee 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	12ee-XL 12gg 12bb-X 12ddd-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd-X 12ee-X 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	12ee-L 12gg 12bb- 12ddd- 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
-=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	12dd-XL 12ee-X 12gg 12bb-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	12eenL 12gg 12bb- 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12cc 12een 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-'L	.	12ee-XL 12gg 12bb- 12ddd-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd-X 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r
-=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b-X 12dd-X 12ee-X 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b- 8cc 8een 8gg 8bb- 8ccc 8eeen
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	12dd-XL 12ee-X 12gg 12bb-
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
-.	.	.	.	12r	.	12r	.	12r	.	12r
-=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: {(s1,s2)}[(s3,s4,s5,s6,s7)]
-!!!CDT: 1882/06/17-1971/04/06
-!!!CBL: Lomonosov (Oranienbaum), Russia
-!!!CDL: New York, United States
-!!!CNT: Russian, French, American
-!!!AGN: Orchestral; Symphonic
-!!!MCN: Stravinsky, Igor
-!!!MDT: 1946/01/24
-!!!MGN: New York Philharmonic Orchestra
-!!!MLC: New York, New York, United States of America
-!!!MPD: 1946
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [R396_Str-w47p8m1h8-h10m1]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2
+*Trd0c0	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:t=[quarter]=160	!	!	!LO:TX:t=[quarter]=160
+!LO:TX:b:t=[pizz.]	!	!LO:TX:b:t=[pizz.]	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TX:b:t=[mf]
+4C	p	4C	p	12G'L	sfp	12e-X'L	sfp	12g'L	sfp	1r	1r
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.
+4A	.	4A	.	8r	.	8r	.	8r	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.
+4AA	.	4AA	.	4r	.	4r	.	4r	.	.	.
+!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	sfp	12e-'L	sfp	12g'L	sfp	.	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4A	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r	1r
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.
+4AA	.	4AA	.	12G'L	.	12e-'L	.	12g'L	.	.	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.
+4C	.	4C	.	8r	.	8r	.	8r	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!
+!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.
+4A	.	4A	.	4r	.	4r	.	4r	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TX:b:i:t=simile
+4AA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ggL 12bb-X 12ddd-X 12eee-X 12ggg
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4C	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-L 12ee- 12gg 12bb-
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!	!	!
+4A	.	4A	.	8r	.	8r	.	8r	.	8r	8r
+!	!	!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	sf	8G 8g 8b-X	sf	8G 8g 8b-	sf	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen 8ggg
+4AA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!LO:TX:b:t=pizz.	!	!	!
+4A	.	4A	.	8r	.	8r	.	8r	.	8r	8r
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc	8een 8gg 8bb- 8ccc
+4AA	.	4AA	.	4r	.	4r	.	4r	.	2ryy	4r
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-L 12ee-X 12gg 12bb-
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
+4A	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12eenL 12gg 12bb-X 12ccc
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!
+4AA	.	4AA	.	8r	.	8r	.	8r	.	.	8r
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8dd-X	8ee-X 8gg 8bb- 8ddd-X
+4C	.	4C	.	4r	.	4r	.	4r	.	4r	4r
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
+4A	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+4AA	.	4AA	.	8r	.	8r	.	8r	.	.	8r
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
+4C	.	4C	.	4r	.	4r	.	4r	.	4r	4r
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
+4A	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12eenL 12gg 12bb- 12ccc
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
+4AA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ee-XL 12gg 12bb-X 12ddd-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4C	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-L 12gg 12bb- 12ddd- 12eee-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4A	.	4A	.	8r	.	8r	.	8r	.	8r	8r
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een 8gg	8bb- 8ccc 8eeen
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
+4AA	.	4AA	.	4r	.	4r	.	4r	.	1ryy	4r
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	.	12dd-XL 12ee-X 12gg 12bb-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4A	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	.	12eenL 12gg 12bb- 12ccc
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4AA	.	4AA	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-XL 12gg 12bb- 12ddd-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
+4C	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+4A	.	4A	.	8r	.	8r	.	8r	.	.	8r
+!	!	!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
+4AA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+4A	.	4A	.	8r	.	8r	.	8r	.	.	8r
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:b:t=pizz.	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
+4AA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
+!	!	!	!	!	!	!	!	!LO:TX:b:t=arco	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=arco	!	!	!
+4C	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][(s3,s4,s5,s6,s7)]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
 !!!MPN:
-!!!ODT: 1945
-!!!PDT: 1946
-!!!excerpt-start-measure: 34
-!!!excerpt-end-measure: 43
-!!!excerpt-start-time: 0:45
-!!!excerpt-end-time: 0:56
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,69 +1,134 @@
-!!!COM: Falla (y Matheu), Manuel de
-!!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
-!!!OMV: Part II: Dance of the Neighbours
-!!!example: 308B
-!!!work: Fal-6
-**kern	**dynam
-*grp:A	*grp:A
-*I"Flute	*
-*I'Fl.	*
-*clefG2	*
-*k[f#c#]	*
-*D:	*
-*M3/8	*
-*MM96	*
-=95	=95
-8r	.
-(16ddd'LL	pp
-16ddd'J	.
-8ddd'J	.
-=96	=96
-8ddd'L	.
-8.eee~	.
-16dddJk	.
-=97	=97
-8ccc#L)	.
-16aaL	.
-16bbJ	.
-[8ccc#J	.
-=98	=98
-16ccc#LL]	.
-(16aaJ	.
-8.bb	.
-16aaJk	.
-=99	=99
-8ggL	.
-16aaL	.
-16bbJ	.
-[8aaJ	.
-=100	=100
-16aaLL]	.
-16ff#J	.
-8.gg	.
-16ff#Jk	.
-=101	=101
-8eeL	.
-16ff#L	.
-16eeJ	.
-[8ddJ)	.
-=	=
-*-	*-
-!!!CDT: 1876/11/23-1946/11/14
-!!!CBL: Cádiz, Spain
-!!!CDL: Alta Gracia, Argentina
-!!!CNT: Spanish
-!!!AGN: Stage; Ballet
-!!!MCN: Ansermet, Ernest
-!!!MDT: 1919/07/22
-!!!MGN: Ballets Russes
-!!!MLC: London, United Kingdom
-!!!MPD: 1919
-!!!MPN: Rosovsku, Zoia
-!!!ODT: 1919
-!!!PDT: 1921
-!!!excerpt-start-measure: 95
-!!!excerpt-end-measure: 101
-!!!excerpt-start-time: 1:43
-!!!excerpt-end-time: 1:50
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!COM: Manuel de Falla (y Matheu)
+!!!OTL: [R308B_Fal-w6p111h10m1-7]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part7	*part7	*part1	*part1
+*staff20	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
+*I"Contrabass	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Horn in F	*	*I"Flute 1	*
+*I'Cb.	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Hn.	*	*I'Fl.	*
+*clefF4	*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=96	!
+!LO:TX:b:t=pp sempre	!	!	!LO:TX:a:t=sul tasto	!	!	!	!	!	!	!	!LO:TX:a:t=10	!
+16%3AL	(16DDLL	ppp	(16DDLL	ppp	32F#LLL	ppp	32eLLL	ppp	[4.F# [4.f#	ppp	8r	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16ddd'LL	pp
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16ddd'J	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8ddd'J	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.F#] 4.f#]	.	8ddd'L	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AA	.	16AA	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8.eee~	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16dddJk	.
+.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	[4.G [4.g	.	8cccL)	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16aaL	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8cccJ	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G_ 4.g_	.	16cccLL]	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AA	.	16AA	.	32c	.	32d	.	.	.	16aaJ	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.bb	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16aaJk	.
+.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4.G_ 4.g_	.	8ggL	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	16aaL	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8aaJ	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G] 4.g]	.	16aaLL]	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AA	.	16AA	.	32c	.	32d	.	.	.	16ff#J	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.gg	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16ff#Jk	.
+.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4G 4g	.	8eeL	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	16DD	.	16DD	.	32c	.	32d	.	.	.	16ff#L	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16eeJ	.
+.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	16DD	.	16DD	.	32F#	.	32e	.	[8F# [8f#	.	(8ddJ	.
+.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
+*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)][({(s11,s12)})][({(s13,s14)})][(s15,s16,s17,s18,s19,s20)]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

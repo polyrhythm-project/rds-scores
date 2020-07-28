@@ -1,26 +1,28 @@
-!!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!COM: Sergey [Sergeyevich] Prokofiev
+!!!OTL: [R572_Pro-w32p63h48m7]
 !!!OMV:
-!!!example: 572
-!!!work: Pro-32
+!!!example:
+!!!work:
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
 *staff7	*staff6	*	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Contrabass	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Bassoon	*I"Clarinet in Bb
+*I"Contrabass	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Bassoon	*I"Clarinet in A
 *I'Cb.	*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Bsn.	*I'Cl.
 *clefF4	*clefF4	*	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2
+*ITrd0c0	*	*	*	*	*	*	*ITrd2c3
 *k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
 *D:	*D:	*	*D:	*D:	*D:	*D:	*D:
 *M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-*MM100	*MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100
-=559	=559	=559	=559	=559	=559	=559	=559
-8.GG#XL	2r	.	4d#X 4b	4dd#X	4dd#X	8.GG#XL	8d#X'L
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=[mf]	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!	!LO:TX:t=[quarter]=100
+!LO:TX:a:t=[arco]	!	!	!LO:TX:a:t=[col legno]	!LO:TX:a:t=[col legno]	!LO:TX:a:t=[col legno]	!LO:TX:b:t=[f]	!LO:TX:b:t=[mp]
+8.G#XL	2r	.	4d#X 4b	4dd#X	4dd#X	8.GG#XL	8d#X'L
 .	.	.	.	.	.	.	8f#'J
-16CC#Jk	.	.	.	.	.	16CC#Jk	.
-8C#^L	.	.	4G#X 4e	4B	4B	8C#^L	[4e^
-8C#^J	.	.	.	.	.	8C#^J	.
-8C#^	12C#^L	mf	4g#X 4ee	4b 4ee	4b 4ee	12C#^L	8eL]
+16C#Jk	.	.	.	.	.	16CC#Jk	.
+8c#^L	.	.	4G#X 4e	4B	4B	8C#^L	[4e^
+8c#^J	.	.	.	.	.	8C#^J	.
+!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
+8c#^	12C#^L	mf	4g#X 4ee	4b 4ee	4b 4ee	12C#^L	8eL]
 .	12C##X^	.	.	.	.	12C##X^	.
 8r	.	.	.	.	.	.	(8d#
 .	12D#X^J	.	.	.	.	12D#X^J	.
@@ -31,22 +33,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
-!!!CDT: 1891/04/23-1953/03/05
-!!!CBL: Sontsovka, Ukraine
-!!!CDL: Moscow, Russia
-!!!CNT: Russian
-!!!AGN: Stage; Theatrical
-!!!MCN: Prokofiev, Sergei
-!!!MDT: 1936/05/02
-!!!MGN: Moscow Philharmonic
-!!!MLC: Moscow, Russia
-!!!MPD: 1936
-!!!MPN: Satz, Natalia
-!!!ODT: 1936
-!!!PDT: 1937
-!!!excerpt-start-measure: 559
-!!!excerpt-end-measure: 559
-!!!excerpt-start-time: 24:36
-!!!excerpt-end-time: 24:39
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

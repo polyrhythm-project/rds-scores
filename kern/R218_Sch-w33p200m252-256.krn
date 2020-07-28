@@ -1,82 +1,87 @@
-!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Moses und Aron (Moses and Aaron), Opera
-!!!OMV: Act I, Scene 3
-!!!example: 218
-!!!work: Sch-33
-**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part5	*part5	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
-*staff6	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
-*I"Piano	*	*	*I"Piano	*	*I"Tenor	*I"Alto	*	*I"Soprano	*
-*I'Pno.	*	*	*I'Pno.	*	*I'T.	*I'A.	*	*I'S.	*
-*clefF4	*clefG2	*	*clefG2	*	*clefGv2	*clefG2	*	*clefG2	*
-*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*	*
-*M3/4	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
-*MM160	*MM160	*	*MM160	*	*MM160	*MM160	*	*MM160	*
-=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
-*^	*	*	*	*	*	*	*	*	*
-4ryy	(4G#X	8e-XL	.	4r	.	4G#X	(8e-XL	p	4r	.
-.	.	8dJ	.	.	.	.	8dnJ)	.	.	.
-4ryy	4Bn	8b-XL	.	(8ffn^L	.	4Bn	4d	.	8b-XL	p
-.	.	8anJ	.	8ddn'J) 8gg-X	.	.	.	.	8anJ	.
-8r	4Gn	8fnL	.	4r	.	4Gn	(8fnL	.	8an	.
-(8B-X	.	8enJ	.	.	.	.	8enJ)	.	8r	.
-*v	*v	*	*	*	*	*	*	*	*	*
-=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
-*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*
-*^	*	*	*	*	*	*	*	*	*
-4An)	4F#X	8dd-XL	.	(8ddn^L	.	4F#X	4en	.	8dd-XL	.
-.	.	8ccnJ	.	8cc#X'J) 8ggn	.	.	.	.	8ccnJ	.
-8r	4Gn)	8ccL	<	4r	.	4Gn	8r	.	8ccL	.
-(8E-X	.	8dd-J	.	.	.	.	8fn	.	8dd-J	.
-*v	*v	*	*	*	*	*	*	*	*	*
-=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
-*M3/4	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
-*^	*	*	*	*	*	*	*	*	*
-4Dn)	(4en	8g-XL	[	(8g#X^L 8b-X	.	4en	(8g-XL	.	8dd-X	.
-.	.	8fnJ	.	8an'J) 8bn	.	.	8fnJ)	.	8r	.
-4ryy	4G#X	8b-XL	.	4r	.	4G#X	(8b-XL	.	4r	.
-.	.	8cc-XJ	.	.	.	.	8cc-XJ)	.	.	.
-4ryy	4An)	8ddnL	.	(8c#X^L 8gn	.	4An	4cc-	.	(8ddnL	.
-.	.	8ee-XJ	.	8cn'J) 8f#X	.	.	.	.	8ee-XJ)	.
-=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
-4ryy	(4en	8ccnL	.	4r	.	4en	(8ccnL	.	8ee-X	.
-.	.	8dd-XJ	.	.	.	.	8dd-XJ)	.	8r	.
-*	*	*	*	*clefF4	*	*	*	*	*	*
-4ryy	4fn	8ff#XL	.	(8Dn^L 8an	mf	4fn	4dd-	.	(8ff#XL	.
-.	.	8ggnJ	.	8E-X'J) 8a-X	.	.	.	.	8ggnJ)	.
-8r	4An)	8dnL	.	4r	.	4An	(8dnL	.	8gg	.
-(8D-X	.	8e-XJ	.	.	.	.	8e-XJ)	.	8r	.
-*	*	*	*	*clefG2	*	*	*	*	*	*
-*v	*v	*	*	*	*	*	*	*	*	*
-=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
-*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*
-*^	*	*	*	*	*	*	*	*	*
-4Cn)	(4B-X	8ccnL	.	(8g-XL 8een	.	4B-X	4e-X	.	(8ccnL	.
-.	.	8dd-XJ	.	8fnJ) 8gn	.	.	.	.	8dd-XJ)	.
-8r	4c-X)	8anL	.	4r	.	4c-X	8anL	.	8dd-	.
-8C	.	8a-XJ	.	.	.	.	8a-XJ	.	8r	.
-*v	*v	*	*	*	*	*	*	*	*	*
-=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)][(s4)]{(s5,s6)}
-!!!CDT: 1874/09/13-1951/07/13
-!!!CBL: Vienna, Austria
-!!!CDL: Los Angeles, United States
-!!!CNT: Austrian
-!!!AGN: Stage; Opera
-!!!MCN: Rosbaud, Hans
-!!!MDT: 1957/06/06
-!!!MGN: unknown
-!!!MLC: Zürich, Switzerland
-!!!MPD: 1957
-!!!MPN: Fiedler, Hans; Melchert, Helmut
-!!!ODT: 1932
-!!!PDT: 1957
-!!!excerpt-start-measure: 139
-!!!excerpt-end-measure: 143
-!!!excerpt-start-time: 5:28
-!!!excerpt-end-time: 5:33
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [R218_Sch-w33p200m252-256]
+!!!OMV:
+!!!example:
+!!!work:
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*staff10	*staff9	*staff9	*	*staff8	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola III	*	*I"Viola II	*	*I"Viola I	*	*I"Violin I	*	*I"Tenor	*	*I"Alto	*	*	*I"Soprano	*	*	*I"Harp	*	*I"Piano	*	*I"Mandolin	*	*I"Mandolin	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*
+*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. I	*	*I'T.	*	*I'A.	*	*	*I'S.	*	*	*I'Hp.	*	*I'Pno.	*	*I'Mand.	*	*I'Mand.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*
+*clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!
+!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!	!LO:TX:a:t=[pp]	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!LO:TX:a:t=a 2	!
+4%3r	.	8r	.	4r	.	4r	.	4%3r	.	4G#X	Le-	(8e-XL	Le-	p	4r	.	.	8e-XL	mf	8e-XL	mf	8e-XL	mf	8e-XL	mf	(4G#X	p	(4g#X	p	(4G#X	p
+.	.	(8ccn	p	.	.	.	.	.	.	.	.	8dnJ)	.	.	.	.	.	8dn	.	8dn	.	8dn	.	8dn	.	.	.	.	.	.	.
+*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16dd-XLL)	.	(8gnL	p	(8ffL	p	.	.	4Bn	-bens-	4d	-bens-	.	8b-XL	Le-	p	8b-X	.	8b-X	.	8b-X	.	8b-X	.	4Bn	.	4bX	.	4BX	.
+.	.	16dd-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16dd-	.	8enJ)	.	8gg-XJ)	.	.	.	.	.	.	.	.	8anJ	-bens-	.	8anJ	.	8anJ	.	8anJ	.	8anJ	.	.	.	.	.	.	.
+.	.	16dd-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	4r	.	4r	.	.	.	4Gn	-lust	(8fnL	-lust	.	8a	-lust	.	8fnL	.	8fnL	.	8fnL	.	8fnL	.	4Gn	.	4g	.	4G	.
+.	.	(8B-X	.	.	.	.	.	.	.	.	.	8enJ)	.	.	8r	.	.	8en	.	8en	.	8en	.	8en	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+2r	.	16BnLL)	.	(8g#XL	.	(8ddnL	.	2r	.	4F#X	scheut	4en	scheut	.	8dd-XL	scheut	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	4F#X	.	4f#X	.	4F#X	.
+.	.	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	.	8an'J)	.	8cc#X'J)	.	.	.	.	.	.	.	.	8ccnJ	ihr	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	.	.	.	.	.	.
+.	.	16BJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	4r	.	4r	.	.	.	4Gn	ihr	8r	.	.	8ccL	En-	.	8ccL	.	8ccL	.	8ccL	.	8ccL	.	4Gn)	< [	4g)	< [	4G)	< [
+.	.	(8E-X	.	.	.	.	.	.	.	.	.	8fn	ihr	.	8dd-J	-de	.	8dd-	.	8dd-	.	8dd-	.	8dd-	.	.	.	.	.	.	.
+*	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3r	.	16DnLL)	.	(8G#XL	.	(8b-XL	.	4%3r	.	4en	En-	(8g-XL	En-	.	8dd-X	nicht,	.	8g-X	.	8g-X	.	8g-X	.	8g-X	.	(4en	.	(4eeX	.	(4eX	.
+.	.	16D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16D	.	8Bn'J)	.	8an'J)	.	.	.	.	.	8fnJ)	.	.	8r	.	.	8fnJ	.	8fnJ	.	8fnJ	.	8fnJ	.	.	.	.	.	.	.
+.	.	16DJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4r	.	4r	.	8r	.	.	.	4G#X	-de	(8b-XL	-de	.	4r	.	.	8b-XL	.	8b-XL	.	8b-XL	.	8b-XL	.	4G#X	.	4g#X	.	4G#X	.
+.	.	.	.	.	.	(8fn	.	.	.	.	.	8cc-XJ)	.	.	.	.	.	8cc-X	.	8cc-X	.	8cc-X	.	8cc-X	.	.	.	.	.	.	.
+.	.	(8C#XL	.	(8G#L	.	16enLL)	.	.	.	4An	nicht,	4cc-	nicht,	.	(8ddnL	furcht-	.	8ddn	.	8ddn	.	8ddn	.	8ddn	.	4An)	.	4a)	.	4A)	.
+.	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8CnJ)	.	8F#XJ)	.	16e	.	.	.	.	.	.	.	.	8ee-XJ)	.	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	4%3r	.	4%3r	.	4r	.	8r	.	4en	furcht	(8ccnL	furcht-	.	8ee-X	-los,	.	8ccnL	.	8ccnL	.	8ccnL	.	8ccnL	.	(4en	.	(4eeX	.	(4eX	.
+.	.	.	.	.	.	.	.	(8bb-X	mf	.	.	8dd-XJ)	.	.	8r	.	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	.	.	.	.	.	.
+(8DnL	mf	.	.	.	.	(8anL	mf	16ccc-XLL)	.	4fn	los	4dd-	-los,	.	(8ff#XL	furcht-	.	8ff#X	.	8ff#X	.	8ff#X	.	8ff#X	.	4fn	.	4ff	.	4f	.
+.	.	.	.	.	.	.	.	16ccc-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E-XJ)	.	.	.	.	.	8a-XJ)	.	16ccc-	.	.	.	.	.	.	8ggJ)	.	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ccc-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	4r	.	4r	.	4An	sucht	(8dnL	furcht	.	8gg	-los	.	8dnL	.	8dnL	.	8dnL	.	8dnL	.	4An)	.	4a)	.	4A)	.
+(8D-X	<	.	.	.	.	.	.	.	.	.	.	8e-XJ)	.	.	8r	.	.	8e-X	.	8e-X	.	8e-X	.	8e-X	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+16CCnLL)	[	2r	.	2r	.	(8G-XL	.	(8eenL	.	4B-X	sie	4e-X	los	.	(8ccnL	sucht-	.	8ccn	.	8ccn	.	8ccn	.	8ccn	.	(4B-X	.	(4b-	.	(4B-	.
+16CC	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16CC	.	.	.	.	.	8FnJ)	.	8gnJ)	.	.	.	.	.	.	8dd-XJ)	.	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	.	.	.	.	.	.
+16CCJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8r	.	4r	.	4c-X	es	8anL	sucht	.	8dd-	-sie	.	8anL	.	8anL	.	8anL	.	8anL	.	4c-X)	.	4cc-X)	.	4c-X)	.
+.	.	.	.	.	.	[8Cn	< [	.	.	.	.	8a-XJ	sie	.	8r	.	.	8a-XJ	.	8a-XJ	.	8a-XJ	.	8a-XJ	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6)][(s7)][(s8,s9,s10)][(s11[(s12,s13,s14)]s15,s16)]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

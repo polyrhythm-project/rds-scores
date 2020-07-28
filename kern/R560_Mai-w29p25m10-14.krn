@@ -1,10 +1,9 @@
-!!!COM: Martin, Frank
-!!!OTL: Eight Preludes for Piano
-!!!OMV: No. 8
-!!!example: 560
-!!!work: Mai-29
+!!!COM: Frank Martin
+!!!OTL: [R560_Mai-w29p25m10-14]
+!!!OMV:
+!!!example:
+!!!work:
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -13,121 +12,122 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M9/8	*M9/8	*
-*MM121	*MM121	*
-=10	=10	=10
+=1	=1	=1
+!	!LO:TX:t=[eighth-dot]=132	!
 16FF#X'LL	8r	mf
 16A'	.	.
-16D#X'	16aa^KL	f
-16Cn'	[8.dd^J	.
-16Bn'	.	.
+!	!LO:TX:b:i:t=  molto marcato	!
+16D#X'J	16aa'^KL	f
+16Cn'L	[8.dd^J	.
+16dn'	.	.
 16G#X'JJ	.	.
 16FF#'LL	8.ddL_	.
 16A'	.	.
-16D#'	.	.
-16Cn'	8dd]	.
-16Bn'	.	.
+16D#X'J	.	.
+16C'L	8dd]	.
+16dn'	.	.
 16G#'JJ	[16cc#X^Jk	.
 16FF#'LL	8.cc#L_	.
 16A'	.	.
-16D#'	.	.
-16Cn'	8cc#]	.
-16Bn'	.	.
+16D#X'J	.	.
+16C'L	8cc#]	.
+16dn'	.	.
 16G#'JJ	[16e#X^Jk	.
-=11	=11	=11
-16FF#X'LL	8e#]	.
+=2	=2	=2
+16FF#X'LL	8e#L]	.
 16A'	.	.
-16D#X'	[4g#X^	.
-16Cn'	.	.
-16Bn'	.	.
+16D#X'J	[16g#X^k	.
+16Cn'L	8.g#J_	.
+16dn'	.	.
 16G#X'JJ	.	.
-16FF#'LL	4g#]	.
+16FF#'LL	8g#L_	.
 16A'	.	.
-16D#'	.	.
-16Cn'	.	.
-16Bn'	[8g#^	.
+16D#X'J	16g#k]	.
+16C'L	[8.g#^J	.
+16dn'	.	.
 16G#'JJ	.	.
 16FF#'LL	8g#L]	.
 16A'	.	.
-16D#'	[16g#^K	.
-16Cn'	8.g#J_	.
-16Bn'	.	.
+16D#X'J	[16g#^k	.
+16C'L	8.g#J_	.
+16dn'	.	.
 16G#'JJ	.	.
-=12	=12	=12
+=3	=3	=3
 16FF#X'LL	16g#LL]	.
 16A'	16f#X'^^	.
-16D#X'	[16b^J	.
-16Cn'	8b]	.
-16Bn'	.	.
+16D#X'J	[16b^J	.
+16Cn'L	8b]	.
+16dn'	.	.
 16G#X'JJ	[16cc^Jk	.
 16FF#'LL	16ccLL]	.
 16A'	16b'^^	.
-16D#'	[16g#X^	.
-16Cn'	16g#J]	.
-16Bn'	[8b^J	.
+16D#X'J	[16g#X^J	.
+16C'L	16g#K]	.
+16dn'	[8b^J	.
 16G#'JJ	.	.
 16FF#'LL	16bLL]	.
 16A'	16b'^^	.
-16D#'	16cc'^^	.
-16Cn'	16ffn'^^	.
-16Bn'	16ff#X'^^	.
+16D#X'J	16cc'^^J	.
+16C'L	16ffn'^^L	.
+16dn'	16ff#X'^^	.
 16G#'JJ	16bb'^^JJ	.
-=13	=13	=13
+=4	=4	=4
 16CC#X'LL	8r	.
 16E'	.	.
-16AA#X'	16ee'^^KL 16eee	.
-16GGn'	[8.a^J [8.aa	.
+16AA#X'J	16ee'^^KL 16eee	.
+16GGn'L	[8.a^J [8.aa	.
 16An'	.	.
 16D#X'JJ	.	.
 16CC#'LL	8aL] 8aa]	.
 16E'	.	.
-16AA#'	16g#X'^^K 16gg#X	.
-16GGn'	[8.c#X^J [8.cc#X	.
-16An'	.	.
+16AA#'J	16g#X'^^k 16gg#X	.
+16GG'L	[8.c#X^J [8.cc#X	.
+16A'	.	.
 16D#'JJ	.	.
 16CC#'LL	8.c#L_ 8.cc#_	.
 16E'	.	.
-16AA#'	.	.
-16GGn'	8c#] 8cc#]	.
-16An'	.	.
-16D#'JJ	[16B#XJk	.
-=14	=14	=14
+16AA#'J	.	.
+16GG'L	8c#] 8cc#]	.
+16A'	.	.
+16D#'JJ	[16B#X^Jk	.
+=5	=5	=5
 16CC#X'LL	8B#L]	.
 16E'	.	.
-16AA#X'	8f##X~	.
-16GGn'	.	.
+16AA#X'J	8f##X~	.
+16GGn'L	.	.
 16An'	8e~J	.
 16D#X'JJ	.	.
 16CC#'LL	8d#X~L	.
 16E'	.	.
-16AA#'	8B#X~	.
-16GGn'	.	.
-16An'	8f##~J	.
+16AA#'J	8B#X~	.
+16GG'L	.	.
+16A'	8f~J	.
 16D#'JJ	.	.
 16CC#'LL	16e^KL	.
 16E'	[8d#^	.
-16AA#'	.	.
-16GGn'	8.d#J_	.
-16An'	.	.
+16AA#'J	.	.
+16GG'L	8.d#J_	.
+16A'	.	.
 16D#'JJ	.	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
-!!!CDT: 1890/09/15-1974/11/21
-!!!CBL: Geneva, Switzerland
-!!!CDL: Naarden, Netherlands
-!!!CNT: Swiss
-!!!AGN: Instrumental; Keyboard
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1950/03/22
+!!!MDT:
 !!!MGN:
-!!!MLC: Lausanne, Switzerland
-!!!MPD: 1950
-!!!MPN: Bidal, Denise
-!!!ODT: 1948
-!!!PDT: 1949
-!!!excerpt-start-measure: 10
-!!!excerpt-end-measure: 14
-!!!excerpt-start-time: 0:27
-!!!excerpt-end-time: 0:41
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

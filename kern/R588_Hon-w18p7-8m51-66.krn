@@ -1,179 +1,255 @@
-!!!COM: Honegger, Arthur
-!!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!COM: Arthur Honegger
+!!!OTL: [R588_Hon-w18p7-8m51-66]
 !!!OMV:
-!!!example: 588
-!!!work: Hon-18
+!!!example:
+!!!work:
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part15	*part14	*part13	*part12	*part11	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Bass Drum	*	*I"Horn in F	*I"Horn in F	*I"Contrabassoon	*I"Bassoon	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Cor Anglais	*I"Oboe	*I"Flute
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Bass Drum	*	*I"Horns in F III,IV	*I"Horns in F I,II	*I"Contrabassoon	*I"Bassoons	*I"Bass Clarinet in Bb	*I"Clarinet in Bb II	*I"Clarinet in Bb I	*I"English Horn	*I"Oboes	*I"Flutes
 *I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'B. D.	*	*I'Hn.	*I'Hn.	*I'Cbsn.	*I'Bsn.	*I'B. Cl.	*I'Cl.	*I'Cl.	*I'C. A.	*I'Ob.	*I'Fl.
-*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefpercussion0	*	*clefG2	*clefG2	*clefF4	*clefF4	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160
-=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
-1r	4An	4a-X	4A-X	4c#X	1r	.	1r	1r	4r	4r	4r	4A-X	4An	4A-X	4c#X 4a-X	4c#X 4a-X
-.	4r	4r	4r	4r	.	.	.	.	8GGG-X	8G-XL	8GG-XL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8GG-XJ	8GG-J	.	.	.	.	.
-.	4r	4r	4r	4r	.	.	.	.	8DDD-X	8D-XL	8DD-XL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8DD-XJ	8DD-J	.	.	.	.	.
-.	4F	4e-X	4An	4Bn	.	.	.	.	4r	4r	4r	4Gn	4Gn	4F	4Bn 4e-X	4e-X
-=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
-1r	4A-X	4en	4B-X	4d	1r	.	1r	1r	4r	4r	4r	4B-X	4A-X	4B-X	4d 4en	4d 4en
-.	4r	4r	4r	4r	.	.	.	.	8CCC#X	8CC#XL	8DD-XL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8C#XJ	8DD-J	.	.	.	.	.
-.	4r	4r	4r	4r	.	.	.	.	8EEEn	8EEnL	8FF-XL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8EnJ	8FF-J	.	.	.	.	.
-.	4An	4g#X	4d-X	4d#X	.	.	.	.	4r	4r	4r	4B-	4d-X	4An	4d#X 4g#X	4d#X 4g#X
-=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-1r	4B	4b	4c	4e	1r	.	1r	1r	4r	4r	4r	4Bn	4c	4Bn	4en 4bn	4e 4b
-.	4r	4r	4r	4r	.	.	.	.	8AAA	8cnL	8AAnL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8CnJ	8AAJ	.	.	.	.	.
-.	4r	4r	4r	4r	.	.	.	.	8EEE	8EL	8EE-XL	4r	4r	4r	4r	4r
-.	.	.	.	.	.	.	.	.	8r	8EEJ	8EE-J	.	.	.	.	.
-.	4G#X	4f#X	4c	4dn	.	.	.	.	4r	4r	4r	4G#X	4c	4G#X	4d#X 4f#X	4d#X 4f#X
-=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4CC	(4.D#X	4g	4c	4Bn	1r	.	4c~	1r	4CC'	1r	1r	(2.An	(2.An	(2.B	8c 8g	8c 8g
+*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefX2	*	*clefG2	*clefG2	*clefF4	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*ITrd0c0	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*ITrd0c0	*	*ITrd1c2	*ITrd1c2	*ITrd1c2	*ITrd4c7	*	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[b-]	*k[b-]	*k[]	*k[]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-]	*k[]	*k[]
+*	*	*	*	*	*C:	*	*	*	*	*	*	*	*	*	*	*
+*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2	*M2/2
+*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*met(c|)
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^
+*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[f]	!	!	!	!	!	!LO:TX:t=[half]=80	!
+!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:a:t=a 2	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!
+1r	4An	4a-X	4A-X	4c#X	1r	.	1r	1r	4r	4r	4r	16A-XLL	16ALL	4A-X	4c#X 4a-X	16c#X 16a-XLL	2r
+.	.	.	.	.	.	.	.	.	.	.	.	16A-X	16A	.	.	16c#X 16a-X	.
+.	.	.	.	.	.	.	.	.	.	.	.	16A-X	16A	.	.	16c#X 16a-X	.
+.	.	.	.	.	.	.	.	.	.	.	.	16A-XJJ	16AJJ	.	.	16c#X 16a-XJJ	.
+.	4r	4r	4r	4r	.	.	.	.	8GG-X	8G-XL	8g-XL	4r	4r	4r	4r	4r	.
+.	.	.	.	.	.	.	.	.	8r	8GG-XJ	8g-J	.	.	.	.	.	.
+.	4r	4r	4r	4r	.	.	.	.	8DD-X	8D-XL	8d-XL	4r	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8DD-XJ	8d-J	.	.	.	.	.	.
+.	4F	4e-X	4An	4Bn	.	.	.	.	4r	4r	4r	16FLL	16ALL	4F	4Bn 4e-X	16e-XLL	16e-LL
+.	.	.	.	.	.	.	.	.	.	.	.	16F	16A	.	.	16e-X	16e-
+.	.	.	.	.	.	.	.	.	.	.	.	16F	16A	.	.	16e-X	16e-
+.	.	.	.	.	.	.	.	.	.	.	.	16FJJ	16AJJ	.	.	16e-XJJ	16e-JJ
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	4A-X	4en	4B-X	4d	1r	.	1r	1r	4r	4r	4r	16B-LL	16A-XLL	4B-	4d 4en	16d 16enLL
+.	.	.	.	.	.	.	.	.	.	.	.	16B-	16A-X	.	.	16d 16en
+.	.	.	.	.	.	.	.	.	.	.	.	16B-	16A-X	.	.	16d 16en
+.	.	.	.	.	.	.	.	.	.	.	.	16B-JJ	16A-XJJ	.	.	16d 16enJJ
+.	4r	4r	4r	4r	.	.	.	.	8CC#X	8CC#XL	8d-XL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8C#XJ	8d-J	.	.	.	.	.
+.	4r	4r	4r	4r	.	.	.	.	8EEn	8EEnL	8f-XL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8EnJ	8f-J	.	.	.	.	.
+.	4An	4g#X	4d-X	4d#X	.	.	.	.	4r	4r	4r	16B-LL	16d-XLL	4A	4d#X 4g#X	16d#X 16g#XLL
+.	.	.	.	.	.	.	.	.	.	.	.	16B-	16d-X	.	.	16d#X 16g#X
+.	.	.	.	.	.	.	.	.	.	.	.	16B-	16d-X	.	.	16d#X 16g#X
+.	.	.	.	.	.	.	.	.	.	.	.	16B-JJ	16d-XJJ	.	.	16d#X 16g#XJJ
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	4B	4b	4c	4e	1r	.	1r	1r	4r	4r	4r	16BXLL	16cLL	4BX	4en 4bn	16e 16bLL
+.	.	.	.	.	.	.	.	.	.	.	.	16BX	16c	.	.	16e 16b
+.	.	.	.	.	.	.	.	.	.	.	.	16BX	16c	.	.	16e 16b
+.	.	.	.	.	.	.	.	.	.	.	.	16BXJJ	16cJJ	.	.	16e 16bJJ
+.	4r	4r	4r	4r	.	.	.	.	8AA	8AL	8aL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8AAJ	8aJ	.	.	.	.	.
+.	4r	4r	4r	4r	.	.	.	.	8EE	8EL	8eXL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8EEJ	8eJ	.	.	.	.	.
+.	4G#X	4f#X	4c	4dn	.	.	.	.	4r	4r	4r	16G#XLL	16cLL	4G#X	4dn 4f#X	16dn 16f#XLL
+.	.	.	.	.	.	.	.	.	.	.	.	16G#X	16c	.	.	16dn 16f#X
+.	.	.	.	.	.	.	.	.	.	.	.	16G#X	16c	.	.	16dn 16f#X
+.	.	.	.	.	.	.	.	.	.	.	.	16G#XJJ	16cJJ	.	.	16dn 16f#XJJ
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo
+*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!LO:TX:b:i:t=marcato	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=4
+4C	(4.D#X	4g	4c	4Bn	1r	.	4c~	1r	4C'	1r	1r	(2.A	(2.A	(2.BX	8c 8g	8c 8g
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	8r
-4GG	.	4r	4r	4r	.	.	4e-X~	.	4GG'	.	.	.	.	.	4r	4r
+4G	.	4r	4r	4r	.	.	4e-X~	.	4G'	.	.	.	.	.	4r	4r
 .	8C##X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4FFF#X	4D#)	4r	4r	2r	.	.	6g	.	4FFF#X'	.	.	.	.	.	2r	2r
+4FF#X	4D#)	4r	4r	2r	.	.	6g	.	4FF#X'	.	.	.	.	.	2r	2r
 .	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
 !	!	!LO:TX:a:t=pizz.	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
 4r	4r	8A-XL	8c#XL	.	.	.	.	.	4r	.	.	8A-XL	8A-XL	8c#XL	.	.
 .	.	.	.	.	.	.	6cc	.	.	.	.	.	.	.	.	.
-.	.	8GJ	8dJ	.	.	.	.	.	.	.	.	8GnJ)	8GJ)	8dJ)	.	.
-=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-4CC	(4.D#X	4An	4Bn	1r	1r	.	6b-X	1r	4CC'	1r	1r	(2.An	(2.An	(2.B	1r	1r
+.	.	8GJ	8dJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8dJ)	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4C	(4.D#X	4An	4Bn	1r	1r	.	6b-	1r	4C'	1r	1r	(2.A	(2.A	(2.BX	1r	1r
 .	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.	.
-4GG	.	4r	4r	.	.	.	.	.	4GG'	.	.	.	.	.	.	.
+4G	.	4r	4r	.	.	.	.	.	4G'	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
 .	8C##X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4FFF#X	4D#)	4r	4r	.	.	.	4f~	.	4FFF#X'	.	.	.	.	.	.	.
+4FF#X	4D#)	4r	4r	.	.	.	4f~	.	4FF#X'	.	.	.	.	.	.	.
 4r	4r	8F#XL	8d-XL	.	.	.	4g~	.	4r	.	.	8F#XL	8F#XL	8d-XL	.	.
-.	.	8GJ	8cnJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8cnJ)	.	.
-=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-4DD	(4.E#X	4A-X	4B-X	1r	1r	.	4dn~	5dn	4DD	1r	1r	(2.A-X	(2.A-X	(2.B	1r	1r
-.	.	.	.	.	.	.	.	5en	.	.	.	.	.	.	.	.
-4BB-X	.	4r	4r	.	.	.	4r	.	4BB-X	.	.	.	.	.	.	.
+.	.	8GJ	8cnJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8cJ)	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!
+4D	(4.En	4A-X	4B-X	1r	1r	.	4d	5d	4D	1r	1r	(2.A-X	(2.A-X	(2.B-	1r	1r
+.	.	.	.	.	.	.	.	5e	.	.	.	.	.	.	.	.
+4B-X	.	4r	4r	.	.	.	4r	.	4B-X	.	.	.	.	.	.	.
 .	8F#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	5g	.	.	.	.	.	.	.	.
-4AAA-X	4E#)	4r	4r	.	.	.	2r	.	4AAA-X	.	.	.	.	.	.	.
+4AA-X	4E)	4r	4r	.	.	.	2r	.	4AA-X	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	5f#X	.	.	.	.	.	.	.	.
-4r	4r	8GL	8BnL	.	.	.	.	.	4r	.	.	8GL	8GL	8BnL	.	.
-.	.	.	.	.	.	.	.	5b	.	.	.	.	.	.	.	.
-.	.	8A-J	8cJ	.	.	.	.	.	.	.	.	8F#XJ)	8F#XJ)	8cJ)	.	.
-=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-4DD	(4.E#X	4A-X	4B-X	1r	1r	.	1r	6a	1r	1r	1r	(2.A-X	(2.A-X	(2.B-X	1r	1r
+4r	4r	8GL	8BnL	.	.	.	.	.	4r	.	.	8GL	8GL	8BXL	.	.
+.	.	.	.	.	.	.	.	5b-	.	.	.	.	.	.	.	.
+.	.	8F#XJ	8cJ	.	.	.	.	.	.	.	.	8F#XJ)	8F#XJ)	8cJ)	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4D	(4.E	4A-X	4B-X	1r	1r	.	1r	6a-X	4D	1r	1r	(2.A-X	(2.A-X	(2.B-	1r	1r
 .	.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.
-4AAA-X	.	4r	4r	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.
+4AA-X	.	4r	4r	.	.	.	.	.	4AA-X	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6a-	.	.	.	.	.	.	.	.
 .	8F#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4BB-X	4E#)	4r	4r	.	.	.	.	6d	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	6en	.	.	.	.	.	.	.	.
-4r	4r	8GL	8d-XL	.	.	.	.	.	.	.	.	8GL	8GL	8c-XL	.	.
+4B-X	4E)	4r	4r	.	.	.	.	6d	4B-X	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6e	.	.	.	.	.	.	.	.
+4r	4r	8GL	8d-XL	.	.	.	.	.	4r	.	.	8GL	8GL	8d-XL	.	.
 .	.	.	.	.	.	.	.	6f#X	.	.	.	.	.	.	.	.
-.	.	8F#XJ	8cJ	.	.	.	.	.	.	.	.	8A-J)	8A-J)	8B-J)	.	.
-=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-4CC	(4.E-X	4An	4Bn	1r	1r	.	4c	4c	1r	1r	1r	(2.An	(2.An	(2.Bn	1r	1r
-4GG	.	4r	4r	.	.	.	4e-X	4r	.	.	.	.	.	.	.	.
+.	.	8A-J	8cJ	.	.	.	.	.	.	.	.	8A-J)	8A-J)	8cJ)	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4C	(4.E-X	4An	4Bn	1r	1r	.	4c	4c	4C	1r	1r	(2.A	(2.A	(2.BX	1r	1r
+4G	.	4r	4r	.	.	.	4e-X	4r	4G	.	.	.	.	.	.	.
 .	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4FFF#X	4E-)	4r	4r	.	.	.	6g	2r	.	.	.	.	.	.	.	.
+4FF#X	4E-)	4r	4r	.	.	.	6g	2r	4FF#X	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
-4r	4r	8A-XL	8c#XL	.	.	.	.	.	.	.	.	8A-XL	8A-XL	8c#XL	.	.
+4r	4r	8A-XL	8c#XL	.	.	.	.	.	4r	.	.	8A-XL	8A-XL	8c#XL	.	.
 .	.	.	.	.	.	.	6cc	.	.	.	.	.	.	.	.	.
-.	.	8A-J	8dJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8dJ)	.	.
-=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-4CC	(4.E-X	4An	4Bn	1r	1r	.	6b-X	1r	1r	1r	1r	(2.An	(2.An	(2.B	1r	1r
+.	.	8GJ	8dJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8dJ)	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4C	(4.E-X	4An	4Bn	1r	1r	.	6b-	1r	4C	1r	1r	(2.A	(2.A	(2.BX	1r	1r
 .	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.	.
-4FFF#X	.	4r	4r	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FF#X	.	4r	4r	.	.	.	.	.	4FF#X	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
 .	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4GG	4E-)	4r	4r	.	.	.	4fn	.	.	.	.	.	.	.	.	.
-4r	4r	8F#XL	8cnL	.	.	.	4g	.	.	.	.	8F#XL	8F#XL	8cnL	.	.
-.	.	8GJ	8B-XJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-XJ)	.	.
-=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-4BBBn	(4.D	4G#X	4A	1r	1r	.	4a	5an	1r	4BBn	1r	(2.A-X	(2.A-X	(2.A	1r	1r
-.	.	.	.	.	.	.	.	5b	.	.	.	.	.	.	.	.
-4AA-X	.	4r	4r	.	.	.	4r	.	.	4A-X	.	.	.	.	.	.
+4G	4E-)	4r	4r	.	.	.	4f	.	4G	.	.	.	.	.	.	.
+4r	4r	8F#XL	8cnL	.	.	.	4g	.	4r	.	.	8F#XL	8F#XL	8cL	.	.
+.	.	8GJ	8B-XJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-J)	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4BBn	(4.D	4G#X	4A	1r	1r	.	4a	5a	1r	4BBn	1r	(2.A-X	(2.A-X	(2.A	1r	1r
+.	.	.	.	.	.	.	.	5bX	.	.	.	.	.	.	.	.
+4A-X	.	4r	4r	.	.	.	4r	.	.	4A-X	.	.	.	.	.	.
 .	8E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	5cc	.	.	.	.	.	.	.	.
-4FFF	4D)	4r	4r	.	.	.	2r	.	.	4FFn	.	.	.	.	.	.
+4FFn	4D)	4r	4r	.	.	.	2r	.	.	4FFn	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	5dd	.	.	.	.	.	.	.	.
-4r	4r	8GnL	8A#XL	.	.	.	.	.	.	4r	.	8GL	8GL	8B-XL	.	.
+4r	4r	8GnL	8A#XL	.	.	.	.	.	.	4r	.	8GL	8GL	8B-L	.	.
 .	.	.	.	.	.	.	.	5ee-X	.	.	.	.	.	.	.	.
 .	.	8F#XJ	8BJ	.	.	.	.	.	.	.	.	8F#XJ)	8F#XJ)	8c-XJ)	.	.
-=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
-4BBB	(4.D	4G#X	4A#X	1r	1r	.	1r	6dd	1r	4BB	1r	(2.A-X	(2.A-X	(2.An	1r	1r
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4BB	(4.D	4G#X	4An	1r	1r	.	1r	6dd	1r	4BB	1r	(2.A-X	(2.A-X	(2.A	1r	1r
 .	.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.
-4AA-X	.	4r	4r	.	.	.	.	.	.	4A-X	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	6b	.	.	.	.	.	.	.	.
+4A-X	.	4r	4r	.	.	.	.	.	.	4A-X	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6bX	.	.	.	.	.	.	.	.
 .	8E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4BBB	4D)	4r	4r	.	.	.	.	6fn	.	4BB	.	.	.	.	.	.
+4BB	4D)	4r	4r	.	.	.	.	6f	.	4BB	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.
-4FFF	4r	8G#XL	8A#L	.	.	.	.	.	.	4FF	.	8A-L	8A-L	8AL	.	.
+!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4FF	4r	8G#XL	8AL	.	.	.	.	.	.	4FF	.	8A-L	8A-L	8AL	.	.
 .	.	.	.	.	.	.	.	6d	.	.	.	.	.	.	.	.
-.	.	8GnJ	8A#XJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-XJ)	.	.
-=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
-*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
-2.GG-X	4AA^ 4En	4F#X^	4Bn	4r	4x	p	4E#X^ 4F	4c#X	1.r	2.GG-X	1.r	4F#X	4F#X	4E#X	1.r	1.r
-.	4BB~	4E#X~	4r	4A~	4r	.	4r	4r	.	.	.	4r	4r	4r	.	.
-.	4D~	4F##X~	4r	4c#X~	4r	.	4r	4r	.	.	.	2r	2r	2r	.	.
-2.FF	4E~	4A#X~	4r	4d~	4r	.	4r	4r	.	2.FF	.	.	.	.	.	.
-.	4Fn~	4B~	4r	4c#~	4r	.	4r	4r	.	.	.	4r	4r	4r	.	.
-!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	4E^	4F#X^	4Gn	4r	4x	sf	4E#^ 4F	4Gn	.	.	.	4r	4r	4r	.	.
-=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
-2.EE	4D#X~	4An~	1.r	2r	4r	.	2r	2r	1.r	2.EE	1.r	1.r	1.r	1.r	1.r	1.r
-.	4Dn~	4G#X~	.	.	4r	.	.	.	.	.	.	.	.	.	.	.
-.	4C#X~	4Gn~	.	4r	4r	.	4r	4r	.	.	.	.	.	.	.	.
-2.EE-X	4Cn~	4Fn~	.	4r	4r	.	4r	4r	.	2.EE-X	.	.	.	.	.	.
-.	4D-X^	4G#X^	.	4B-X^	4x	sf	4C#X^ 4G#X	4B-X^	.	.	.	.	.	.	.	.
-.	4E-X	4A	.	4d-X	4r	.	4r	4r	.	.	.	.	.	.	.	.
-=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-2.DD	4G-X	4Bn	2r	4f	4r	.	2r	2r	2.DD	2.DD	1.r	1.r	1.r	1.r	1.r	1.r
-.	4A-X	4d	.	4g-X	4r	.	.	.	.	.	.	.	.	.	.	.
-.	4An	4e-X	4r	4f	4r	.	4r	4r	.	.	.	.	.	.	.	.
-2.DD-X	4G#X^	4B-X^	4Bn^	2.r	4x	sf	4A-X^ 4B-X	4c-X^	2.DD-X	2.r	.	.	.	.	.	.
-.	4Gn	4d-X	4d#X	.	4r	.	4r	4r	.	.	.	.	.	.	.	.
-.	4F#X	4c	4e#X	.	4r	.	4r	4r	.	.	.	.	.	.	.	.
-=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-2.CC	4Fn	4c-X	4f#X	4r	4r	.	4r	4r	2.CC	1.r	1.r	1.r	1.r	1.r	1.r	1.r
-.	4E	4B-X	4g#X	4r	4r	.	4r	4r	.	.	.	.	.	.	.	.
-.	4F^	4cn^	4dn^	4dn^	4x	sf	4Fn^ 4cn	4dn^	.	.	.	.	.	.	.	.
-2.BBB	4Gn	4d-X	4fn	4f	2.r	.	2.r	2.r	2.BBB	.	.	.	.	.	.	.
-.	4B-X	4e-X	4a	4a	.	.	.	.	.	.	.	.	.	.	.	.
-.	4c	4g-X	4b-X	4b-X	.	.	.	.	.	.	.	.	.	.	.	.
-=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
-2.BBB-X	4d-X	4gn	4a	4a	4r	.	4r	4r	2.BBB-X	1.r	1.r	1.r	1.r	1.r	1.r	1.r
-.	4c^	4dn^	4dn^	4dn^	4x	sf	4c^ 4d	4dn^ 4e-X	.	.	.	.	.	.	.	.
-.	4Bn	4f	4f	4f	2.r	.	4r	4r	.	.	.	.	.	.	.	.
-2.AAA	4B-X	4en	4a	4a	.	.	2.r	2.r	2.AAA	.	.	.	.	.	.	.
-.	4A	4e-X	4b-X	4b-X	.	.	.	.	.	.	.	.	.	.	.	.
-.	4A-X	4d-X	4cc	4cc	4r	.	.	.	.	.	.	.	.	.	.	.
+.	.	8GnJ	8A#XJ	.	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-J)	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!LO:TX:a:t=arco	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=h. = h	!LO:TX:a:t=64	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!LO:TX:b:t=64	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=h. = h
+2G-X	6AA^ 6En	6F#X^	6Bn	6r	6Re\	p	6F#X	6E^	6c#X	3r	1r	2GG-X	1r	4F#X	4F#X	4E	1r	1r
+.	6BB~	6E#X~	6r~	6A~	6r	.	6r	6r	6r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	4r	4r	.	.
+.	6D~	6F##X~	6r~	6c#X~	6r	.	6r	6r	6r	6r	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=2d	!	!	!	!	!	!	!	!	!
+2F	6E~	6A#X~	6r~	6d~	6r	.	6r	6r	3.r	6r	.	2FF	.	2r	2r	2r	.	.
+.	6Fn~	6B~	6r~	6c#~	6r	.	6r	6r	.	6r	.	.	.	.	.	.	.	.
+!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	6E^	6F#X^	6Gn^	6r	6Re\	sf	6F#	6E^	.	6G^	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2E	6D#X~	6An~	6Bn~	3.r	3.r	.	3.r	3.r	1r	3.r	1r	2EE	1r	1r	1r	1r	1r	1r
+.	6Dn~	6G#X~	6c#X~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	6C#X~	6Gn~	6d~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2E-X	6Cn~^	6Fn^	6en~	6r	6r	.	6r	6r	.	6r	.	2EE-X	.	.	.	.	.	.
+.	6D-X	6G#X^	6r	6B-X^	6Re\	sf	6G#X^	6C#X	.	6B-^	.	.	.	.	.	.	.	.
+.	6E-X	6A	6r	6d-X	6r	.	6r	6r	.	6r	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2D	6G-X	6Bn	3.r	6f	3.r	.	3.r	3r	3.r	3r	2D	2DD	1r	1r	1r	1r	1r	1r
+.	6A-X	6d	.	6g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	6An	6e-X	.	6f	.	.	.	6r	.	6r	.	.	.	.	.	.	.	.
+2D-X	6G#X^	6B-X^	6Bn^	3.r	6Re\	sf	6B-	6A-X^	6c-X	6c-^	2D-X	2r	.	.	.	.	.	.
+.	6Gn	6d-X	6d#X	.	6r	.	6r	6r	6r	6r	.	.	.	.	.	.	.	.
+.	6F#X	6c	6e#X	.	6r	.	6r	6r	6r	6r	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2C	6Fn	6c-X	6f#X	6r	6r	.	6r	3r	6r	6r	2C	1r	1r	1r	1r	1r	1r	1r
+.	6E	6B-X	6g#X	6r	6r	.	6r	.	6r	6r	.	.	.	.	.	.	.	.
+.	6F^	6cn^	6dn^	6dn^	6Re\	sf	6c	6F^	6d	6d^	.	.	.	.	.	.	.	.
+2BB	6Gn	6d-X	6fn	6f	3.r	.	3r	3.r	3r	3.r	2BB	.	.	.	.	.	.	.
+.	6B-X	6e-X	6a	6a	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	6c	6g-X	6b-X	6b-X	.	.	6r	.	6r	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2BB-X	6d-X	6gn	6a	6a	6r	.	6r	6r	6r	6r	2BB-X	1r	1r	1r	1r	1r	1r	1r
+.	6c^	6dn^	6e-X^	6e-X^	6Re\	sf	6d^	6c	6e-X^	6d	.	.	.	.	.	.	.	.
+.	6Bn	6f	6g	6g	6r	.	6r	6r	6r	6r	.	.	.	.	.	.	.	.
+2AA	6B-X	6en	6a	6a	3.r	.	3r	3.r	3r	3.r	2AA	.	.	.	.	.	.	.
+.	6A	6e-X	6b-X	6b-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	6A-X	6d-X	6cc	6cc	.	.	6r	.	6r	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10)]s11[(s12,s13,s14,s15,s16)]
-!!!CDT: 1892/03/10-1955/11/27
-!!!CBL: Le Havre, France
-!!!CDL: Paris, France
-!!!CNT: Swiss, French
-!!!AGN: Orchestral; Symphonic
-!!!MCN: Koussevitzky, Serge
-!!!MDT: 1924/05/08
-!!!MGN: Orchestre de l'Opéra
-!!!MLC: Paris, France
-!!!MPD: 1924
+!!!system-decoration: [(s1,s2,s3[(s4,s5)]s6,s7,s8)][(s9,s10)]s11[([(s12,s13)]s14,s15,s16)]
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
+!!!MCN:
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
 !!!MPN:
-!!!ODT: 1923
-!!!PDT: 1924
-!!!excerpt-start-measure: 51
-!!!excerpt-end-measure: 66
-!!!excerpt-start-time: 1:21
-!!!excerpt-end-time: 1:44
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

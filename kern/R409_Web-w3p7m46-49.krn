@@ -1,10 +1,9 @@
-!!!COM: Webern, Anton (Friedrich Wilhelm von)
-!!!OTL: Langsamer Satz (Slow Movement) for String Quartet
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [R409_Web-w3p7m46-49]
 !!!OMV:
-!!!example: 409
-!!!work: Web-3
+!!!example:
+!!!work:
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -13,79 +12,127 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-*MM64	*	*MM64	*	*MM64	*	*MM64	*
-=46	=46	=46	=46	=46	=46	=46	=46
-4C#X	.	2e	.	2g	.	(12bbL	.
+=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*tremolo	*	*	*	*	*
+*	*	*	*	*tremolo	*	*	*
+!	!	!	!	!	!	!LO:TX:a:i:t=belebend	!
+4C#X	.	32eLLL	.	32gLLL	.	(12bbL	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
 .	.	.	.	.	.	12aa	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
 .	.	.	.	.	.	12ggJ)	.
-(12c#XL	.	.	.	.	.	4b	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
+(12c#XL	.	32e	.	32g	.	4b	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
 12cn	.	.	.	.	.	.	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
+.	.	32e	.	32g	.	.	.
 12BJ)	.	.	.	.	.	.	.
-4D	.	2f	.	2a-X	.	(12cccL	.
+.	.	32e	.	32g	.	.	.
+.	.	32eJJJ	.	32gJJJ	.	.	.
+4D	.	32fLLL	.	32a-XLLL	.	(12cccL	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
 .	.	.	.	.	.	12bb-X	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
 .	.	.	.	.	.	12aa-XJ)	.
-(12dL	.	.	.	.	.	4cc	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
+(12dL	.	32f	.	32a-X	.	4cc	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
 12d-X	.	.	.	.	.	.	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32f	.	32a-X	.	.	.
 12cJ)	.	.	.	.	.	.	.
-=47	=47	=47	=47	=47	=47	=47	=47
-4E-X	.	2f#X	.	2an	.	(12ccc#XL	.
+.	.	32f	.	32a-X	.	.	.
+.	.	32fJJJ	.	32a-XJJJ	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4E-X	.	32f#XLLL	.	32anLLL	.	(12ccc#XL	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
 .	.	.	.	.	.	12bbn	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
 .	.	.	.	.	.	12aanJ)	.
-(12e-XL	.	.	.	.	.	4cc#X	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
+(12e-XL	.	32f#X	.	32an	.	4cc#X	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
 12d	.	.	.	.	.	.	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#X	.	32an	.	.	.
 12d-XJ)	.	.	.	.	.	.	.
+.	.	32f#X	.	32an	.	.	.
+.	.	32f#XJJJ	.	32anJJJ	.	.	.
+*	*	*	*	*Xtremolo	*	*	*
+*	*	*Xtremolo	*	*	*	*	*
 (6C	.	(12AL	.	(12f#XL	.	(12dd#XL	.
 .	.	12A#X	.	12e#X	.	12cc##X	.
 6BB	.	12BJ)	.	12f#J)	.	12dd#J)	.
 .	.	(12cL	.	(12g#XL	.	(12eeL	.
 6BB-X)	.	12B	.	12f##X	.	12dd#	.
 .	.	12cJ)	.	12g#J)	.	12eeJ)	.
-=48	=48	=48	=48	=48	=48	=48	=48
-(6AA	.	(12AnL	.	(12aL	.	(12ffL	.
-.	.	12G#X	.	12g#X	.	12ee	.
-6AA-X	.	12AJ)	.	12aJ)	.	12ffJ)	.
-.	.	(12BL	.	(12bL	.	(12ggL	.
-6GG)	.	12A#X	.	12a#X	.	12ff#X	.
-.	.	12BJ)	.	12bJ)	.	12ggJ)	.
-(6GG-X	.	(18dL	.	(18ddL	.	(18bb-XL	.
-.	.	18c#X	.	18cc#X	.	18aa	.
-.	.	18d)	.	18dd)	.	18bb-)	.
-6FF	.	(18fn	.	(18ff	.	(18ddd-X	.
-.	.	18e	.	18ee	.	18ccc	.
-.	.	18f)	.	18ff)	.	18ddd-)	.
-6EE)	.	(18g#X	.	(18gg#X	.	(18eee	.
-.	.	18f##X	.	18ff##X	.	18ddd#X	.
-.	.	18g#J)	.	18gg#J)	.	18eeeJ)	.
+=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!LO:TX:a:i:t=steigernd	!
+(6AA	.	(12d-XL	.	(12aL	.	(12ffL	.
+.	.	12c	.	12g#X	.	12ee	.
+6AA-X	.	12d-J)	.	12aJ)	.	12ffJ)	.
+.	.	(12e-XL	.	(12bL	.	(12ggL	.
+6GG)	.	12dn	.	12a#X	.	12ff#X	.
+.	.	12e-J)	.	12bJ)	.	12ggJ)	.
+(6GG-X	.	(18g-XL	.	(18ddL	.	(18bb-XL	.
+.	.	18f	.	18cc#X	.	18aa	.
+.	.	18g-J)	.	18ddJ)	.	18bb-J)	.
+6FF	.	(18aL	.	(18ffL	.	(18ddd-XL	.
+.	.	18g#X	.	18ee	.	18ccc	.
+.	.	18aJ)	.	18ffJ)	.	18ddd-J)	.
+6EE)	.	(18ccL	.	(18gg#XL	.	(18eeeL	.
+.	.	18b	.	18ff##X	.	18ddd#X	.
+.	.	18ccJ)	.	18gg#J)	.	18eeeJ)	.
 *clefG2	*	*clefG2	*	*	*	*	*
-=49	=49	=49	=49	=49	=49	=49	=49
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!LO:TX:a:B:t=sehr breit und ausdrucksvoll	!
 12g#X^L	fff	12gg#X^L	fff	12gg#X^L	fff	12ggg#X^L	fff
 12f#X^	.	12ff#X^	.	12ff#X^	.	12fff#X^	.
 12e^J	.	12ee^J	.	12ee^J	.	12eee^J	.
-(4.cc	.	(4.cccn	.	(4.cccn	.	(4.cccc	.
+(4.cc	.	(4.ccc	.	(4.ccc	.	(4.cccc	.
 16bLL	.	16bbLL	.	16bbLL	.	16bbbLL	.
-16ccJ)	.	16cccJ)	.	16cccJ)	.	16ccccJ)	.
-12g#^	.	12gg#^	.	12gg#^	.	12ggg#^	.
+16ccJJ)	.	16cccJJ)	.	16cccJJ)	.	16ccccJJ)	.
+12g#^L	.	12gg#^L	.	12gg#^L	.	12ggg#^L	.
 12f#^	.	12ff#^	.	12ff#^	.	12fff#^	.
 12e^J	.	12ee^J	.	12ee^J	.	12eee^J	.
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!CDT: 1883/12/03-1945/09/15
-!!!CBL: Vienna, Austria
-!!!CDL: Mittersill, Austria
-!!!CNT: Austrian
-!!!AGN: Instrumental; Chamber
+!!!CDT:
+!!!CBL:
+!!!CDL:
+!!!CNT:
+!!!AGN:
 !!!MCN:
-!!!MDT: 1962/05/27
-!!!MGN: University of Washington String Quartet
-!!!MLC: Seattle, Washington, United States of America
-!!!MPD: 1962
-!!!MPN: Ferrin, Richard; Heinitz, Eva; Sokol, Vilem; Zetlin, Emanuel
-!!!ODT: 1905
-!!!PDT: 1962
-!!!excerpt-start-measure: 46
-!!!excerpt-end-measure: 49
-!!!excerpt-start-time: 4:14
-!!!excerpt-end-time: 4:29
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!MDT:
+!!!MGN:
+!!!MLC:
+!!!MPD:
+!!!MPN:
+!!!ODT:
+!!!PDT:
+!!!excerpt-start-measure:
+!!!excerpt-end-measure:
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
