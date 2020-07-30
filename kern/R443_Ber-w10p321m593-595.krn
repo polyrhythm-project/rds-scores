@@ -1,84 +1,85 @@
-!!!COM: Alban (Maria Johannes) Berg
-!!!OTL: 443_Ber-10/321/593-595
-!!!OMV:
-!!!example:
-!!!work:
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**kern	**text	**text	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part5	*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff9	*staff9	*staff8	*staff8	*staff8	*staff7	*	*staff6	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Violoncello	*	*I"Viola mit Dämpfer	*	*I"Violin II mit Dämpfer	*	*I"Violin I mit Dämpfer	*	*I"Wozzeck	*	*	*I"Andres	*	*	*I"Tuba in F	*	*I"Guitar	*I"Accordion	*	*	*I"Clarinet in C	*	*I"Fiddle II	*	*I"Fiddle I	*
-*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B. Solo	*	*	*I'Tr. Solo	*	*	*I'Tba.	*	*I'A. Gtr.	*I'Pno.	*	*	*I'Cl.	*	*I'Vln.	*	*I'Vln.	*
-*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*	*clefG2	*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-!	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:a:B:t=593	!
-!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!
-[2.BB-X	p	(2c#X	<	(8fnL	<	(4.ddn	< [ >	8A-X	 	 	2.r	.	.	2.r	.	4gn	2Gn	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
-.	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	.	.	.	.	8ddn	.	8e-X	.	8an	.	.	.
-.	.	.	.	(2g	[	.	.	8GnL	es	it	.	.	.	.	.	4b-X 4ddn	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
-.	.	.	.	.	.	4bn	.	8G	müßt	was	.	.	.	.	.	.	.	(8ee-XJ	.	(8f-XJ	.	(8b-XJ	.	.	.
-.	.	[4dn	[ >	.	.	.	.	8Bn	spä-	la-	.	.	.	.	.	4b- 4dd	4r	4ddn)	>	4e-X)	<	4a-X)	<	.	.
-.	.	.	.	.	.	8cc#X	] <	8c#XJ	-ter	-ter	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=e.v.	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=(	!	!	!	!	!	!	!
-!LO:TX:a:i:t=sempre espr.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=begleitend	!	!	!	!LO:TX:a:i:t=hervor	!	!	!
-8BB-L]	.	2d])	] >	2fn)	>	2bn)	[ >	4Bn	sein!	still.	2r	.	.	2Cn	mp	4cn	4ddn	4ee-X 4ggn	]	(4f#X	mf [	(4ddn	f [	2.r	.
-(8AAn	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8EE-X	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	4gn 4ee-X	8ccnL	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
-[8DDnJ	[	.	.	.	.	.	.	8Gn	Die	How	.	.	.	.	.	.	8b-X	8ee-' 8gg	.	8dn	.	8b-X	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
-!LO:TX:a:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!	!	!	!LO:TX:a:t=ebenso	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2.DD]	>	([2.e-X,	]	([2.g-X,	]	([2.b-X,	p ]	8G-XL	Zeit	slow-	4r	.	.	4C#X	.	4eee-X	8ggnL	8gn	8ee-' 8gg	.	8Bn)	<	8gn)	<	.	.
-.	.	.	.	.	.	.	.	8E-X	wird	-ly	.	.	.	.	.	.	8aa-XJ	8f-XJ	8ee-'J 8gg	.	(8A-XJ	[	(8f-XJ	[	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=)	!	!	!	!	!	!LO:TX:b:B:t=594	!
-.	.	.	.	.	.	.	.	8Dn	Ei-	time	4r	.	.	2.Dn	.	4aan 4dddn 4gggn	4e-X	8ddn 8ggn	.	4Gn')	.	4e-X')	.	8r	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
-.	.	.	.	.	.	.	.	8AAnJ	-nem	does	.	.	.	.	.	.	.	8r	.	.	.	.	.	8aanL	mf
-.	.	.	.	.	.	.	.	4Gn	lang	pass,	8r	.	.	.	.	4ff#X 4aan 4dddn	2e-	4r	.	2G~	.	2e-~	.	8dddn	.
-.	.	.	.	.	.	.	.	.	.	.	8ggn	Was	Why	.	.	.	.	.	.	.	.	.	.	8gggnJ	.
-8DD)	]	8e-L]	.	8g-L]	<	8b-L]	<	8B-XL	bei	at	8ddnL	sit-	sit	.	.	4ff# 4aa 4ddd	.	4r	.	.	.	.	.	4ddd	.
-(4BB-X	<	8dnJ)	<	8fnJ)	.	8bn)	.	8Bn	der	these	8an	-zest	like	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=f führend	!	!	!	!LO:TX:b:i:t=wieder	!	!	!
-.	.	(8dL	.	(8fL	.	(8bn	.	8B	Kurz-	pas-	8b-X	Du	that	8DDn	.	4dn	2Dn	(8b-XL	.	(8cnL	.	(8dnL	.	8r	.
-8AAn	[	8c#XJ)	[	8f#XJ)	[	8ddnJ)	[	8dnJ	-weil	-times	8anJ	da	so	8r	.	.	.	8an)	.	8Bn)	.	8c#X)	p	8aanL	p
-8EE-XL	>	(4.c#X	<	(4.f#X	<	(4.ddn	<	4r	.	.	8e-XL	vor	near	4r	.	4aan 4dddn 4fff#X	.	(8e-X	.	(8En	.	(8B-X	.	8dddn	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:B:t=595	!
-8DDn)	]	.	.	.	.	.	.	.	.	.	8dn	der	the	.	.	.	.	8dn)	.	8Fn)	.	8An)	.	8gggnJ	.
-(8BB-X	<	.	.	.	.	.	.	4r	.	.	(8b-X	Tür?	door?	4r	.	4aa 4ddd 4fff#	4r	(8b-X	.	(8cn	.	(8dn	.	4ddd	.
-[8AAnJ	.	8dn)	[ >	8gn)	[ >	(4bn	[ >	.	.	.	8anJ)	.	.	.	.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
-2.AA_)	] > ]	([4d	.	(4g	.	.	.	8BnL	Ich	I	4r	.	.	4r	.	4Gn	2.GGn 2.Gn	(4e-XT	.	4Gnt	.	4B-Xt	.	8aanL	.
-!	!	!	!	!	!	!LO:TX:a:t=)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:a:t=(	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	.	.	8cc#X))	] < [ > ]	8c#X	sitz'	sit	.	.	.	.	.	.	.	.	.	.	.	.	.	8dddn	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qqfn/	.	8qqAn/	.	8qqcn/	.	.	.
-.	.	8dL]	] <	8fnL	] <	(8bnL	<	(8Bn^	gut	well	2r	.	.	8r	.	4bb-X 4dddn 4gggn	.	2dn)	.	2G	.	2B-X	.	8gggn	.
-.	.	8e-X)	.	8g-X)	.	8b-X)	.	8B-XJ)	.	.	.	.	.	(8B-XL	pp	.	.	.	.	.	.	.	.	8dddnJ	.
-.	.	(8e-	.	(8g-	.	(8b-	.	4B-X	da.	here.	.	.	.	8Dn	.	4bb- 4ddd 4ggg	.	.	.	.	.	.	.	4aa	.
-.	.	8d-XJ)	[	8fnJ)	[	8ddnJ)	[	.	.	.	.	.	.	8B-J)	.	.	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2,s3{(s4,s5)}s6,s7,s8,s9,s10,s11,s12,s13
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Wozzeck, Opera in Three Acts
+!!!OMV: Act I, Scene 3
+!!!example: 443
+!!!work: Ber-10
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff8	*staff7	*	*staff6	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Baritone Solo	*I"Tenor Solo	*I"Tuba in F	*	*I"Guitar	*I"Accordion	*	*	*I"Clarinet in C	*	*I"Fiddle	*	*I"Fiddle	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B. Solo	*I'Tr. Solo	*I'Tba.	*	*I'A. Gtr.	*I'Kbd.	*	*	*I'Cl.	*	*I'Vln.	*	*I'Vln.	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*clefF4	*	*clefG2	*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*MM87	*	*MM87	*	*MM87	*	*MM87	*	*MM87	*MM87	*MM87	*	*MM87	*MM87	*MM87	*	*MM87	*	*MM87	*	*MM87	*
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!	!	!	!	!	!	!	!
+[2.BB-X	p	(2c#X	<	(8fnL	<	(4.ddn	< >	8A-X	2.r	2.r	.	4Gn	2Gn	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
+.	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	8ddnJ	.	8e-XJ	.	8anJ	.	.	.
+.	.	.	.	(2g	[	.	.	8GnL	.	.	.	4B-X 4dn	.	8b-XL)	.	8c-XL)	.	8a-XL)	.	.	.
+.	.	.	.	.	.	4bn	]	8GJ	.	.	.	.	.	(8ee-J	.	(8f-XJ	.	(8b-XJ	.	.	.
+.	.	[4dn	[ > ]]	.	.	.	.	8BnL	.	.	.	4B- 4dn	4r	4ddn)	>	4e-X)	<[	4a-X)	<[	.	.
+.	.	.	.	.	.	8cc#X	] < [[	8c#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+8BB-L]	.	2d])	>	2fn)	>	2bn)	>	4Bn	2.r	2Cn	mp	4Cn	2ryy	(4ddn	4ee-X 4gg	]	(4f#X	mf	(4ddn	f	2.r	.
+(8AAnJ	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EE-XL	.	.	.	.	.	.	.	8r	.	.	.	4Gn 4e-X	.	8ccnL	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
+[8DDnJ	[	.	.	.	.	.	.	8Gn	.	.	.	.	.	8b-XJ	8ee-'J 8gg	.	8dnJ	.	8b-XJ	.	.	.
+4DD_	>	([4e-X	]	([4g-X	]	([4b-X	] p	8G-XL	.	4C#X	.	4ee-X	8gnL	8gnL)	8ee-'L 8gg	.	8BnL)	<	8gnL)	<	.	.
+.	.	.	.	.	.	.	.	8E-XJ	.	.	.	.	8a-XJ	(8f-XJ	8ee-'J 8gg	.	(8A-XJ	.	(8f-XJ	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!
+2DD]	.	2e-_	.	2g-_	.	2b-_	.	8DnL	4r	2.Dn	.	4an 4ddn 4ggn	4e-X)	8ddn 8ggn	.	4G')	[	4e-X')	[	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	.	.	.	.	8AAnJ	.	.	.	.	.	8r	.	.	.	.	.	8aan	mf
+.	.	.	.	.	.	.	.	4Gn	8r	.	.	4f#X 4an 4ddn	2e-	4r	.	2G~	.	2e-~	.	8dddnL	.
+.	.	.	.	.	.	.	.	.	8ggn	.	.	.	.	.	.	.	.	.	.	8gggnJ	.
+8DDL)	]	8e-L]	.	8g-L]	<	8b-L]	<	8B-XL	8ddnL	.	.	4f# 4a 4dd	.	4r	.	.	.	.	.	4ddd	.
+([8BB-XJ	.	8dnJ)	<	8fnJ)	.	8bnJ)	.	8BnJ	8anJ	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+8BB-L]	<	(8dnL	.	(8fnL	.	(8bnL	.	8BnL	8b-XL	8DDn	.	4Dn	2Dn	(8b-XL	f	(8cnL	.	(8dnL	p	8r	.
+8AAnJ	[	8c#XJ)	.	8f#XJ)	.	8ddnJ)	[	8dnJ	8anJ	8r	.	.	.	8anJ)	.	8BJ)	.	8c#XJ)	.	8aan	p
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=595	!	!	!	!	!	!	!	!	!	!	!	!
+8EE-XL	>	(4.c#X	[ <	(4.f#X	[ <	(4.ddn	<	4r	8e-XL	4r	.	4an 4ddn 4ff#X	.	(8e-XL	.	(8EnL	.	(8B-XL	.	8dddnL	.
+8DDnJ)	]	.	.	.	.	.	.	.	8dnJ	.	.	.	.	8dnJ)	.	8FnJ)	.	8AnJ)	.	8gggnJ	.
+(8BB-XL	<	.	.	.	.	.	.	4r	(8b-XL	4r	.	4a 4dd 4ff#	4r	(8b-XL	.	(8cnL	.	(8dnL	.	4ddd	.
+[8AAnJ	.	8dn)	[ >	8gn)	[ >	([8bn	[ >	.	8anJ)	.	.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+2.AA])	[ > ]]	([4d	.	(4gn	.	8bnL]	.	8BnL	2.r	4r	.	4GGn	2.GGn 2.Gn	(4e-XT	.	4GnT	.	4B-XT	.	8aanL	.
+.	.	.	.	.	.	8cc#XJ))	]	8c#XJ	.	.	.	.	.	.	.	.	.	.	.	8dddnJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*^	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qqfn/	.	.	8qqAn/	.	.	8qqcn/	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+.	.	8dL]	] <	8fnL	] <	(8bnL	<	(8B^L	.	8r	.	4b-X 4ddn 4ggn	.	2dn)	.	2G	.	2B-X	.	8gggnL	.
+.	.	8e-XJ)	.	8g-XJ)	.	8b-XJ)	.	8B-XJ)	.	(8B-X	pp	.	.	.	.	.	.	.	.	8dddnJ	.
+.	.	(8e-L	.	(8g-L	.	(8b-L	.	4B-X	.	8DnL	.	4b- 4dd 4gg	.	.	.	.	.	.	.	4aa	.
+.	.	8d-XJ)	[	8fnJ)	[	8ddnJ)	[	.	.	8B-J)	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3{(s4,s5)}s6,s7[(s8,s9)][(s10,s11,s12,s13)]
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Kleiber, Erich
+!!!MDT: 1925/12/14
+!!!MGN: Staatsoper Orchestra and Chorus
+!!!MLC: Berlin, Germany
+!!!MPD: 1925
+!!!MPN: Hermann, Uhde; Steber, Eleanor
+!!!ODT: 1922
+!!!PDT: 1923
+!!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 2:18
+!!!excerpt-end-time: 2:24
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27

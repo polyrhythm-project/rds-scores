@@ -1,25 +1,95 @@
-!!!COM:
-!!!OTL:
-!!!OMV:
-!!!example:
-!!!work:
-
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!OMV: Cuadro IV: Los Pirineos (The Pyrenees)
+!!!example: 315
+!!!work: Fal-8
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part9	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Treble Solo	*	*I"Harp	*	*	*I"Harpsichord	*I"Timpani	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Clarinet in Bb	*	*I"Cor Anglais	*	*I"Oboe	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tr. Solo	*	*I'Hp.	*	*	*I'Hpsd.	*I'Timp.	*	*I'Tpt.	*	*I'Hn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*	*k[]	*	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*MM76	*	*MM76	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*
+=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165
+8AA-X'L	f	8AA-X'L	f	16c'LL	f	16E-X'LL 16c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	8AA-X' 8E-X	8c'	f	24AA-XLL 24E-X	8AA-X'	mf	4.r	.	[4.c^	fp	8c'	mf	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-X'J 16c	.	16E-'J 16c	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'	p	8AA-'	p	8E-' 8c	p	8E-' 8c	p	8r	.	8B-' 8g-	] p	.	.	8r	8r	.	24E-'L	8r	.	.	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'J	.	8AA-'J	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	.	.	8r	8r	.	24E-'L	8AA-	p	.	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'JJ 16c	.	16E-'JJ 16c	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166
+8AA-X'L	.	8AA-X'L	.	8E-X'L 8c	.	8E-X'L 8c	.	16B-X' 16g-X	p	8B-X'L 8g-X	.	4cc	f	4.r	4.r	.	24E-X'LL	8r	.	4.r	.	4.c_	.	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'	.	8AA-'	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	.	.	.	.	.	24E-'L	8AA-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'J 16c	.	16E-'J 16c	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'J	.	8AA-'J	.	8E-'J 8c	.	8E-'J 8c	.	8r	.	8B-'J 8g-	.	8cc	.	.	.	.	24E-'L	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167
+8AA-X'L	.	8AA-X'L	.	16E-X'LL 16c	.	16E-X'LL 16c	.	16B-X' 16g-X	.	16B-X'LL 16g-X	.	4.cc	.	4.r	4.r	.	24AA-XLL 24E-X	8AA-X	.	4.r	.	4.c_	.	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'J 16c	.	16E-'J 16c	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'	.	8AA-'	.	8E-' 8c	.	8E-' 8c	.	8r	.	8B-' 8g-	.	.	.	.	.	.	24E-'L	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'J	.	8AA-'J	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	.	.	.	.	.	24E-'L	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'JJ 16c	.	16E-'JJ 16c	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168
+8AA-X'L	.	8AA-X'L	.	8E-X'L 8c	.	8E-X'L 8c	.	8r	.	8B-X'L 8g-X	.	8ccL	.	4.r	4.r	.	24E-X'LL	8r	.	8r	.	4c]	.	4.r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'	.	8AA-'	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	8cc	.	.	.	.	24E-'L	8AA-X	.	8r	.	.	.	.	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'J 16c	.	16E-'J 16c	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Dn'J 8An	sf	8Dn'J 8An	sf	8cJ	sf	8cJ	sf	8en 8cc 8een	sf	8g-J	sf	8ccJ	.	.	.	.	8D'^J 8An 8c	8r	.	8dd'^	f	8D'^ 8g-X	f	.	.	8A'^	f	8e'^ 8cc	f	8ccc'^	f
+=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169
+8AA-X'L	p	8AA-X'L	p	16E-X'LL 16c	p	16E-X'LL 16c	p	4.r	.	16B-X'LL 16g-X	p	4.cc	.	4.r	4.r	.	24AA-X~LL 24E-X	8AA-X	.	4.r	.	[4.c~	p	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'J 16c	.	16E-'J 16c	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'	.	8AA-'	.	8E-' 8c	.	8E-' 8c	.	.	.	8B-' 8g-	.	.	.	.	.	.	24E-'L	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA-'J	.	8AA-'J	.	16E-'L 16c	.	16E-'L 16c	.	.	.	16B-'L 16g-	.	.	.	.	.	.	24E-'L	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-'JJ 16c	.	16E-'JJ 16c	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7)]{(s8,s9)}{(s10,s11)}s12[(s13,s14,s15,s16,s17,s18)]
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage; Theatrical
+!!!MCN: Falla, Manuel de
+!!!MDT: 1923/03/23
+!!!MGN: Orquesta Bétia de Cámara
+!!!MLC: Seville, Spain
+!!!MPD: 1923
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!ODT: 1923
+!!!PDT: 1924
+!!!excerpt-start-measure: 165
+!!!excerpt-end-measure: 170
+!!!excerpt-start-time: 4:13
+!!!excerpt-end-time: 4:18
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
