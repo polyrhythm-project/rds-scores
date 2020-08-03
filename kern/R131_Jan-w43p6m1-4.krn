@@ -1,58 +1,36 @@
-!!!COM: Leoš [Leo Eugen] Janáček
-!!!OTL: [R131_Jan-w43p6m1-4]
-!!!OMV:
-!!!example:
-!!!work:
-**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
-*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
-*I"BASSI I	*	*	*	*I"TENORI I	*	*	*
-*I'B.	*	*	*	*I'T.	*	*	*
-*clefF4	*	*	*	*clefGv2	*	*	*
-*	*	*	*	*Trd0c0	*	*	*
-*k[]	*	*	*	*k[]	*	*	*
-*C:	*	*	*	*C:	*	*	*
-*M3/4	*	*	*	*M3/4	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Baryton solo	!	!	!	!LO:TX:t=[quarter]=160	!	!	!
-4B-X	Po-	Ir-	f	4r	.	.	.
-4B-	-tul-	-rend	.	6E-X 6A-X	Ší-	Seht,	pp
-.	.	.	.	6G	-le-	ein	.
-4B-	-ný	um-	.	.	.	.	.
-.	.	.	.	6G	-nec!	Narr!	.
-=2	=2	=2	=2	=2	=2	=2	=2
-4.B-X	ší-	-her,	.	4%3r	.	.	.
-8B-	-le-	der	.	.	.	.	.
-4B-	-nec	Narr,	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3
-8%3B-X	hle-	such-	.	4r	.	.	.
-.	.	.	.	6c 6f	Ší-	Seht,	.
-8%3B-	-dal	-te	.	.	.	.	.
-.	.	.	.	6e-X	-le-	ein	.
-.	.	.	.	6e-	-nec!	Narr!	.
-=4	=4	=4	=4	=4	=4	=4	=4
-8%3B-X	zla-	er	.	4%3r	.	.	.
-8%3B-	-to-	den	.	.	.	.	.
-=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!COM:	Janacek
+!!!OTL:	131_Jan-43/6/1-4
+**kern	**dynam	**kern
+*part3	*part3	*part1
+*staff3	*S	*staff1
+*I"BASSI 1	*	*I"TENORI 1
+*I'B.	*	*I'T.
+*clefF4	*	*clefGv2
+*k[]	*	*k[]
+*C:	*	*C:
+*M3/4	*	*M3/4
+=1	=1	=1
+4B-X	f	4r
+4B-	.	6E-X 6A-X
+.	.	6G
+4B-	.	.
+.	.	6G
+=2	=2	=2
+4.B-X	.	2.r
+8B-	.	.
+4B-	.	.
+=3	=3	=3
+8%3B-X	.	4r
+.	.	6c 6f
+8%3B-	.	.
+.	.	6e-X
+.	.	6e-
+=4	=4	=4
+8%3B-X	.	2.r
+8%3B-	.	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08
