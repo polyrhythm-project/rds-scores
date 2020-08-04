@@ -16,7 +16,7 @@
 !	!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!	!	!	!
 *	*	*	*	*	*	*Xtuplet	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
-!	!	!	!	!	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!LO:TX:a:t=1	!
+!	!	!LO:S:a	!	!	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!LO:TX:a:t=1	!
 8r	4r	(4e	Et	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	1r	.
 .	.	.	.	64A	64c	.	64g	.	.
 .	.	.	.	.	.	48gg	.	.	.
