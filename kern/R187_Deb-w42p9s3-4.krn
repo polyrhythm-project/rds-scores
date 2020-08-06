@@ -1,11 +1,8 @@
-!!!COM: (Achille-) Claude Debussy
-!!!OTL: [R187_Deb-w42p9s3-4]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM:	Debussy
+!!!OTL:	187_Deb-42/9/lignes 3 et 4
 **kern	**kern	**dynam
 *part1	*part1	*part1
-*staff2	*staff1	*
+*staff2	*staff1	*S
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefG2	*
@@ -15,105 +12,99 @@
 *8ba	*	*
 =1	=1	=1
 *^	*	*
-!	!	!LO:TX:t=[quarter]=107	!
-!	!	!LO:TX:b:i:t=lointain et raide	!
-8AAA'L	8GG	2r	pp
+8AAA'L	8GGG	2r	.pp
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =2	=2	=2	=2
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =3	=3	=3	=3
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =4	=4	=4	=4
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 *v	*v	*	*
 =5	=5	=5
 *	*8va	*
 *^	*	*
-!	!	!LO:TX:b:i:t=sempre	!
-8AAA'L	8GG	(16aaaKL	.
+8AAA'L	8GGG	(16aaaKL	pp
 .	.	8cccc)	.
 8AAA'J	8r	.	.
-.	.	(16aaaJk	pp
-8AAA'L	8GG	8cccc'L)	.
+.	.	(16aaaJk	.
+8AAA'L	8GGG	8cccc'L)	.
 8AAA'J	8r	8aaa'J	.
 =6	=6	=6	=6
-!	!	!LO:TX:b:i:t=très exactement rythmé	!
-8AAA'L	8GG	(16fffKL	.
-.	.	8aaa)	.
+8AAA'L	8GGG	(16aaaKL	.
+.	.	8cccc)	.
 8AAA'J	8r	.	.
 .	.	(16fffJk	.
-8AAA'L	8GG	8aaa'L)	.
+8AAA'L	8GGG	8aaa'L)	.
 8AAA'J	8r	8fff'J	.
 =7	=7	=7	=7
-8AAA'L	8GG	(16dddKL	.
+8AAA'L	8GGG	(16dddKL	.
 .	.	8fff)	.
 8AAA'J	8r	.	.
 .	.	(16dddJk	.
-8AAA'L	8GG	8fff'L)	.
+8AAA'L	8GGG	8fff'L)	.
 8AAA'J	8r	(16dddL	.
 .	.	16fffJJ	.
 =8	=8	=8	=8
-8AAA'L	8GG	2ddd)	.
+8AAA'L	8GGG	2ddd)	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =9	=9	=9	=9
-8AAA'L	8GG	(16cccKL	.
+!!linebreak:original
+8AAA'L	8GGG	(16cccKL	.
 .	.	8ddd)	.
 8AAA'J	8r	.	.
 .	.	(16cccJk	.
-8AAA'L	8GG	8aa'L)	.
+8AAA'L	8GGG	8aa'L)	.
+8AAA'J	8r	8ccc'J	.
 *v	*v	*	*
+=10	=10	=10
 *	*X8va	*
 *^	*	*
-8AAA'J	8r	8ccc'J	.
-=10	=10	=10	=10
-8AAA'L	8GG	(16aaKL	.
+8AAA'L	8GGG	(16aaKL	.
 .	.	8bb-)	.
 8AAA'J	8r	.	.
 .	.	(16aaJk	.
-8AAA'L	8GG	4ff~)	.
+8AAA'L	8GGG	4ff~)	.
 8AAA'J	8r	.	.
 =11	=11	=11	=11
-8AAA'L	8GG	(16ffKL	.
+8AAA'L	8GGG	(16ffKL	.
 .	.	8gg)	.
 8AAA'J	8r	.	.
 .	.	16ffJk	.
-8AAA'L	8GG	8ccL	.
+8AAA'L	8GGG	8ccL	.
 8AAA'J	8r	(16ccL	.
 .	.	16eeJJ	.
 =12	=12	=12	=12
-8AAA'L	8GG	2cc)	.
+8AAA'L	8GGG	2cc)	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
-*v	*v	*	*
-*X8ba	*	*
-*^	*	*
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 *v	*v	*	*
 *	*clefF4	*
 =13	=13	=13
+*X8ba	*	*
 8F'L	(16AKL	p
-!	!LO:TX:b:i:t=en augmentant peu à peu	!
 .	8c)	.
 8f'J	.	.
 .	(16AJk	.
 8E'L	8c'L)	.
 8e'J	8A'J	.
 =14	=14	=14
-8D'L	(16FKL	.
-.	8A)	.
+8D'L	(16AKL	.
+.	8c)	.
 8d'J	.	.
 .	(16FJk	.
 8C'L	8A'L)	.
@@ -131,25 +122,8 @@
 8G'J	.	.
 8BB-'L	.	.
 8B-'J	.	.
-=	=	=
+==	==	==
 *-	*-	*-
-!!!system-decoration: [({(s1,s2)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!system-decoration: {(s1,s2)}
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08
