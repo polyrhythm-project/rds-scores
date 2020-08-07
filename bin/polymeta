@@ -73,6 +73,12 @@ $RECORD{"Example End Time"}                  = "excerpt-end-time";
 $RECORD{"Example Start Tsig Beat"}           = "*MM1";  # Used for *MM tempos (tempo in terms of quarter notes)
 $RECORD{"Example Start Tsig Mean Beat Rate"} = "*MM2";  # Used for *MM tempos (tempo in terms of quarter notes)
 
+# OMD Tempo values:
+# notevalue = "Example Start Tsig Mean Beat Rate"
+# tempo number = "Example Start Notated Beat"
+# [] in brackets from previously in the music.
+# {} in brackets: no tempo in score, but measured from audio recordings.
+
 # Column headings in spreadsheet that are not real data columns (used to suppress from -l list):
 my %DUMMY;
 $DUMMY{"Work Info"}      = 1;

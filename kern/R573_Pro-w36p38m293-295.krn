@@ -3,37 +3,36 @@
 !!!OMV:
 !!!example:
 !!!work:
-**kern	**kern
-*part1	*part1
-*staff2	*staff1
-*I"Piano	*
-*I'Pno.	*
-*clefG2	*clefG2
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
-*D-:	*D-:
-*M3/4	*M3/4
-=1	=1
-!	!LO:TX:t=[quarter]=180
-!	!LO:TX:b:t=[p]
-!	!LO:TX:b:t=[p]
-4dd-	(4.ddd-
-4a-'	.
-.	4.fff-X
-4gn	.
-=2	=2
-*^	*
-4b-- 4ff-X	[2.a-	4.eee-
-4b 4ff-	.	.
-.	.	4.aa-
-4b-X 4ff-	.	.
-=3	=3	=3
-4bn 4ffn	2.a-_	4.eee-
-4cc 4gg-	.	.
-.	.	4.ddd-)
-4dd- 4ggn	.	.
-*v	*v	*
-=	=
-*-	*-
+**kern	**kern	**dynam
+*part1	*part1	*
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefG2	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+!!LO:TX:t=[quarter]=180
+!	!	!LO:DY:ed=brack
+4dd->	4.ddd-<	p
+4a-'<	.	.
+.	4.fff-X	.
+4gn\	.	.
+=2	=2	=2
+*^	*	*
+4b-- 4ff-X	[2.a-	4.eee-	.
+4b 4ff-	.	.	.
+.	.	4.aa-	.
+4b-X 4ff-	.	.	.
+=3	=3	=3	=3
+4bn 4ffn	2.a-_	4.eee-	.
+4cc 4gg-	.	.	.
+.	.	4.ddd-)	.
+4dd- 4ggn	.	.	.
+*v	*v	*	*
+=	=	=
+*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT:
 !!!CBL:
@@ -54,3 +53,5 @@
 !!!excerpt-end-time:
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
