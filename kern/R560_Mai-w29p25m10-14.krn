@@ -1,8 +1,8 @@
-!!!COM: Frank Martin
-!!!OTL: [R560_Mai-w29p25m10-14]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Martin, Frank
+!!!OTL: Eight Preludes for Piano
+!!!OMV: No. 8
+!!!example: 560
+!!!work: Mai-29
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
@@ -12,7 +12,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M9/8	*M9/8	*
-=1	=1	=1
+=10	=10	=10
 !	!LO:TX:t=[eighth-dot]=132	!
 16FF#X'LL	8r	mf
 16A'	.	.
@@ -33,7 +33,7 @@
 16C'L	8cc#]	.
 16dn'	.	.
 16G#'JJ	[16e#X^Jk	.
-=2	=2	=2
+=11	=11	=11
 16FF#X'LL	8e#L]	.
 16A'	.	.
 16D#X'J	[16g#X^k	.
@@ -52,7 +52,7 @@
 16C'L	8.g#J_	.
 16dn'	.	.
 16G#'JJ	.	.
-=3	=3	=3
+=12	=12	=12
 16FF#X'LL	16g#LL]	.
 16A'	16f#X'^^	.
 16D#X'J	[16b^J	.
@@ -71,7 +71,7 @@
 16C'L	16ffn'^^L	.
 16dn'	16ff#X'^^	.
 16G#'JJ	16bb'^^JJ	.
-=4	=4	=4
+=13	=13	=13
 16CC#X'LL	8r	.
 16E'	.	.
 16AA#X'J	16ee'^^KL 16eee	.
@@ -90,7 +90,7 @@
 16GG'L	8c#] 8cc#]	.
 16A'	.	.
 16D#'JJ	[16B#X^Jk	.
-=5	=5	=5
+=14	=14	=14
 16CC#X'LL	8B#L]	.
 16E'	.	.
 16AA#X'J	8f##X~	.
@@ -112,22 +112,22 @@
 =	=	=
 *-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
-!!!MDT:
+!!!MDT: 1950/03/22
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1950
+!!!MPN: Bidal, Denise
+!!!ODT: 1948
+!!!PDT: 1949
+!!!excerpt-start-measure: 10
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:27
+!!!excerpt-end-time: 0:41
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: George Gershwin
-!!!OTL: [R687_Ger-w6p24h19m1-3]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Gershwin, George
+!!!OTL: Piano Concerto in F Major
+!!!OMV: Movement 1: Allegro
+!!!example: 687
+!!!work: Ger-6
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
 *part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*staff6	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
@@ -15,7 +15,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*	*	*	*	*	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*M2/2	*M2/2	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*met(c|)	*met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*	*met(c|)	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203
 *	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[half]=88	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=88	!
 !	!	!	!	!	!	!	!	!LO:TX:a:B:t=19	!	!	!LO:TX:b:t=[p]	!	!	!	!	!	!	!LO:TX:a:B:t=19	!
@@ -44,7 +44,7 @@
 .	.	.	.	.	.	.	.	.	.	12gn	12ggn	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12fJ	12ffJ)	.	.	.	.	.	.	.	.
 .	.	.	.	16gJk	.	16bJk	.	16dd#Jk	.	.	.	.	16d#Jk	.	.	16gJk	.	16bJk 16dd#	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204
 8A-XL	<	8A-XL	<	4.a-X	<	4.cc	<	4.ee-X	<	12e-XL	(12ee-XL	32Re/LLL	4.e-X	<	1r	4.a-X	<	4.cc 4.ee-X	<
 .	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.
@@ -71,7 +71,7 @@
 .	.	.	.	.	.	.	.	.	.	12a-X	12aa-X	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12g-XJ	12gg-XJ)	.	.	.	.	.	.	.	.
 .	.	.	.	16b-Jk	.	16ccJk	.	16eeJk	.	.	.	.	16eJk	.	.	16b-Jk	.	16ccJk 16ee	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=open	!	!	!	!	!	!
 8.FL	.	8.FL	.	8.anL	.	8.cc#XL	.	8.ffL	.	12fL	(12ffL	8.Re/L	8.AL 8.f	.	8.c#XL 8.a	8.aL	.	8.cc#XL 8.ff	.
 .	.	.	.	.	.	.	.	.	.	12f#X	12ff#X	.	.	.	.	.	.	.	.
@@ -92,22 +92,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)]s5[({(s6,s7)})][(s8,s9,s10,s11,s12)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral; Concerto
+!!!MCN: Damrosch, Walter
+!!!MDT: 1925/12/03
+!!!MGN: New York Symphony Orchestra
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1925
+!!!MPN: Gerschwin, George
+!!!ODT: 1925
+!!!PDT: 1927
+!!!excerpt-start-measure: 203
+!!!excerpt-end-measure: 205
+!!!excerpt-start-time: 6:00
+!!!excerpt-end-time: 6:04
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: Igor (Fyodorovich) Stravinsky
-!!!OTL: [R389_Str-w32p8s1-2]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Duo Concertant for Violin and Piano
+!!!OMV: Eglogue I (Part II)
+!!!example: 389
+!!!work: Str-32
 **kern	**kern	**kern
 *part2	*part2	*part1
 *staff3	*staff2	*staff1
@@ -12,7 +12,7 @@
 *k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:
 *M4/4	*M4/4	*M4/4
-=1	=1	=1
+=5	=5	=5
 *	*^	*^
 !	!	!	!LO:TX:t=[quarter]=78	!
 !	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[f]	!
@@ -32,7 +32,7 @@
 16A	.	16ccn	.	.
 16f#	.	16b	.	.
 16AJJ	.	16aJJ	.	.
-=2	=2	=2	=2	=2
+=6	=6	=6	=6	=6
 16GLL	4dd~)	16gLL	2aa^	2a^
 16A	.	16fn	.	.
 16f#	.	16e	.	.
@@ -50,7 +50,7 @@
 16f#	.	16d	16d)	.
 16AJJ	.	16eJJ	16aTJJ 16aa	.
 *	*	*	*v	*v
-=3	=3	=3	=3
+=7	=7	=7	=7
 16GLL	4a^	16fnLL	(16cc'LL
 16A	.	16e	16dd')
 16f#	.	16d	16d
@@ -68,7 +68,7 @@
 16f#	.	16e	(16cc'
 16AJJ	.	16fnJJ	16dd'JJ)
 *	*v	*v	*
-=4	=4	=4
+=8	=8	=8
 *M3/4	*M3/4	*M3/4
 *	*^	*^
 16GLL	(8ddL	16gLL	16dLL	4ryy
@@ -83,7 +83,7 @@
 16A	.	16cc	.	.
 16f#	8cc#XJ)	16b	.	.
 16AJJ	.	16aJJ	.	.
-=5	=5	=5	=5	=5
+=9	=9	=9	=9	=9
 16GLL	4a 4dd	16gLL	(8aaL	2.a
 16A	.	16fn	.	.
 16f#	.	16e	8gg	.
@@ -101,22 +101,22 @@
 =	=	=
 *-	*-	*-
 !!!system-decoration: s1[({(s2,s3)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
+!!!MDT: 1932/10/28
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Berlin, Germany
+!!!MPD: 1932
+!!!MPN: Dushkin, Samuel; Stravinsky, Igor
+!!!ODT: 1932
+!!!PDT: 1933
+!!!excerpt-start-measure: 5
+!!!excerpt-end-measure: 5
+!!!excerpt-start-time: 0:25
+!!!excerpt-end-time: 0:37
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

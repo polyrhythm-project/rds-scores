@@ -1,8 +1,8 @@
-!!!COM: Anton (Friedrich Wilhelm von) Webern
-!!!OTL: [R408_Web-w13p1-2m1-12]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!OMV: Movement 1
+!!!example: 408
+!!!work: Web-13
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -124,22 +124,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9)][(s10,s11,s12)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Webern, Anton
+!!!MDT: 1924/06/22
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1924
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1913
+!!!PDT: 1923
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:58
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

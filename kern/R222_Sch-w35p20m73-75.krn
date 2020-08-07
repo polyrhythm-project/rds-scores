@@ -1,8 +1,8 @@
-!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
-!!!OTL: [R222_Sch-w35p20m73-75]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Violin Concerto, op. 36
+!!!OMV: Movement 1
+!!!example: 222
+!!!work: Sch-35
 **kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
 *part6	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*
 *M2/2	*M2/2	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1
+=73	=73	=73	=73	=73	=73	=73	=73	=73
 !	!	!	!	!	!	!	!LO:TX:t=[half]=64	!
 !	!	!	!	!	!	!	!LO:TX:a:B:t=Tempo	!
 !	!	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[p]	!
@@ -33,7 +33,7 @@
 8b-XL	8r	8eee-XL	.	.	8b-X`L	.	8b-X`L	.
 8b-	(16aa-XLL	8ffff-XJ	.	.	8b-`	.	8b-`	.
 .	16fn)	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2
+=74	=74	=74	=74	=74	=74	=74	=74	=74
 8b-XJ	16fn'	8eee-XL	.	1r	8b-X`J	.	8b-X`J	.
 .	16aa-X'JJ	.	.	.	.	.	.	.
 8r	(16aa-LL	8ffff-X	.	.	8r	.	8r	.
@@ -48,7 +48,7 @@
 .	16dddd#'JJ	.	.	.	.	.	.	.
 8b-J	16bb'LL	8ffffJ	.	.	8b-`J	.	8b-`J	.
 .	16g#X'	.	.	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3
+=75	=75	=75	=75	=75	=75	=75	=75	=75
 8r	(16bb	16eeenLL	.	1r	8r	.	8r	.
 .	16g#XJJ)	16ffffn	.	.	.	.	.	.
 8b-XL	8r	16eee	.	.	8b-X`L	.	8b-X`L	.
@@ -66,22 +66,22 @@
 =	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2,s3)])][(s4)]s5[(s6)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Orchestral; Concerto
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1940/12/06
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1940
+!!!MPN: Krasner, Louis
+!!!ODT: 1936
+!!!PDT: 1939
+!!!excerpt-start-measure: 73
+!!!excerpt-end-measure: 75
+!!!excerpt-start-time: 3:08
+!!!excerpt-end-time: 3:15
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

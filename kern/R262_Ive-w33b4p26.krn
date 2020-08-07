@@ -1,8 +1,8 @@
-!!!COM: Charles Ives
-!!!OTL: [R262_Ive-w33b4p26]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ives, Charles
+!!!OTL: A Symphony: New England Holidays
+!!!OMV: IV: Thanksgiving and Forefather's Day
+!!!example: 262
+!!!work: Ive-33
 **kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
 *part9	*part9	*part8	*part8	*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
 *staff9	*	*staff8	*	*staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*C:	*C:	*C:	*C:	*	*C:	*
 *M6/8	*	*M6/8	*	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*	*M6/8	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
 *^	*	*^	*	*	*	*	*^	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=121	!
 8G	2.AA	[	((8C^L	4.CC	.	8ee-X	8.B'L 8.f#X 8.a#X	8.GL	8dd#X	8.dnL	4%3r	.	(8dd#XL	.
@@ -25,7 +25,7 @@
 8AA	.	.	8D-)	.	>	8ee-]	.	4AA	16dd#k]	4d_	.	.	(4e#X)	>
 .	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.
 8r	.	.	8C'J)	.	.	[8aJ	[8B [8f# [8a#	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
 8E	[2.AA	.	((8C^L	4.CC	]	16aLL]	8.BL] 8.f#] 8.a#]	4E	[4dd#X	16dKL]	4r	.	4.g#X)	.
 .	.	.	.	.	.	16ddJ	.	.	.	[8.d	.	.	.	.
 8r	.	.	8D-X)	.	>	[8ee-X	.	.	.	.	.	.	.	.
@@ -37,7 +37,7 @@
 .	.	.	.	.	.	.	[8.B'J [8.f# [8.a#	.	.	[8.dnJ	.	.	.	.
 16r	.	.	8C'J)	.	.	16ddL	.	.	[8dd#XJ	.	8a-XJ)	]	.	.
 16AA]	.	.	.	.	.	[16ee-JJ	.	[16AAJk	.	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
 4r	2.AA	.	((8C^L	4.CC	]	4ee-]	8.BL] 8.f#] 8.a#])	4AA]	4dd#]	8.dL]	4.a-X	.	4r	.
 .	.	.	8D-X)	.	>	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	(8.B'J 8.f#X 8.a#X	.	.	[16fnk	.	.	.	.
@@ -48,7 +48,7 @@
 .	.	.	.	.	.	.	[8.B'J [8.f# [8.a#	.	.	.	.	.	.	.
 8r	.	.	8C'J)	.	.	[8ccJ	.	.	[8ff#XJ	.	.	.	8a-XJ)	.
 .	.	.	.	.	.	.	.	.	.	[16fJk	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
 4r	[2.AA	.	((8C^L	4.CC	]	8ccL]	8.BL] 8.f#] 8.a#])	4E]	8ff#L]	16fKL]	4%3r	.	(8b-XL	.
 .	.	.	.	.	.	.	.	.	.	8dn	.	.	.	.
 .	.	.	8D-X)	.	>	16ddL	.	.	[8dd#XJ	.	.	.	8cc)	.
@@ -64,22 +64,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Dorati, Antal
+!!!MDT: 1954/04/09
+!!!MGN: Minneapolis Symphony Orchestra
+!!!MLC: Minneapolis, Minnesota, United States of America
+!!!MPD: 1954
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1919
+!!!PDT: 1936
+!!!excerpt-start-measure: 121
+!!!excerpt-end-measure: 124
+!!!excerpt-start-time: 6:51
+!!!excerpt-end-time: 7:09
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: (Joseph) Maurice Ravel
-!!!OTL: [R299_Rav-w32p1-2m1-12]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
+!!!OMV: I: Nahandove
+!!!example: 299
+!!!work: Rav-32
 **kern	**text	**kern	**dynam
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*
@@ -144,22 +144,22 @@
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: s1,s2
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Solo
 !!!MCN:
-!!!MDT:
+!!!MDT: 1926/06/13
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Paris, France
+!!!MPD: 1926
+!!!MPN: Bathori, Jane
+!!!ODT: 1926
+!!!PDT: 1932
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:56
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

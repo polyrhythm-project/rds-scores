@@ -1,8 +1,8 @@
-!!!COM: Igor (Fyodorovich) Stravinsky
-!!!OTL: [R371_Str-w15p19m2-1h1m1-5]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
+!!!OMV: Part II: Royal March
+!!!example: 371
+!!!work: Str-15
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
 *part8	*part8	*part7	*part7	*part6	*part6	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
 *staff8	*	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
@@ -15,7 +15,7 @@
 *B-:	*	*B-:	*	*C:	*	*C:	*B-:	*	*B-:	*B-:	*	*B-:	*
 *M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*M5/8	*	*M5/8	*M5/8	*	*M5/8	*
 * The Suter example incorrectly lists this as piccolo trumpet	*	*	*	*	*	*	*	*	*	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 !LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[mf]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[sf]	!LO:TX:b:t=[ff]	!	!LO:TX:b:t=[ff]	!
 8D` 8f	.	8d` 8b- 8bb-	.	8Re/	.	8Re/	8BB-`	.	8bb-	8d	.	8bb-`	.
 !	!	!LO:TX:a:i:t=secco	!	!	!	!	!LO:TX:a:i:t=sub. meno	!	!	!LO:TX:b:i:t=sub. meno	!	!LO:TX:a:i:t=sub. meno	!
@@ -26,7 +26,7 @@
 16B-`	sf	8r	.	.	.	.	.	.	8eeeXJ	8r'	.	8r'	.
 !LO:TX:b:i:t=secco	!	!	!	!	!	!	!	!	!	!	!	!	!
 16r	.	.	.	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*
 !	!	!	!	!	!	!LO:TX:a:t=Caisse cl. grande taille = sans timbre, baguette à téteen capoe	!	!	!	!	!	!	!
 8r	.	8B-` 8d	.	8r	.	4r	2r	.	(20eeeXLL	8f'	.	8B-'	.
@@ -39,14 +39,14 @@
 .	.	.	.	.	.	.	.	.	20bb-JJ)	.	.	.	.
 8B-J	.	8r	.	4r	[	8Re^/	.	.	[4ddd	8r	.	8r	.
 8r	.	8B-`L 8d	.	.	.	8r	.	.	.	8f'L	.	8B-'L	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4r	.	8B-` 8d	.	2r	.	2r	2r	.	8dddL]	8f'	.	8B-'	.
 .	.	8B-`J 8d	.	.	.	.	.	.	8fff	8f'J	.	8B-'J	.
 !LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!
 16B-`	.	8r	.	.	.	.	.	.	8fff	8r'	.	8r'	.
 16r	.	.	.	.	.	.	.	.	.	.	.	.	.
 8r	.	8B-` 8d	.	.	.	.	.	.	8eeeXJ	8f'	.	8B-'	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
 8FL	.	4r	.	8Re/	<	8r	2r	.	(20eeeXLL	4r	.	4r	.
 .	.	.	.	.	.	.	.	.	20fff	.	.	.	.
@@ -60,7 +60,7 @@
 .	.	8B-` 8d	.	8r	.	8r	.	.	.	8f'	.	8B-'	.
 .	.	.	.	.	.	.	.	.	20ccc	.	.	.	.
 .	.	.	.	.	.	.	.	.	20ggJJ)	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 8r	.	8B-`J 8d	.	4r	.	2r	2r	.	(20cccLL	8f'J	.	8B-'J	.
 .	.	.	.	.	.	.	.	.	20ddd	.	.	.	.
 .	.	.	.	.	.	.	.	.	20ccc	.	.	.	.
@@ -76,22 +76,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6)][(s7,s8)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Stage; Theatrical
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1918/09/28
+!!!MGN: unknown
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1918
+!!!MPN: unknown
+!!!ODT: 1918
+!!!PDT: 1924
+!!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:07
+!!!excerpt-end-time: 0:14
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: Anton (Friedrich Wilhelm von) Webern
-!!!OTL: [R409_Web-w3p7m46-49]
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Langsamer Satz (Slow Movement) for String Quartet
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 409
+!!!work: Web-3
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -12,7 +12,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1
+=46	=46	=46	=46	=46	=46	=46	=46
 *	*	*tremolo	*	*	*	*	*
 *	*	*	*	*tremolo	*	*	*
 !	!	!	!	!	!	!LO:TX:a:i:t=belebend	!
@@ -56,7 +56,7 @@
 12cJ)	.	.	.	.	.	.	.
 .	.	32f	.	32a-X	.	.	.
 .	.	32fJJJ	.	32a-XJJJ	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2
+=47	=47	=47	=47	=47	=47	=47	=47
 4E-X	.	32f#XLLL	.	32anLLL	.	(12ccc#XL	.
 .	.	32f#X	.	32an	.	.	.
 .	.	32f#X	.	32an	.	.	.
@@ -85,7 +85,7 @@
 .	.	(12cL	.	(12g#XL	.	(12eeL	.
 6BB-X)	.	12B	.	12f##X	.	12dd#	.
 .	.	12cJ)	.	12g#J)	.	12eeJ)	.
-=3	=3	=3	=3	=3	=3	=3	=3
+=48	=48	=48	=48	=48	=48	=48	=48
 !	!	!	!	!	!	!LO:TX:a:i:t=steigernd	!
 (6AA	.	(12d-XL	.	(12aL	.	(12ffL	.
 .	.	12c	.	12g#X	.	12ee	.
@@ -103,7 +103,7 @@
 .	.	18b	.	18ff##X	.	18ddd#X	.
 .	.	18ccJ)	.	18gg#J)	.	18eeeJ)	.
 *clefG2	*	*clefG2	*	*	*	*	*
-=4	=4	=4	=4	=4	=4	=4	=4
+=49	=49	=49	=49	=49	=49	=49	=49
 !	!	!	!	!	!	!LO:TX:a:B:t=sehr breit und ausdrucksvoll	!
 12g#X^L	fff	12gg#X^L	fff	12gg#X^L	fff	12ggg#X^L	fff
 12f#X^	.	12ff#X^	.	12ff#X^	.	12fff#X^	.
@@ -117,22 +117,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MDT: 1962/05/27
+!!!MGN: University of Washington String Quartet
+!!!MLC: Seattle, Washington, United States of America
+!!!MPD: 1962
+!!!MPN: Ferrin, Richard; Heinitz, Eva; Sokol, Vilem; Zetlin, Emanuel
+!!!ODT: 1905
+!!!PDT: 1962
+!!!excerpt-start-measure: 46
+!!!excerpt-end-measure: 49
+!!!excerpt-start-time: 4:14
+!!!excerpt-end-time: 4:29
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: (Achille-) Claude Debussy
-!!!OTL: [R187_Deb-w42p9s3-4]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: La Boîte à joujoux (The Toy Box), Ballet for Children
+!!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
+!!!example: 187
+!!!work: Deb-42
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
@@ -13,7 +13,7 @@
 *F:	*F:	*
 *M2/4	*M2/4	*
 *8ba	*	*
-=1	=1	=1
+=122	=122	=122
 *^	*	*
 !	!	!LO:TX:t=[quarter]=107	!
 !	!	!LO:TX:b:i:t=lointain et raide	!
@@ -21,23 +21,23 @@
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
 8AAA'J	8r	.	.
-=2	=2	=2	=2
+=123	=123	=123	=123
 8AAA'L	8GG	2r	.
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
 8AAA'J	8r	.	.
-=3	=3	=3	=3
+=124	=124	=124	=124
 8AAA'L	8GG	2r	.
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
 8AAA'J	8r	.	.
-=4	=4	=4	=4
+=125	=125	=125	=125
 8AAA'L	8GG	2r	.
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
 8AAA'J	8r	.	.
 *v	*v	*	*
-=5	=5	=5
+=126	=126	=126
 *	*8va	*
 *^	*	*
 !	!	!LO:TX:b:i:t=sempre	!
@@ -47,7 +47,7 @@
 .	.	(16aaaJk	pp
 8AAA'L	8GG	8cccc'L)	.
 8AAA'J	8r	8aaa'J	.
-=6	=6	=6	=6
+=127	=127	=127	=127
 !	!	!LO:TX:b:i:t=très exactement rythmé	!
 8AAA'L	8GG	(16fffKL	.
 .	.	8aaa)	.
@@ -55,7 +55,7 @@
 .	.	(16fffJk	.
 8AAA'L	8GG	8aaa'L)	.
 8AAA'J	8r	8fff'J	.
-=7	=7	=7	=7
+=128	=128	=128	=128
 8AAA'L	8GG	(16dddKL	.
 .	.	8fff)	.
 8AAA'J	8r	.	.
@@ -63,12 +63,12 @@
 8AAA'L	8GG	8fff'L)	.
 8AAA'J	8r	(16dddL	.
 .	.	16fffJJ	.
-=8	=8	=8	=8
+=129	=129	=129	=129
 8AAA'L	8GG	2ddd)	.
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
 8AAA'J	8r	.	.
-=9	=9	=9	=9
+=130	=130	=130	=130
 8AAA'L	8GG	(16cccKL	.
 .	.	8ddd)	.
 8AAA'J	8r	.	.
@@ -78,14 +78,14 @@
 *	*X8va	*
 *^	*	*
 8AAA'J	8r	8ccc'J	.
-=10	=10	=10	=10
+=131	=131	=131	=131
 8AAA'L	8GG	(16aaKL	.
 .	.	8bb-)	.
 8AAA'J	8r	.	.
 .	.	(16aaJk	.
 8AAA'L	8GG	4ff~)	.
 8AAA'J	8r	.	.
-=11	=11	=11	=11
+=132	=132	=132	=132
 8AAA'L	8GG	(16ffKL	.
 .	.	8gg)	.
 8AAA'J	8r	.	.
@@ -93,7 +93,7 @@
 8AAA'L	8GG	8ccL	.
 8AAA'J	8r	(16ccL	.
 .	.	16eeJJ	.
-=12	=12	=12	=12
+=133	=133	=133	=133
 8AAA'L	8GG	2cc)	.
 8AAA'J	8r	.	.
 8AAA'L	8GG	.	.
@@ -103,7 +103,7 @@
 8AAA'J	8r	.	.
 *v	*v	*	*
 *	*clefF4	*
-=13	=13	=13
+=134	=134	=134
 8F'L	(16AKL	p
 !	!LO:TX:b:i:t=en augmentant peu à peu	!
 .	8c)	.
@@ -111,14 +111,14 @@
 .	(16AJk	.
 8E'L	8c'L)	.
 8e'J	8A'J	.
-=14	=14	=14
+=135	=135	=135
 8D'L	(16FKL	.
 .	8A)	.
 8d'J	.	.
 .	(16FJk	.
 8C'L	8A'L)	.
 8c'J	8F'J	.
-=15	=15	=15
+=136	=136	=136
 8BB-'L	(16DKL	.
 .	8F)	.
 8B-'J	.	.
@@ -126,7 +126,7 @@
 8AA'L	8F'L)	.
 8A'J	(16DL	.
 .	16FJJ	.
-=16	=16	=16
+=137	=137	=137
 8GG'L	2D)	.
 8G'J	.	.
 8BB-'L	.	.
@@ -134,22 +134,22 @@
 =	=	=
 *-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1919/12/10
+!!!MGN: Orchestre du Théâtre du Vaudeville
+!!!MLC: Paris, France
+!!!MPD: 1919
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1913
+!!!PDT: 1920
+!!!excerpt-start-measure: 122
+!!!excerpt-end-measure: 137
+!!!excerpt-start-time: 3:44
+!!!excerpt-end-time: 4:02
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

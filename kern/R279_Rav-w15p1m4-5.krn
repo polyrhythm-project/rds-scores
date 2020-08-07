@@ -1,8 +1,8 @@
-!!!COM: (Joseph) Maurice Ravel
-!!!OTL: [R279_Rav-w15p1m4-5]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Rapsodie espagnole (Spanish Rhapsody) for Orchestra
+!!!OMV: I: Prélude à la nuit (Prelude to the Night)
+!!!example: 279
+!!!work: Rav-15
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=Sourdines	!	!LO:TX:a:t=Sourdines	!	!	!	!LO:TX:t=[quarter]=66	!	!	!	!	!	!	!LO:TX:a:t=1o	!	!LO:TX:t=[quarter]=66	!
 4D^	p >	4D^	p >	(8fL	p >	(8fffL	p >	2g#X	2b-X	p	[4A-X^ [4B-	p >	(8ffL	p >	[4a-X^ [4b-X	p >
@@ -22,7 +22,7 @@
 .	.	.	.	8c#XJ)	.	8ccc#XJ)	.	.	.	.	.	.	8cc#XJ	.	.	.
 4AA	.	4AA	.	(8fL	.	(8fffL	.	4r	4r	.	.	.	8ffL	.	.	.
 .	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4D^	.	4D^	.	8d	.	8ddd	.	2an	2cc-X	pp	[4A^ [4BX	.	8dd	.	[4an^ [4bn	.
 .	.	.	.	8c#XJ)	.	8ccc#XJ)	.	.	.	.	.	.	8cc#XJ	.	.	.
 4r	.	4r	.	(8fL	.	(8fffL	.	.	.	.	2A] 2B]	]	8ffL	.	2a] 2b]	]
@@ -32,22 +32,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)][({(s4,s5)})][(s6,s7[(s8,s9)])]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Colonne, Édouard
+!!!MDT: 1908/03/19
+!!!MGN: Orchestre Colonne
+!!!MLC: Paris, France
+!!!MPD: 1908
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1908
+!!!PDT: 1908
+!!!excerpt-start-measure: 4
+!!!excerpt-end-measure: 5
+!!!excerpt-start-time: 0:10
+!!!excerpt-end-time: 0:17
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

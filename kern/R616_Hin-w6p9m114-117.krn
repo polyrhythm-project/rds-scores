@@ -1,8 +1,8 @@
-!!!COM: Paul Hindemith
-!!!OTL: [R616_Hin-w6p9m114-117]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Hindemith, Paul
+!!!OTL: String Quartet in F Minor, op. 10
+!!!OMV: Movement 1
+!!!example: 616
+!!!work: Hin-6
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -12,7 +12,7 @@
 *k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
 *A-:	*	*A-:	*	*A-:	*	*A-:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-=1	=1	=1	=1	=1	=1	=1	=1
+=114	=114	=114	=114	=114	=114	=114	=114
 !	!	!	!	!	!	!LO:TX:t=[quarter]=103	!
 !	!	!LO:TX:b:t=[f]	!	!	!	!LO:TX:a:B:t=Mit Schwung	!
 4r	.	16DnLL)	>	4%3r	f	4r	.
@@ -30,7 +30,7 @@
 .	.	16F	.	.	.	.	.
 .	.	16D)	.	.	.	.	.
 .	.	(16dJJ	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2
+=115	=115	=115	=115	=115	=115	=115	=115
 12BB-L]	.	16B-LL	.	4%3r	.	12bb-L]	.
 .	.	16G	.	.	.	.	.
 12AAn	.	.	.	.	.	12aan	.
@@ -49,7 +49,7 @@
 .	.	16B-	.	.	.	.	.
 12EE-J	]	.	.	.	.	12ee-J	]
 .	.	16GJJ	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3
+=116	=116	=116	=116	=116	=116	=116	=116
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 (6FF	.	16FLL)	.	[2.a- 2.cc	f <	(6ff	.
 .	.	(16c	.	.	.	.	.
@@ -73,7 +73,7 @@
 .	.	16F	.	.	.	.	.
 .	.	.	.	12fJ)	.	12ddnJ)	.
 .	.	16B-JJ)	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4
+=117	=117	=117	=117	=117	=117	=117	=117
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !	!	!	!	!	!	!LO:TX:a:B:t=(6/8)	!
 12BB-L]	.	4G	.	16e-LL	mf	[4ee-	.
@@ -92,22 +92,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MDT: 1919/06/02
+!!!MGN: Rebner Quartet
+!!!MLC: Frankfurt, Germany
+!!!MPD: 1919
+!!!MPN: Frank, Mauritz; Hegar, Johannes; Hindemith, Paul; Rebner, Adolf
+!!!ODT: 1918
+!!!PDT: 1920
+!!!excerpt-start-measure: 114
+!!!excerpt-end-measure: 117
+!!!excerpt-start-time: 4:05
+!!!excerpt-end-time: 4:12
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

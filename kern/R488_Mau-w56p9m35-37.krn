@@ -1,8 +1,8 @@
-!!!COM: Bohuslav (Jan) Martinů
-!!!OTL: [R488_Mau-w56p9m35-37]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Concertino for Piano and Orchestra
+!!!OMV: Movement 1
+!!!example: 488
+!!!work: Mau-56
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff11	*staff10	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[b-]	*k[b-]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*F:	*F:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *	*	*	*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=77	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:b:t=[f]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=77	!
@@ -33,7 +33,7 @@
 8F#'	.	8F#')	.	16F#'Jk)	.	16f#'Jk)	.	16f	.	.	.	[8d	.	[8B [8f#	.	.	.	.	8f#X'J	.	8f#X'J	.	([8gg	.	([8bb	.	([8gg	.	([8bb	.
 .	.	.	.	16r	.	16r	.	16gJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 8r	.	8r'	.	8r	.	8r	.	8f#XL	.	4%3r	8d]	2.r	8B] 8f#]	8r	.	8r	.	4r	.	4r	.	8gg]	.	8bb]	.	8gg]	.	8bb]	.
 .	.	(8qE#X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8F#X'	.	8F#X')	.	8F#X	.	8f#X	.	16gL	.	.	4c#X~	.	4BX~ 4g	8BB'	.	8BB'	.	.	.	.	.	4ee)	.	4gg)	.	4ee)	.	4gg)	.
@@ -48,7 +48,7 @@
 .	.	(8qE#/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8F#'	.	8F#')	.	16F#'Jk)	.	16f#'Jk)	.	16f#	.	.	.	.	.	.	.	.	.	8g'J	.	8g'J	.	.	.	.	.	.	.	.	.
 .	.	.	.	16r	.	16r	.	16gJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 8r	.	8r'	.	8r	.	8r	.	8f#XL	.	4%3r	4c#X~	2.r	4BX~ 4g	8r	.	8r	.	4r	.	4r	.	4cc#X~	.	4ee~	.	4cc#X~	.	4ee~	.
 .	.	(8qE#X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8F#X'	.	8F#X')	.	8F#X	.	8f#X	.	16gL	.	.	.	.	.	8BB'	.	8BB'	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -67,22 +67,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)][(s3,s4)][(s5,s6)][(s7,s8)])][([(s9,s10)])][({(s11,s12)})][(s13,s14,s15,s16,s17)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Orchestral; Concerto
+!!!MCN: Pařík, Otakar
+!!!MDT: 1947/03/30
+!!!MGN: Symphony Orchestra of the Slovak Radio
+!!!MLC: Bratislava, Slovakia
+!!!MPD: 1947
+!!!MPN: Fuchsová, Lisa
+!!!ODT: 1938
+!!!PDT: 1956
+!!!excerpt-start-measure: 35
+!!!excerpt-end-measure: 37
+!!!excerpt-start-time: 1:15
+!!!excerpt-end-time: 1:22
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

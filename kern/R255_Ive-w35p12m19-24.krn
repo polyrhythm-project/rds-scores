@@ -1,8 +1,8 @@
-!!!COM: Charles Ives
-!!!OTL: [R255_Ive-w35p12m19-24]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ives, Charles
+!!!OTL: String Quartet No. 2
+!!!OMV: II: Arguments
+!!!example: 255
+!!!work: Ive-35
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -12,7 +12,7 @@
 *k[]	*k[]	*k[]	*k[]
 *C:	*C:	*C:	*C:
 *M3/8	*M3/8	*M3/8	*M3/8
-=1	=1	=1	=1
+=19	=19	=19	=19
 *^	*	*	*
 8r	8DL	16BLL	8G#X 8d	16aLL 16ee
 .	.	16F#X	.	16aJ 16ee
@@ -20,14 +20,14 @@
 16DJJ	.	16B-XJJ	.	.
 8r	8DL	16AnLL	8B-X 8d	8aJ 8gg
 .	.	16E	.	.
-=2	=2	=2	=2	=2
+=20	=20	=20	=20	=20
 16E-XLL_	8CCJ 8GG	16E-X	8G#X 8d	16aLL 16ee
 16DJJ	.	16A-XJJ	.	16aJ 16ee
 8r	8DL	16GLL	8r	8a 8bb-X
 .	.	16D	.	.
 16E-XLL_	8CCJ 8GG	16C#X	8B-X 8d	8aJ 8aa
 16DJJ	.	16F#XJJ	.	.
-=3	=3	=3	=3	=3
+=21	=21	=21	=21	=21
 *	*	*	*	*^
 8r	8DL	16FnLL	8G#X 8d	(16bb-XLL	4.a
 .	.	16Cn	.	16aa	.
@@ -36,21 +36,21 @@
 8r	8DL	16GLL	8B-X 8d	16eee	.
 .	.	16c	.	16dddJJ)	.
 *	*	*	*	*v	*v
-=4	=4	=4	=4	=4
+=22	=22	=22	=22	=22
 16E-XLL_	8CCJ 8GG	16c#X	8G#X 8d	8a^L 8ggg#X
 16DJJ	.	16DJJ	.	.
 8r	8DL	16e-XLL	8r	8a^ 8ggg#
 .	.	16B-X	.	.
 16E-XLL_	8CCJ 8GG	16A	8B-X 8d	8a^J 8ggg#
 16DJJ	.	16g#XJJ	.	.
-=5	=5	=5	=5	=5
+=23	=23	=23	=23	=23
 8r	8DL	16d#XLL	8G#X 8d	8r
 .	.	16en	.	.
 16E-XLL_	8CCJ 8GG	16Bn	8r	16ggnLL
 16DJJ	.	16cnJJ	.	16ccc#XJ
 8r	8DL	16fLL	8B-X 8d	8ggg#XJ
 .	.	16F#X	.	.
-=6	=6	=6	=6	=6
+=24	=24	=24	=24	=24
 16E-XLL_	8CCJ 8GG	16B	8G#X 8d	8a 8bbb-X
 16DJJ	.	16B-XJJ	.	.
 8r	8DL	16FnLL	8r	8r
@@ -61,22 +61,22 @@
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MDT: 1946/05/11
+!!!MGN: Juilliard School Student Ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1946
+!!!MPN: Goldberg, Alla; Koff, Alla; Levin, Walter; Robbins, Rena
+!!!ODT: 1915
+!!!PDT: 1954
+!!!excerpt-start-measure: 19
+!!!excerpt-end-measure: 24
+!!!excerpt-start-time: 0:19
+!!!excerpt-end-time: 0:24
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

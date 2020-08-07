@@ -1,8 +1,8 @@
-!!!COM: (Edward) Benjamin Britten
-!!!OTL: [R798_Bri-w42p12m41]
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Hymn to St. Columba for Chorus and Organ
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 798
+!!!work: Bri-42
 **kern	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
 *part5	*part5	*part5	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
 *staff6	*staff5	*	*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
@@ -13,7 +13,7 @@
 *k[b-]	*k[b-]	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
 *F:	*F:	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*
 *M5/4	*M5/4	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 *	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!LO:TX:t=[quarter]=80	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!	!	!
 !	!LO:TX:b:t=[f]	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!
@@ -37,22 +37,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal; Choral
+!!!MCN: Nelson, Havelock
+!!!MDT: 1963/06/02
+!!!MGN: Ulster Singers
+!!!MLC: Churchill, Ireland
+!!!MPD: 1963
+!!!MPN: McGraw, R.
+!!!ODT: 1962
+!!!PDT: 1963
+!!!excerpt-start-measure: 41
+!!!excerpt-end-measure: 41
+!!!excerpt-start-time: 2:15
+!!!excerpt-end-time: 2:19
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

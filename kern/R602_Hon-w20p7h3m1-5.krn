@@ -1,8 +1,8 @@
-!!!COM: Arthur Honegger
-!!!OTL: [R602_Hon-w20p7h3m1-5]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Honegger, Arthur
+!!!OTL: Concertino for Piano and Orchestra
+!!!OMV: Movement 1
+!!!example: 602
+!!!work: Hon-20
 **kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part10	*part10	*part9	*part9	*part8	*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff11	*	*staff10	*	*staff9	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*	*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 !	!	!	!	!LO:TX:t=[quarter]=84	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=84	!
 !	!	!	!	!LO:TX:a:B:t=3	!	!LO:TX:b:t=[p]	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=3	!
 2r	.	2r	.	1r	8B-XL	16cnLL	p	1r	.	1r	.	1r	.	1r	.	1r	.	1r	.
@@ -33,7 +33,7 @@
 .	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.
 8cJ	.	8CJ	.	.	8d-	16d	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 8c	.	8C	.	1r	8e-X	16cLL	.	1r	.	8r	.	8r	.	1r	.	8r	.	8r	.
 .	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=II	!	!LO:TX:a:t=I	!	!	!	!LO:TX:a:t=II	!	!LO:TX:a:t=I	!
@@ -51,7 +51,7 @@
 .	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	8g-J	16d	.	.	.	8c~	.	8f#~	.	.	.	8b-~	.	8cc~	.
 .	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=I solo	!	!	!	!	!
 1r	.	1r	.	1r	8e-XL	16cLL	.	2r	.	8BX~	.	8g~	.	8r	.	8cc-X~	.	8cc~	.
 .	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -69,7 +69,7 @@
 .	.	.	.	.	.	16e	.	.	.	.	.	.	.	16d-X	.	.	.	.	.
 .	.	.	.	.	8d-J	16d	.	8cc'J	.	.	.	.	.	16c	.	.	.	.	.
 .	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	16B-XJJ	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GG#X^	.	8GG#X^	.	4r	8AnL	16d-XLL	.	1r	.	4r	.	1r	.	8A-X	.	1r	.	1r	.
 .	.	.	.	.	.	16g-X	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -89,7 +89,7 @@
 .	.	16C))	.	.	.	16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16BB'	.	.	8c	16e-	.	.	.	8r	.	.	.	.	.	.	.	.	.
 .	.	16AA'JJ	.	.	.	16g-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 !LO:TX:a:t=pizz.	!	!	!	!	!	!LO:TX:b:i:t=poco cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GG#X	.	8GG#XL	.	4r	8e	16d-XLL	.	1r	.	4r	.	1r	.	1r	.	1r	.	1r	.
 .	.	.	.	.	.	16g-X	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -110,22 +110,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2,s3,s4,s5,s6{(s7,s8)}s9,s10,s11
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Concerto
+!!!MCN: Koussevitzky, Serge
+!!!MDT: 1925/05/23
+!!!MGN: Orchestre de l'Opéra
+!!!MLC: Paris, France
+!!!MPD: 1925
+!!!MPN: Vaurabourg, Andrée
+!!!ODT: 1924
+!!!PDT: 1926
+!!!excerpt-start-measure: 32
+!!!excerpt-end-measure: 36
+!!!excerpt-start-time: 1:23
+!!!excerpt-end-time: 1:36
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: Paul Hindemith
-!!!OTL: [R655_Hin-w77p19m154-160]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Hindemith, Paul
+!!!OTL: Sonata for Two Pianos, Four Hands
+!!!OMV: Movement 2: Allegro
+!!!example: 655
+!!!work: Hin-77
 **kern	**kern	**dynam	**kern	**kern	**dynam
 *part2	*part2	*part2	*part1	*part1	*part1
 *staff4	*staff3	*	*staff2	*staff1	*
@@ -14,7 +14,7 @@
 *M2/2	*M2/2	*	*M2/2	*M2/2	*
 *met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*
 *	*8va	*	*	*	*
-=1	=1	=1	=1	=1	=1
+=154	=154	=154	=154	=154	=154
 !	!	!	!	!LO:TX:t=[half]=120	!
 !	!LO:TX:t=[half]=120	!	!	!LO:TX:b:t=[pp]	!
 2r	(4ddd	p	1r	8BL 8f#X	.
@@ -26,7 +26,7 @@
 .	.	.	.	8Bn	.
 8ee	.	.	.	8dn 8b	.
 8r	.	.	.	8BJ	.
-=2	=2	=2	=2	=2	=2
+=155	=155	=155	=155	=155	=155
 2ee	4gg] 4ggg]	.	8AAAL	8eL 8b	.
 .	.	.	8AA	8BJ	.
 .	(8aaaL	.	8CC#X	4r	.
@@ -35,7 +35,7 @@
 .	.	.	8BBJ	.	.
 .	4ccc	.	4r	8aL 8b	.
 .	.	.	.	8BJ	.
-=3	=3	=3	=3	=3	=3
+=156	=156	=156	=156	=156	=156
 2r	(8dddL	.	4r	8eL 8b	.
 .	8fffJ	.	.	8B	.
 .	8ggg)	.	8AAAL	8fn 8b	.
@@ -44,7 +44,7 @@
 8ddJ	.	.	8FF#X	.	.
 8ee	.	.	8BBB	.	.
 8r	.	.	8BBJ	.	.
-=4	=4	=4	=4	=4	=4
+=157	=157	=157	=157	=157	=157
 2ee	8ggL] 8ggg]	.	4r	8g#XL 8b	.
 .	(8bbb-X	.	.	8B	.
 .	8aaa-X	.	4r	8c#X 8b	.
@@ -53,7 +53,7 @@
 .	.	.	8AA	8BJ	.
 .	4ddd	.	8CC#X	4r	.
 .	.	.	8FF#XJ	.	.
-=5	=5	=5	=5	=5	=5
+=158	=158	=158	=158	=158	=158
 2r	(8fffL	.	8BBBL	4r	.
 .	8bbb-XJ	.	8BBJ	.	.
 .	8eeee-X)	.	4r	8gnL 8b	.
@@ -62,7 +62,7 @@
 8ffJ	.	.	.	8B	.
 8bb-X	.	.	8AAAL	8d#X 8b	.
 8r	.	.	8AAJ	8BJ	.
-=6	=6	=6	=6	=6	=6
+=159	=159	=159	=159	=159	=159
 4.aa	8cccL] 8cccc]	.	8CC#XL	2r	.
 .	(8aaa	.	8FF#X	.	.
 .	8fff	.	8BBB	.	.
@@ -71,7 +71,7 @@
 .	.	.	.	8B	.
 .	(8eeeL	.	4r	8d 8b	.
 8aa-X	8gggJ	.	.	8BJ	.
-=7	=7	=7	=7	=7	=7
+=160	=160	=160	=160	=160	=160
 4gg	4eee)	.	8AAAL	8gL 8b	.
 .	.	.	8AA	8BJ	.
 8aanL	4eee	.	8CC#X	4r	.
@@ -84,22 +84,22 @@
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
-!!!MDT:
+!!!MDT: 1942/11/20
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1942
+!!!MPN: Dougherty, Celuis; Ruzicka, Vincenz
+!!!ODT: 1942
+!!!PDT: 1942
+!!!excerpt-start-measure: 154
+!!!excerpt-end-measure: 160
+!!!excerpt-start-time: 2:46
+!!!excerpt-end-time: 2:53
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
