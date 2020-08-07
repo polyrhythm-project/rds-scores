@@ -13,8 +13,8 @@
 *C:	*	*C:	*
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
-!	!	!LO:TX:t=[eighth]=100	!
-!	!	!LO:TX:t=[quarter]=80	!
+!	!	!LO:TX:t=[[eighth]=100]	!
+!	!	!	!
 !	!	!LO:TX:a:B:t=Andante quasi allegretto	!
 4r	.	(16gLL	p
 !	!	!LO:TX:b:i:t=espressivo	!
