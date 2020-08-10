@@ -14,11 +14,12 @@
 *M2/4	*M2/4	*
 =22	=22	=22
 *^	*^	*
-!	!	!LO:TX:t=[quarter]=123	!	!
-!	!	!LO:TX:b:t=[f]	!	!
-8DL	8GG#X 8C#X	4G [4g	8ryy	.
+!	!	!LO:TX:t=[[quarter]=123]	!	!
+!	!	!LO:TX:b:t=	!	!
+!	!	!	!	!LO:DY:ed=brack
+8DL	8GG#X 8C#X	4G [4g	8ryy	.f
 8D	8r	.	8B 8c#X	.
-8D	8EE#X 8AA#X	16gLL]	8r	.
+8D	8EE#X 8AA#X	16g]LL	8r	.
 .	.	(16a	.	.
 8DJ	8r	16g	8B 8c#	.
 .	.	16f#XJJ	.	.
@@ -34,7 +35,7 @@
 =24	=24	=24	=24	=24
 8DL	8GG#X 8C#X	16r	8r	.
 .	.	(16gLL	.	.
-8D	8r	16f#XJJ)	8B 8c#X	.
+8D	8r	16f#JJ)	8B 8c#X	.
 .	.	16r	.	.
 8D	8EE#X 8AA#X	(16gLL	8r	.
 .	.	16f#JJ)	.	.
@@ -47,13 +48,13 @@
 .	.	16f#JJ)	.	.
 *	*	*v	*v	*
 8D	8EE#X 8AA#X	16r	.
-.	.	(16f#LL	<
+.	.	(16f#	<
 8DJ	8r	16g	.
-.	.	16aJJ	.
+.	.	16a	.
 =26	=26	=26	=26
 *	*	*^	*
-8F#XL 8Gn	8C#X	16BLL 16b	8r	[
-.	.	16cJJ 16cc)	.	.
+8F#XL 8Gn	8C#X	16BL 16b	8r	[
+.	.	16cJ 16cc)	.	.
 8F# 8G	8r	8r	8e 8f#X	.
 8r	8AAA#X 8FF#X 8GG	8r	8r	sf
 8F#J 8G	8r	(16bLL 16bb	8ee 8ff#X	.
@@ -76,14 +77,14 @@
 =29	=29	=29	=29
 8F#XL 8G	8C#X	8r	.
 8F# 8G	8r	(16BLL 16b	.
-.	.	16cJ 16cc	.
-8F# 8G	8AA#X	16dL 16dd	.
+.	.	16c 16cc	.
+8F# 8G	8AA#X	16d 16dd	.
 .	.	16c 16cc	.
 8F#J 8G	8r	16d 16dd	.
-.	.	16e-XJ 16ee-X	.
+.	.	16e-XJJ 16ee-X	.
 =30	=30	=30	=30
 8F#XL 8G	8C#X	16dL 16dd	.
-.	.	16cJJ 16cc)	.
+.	.	16cJ 16cc)	.
 8F#J 8G	8r	8r	.
 *	*	*clefF4	*
 4r	8AAA#X 8FF#X 8GG	8r	.
