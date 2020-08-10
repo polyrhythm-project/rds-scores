@@ -14,10 +14,10 @@
 *	*	*	*	*	*	*	*	*
 *M2/2	*M2/2	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
 =73	=73	=73	=73	=73	=73	=73	=73	=73
-!	!	!	!	!	!	!	!LO:TX:t=[half]=64	!
+!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
 !	!	!	!	!	!	!	!LO:TX:a:B:t=Tempo	!
 !	!	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[p]	!
-4r	4r	4r	.	8bn'	8aa-X'	.	8dddn'	.
+4r	4r	4r	.	8bn'	8aa-X'	.	8dddn'	p
 .	.	.	.	8r	8r	.	8r	.
 !	!LO:TX:b:t=[f]	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!
 8r	16ff#X'LL	8cccn'L	p	4r	8r	.	8r	.
