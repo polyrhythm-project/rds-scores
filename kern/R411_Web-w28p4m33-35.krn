@@ -15,10 +15,11 @@
 *M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM45	*MM45	*	*MM45	*	*MM45	*	*MM45	*	*MM45	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-2r	8r	.	2r	.	8.gg#XL	>	2r	.	4r	.
+!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!
+2r	8r	p	2r	.	8.gg#XL	p >	2r	.	4r	.
 .	8E-X~ 8dn	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	[16gn~Jk	]	.	.	.	.
-.	4r	.	.	.	16g]	.	.	.	8r	.
+.	4r	.	.	.	16gL]	.	.	.	8r	.
 .	.	.	.	.	16r	.	.	.	.	.
 .	.	.	.	.	8r	.	.	.	8An~	f
 *	*clefG2	*	*	*	*	*	*	*	*	*
@@ -34,13 +35,14 @@
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 8r	4r	] ff	4r	.	2r	.	4r	.	8b-]	.
 (8CC#X	.	.	.	.	.	.	.	.	8r	.
-4r	8Fn 8en	.	8r	.	.	.	(16BKL	ff	4r	.
+4r	8Fn 8en	.	8r	.	.	.	(16BKnL	ff	4r	.
 .	.	.	.	.	.	.	8b-X)	.	.	.
+!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!
 .	8r	.	16r	.	.	.	.	.	.	.
-.	.	.	[16ee-X~	ff	.	.	16dnJk	.	.	.
+.	.	.	[16ee-X~	ff	.	.	16dnJk~	.	.	.
 =	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2[(s3,s4)]{(s5,s6)}
+!!!system-decoration: [(s1)][(s2)][(s3,s4)]{(s5,s6)}
 !!!CDT: 1883/12/03-1945/09/15
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
