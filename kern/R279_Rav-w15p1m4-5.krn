@@ -15,7 +15,7 @@
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:a:t=Sourdines	!	!LO:TX:a:t=Sourdines	!	!	!	!LO:TX:t=[quarter]=66	!	!	!	!	!	!	!LO:TX:a:t=1o	!	!LO:TX:t=[quarter]=66	!
+!LO:TX:a:t=Sourdines	!	!LO:TX:a:t=Sourdines	!	!	!	!LO:TX:t=[quarter]=66	!	!	!	!	!	!	!LO:TX:a:t=1o	!	!LO:TX:t=[[quarter]=66]	!
 4D^	p >	4D^	p >	(8fL	p >	(8fffL	p >	2g#X	2b-X	p	[4A-X^ [4B-	p >	(8ffL	p >	[4a-X^ [4b-X	p >
 .	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
 4r	.	4r	.	8d	.	8ddd	.	.	.	.	2A-] 2B-]	.	8dd	.	2a-] 2b-]	.
@@ -23,7 +23,7 @@
 4AA	.	4AA	.	(8fL	.	(8fffL	.	4r	4r	.	.	.	8ffL	.	.	.
 .	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-4D^	.	4D^	.	8d	.	8ddd	.	2an	2cc-X	pp	[4A^ [4BX	.	8dd	.	[4an^ [4bn	.
+4D^	.	4D^	.	8d	.	8ddd	.	2an	2cc-X	pp	[4An^ [4BnX	.	8dd	.	[4an^ [4bn	.
 .	.	.	.	8c#XJ)	.	8ccc#XJ)	.	.	.	.	.	.	8cc#XJ	.	.	.
 4r	.	4r	.	(8fL	.	(8fffL	.	.	.	.	2A] 2B]	]	8ffL	.	2a] 2b]	]
 .	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
