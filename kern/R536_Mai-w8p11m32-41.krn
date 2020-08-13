@@ -1,8 +1,8 @@
-!!!COM: Frank Martin
-!!!OTL: [R536_Mai-w8p11m32-41]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Martin, Frank
+!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
+!!!OMV: No. 3
+!!!example: 536
+!!!work: Mai-8
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*staff1
@@ -12,7 +12,7 @@
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1
+=32	=32	=32	=32	=32	=32	=32	=32
 [1G [1d	>	8r	.	8r	.	1g	cieux.
 .	.	8g'	>	8gg'	>	.	.
 .	.	8an'L	.	8ff'L	.	.	.
@@ -21,7 +21,7 @@
 .	.	8b-'	.	8ee-'	.	.	.
 .	.	8a'	.	8ff'	.	.	.
 .	.	8g'J	.	8gg'J	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2
+=33	=33	=33	=33	=33	=33	=33	=33
 2.G_ 2.d_	.	8an'L	.	8ff'L	.	1r	.
 .	.	8cc'J	.	8dd'J	.	.	.
 .	.	[4cc	.	[4dd	.	.	.
@@ -29,20 +29,20 @@
 .	.	8r	.	8r	.	.	.
 8G] 8d]	.	(8a-XL	.	(8ffL	.	.	.
 8r	]	8ccJ)	.	8ddJ)	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3
+=34	=34	=34	=34	=34	=34	=34	=34
 2r	.	[2cc	.	[2dd	.	1r	.
 8r;	.	8cc]	]	8dd]	]	.	.
 (8D	.	8r	.	8r	.	.	.
 8CL)	.	4r;	.	4r;	.	.	.
 8C'J	.	.	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4
+=35	=35	=35	=35	=35	=35	=35	=35
 4.GG	.	1r	.	1r	.	1r	.
 (8BB-	.	.	.	.	.	.	.
 8AA-'L)	.	.	.	.	.	.	.
 8AA-'	.	.	.	.	.	.	.
 8EE-'	.	.	.	.	.	.	.
 8FF'J	.	.	.	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5
+=36	=36	=36	=36	=36	=36	=36	=36
 [1CC [1GG	> ]	2r	.	8r	.	1r	.
 .	.	.	.	(8dd	mf	.	.
 .	.	.	.	8cc'L)	.	.	.
@@ -51,7 +51,7 @@
 .	.	(8d	mf	.	.	.	.
 .	.	8c'L)	.	.	.	.	.
 .	.	8c'J	.	(8dd	.	.	.
-=6	=6	=6	=6	=6	=6	=6	=6
+=37	=37	=37	=37	=37	=37	=37	=37
 1CC_ 1GG_	p	4.G	>	8ccL	>	1r	.
 .	.	.	.	8g	.	.	.
 .	.	.	.	8dd	.	.	.
@@ -60,7 +60,7 @@
 .	.	8G	.	8dd	.	.	.
 .	.	8d	.	8cc	.	.	.
 .	.	8cJ)	]	8gJ	]	.	.
-=7	=7	=7	=7	=7	=7	=7	=7
+=38	=38	=38	=38	=38	=38	=38	=38
 1CC_ 1GG_	.	(8GL	p	8ddL	p	4r	.
 .	.	8d	.	8cc	.	.	.
 .	.	8c	.	8g	.	4c	-.
@@ -69,7 +69,7 @@
 .	.	8c	.	8g	.	.	.
 .	.	8G	.	8dd	.	4d	di-
 .	.	8dJ)	.	8ccJ)	.	.	.
-=8	=8	=8	=8	=8	=8	=8	=8
+=39	=39	=39	=39	=39	=39	=39	=39
 1CC_ 1GG_	.	(8cL	.	8r	.	2.e-	-sait
 .	.	8G	.	(8dd	.	.	.
 .	.	8d	.	8ccL	.	.	.
@@ -78,7 +78,7 @@
 .	.	(8d	<	8cc	.	.	.
 .	.	8cL	.	8g	.	4e-	la
 .	.	8GJ)	.	8ddJ	.	.	.
-=9	=9	=9	=9	=9	=9	=9	=9
+=40	=40	=40	=40	=40	=40	=40	=40
 1CC] 1GG]	.	(8dL	.	8ccL	.	4f	nym-
 .	.	8c	.	8g	.	.	.
 .	.	8G	.	8dd	.	4f	-phe
@@ -87,7 +87,7 @@
 .	.	8G	.	(8dd	.	.	.
 .	.	8d	.	8ccL	.	4g	m'af-
 .	.	8cJ)	.	8gJ	.	.	.
-=10	=10	=10	=10	=10	=10	=10	=10
+=41	=41	=41	=41	=41	=41	=41	=41
 [1FF [1C	.	8r	.	8ddL	.	2.a-	-fo-
 .	.	(8d	.	8cc	.	.	.
 .	.	8cL	.	8g	.	.	.
@@ -99,22 +99,22 @@
 =||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[(s3,s4)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Vocal; Solo
+!!!MCN: Martin, Frank
+!!!MDT: 1923/04/07
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Geneva, Switzerland
+!!!MPD: 1923
+!!!MPN: Wyss, Colette
+!!!ODT: 1921
+!!!PDT: 1940?
+!!!excerpt-start-measure: 32
+!!!excerpt-end-measure: 41
+!!!excerpt-start-time: 1:02
+!!!excerpt-end-time: 1:23
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

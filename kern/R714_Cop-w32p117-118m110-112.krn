@@ -1,8 +1,8 @@
-!!!COM: Aaron Copland
-!!!OTL: [R714_Cop-w32p117-118m110-112]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Copland, Aaron
+!!!OTL: The Red Pony, Suite for Orchestra
+!!!OMV: Movement 6: Happy Ending
+!!!example: 714
+!!!work: Cop-32
 **kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part18	*part17	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part11	*part11	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff19	*staff18	*staff17	*staff16	*	*staff15	*	*staff14	*staff13	*staff12	*staff11	*	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -14,7 +14,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*	*k[b-]	*	*k[b-]	*k[b-]	*k[]	*k[b-]	*	*k[b-]	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*F:	*F:	*F:	*	*F:	*	*F:	*F:	*C:	*F:	*	*F:	*	*	*	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 *	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!LO:TX:t=[half]=72	!	!	!LO:TX:b:t=[f]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=72	!
 !LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!	!	!	!	!LO:TX:b:t=[f]	!
@@ -28,7 +28,7 @@
 .	8c	8d 8f	.	.	.	.	8c 8d 8f	8b- 8dd	8Re/	4G	.	.	4g	.	.	4dd	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	4ddd	.
 !	!	!	!LO:TX:a:t=div.	!	!LO:TX:a:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	8cJ	8dJ 8f	8cc 8ccc	ff	8cc 8ccc	ff	8cJ 8d 8f	8b-J 8dd	8Re/J	.	.	.	.	8c	.	.	.	8cJ 8f	.	8b-J	.	8cJ	.	8ddJ	.	.	.	8b-J 8dd	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -63,7 +63,7 @@
 8r	8c	8d 8f	.	.	.	.	8c 8d 8f	8b- 8dd 8ff	8Re/	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
 .	.	.	6gg 6ggg	.	6gg 6ggg	.	.	.	.	.	.	.	.	6g	6g	.	6gg	.	.	.	.	.	.	.	.	.	.	.	.	.	6gg	.
 8C	8cJ	8dJ 8f	.	.	.	.	8cJ 8d 8f	8b-J 8dd 8ff	8Re/J	8CC	8CC	ff	8C	.	.	.	.	.	8cJ 8f	.	8ddJ	.	8cJ	.	8ddJ	.	8b-J 8ff	.	8b-J 8dd	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
 !LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -105,22 +105,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5)][([(s6,s7)][(s8,s9)][(s10,s11)])]s12[({(s13,s14)})][([(s15,s16)]s17,s18,s19)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Kurtz, Efrem
+!!!MDT: 1948/10/30
+!!!MGN: Houston Symphony Orchestra
+!!!MLC: Houston, Texas, United States of America
+!!!MPD: 1948
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1948
+!!!PDT: 1951
+!!!excerpt-start-measure: 110
+!!!excerpt-end-measure: 112
+!!!excerpt-start-time: 2:30
+!!!excerpt-end-time: 2:35
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

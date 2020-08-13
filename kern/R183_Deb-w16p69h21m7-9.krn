@@ -1,8 +1,8 @@
-!!!COM: (Achille-) Claude Debussy
-!!!OTL: [R183_Deb-w16p69h21m7-9]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Nocturnes for Orchestra
+!!!OMV: II: Fêtes (Festivals)
+!!!example: 183
+!!!work: Deb-16
 **kern	**dynam	**kern	**dynam	**kern	**dynam
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,8 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[]	*
 *A:	*	*A:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*
-=1	=1	=1	=1	=1	=1
+=266	=266	=266	=266	=266	=266
+!LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
 !LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!LO:TX:t=[quarter]=135	!
 !LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
 12AAL	pp	12AAL	pp	8Rcc^\	ppp
@@ -28,7 +29,7 @@
 12GG	.	12GG	.	.	.
 12GGJ	.	12GGJ	.	.	.
 .	.	.	.	16Rcc\Jk	.
-=2	=2	=2	=2	=2	=2
+=267	=267	=267	=267	=267	=267
 12AA-XL	.	12AA-XL	.	8.Rcc\L	.
 12AA-	.	12AA-	.	.	.
 12AA-J	.	12AA-J	.	.	.
@@ -41,7 +42,7 @@
 12FF#L	.	12FF#L	.	12Rcc\L	.
 12FF#	.	12FF#	.	12Rcc\	.
 12FF#J	.	12FF#J	.	12Rcc\J	.
-=3	=3	=3	=3	=3	=3
+=268	=268	=268	=268	=268	=268
 12AAnL	.	12AAnL	.	8.Rcc\L	.
 12AA	.	12AA	.	.	.
 12AAJ	.	12AAJ	.	.	.
@@ -57,22 +58,22 @@
 =	=	=	=	=	=
 *-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1[(s2,s3)])]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Chevillard, Camille
+!!!MDT: 1901/10/27
+!!!MGN: Orchestre Lamoureux
+!!!MLC: Paris, France
+!!!MPD: 1901
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1899
+!!!PDT: 1901
+!!!excerpt-start-measure: 266
+!!!excerpt-end-measure: 268
+!!!excerpt-start-time: 5:54
+!!!excerpt-end-time: 5:58
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

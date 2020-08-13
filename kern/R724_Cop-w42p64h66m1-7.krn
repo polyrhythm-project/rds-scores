@@ -1,8 +1,8 @@
-!!!COM: Aaron Copland
-!!!OTL: [R724_Cop-w42p64h66m1-7]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Copland, Aaron
+!!!OTL: Music for a Great City for Orchestra
+!!!OMV: Movement 3: Subway Jam
+!!!example: 724
+!!!work: Cop-42
 **kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
 *part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*
 *C:	*C:	*C:	*C:	*C:	*	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1
+=30	=30	=30	=30	=30	=30	=30	=30
 !	!	!	!	!	!	!LO:TX:t=[quarter]=132	!
 !LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!	!LO:TX:b:t=[mf]	!
 4r	16r	8.r	16Re/LL)	4r	.	4r	.
@@ -33,7 +33,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2
+=31	=31	=31	=31	=31	=31	=31	=31
 4r	16r	8.r	16Re/LL	4r	.	4r	.
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	.	.	.	.
@@ -50,7 +50,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3
+=32	=32	=32	=32	=32	=32	=32	=32
 4r	16r	8.r	16Re/LL	8FF#X^)	.	8C^ 8Dn)	.
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	[	8r	[
@@ -67,7 +67,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4
+=33	=33	=33	=33	=33	=33	=33	=33
 4r	16r	8.r	16Re/LL	8F'^)	.	8G'^ 8e-X)	.
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	.	8r	.
@@ -84,7 +84,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5
+=34	=34	=34	=34	=34	=34	=34	=34
 4r	16r	8.r	16Re/LL	8FFn'^)	[	8C'^ 8D-X)	[
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	.	8r	.
@@ -101,7 +101,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=6	=6	=6	=6	=6	=6	=6	=6
+=35	=35	=35	=35	=35	=35	=35	=35
 4r	16r	8.r	16Re/LL	8r	.	8r	.
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	4.D~	.	4.E-X~ 4.B-X	.
@@ -118,7 +118,7 @@
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
-=7	=7	=7	=7	=7	=7	=7	=7
+=36	=36	=36	=36	=36	=36	=36	=36
 4r	16r	8.r	16Re/LL	8D'^)	[	8E-X'^ 8B-X)	[
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	.	8r	.
@@ -138,22 +138,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Copland, Aaron
+!!!MDT: 1964/05/26
+!!!MGN: London Symphony Orchestra
+!!!MLC: London, United Kingdom
+!!!MPD: 1964
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1964
+!!!PDT: 1965
+!!!excerpt-start-measure: 30
+!!!excerpt-end-measure: 36
+!!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:03
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

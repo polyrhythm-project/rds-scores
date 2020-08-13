@@ -1,8 +1,8 @@
-!!!COM: (Achille-) Claude Debussy
-!!!OTL: [R180_Deb-w40p21h15m5-7]
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Jeux (Games), Ballet in One Act for Orchestra
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 180
+!!!work: Deb-40
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -13,16 +13,17 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*F:	*	*F:	*	*A:	*	*A:	*	*A:	*	*A:	*
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 !LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=4o	!	!LO:TX:b:t=2o	!	!LO:TX:b:i:t=doux	!	!LO:TX:a:i:t=léger	!	!	!	!LO:TX:t=[quarter-dot]=72	!
-8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	32aLLL	p	32bLLL	p	32ddLLL	p	32ee#XLLL	p	32ee#XLLL	p	(20.bLL	>	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
+8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	32aLLL	p	32bLLL	p	32ddLLL	p	32ee#XLLL	p	32ee#XLLL	p	(20.bLL]	>	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.a	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
 .	.	.	.	.	.	32bLL	.	32f#LL	.	32aLL	.	32ff#LL	.	32ff#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 .	.	.	.	.	.	32b	.	32f#	.	32a	.	32ff#	.	32ff#	.	.	.	.	.	.	.	.	.	24ddL	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.g#	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32bJJ	.	32f#JJ	.	32aJJ	.	32ff#JJ	.	32ff#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -31,6 +32,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
 .	.	.	.	.	.	32f#	.	32a	.	32dd	.	32gg#	.	32gg#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.f#	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 .	.	.	.	.	.	32f#JJ	.	32aJJ	.	32ddJJ	.	32gg#JJ	.	32gg#JJ	.	.	.	.	.	.	.	16.dLL] 16.f#]	.	24aL	.	.	.	.	.
 .	.	.	.	.	.	32aLL	.	32ddLL	.	32ff#LL	.	32aaLL	.	32bbLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.	.	.
@@ -38,7 +40,7 @@
 .	.	.	.	.	.	32a	.	32dd	.	32ff#	.	32aa	.	32bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.
 .	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	.	.	.	.	.	32AJJk 32e#X	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
 !	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
@@ -57,6 +59,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!LO:TX:b:i:t=doux	!	!LO:TX:b:i:t=doux	!	!	!	!LO:TX:b:i:t=léger	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	8%3r	.	([4d	p	([4f#X	p	4.F# 4.A)	.	16b)	(24bLL	p	(20.e#XLL	p >	(20.bbLL	p >
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
@@ -64,6 +67,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.f#	.	20.aa	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
 .	.	.	.	.	.	32bLL	.	32f#LL	.	32aLL	.	32ff#LL	.	32ff#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 .	.	.	.	.	.	32b	.	32f#	.	32a	.	32ff#	.	32ff#	.	.	.	.	.	.	.	.	.	8r	24ddL	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.g#	.	20.gg#	.
 .	.	.	.	.	.	32bJJ	.	32f#JJ	.	32aJJ	.	32ff#JJ	.	32ff#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -80,7 +84,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.
 .	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	.	32AJJk	.	32e#XJJk	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
 8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(20.bLL	p >	4.F#X)	.	4.A)	.	([4d [4f#	.	(24bLL	16b)	.	8%3r	.	8%3r	.
@@ -109,22 +113,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][([(s5,s6)]s7)][([(s8,s9)][(s10,s11)][(s12,s13)][(s14,s15)])]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Monteux, Pierre
+!!!MDT: 1913/05/15
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1913
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 130
+!!!excerpt-end-measure: 132
+!!!excerpt-start-time: 3:12
+!!!excerpt-end-time: 3:15
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

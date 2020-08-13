@@ -1,8 +1,8 @@
-!!!COM: (Joseph) Maurice Ravel
-!!!OTL: [R295_Rav-w23p20h22m1-4]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Piano Trio
+!!!OMV: II: Pantoum: Assez vif (Lively enough)
+!!!example: 295
+!!!work: Rav-23
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part3	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *A:	*A:	*	*A:	*	*A:	*
 *M3/4	*M3/4	*	*M3/4	*	*M3/4	*
 *8ba	*	*	*	*	*8va	*
-=1	=1	=1	=1	=1	=1	=1
+=235	=235	=235	=235	=235	=235	=235
 *^	*^	*	*	*	*	*
 *	*^	*	*	*	*	*	*	*
 !	!	!	!LO:TX:b:t=[pp]	!	!	!LO:TX:a:t=arco	!	!	!
@@ -26,7 +26,7 @@
 .	.	4Fn\	4Fn	.	.	8a'`L	.	8aaa'`L	.
 .	.	.	.	.	.	8a'`	.	8aaa'`	.
 *	*v	*v	*	*	*	*	*	*	*
-=2	=2	=2	=2	=2	=2	=2	=2	=2
+=236	=236	=236	=236	=236	=236	=236	=236	=236
 [2AA	12AL	12AL	4Cn	>	8ccn'	.	8ccccn'	.
 .	12Gn	12Gn	.	.	.	.	.	.
 .	.	.	.	.	8dd'J	.	8dddd'J	.
@@ -40,7 +40,7 @@
 4AA]	4G	4E-X 4G)	4Cn	]	8a'L	.	8aaa'L	.
 .	.	.	.	.	8a'	.	8aaa'	.
 *	*	*v	*v	*	*	*	*	*
-=3	=3	=3	=3	=3	=3	=3	=3
+=237	=237	=237	=237	=237	=237	=237	=237
 *	*^	*	*	*	*	*	*
 4r	2.AAA 2.AA	4ryy	4r	.	8gn'	.	8gggn'	.
 .	.	.	.	.	8a'J	.	8aaa'J	.
@@ -49,7 +49,7 @@
 .	.	4D\	4d	[	8fn'	.	8fffn'	.
 .	.	.	.	.	8g'J	.	8ggg'J	.
 *	*v	*v	*	*	*	*	*	*
-=4	=4	=4	=4	=4	=4	=4	=4
+=238	=238	=238	=238	=238	=238	=238	=238
 *	*	*^	*	*	*	*	*
 2F#X	12FnL	12fnL	2A	>	8a'L	.	8aaa'L	.
 .	12E-X	12e-X	.	.	.	.	.	.
@@ -66,22 +66,22 @@
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[({(s3,s4)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
+!!!MDT: 1915/01/28
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Paris, France
+!!!MPD: 1915
+!!!MPN: Casella, Alfredo; Enesco, George; Feuillard, Louis
+!!!ODT: 1914
+!!!PDT: 1915
+!!!excerpt-start-measure: 235
+!!!excerpt-end-measure: 238
+!!!excerpt-start-time: 4:07
+!!!excerpt-end-time: 4:12
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

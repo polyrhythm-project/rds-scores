@@ -1,8 +1,8 @@
-!!!COM: George Gershwin
-!!!OTL: [R688_Ger-w3p19h14m1-3]
+!!!COM: Gershwin, George
+!!!OTL: Rhapsody in Blue for Orchestra
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 688
+!!!work: Ger-3
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part18	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -13,7 +13,7 @@
 *k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*	*k[]	*k[b-]	*k[b-]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*G:	*	*C:	*F:	*F:	*G:	*G:	*G:	*G:	*G:	*G:
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=72
 !	!	!	!LO:TX:t=[half]=72	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120
 !	!	!	!LO:TX:t=[quarter]=120	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Con moto
@@ -29,7 +29,7 @@
 *	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*
 8E	8E	4G^ 4d	4B^ 4g	4g^ 4dd 4bb	8E	8e	8E	4d 4g 4b	4dd 4gg 4bb 4ddd	.	4Ree\	4d^	4B^ 4g	8E	8e	8bL	8ggL	8ddL	8bbL
 8DJ	8DJ	.	.	.	8DJ	8dJ	8DJ	.	.	.	.	.	.	8DJ	8dJ	8bJ	8ggJ	8ddJ	8bbJ
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
 (16qqD/LL	(16qqD/LL	.	.	.	(16qqD/LL	(16qqd/LL	(16qqD/LL	.	.	.	.	.	.	.	.	.	.	.	.
 16qqE/JJ	16qqE/JJ	.	.	.	16qqE/JJ	16qqe/JJ	16qqE/JJ	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
@@ -45,7 +45,7 @@
 .	.	4d^ 4f	4B^ 4g#	4g#^ 4dd 4bb	.	.	.	4d 4fn 4g#X 4b	4dd 4ffn 4gg#X 4ddd	.	4Ree\	4f^	4B^ 4g#	.	.	8r	8r	8r	8r
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	8gg#	8dd	8bb
 *	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
 6AA^	6AA^	4d^ 4f#X	4c^ 4a	4d^ 4a 4ff#X 4ccc	6A^	6A^	6A^	8AAL	2r	.	4Ree\	4d^	4A^ 4f#X	6AA^	6A^	8cc	8ff#X	8dd	8ccc
 .	.	.	.	.	.	.	.	8D	.	.	.	.	.	.	.	8r	8r	8r	8r
 6BB^	6BB^	.	.	.	6B^	6B^	6B^	.	.	.	.	.	.	6BB^	6B^	.	.	.	.
@@ -61,22 +61,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2[(s3,s4)]s5,s6)][(s7,s8)][(s9)][({(s10,s11)})][(s12,s13,s14,s15)][(s16,s17,s18,s19)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral; Concerto
+!!!MCN: Whiteman, Paul
+!!!MDT: 1924/02/12
+!!!MGN: Paul Whiteman Band
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN: Gerschwin, George
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 138
+!!!excerpt-end-measure: 140
+!!!excerpt-start-time: 5:41
+!!!excerpt-end-time: 5:46
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

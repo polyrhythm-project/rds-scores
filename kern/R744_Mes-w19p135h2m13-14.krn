@@ -1,8 +1,8 @@
-!!!COM: Olivier (Eugène Prosper Charles) Messiaen
-!!!OTL: [R744_Mes-w19p135h2m13-14]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
+!!!example: 744
+!!!work: Mes-19
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**text	**kern	**kern
 *part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff3	*staff2	*staff1
@@ -14,7 +14,7 @@
 *C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*C:	*	*C:	*C:
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4
 *	*	*	*	*	*	*	*	*	*	*8ba	*8va	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100
 !	!	!	!LO:TX:b:t=[ff]	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!	!LO:TX:b:t=[f]
 !LO:TX:b:t=[ff]	!LO:TX:b:t=[ff]	!LO:TX:b:t=[ff]	!LO:TX:a:t=[mf]	!	!LO:TX:b:t=[fff]	!LO:TX:b:t=[fff]	!LO:TX:b:t=[fff]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!	!LO:TX:b:t=[ffff]	!LO:TX:a:t=[ff]	!	!	!LO:TX:b:t=[f]
@@ -45,7 +45,7 @@
 8FFn^J	8FFn^J	8Fn^J	8Fn^J	.	(16a	(16cc 16dd	(16ff# 16bb-X	.	.	8FFFn^J 8FFn	.	8fnJ	-tre	8eeJ	8dddJ
 .	.	.	.	12enJ)	.	.	.	12b-XJ)	12ee-XJ 12aa-X)	.	.	.	.	.	.
 .	.	.	.	.	16g#XJJ)	16b-XJJ 16cc#X)	16ffnJJ 16aa)	.	.	.	16eee-XJk	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 *	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*
 8BB^L	8BB^L	8B^L	8B^L	8g	(16f#XLL	(16aLL 16ccn	(16eeLL 16gg#X	(12gL 12dd-X	(12eenL 12aan	8BBB^L 8BB	24aaanLL	8bL	Ver-	8ee-XL	8ggg#XL
 .	.	.	.	.	.	.	.	.	.	.	24ddd	.	.	.	.
@@ -80,22 +80,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]s3[({(s4,s5)})][(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Choral
+!!!MCN: Désormière, Roger
+!!!MDT: 1945/04/21
+!!!MGN: Orchestre de la Société des Concerts du Conservatoire; Chorale Yvonne Gouverné
+!!!MLC: Paris, France
+!!!MPD: 1945
+!!!MPN: Grimaud, Yvette; Loriod, Yvonne; Martenot, Ginettea
+!!!ODT: 1944
+!!!PDT: 1952
+!!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 1:49
+!!!excerpt-end-time: 1:54
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

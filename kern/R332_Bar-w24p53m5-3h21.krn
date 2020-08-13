@@ -1,8 +1,8 @@
-!!!COM: Béla Bartók
-!!!OTL: [R332_Bar-w24p53m5-3h21]
+!!!COM: Bartók, Béla
+!!!OTL: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 332
+!!!work: Bar-24
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
 !	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!LO:TX:b:t=[mf]	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=a 3	!	!	!	!	!	!LO:TX:t=[quarter]=74	!
 4C#Xt	p	4GG#Xt	p	4FnT	p	4AnT	p	4B#X	.	8r	.	8r	.	(8d#X	p	((8.B#XL	p	8F'L 8A	f	2r	.	4B#X	mf	1r	.	1r	.	2r	.
@@ -31,7 +31,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
 4AnT	[	4D#Xt	[	4Bt	[	4e#Xt	[	4a#X~	[	8r	.	8r	.	.	.	8d#)	.	.	.	4c-X~ 4f	.	4a#X~)	[	.	.	.	.	4a#X~)	.
 .	.	.	.	.	.	.	.	.	.	8AA'^^J	[	8D#X'^^J	[	.	.	8r	[	.	.	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
@@ -54,7 +54,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!
 4AnT	[	4D#Xt	[	4Bt	[	4e#Xt	[	4a#X~	[	4AA~	[	4D#X~	[	.	.	8d#)	.	8r	.	8r	.	4a#X~)	[	4b-~)	.	.	.	4a#X~)	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	[	8c-X'^^J	.	8f'^^J	[	.	.	.	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209
 4C#Xt	<	4GG#Xt	<	4FnT	.	4AnT	.	(16B#XLL	.	8r	.	8r	.	1r	.	((8.B#XL	.	8F'L	.	8A'L	.	(16B#XLL	.	(16cLL	.	2r	.	(16B#XLL	.
 .	.	.	.	.	.	.	.	16A#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#X)	.	16B-)	.	.	.	16A#X)	.
 .	.	.	.	.	.	.	.	(16A#	.	8CC#X'L	<	8GG#X'L	< <	.	.	.	.	8r	.	8r	.	(16A#	.	(16B-	.	.	.	(16A#	.
@@ -74,22 +74,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Stage; Ballet
+!!!MCN: Szenkár, Eugen
+!!!MDT: 1926/11/27
+!!!MGN: unknown
+!!!MLC: Cologne, Germany
+!!!MPD: 1926
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1919 (rev. 1931)
+!!!PDT: 1924
+!!!excerpt-start-measure: 207
+!!!excerpt-end-measure: 209
+!!!excerpt-start-time: 6:13
+!!!excerpt-end-time: 6:44
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

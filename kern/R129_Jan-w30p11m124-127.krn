@@ -1,8 +1,8 @@
-!!!COM: Leoš [Leo Eugen] Janáček
-!!!OTL: [R129_Jan-w30p11m124-127]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Pohádka (Fairy Tale) for Violincello and Piano
+!!!OMV: Movement 1
+!!!example: 129
+!!!work: Jan-30
 **kern	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part2	*part2	*part2	*part1	*part1
@@ -13,7 +13,7 @@
 *k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*A:	*	*A:	*
 *M2/8	*M2/8	*	*M2/8	*
-=1	=1	=1	=1	=1
+=124	=124	=124	=124	=124
 *^	*	*	*	*
 !	!	!	!	!LO:TX:t=[eighth]=84	!
 !	!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[mf cresc.]	!
@@ -26,7 +26,7 @@
 .	.	.	.	24BB'JJ 24E)	[
 16BJk	.	.	.	.	.
 .	.	.	.	24gn	.
-=2	=2	=2	=2	=2	=2
+=125	=125	=125	=125	=125	=125
 !	!	!	!	!LO:TX:b:i:t=cresc.	!
 24EE	8ryy	(64ff#XLLLL	.	(16aLL	f
 .	.	64ee	.	.	.
@@ -42,7 +42,7 @@
 24E'LL	24ryy	.	.	.	.
 .	.	.	.	16BJJ)	.
 24E'JJ 24G	24ryy	.	.	.	.
-=3	=3	=3	=3	=3	=3
+=126	=126	=126	=126	=126	=126
 24C#X	24C#	8r	.	(8.eL	.
 24E'LL	24ryy	.	.	.	.
 24E'JJ 24Gn	24ryy	.	.	.	.
@@ -50,7 +50,7 @@
 24E'LL	24ryy	.	.	.	.
 .	.	.	.	16gnJk)	.
 24E'JJ 24G	24ryy	.	.	.	.
-=4	=4	=4	=4	=4	=4
+=127	=127	=127	=127	=127	=127
 24EE	24EE	(64ff#XLLLL	.	(16aLL	.
 .	.	64ee	.	.	.
 .	.	64b	.	.	.
@@ -69,22 +69,22 @@
 =	=	=	=	=
 *-	*-	*-	*-	*-
 !!!system-decoration: s1[({(s2,s3)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
+!!!MDT: 1910/03/13
 !!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MLC: Brno, Czechia
+!!!MPD: 1910
+!!!MPN: Pavlata, Rudolf; Prokopová, Ludmila
+!!!ODT: 1910 (rev. 1923)
+!!!PDT: 1910
+!!!excerpt-start-measure: 124
+!!!excerpt-end-measure: 127
+!!!excerpt-start-time: 3:53
+!!!excerpt-end-time: 3:58
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: Bohuslav (Jan) Martinů
-!!!OTL: [R492_Mau-w24p19m99-104]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Piano Trio No. 1
+!!!OMV: Movement 5
+!!!example: 492
+!!!work: Mau-24
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part3	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff3	*	*staff2	*	*staff1	*
@@ -13,7 +13,7 @@
 *C:	*C:	*	*C:	*	*C:	*
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
-=1	=1	=1	=1	=1	=1	=1
+=99	=99	=99	=99	=99	=99	=99
 !	!	!	!	!	!LO:TX:t=[half]=132	!
 !	!LO:TX:b:t=[f]	!	!LO:TX:b:i:t=espr.	!	!LO:TX:b:i:t=espr.	!
 8d'	8ddd	.	(4F#X	f <	(4ddd	f <
@@ -24,30 +24,30 @@
 4B-X'	4gg' 4bbn 4ggg	.	.	.	.	.
 4e-X' 4gn	4een' 4gg#X 4eeen	.	(4Fn	<	(4ccc#X	<
 *clefF4	*	*	*	*	*	*
-=2	=2	=2	=2	=2	=2	=2
+=100	=100	=100	=100	=100	=100	=100
 4G'	4aa' 4ccc#X 4aaa	.	2d-X)	[	2aaa-X)	[
 4c#X' 4e	4ff#X' 4aa#X 4fff#X	.	.	.	.	.
 4E'	4ddn' 4ffn 4aan 4dddn	.	(4E	<	(4cccn	<
 4B-X' 4d	4aa-X' 4cccn 4aaa-X	.	4c)	[	4aaa-X)	[
-=3	=3	=3	=3	=3	=3	=3
+=101	=101	=101	=101	=101	=101	=101
 4C#X'	4een' 4gg#X 4eeen	.	(4B	<	(4een	<
 4G#X' 4Bn	4cc#X' 4ee#X 4ccc#X	.	2g)	.	2ccc#X)	[
 4F#X'	4ff#X' 4aa 4fff#X	.	.	.	.	.
 *	*X8va	*	*	*	*	*
 4B' 4d	4dd' 4ffn 4ddd	.	(4f	[ <	(4dd	<
-=4	=4	=4	=4	=4	=4	=4
+=102	=102	=102	=102	=102	=102	=102
 4E'	4b' 4dd 4bb	.	2a-X)	[	2bb)	[
 *clefG2	*	*	*	*	*	*
 4d-X' 4f	4ff' 4ddd-X 4fff	.	.	.	.	.
 4dn' 4f#X	4cc#X' 4aa 4ccc#X	.	(4f#X	<	(4cc#X	<
 4e-X' 4g	4a' 4ffn 4aa	.	4an)	[	4aa)	[
 *	*	*	*clefG2	*	*	*
-=5	=5	=5	=5	=5	=5	=5
+=103	=103	=103	=103	=103	=103	=103
 4c' 4en	4ee' 4ccc 4eee	.	(4g	.	(4b	.
 4d-X' 4f	4cc' 4aa-X 4ccc	.	2dd)	.	2fn)	.
 4dn' 4f#X	4g#X' 4ee 4gg#X	.	.	.	.	.
 4B' 4d#X	4dd#X' 4bb 4ddd#X	.	(4d#X	.	(4g	.
-=6	=6	=6	=6	=6	=6	=6
+=104	=104	=104	=104	=104	=104	=104
 4c' 4e	4b' 4gg 4bb	.	2b)	.	2d)	.
 4d-X' 4f	4g' 4ee-X 4gg	.	.	.	.	.
 4d-' 4f#X	4en' 4cc 4een	.	(4c#X	.	(4e	.
@@ -55,22 +55,22 @@
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Instrumental; Chamber
 !!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!MDT: 1930/11/14
+!!!MGN: Trio Filomusi
+!!!MLC: Paris, France
+!!!MPD: 1930
+!!!MPN: unknown
+!!!ODT: 1930
+!!!PDT: 1931
+!!!excerpt-start-measure: 99
+!!!excerpt-end-measure: 104
+!!!excerpt-start-time: 1:34
+!!!excerpt-end-time: 1:40
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
