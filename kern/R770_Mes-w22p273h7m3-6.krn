@@ -1,8 +1,8 @@
-!!!COM: Olivier (Eugène Prosper Charles) Messiaen
-!!!OTL: [R770_Mes-w22p273h7m3-6]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
+!!!OMV: VII: Turangalîla 2
+!!!example: 770
+!!!work: Mes-22
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part29	*part29	*part28	*part28	*part27	*part27	*part26	*part26	*part25	*part25	*part24	*part24	*part23	*part23	*part22	*part21	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff30	*	*staff29	*	*staff28	*	*staff27	*	*staff26	*	*staff25	*	*staff24	*staff23	*staff22	*staff21	*staff20	*staff19	*	*staff18	*	*staff17	*	*staff16	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -14,7 +14,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*k[]	*	*k[b-]	*	*k[]	*	*k[f#c#g#]	*k[f#c#g#]	*	*k[]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[f]	!	!	!
 !LO:TX:a:t=pizz. (sempre)	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[ff]	!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[pp]	!	!LO:TX:b:t=[fff]	!	!	!	!	!	!	!	!	!LO:TX:b:t=[ff]	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2.	!	!LO:TX:t=[quarter]=100	!
 4BBn'	ff	16r	.	16r	.	16r	.	16r	.	2r	.	8cnL 8fn 8f#X	16ddKL 16ee-X 16gg 16bb-X	8aaL 8bb	16fffnLL	4gg	[2Re/	.	16Re/LL	.	8.RdT\	.	16Re/	8r	.	4r	.	16r	.	8r	.	[4Re/	.	2r	2r	16r	.	8r	.	8r	.	2r	8r	.	4r	.	(16fff	.	4r	.
@@ -30,7 +30,7 @@
 *	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!
 .	.	16BB#X	p	16F#X 16c#X	p	16gn 16ddn	p	16a 16ee	p	.	.	[16cnJk [16fn [16f#X	[16ccnJk [16cc#X [16ff#X [16aa	[16gg#XJk [16aa#X	16cccnJJ	.	.	.	16Re/Jk	.	.	.	.	.	.	16Re/	p	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16c#X	p	.	.	16ccnJJ)	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=sff pp	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!LO:TX:b:t=g.	!	!	!	!	!	!	!	!LO:TX:b:t=sfff	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=sff pp	!LO:TX:b:t=sff pp	!	!	!LO:TX:a:t=4.	!	!LO:TX:b:t=sff pp	!	!LO:TX:b:t=sff pp	!	!	!	!	!LO:TX:a:t=1.	!	!	!
 4r	.	2r	.	2r	.	2r	.	2r	.	4EE	pp	16cKL] 16fn] 16f#X]	16ccnKL] 16cc#X] 16ff#] 16aa]	8gg#L] 8aa#]	16ff#XLL	16cc#XKL]	4Re/_	.	16Re/LL	.	2Rd\_	.	[2Re^/	2r	.	2r	.	2r	.	2r	.	4Re/]	.	[4DDn	[4EE [4GG#X [4BB	2r	.	[4EE	.	[4BBB-X [4DDn [4FF	.	[4C#	2r	.	2r	.	(16ff#XLL	p	2r	.
@@ -44,7 +44,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qRe/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	16eee-X	[8b-XJ	.	.	[8Re~/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eee-X	.	.	.
 [16C'	.	.	.	.	.	.	.	.	.	.	.	.	[16ccnJk [16cc#X [16ff#X [16aa	.	16aaJJ	.	[16Re/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	16r	.	.	16r	.	16r	.	16r	.	.	.	.	16aaJJ	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 8.C]	.	16r	.	16r	.	16r	.	16r	.	2r	.	8.d#XL 8.g#X 8.a	8ccnL] 8cc#X] 8ff#X] 8aa]	4cc] 4dd]	16eee-XLL	4.b-X]	2Re/_	.	8Re/L]	.	4Rd\_	.	8Re/]	8r	.	4r	.	16r	.	8r	.	4Re/]	.	2r	2r	16r	.	8r	.	8r	.	2r	8r	.	4r	.	16eee-XLL	.	4r	.
 .	.	16Fn^	ff	16ccn^ 16ggn	ff	16ff#X^ 16ccc#X	ff	16gg#X^ 16ddd#X	ff	.	.	.	.	.	16ccc#X	.	.	.	.	.	.	.	.	.	.	.	.	[8.Re^/	ff	.	.	.	.	.	.	16cc^	ff	.	.	.	.	.	.	.	.	.	16ccc#X	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.3.2.	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!
@@ -64,7 +64,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!
 .	.	16BB#X	p	16F#X 16c#X	p	16gn 16ddn	p	16a 16ee	p	.	.	[16d#XJJ [16g#X [16an	.	.	16bbb-XJJ	.	.	.	.	.	.	.	.	.	.	16Re/	p	16r	.	16Rf/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16c#X	p	16r	.	16bb-XJJ)	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=sff pp	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!LO:TX:b:t=g.	!	!	!	!LO:TX:b:i:t=molto	!	!	!	!LO:TX:b:t=sfff	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=sff pp	!LO:TX:b:t=sff pp	!	!	!LO:TX:a:t=4.	!	!LO:TX:b:t=sff pp	!	!LO:TX:b:t=sff pp	!	!	!	!	!LO:TX:a:t=1.	!	!	!
 4r	.	2r	.	2r	.	2r	.	2r	.	4EE	pp	16d#XKL] 16g#X] 16a]	4een 4ffn 4gg#X 4bbn	4f#_ 4g#_	16aa-XLL	2e_	4Re/_	.	4.Re/]	<	[2RdT\	.	[2Re^/	2r	.	2r	.	2r	.	2r	.	4Re/_	.	[4DDn	[4EE [4GG#X [4BB	2r	.	[4EE	.	[4BBB-X [4DDn [4FF	.	[4C#	2r	.	2r	.	(16aa-XLL	.	2r	.
@@ -79,22 +79,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9,s10)][([(s11,s12)][(s13,s14)][(s15,s16)]s17,s18,s19)][(s20,s21,s22)][({(s23,s24)})][(s25)][(s26,s27,s28,s29,s30)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Concerto
+!!!MCN: Bernstein, Leonard
+!!!MDT: 1949/12/02
+!!!MGN: Boston Symphony Orchestra
+!!!MLC: Boston, Massachusetts, United States of America
+!!!MPD: 1949
+!!!MPN: Loriod, Yvonne; Martenot, Ginette
+!!!ODT: 1948 (rev. 1990)
+!!!PDT: 1953
+!!!excerpt-start-measure: 57
+!!!excerpt-end-measure: 60
+!!!excerpt-start-time: 2:25
+!!!excerpt-end-time: 2:32
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

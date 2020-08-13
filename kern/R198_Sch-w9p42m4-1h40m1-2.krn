@@ -1,8 +1,8 @@
-!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
-!!!OTL: [R198_Sch-w9p42m4-1h40m1-2]
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Kammersymphonie (Chamber Symphony) No. 1, op. 9
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 198
+!!!work: Sch-9
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern
 *part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part3	*part2	*part2	*part1
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1
@@ -13,7 +13,7 @@
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]
 *E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*E-:	*	*E-:	*	*E-:
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
 *	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half-dot]=94
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(womöglich)
@@ -45,7 +45,7 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
 4r	.	8GGL]	<	8r	.	32d-XLLL	< [	4ee-X	<	4%3r	.	4%3r	.	4%3r	2.d-X	.	4%3r	.	4%3r
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -74,22 +74,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)]s3,s4,s5)][(s6)][(s7,s8,s9,s10,s11)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Schoenberg, Arnold
+!!!MDT: 1907/02/08
+!!!MGN: Rosé Quartet; Wind Ensemble of Vienna Philharmonic
+!!!MLC: Vienna, Austria
+!!!MPD: 1907
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!ODT: 1906
+!!!PDT: 1913
+!!!excerpt-start-measure: 170
+!!!excerpt-end-measure: 171
+!!!excerpt-start-time: 6:17
+!!!excerpt-end-time: 6:19
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

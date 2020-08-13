@@ -1,8 +1,8 @@
-!!!COM: Manuel de Falla (y Matheu)
-!!!OTL: [R308B_Fal-w6p111h10m1-7]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!OMV: Part II: Dance of the Neighbours
+!!!example: 308B
+!!!work: Fal-6
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part7	*part7	*part1	*part1
 *staff20	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
@@ -13,7 +13,7 @@
 *k[f#]	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
 *G:	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
 *M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
 *	*	*	*	*	*tremolo	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*tremolo	*	*	*	*	*
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=96	!
@@ -30,7 +30,7 @@
 .	.	.	.	.	32F#	.	32e	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
 .	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
 16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.F#] 4.f#]	.	8ddd'L	.
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AA	.	16AA	.	32c	.	32d	.	.	.	.	.
@@ -43,7 +43,7 @@
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16dddJk	.
 .	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
 16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	[4.G [4.g	.	8cccL)	.
 .	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
@@ -56,7 +56,7 @@
 .	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
 .	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
 16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G_ 4.g_	.	16cccLL]	.
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AA	.	16AA	.	32c	.	32d	.	.	.	16aaJ	.
@@ -69,7 +69,7 @@
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16aaJk	.
 .	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
 16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4.G_ 4.g_	.	8ggL	.
 .	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
@@ -82,7 +82,7 @@
 .	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
 .	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
-=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
 16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G] 4.g]	.	16aaLL]	.
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AA	.	16AA	.	32c	.	32d	.	.	.	16ff#J	.
@@ -95,7 +95,7 @@
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16ff#Jk	.
 .	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
 16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4G 4g	.	8eeL	.
 .	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
@@ -113,22 +113,22 @@
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)][({(s11,s12)})][({(s13,s14)})][(s15,s16,s17,s18,s19,s20)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage; Ballet
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1919/07/22
+!!!MGN: Ballets Russes
+!!!MLC: London, United Kingdom
+!!!MPD: 1919
+!!!MPN: Rosovsku, Zoia
+!!!ODT: 1919
+!!!PDT: 1921
+!!!excerpt-start-measure: 95
+!!!excerpt-end-measure: 101
+!!!excerpt-start-time: 1:43
+!!!excerpt-end-time: 1:50
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,8 +1,8 @@
-!!!COM: Frank Martin
-!!!OTL: [R534_Mai-w6p2m1-5]
+!!!COM: Martin, Frank
+!!!OTL: Esquisses (Sketches) for Small Orchestra
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 534
+!!!work: Mai-6
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
 *part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff3	*	*staff2	*staff1	*
@@ -60,22 +60,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})][({(s3,s4)})][([(s5,s6,s7)][(s8,s9,s10,s11)]s12[(s13,s14)]s15)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1920/10/30
+!!!MGN: Orchestre de la Suisse Romande
+!!!MLC: Geneva, Switzerland
+!!!MPD: 1920
 !!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
+!!!ODT: 1920
+!!!PDT: unknown
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 5
+!!!excerpt-start-time: 0:00
 !!!excerpt-end-time:
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

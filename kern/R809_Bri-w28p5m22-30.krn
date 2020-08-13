@@ -1,8 +1,8 @@
-!!!COM: (Edward) Benjamin Britten
-!!!OTL: [R809_Bri-w28p5m22-30]
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Festival Te Deum for Trumpet, Chorus and Organ, op. 32
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 809
+!!!work: Bri-28
 **kern	**kern	**kern	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *I"Pedals	*	*I"Organ	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
 *I'Ped.	*	*I'Org.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
@@ -83,22 +83,22 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]s7,s8
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal; Choral
+!!!MCN: Gale, J., J.
+!!!MDT: 1945/04/24
+!!!MGN: Choir of St. Mark’s
+!!!MLC: Swindon, United Kingdom
+!!!MPD: 1945
+!!!MPN: Curnow, Gustavos; Titcombe, Peter
+!!!ODT: 1944
+!!!PDT: 1945
+!!!excerpt-start-measure: 22
+!!!excerpt-end-measure: 30
+!!!excerpt-start-time: 0:55
+!!!excerpt-end-time: 1:26
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

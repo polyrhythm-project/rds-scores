@@ -1,8 +1,8 @@
-!!!COM: Maurice (Joseph) Ravel
-!!!OTL: [R281_Rav-w21p2m8-9]
-!!!OMV:
-!!!example:
-!!!work:
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
+!!!OMV: I: Soupir (Sigh)
+!!!example: 281
+!!!work: Rav-21
 **kern	**kern	**kern	**text	**kern	**kern	**kern	**kern	**kern	**dynam
 *part7	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1	*part1
 *staff8	*staff7	*staff6	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
@@ -12,7 +12,7 @@
 *k[f#]	*k[f#]	*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*
 *G:	*G:	*G:	*	*G:	*G:	*G:	*G:	*G:	*
 *M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 !	!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!	!	!	!
 *	*	*	*	*	*	*Xtuplet	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
@@ -114,7 +114,7 @@
 .	.	.	.	64A	64c	.	64g	.	.
 .	.	.	.	.	.	48ggJJJ)	.	.	.
 .	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2r	[4e 4a_ [4b	8eL	de	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	2r	.
 .	.	.	.	64A	64c	.	64g	.	.
 .	.	.	.	.	.	48gg	.	.	.
@@ -214,22 +214,22 @@
 =	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1)][(s2,s3,s4,s5)]s6[({(s7,s8)})]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Solo
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1914/01/24
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1914
+!!!MPN: Bathori, Jane
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 9
+!!!excerpt-start-time: 0:46
+!!!excerpt-end-time: 0:59
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

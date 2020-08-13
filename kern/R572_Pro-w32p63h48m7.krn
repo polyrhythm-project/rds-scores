@@ -1,8 +1,8 @@
-!!!COM: Sergey [Sergeyevich] Prokofiev
-!!!OTL: [R572_Pro-w32p63h48m7]
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
 !!!OMV:
-!!!example:
-!!!work:
+!!!example: 572
+!!!work: Pro-32
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern
 *part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
 *staff7	*staff6	*	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -13,7 +13,7 @@
 *k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
 *D:	*D:	*	*D:	*D:	*D:	*D:	*D:
 *M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
-=1	=1	=1	=1	=1	=1	=1	=1
+=559	=559	=559	=559	=559	=559	=559	=559
 !LO:TX:b:t=[mf]	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!	!LO:TX:t=[quarter]=100
 !LO:TX:a:t=[arco]	!	!	!LO:TX:a:t=[col legno]	!LO:TX:a:t=[col legno]	!LO:TX:a:t=[col legno]	!LO:TX:b:t=[f]	!LO:TX:b:t=[mp]
 8.G#XL	2r	.	4d#X 4b	4dd#X	4dd#X	8.GG#XL	8d#X'L
@@ -33,22 +33,22 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
-!!!CDT:
-!!!CBL:
-!!!CDL:
-!!!CNT:
-!!!AGN:
-!!!MCN:
-!!!MDT:
-!!!MGN:
-!!!MLC:
-!!!MPD:
-!!!MPN:
-!!!ODT:
-!!!PDT:
-!!!excerpt-start-measure:
-!!!excerpt-end-measure:
-!!!excerpt-start-time:
-!!!excerpt-end-time:
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Stage; Theatrical
+!!!MCN: Prokofiev, Sergei
+!!!MDT: 1936/05/02
+!!!MGN: Moscow Philharmonic
+!!!MLC: Moscow, Russia
+!!!MPD: 1936
+!!!MPN: Satz, Natalia
+!!!ODT: 1936
+!!!PDT: 1937
+!!!excerpt-start-measure: 559
+!!!excerpt-end-measure: 559
+!!!excerpt-start-time: 24:36
+!!!excerpt-end-time: 24:39
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
