@@ -21,10 +21,10 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=92	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Subito molto mosso	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=morendo	!	!	!	!	!	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!
-!	!	!	!	!LO:TX:b:t=[ffff]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=morendo	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=[	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[ppp]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=morendo	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=]	!	!LO:TX:b:t=[	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[ppp]	!
 !	!	!	!	!LO:TX:a:t=]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=92	!	!	!	!	!	!	!	!LO:TX:b:t=]	!	!LO:TX:b:B:t=]	!	!	!	!	!	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=]	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!LO:TX:a:t=]	!
-!	!	!LO:TX:b:t=[ffff]	!	!LO:TX:a:t=[	!	!LO:TX:a:i:t=l.v.	!	!	!	!	!	!	!LO:TX:b:t=1.	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Subito molto mosso	!	!LO:TX:b:t=[ppp]	!	!LO:TX:b:i:t=morendo	!	!LO:TX:b:i:t=morendo	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!	!	!	!	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!	!	!	!	!LO:TX:b:t=[ppp]	!	!	!	!LO:TX:a:t=[	!
-1r	.	[1ddd	.	[1eeee-X	.	1r	(1RA)	p	1r	2r	p	1r	4r	[1RA	p	4r	.	4r	8r	p	[1Re	p < [	1r	.	[32FF^LLL	>	[1EE	pp > ]	[1CC	pp > ]	[1FF [1C#X	pp > ]	[1F#X	8C#X 8F#X	pp	1r	.	1r	.	[1GGG [1GG#X	f	[1GGG [1GG#X	f	[1CC [1C#X	f	[1CC [1C#X	f	2r	.	2r	.	[1ddd	> ]	1r	.	[1eee-X	> ]
+!	!	!	!	!LO:DY:ed=brack	!	!LO:TX:a:i:t=l.v.	!	!	!	!	!	!	!LO:TX:b:t=1.	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Subito molto mosso	!	!LO:TX:b:t=[ppp]	!	!LO:TX:b:i:t=morendo	!	!LO:TX:b:i:t=morendo	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!	!	!	!	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!LO:TX:b:t=[	!	!	!	!	!	!LO:TX:b:t=[ppp]	!	!	!	!LO:TX:a:t=[	!
+1r	.	[1ddd	.ffff	[1eeee-X	.ffff	1r	(1RA)	p	1r	2r	p	1r	4r	[1RA	p	4r	.	4r	8r	p	[1Re	p < [	1r	.	[32FF^LLL	>	[1EE	pp > ]	[1CC	pp > ]	[1FF [1C#X	pp > ]	[1F#X	8C#X 8F#X	pp	1r	.	1r	.	[1GGG [1GG#X	f	[1GGG [1GG#X	f	[1CC [1C#X	f	[1CC [1C#X	f	2r	.	2r	.	[1ddd	> ]	1r	.	[1eee-X	> ]
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[32FF^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[32FF^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[32FF^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -156,7 +156,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8RA^\L	.	.	.	.	.	.	.	16Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-2r	.	.	.	.	.	.	.	.	.	8r	.	.	8r	2r	.	.	.	2r	4r	f [	.	.	6c^ 6g	ff	.	.	.	.	.	.	.	.	.	.	6cc^	ff	6gg^	ff	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	.	.	.	.	.	.
+2r	.	.	.	.	.	.	.	.	.	8r	.	.	8r	2r	.	.	.	2r	4r	f [	.	.	6cn^ 6gn	ff	.	.	.	.	.	.	.	.	.	.	6ccn^	ff	6ggn^	ff	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=sec	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	.	.	.	.	8RA^\	.	.	8Re/]	.	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6c^ 6g	.	.	.	.	.	.	.	.	.	.	.	6cc^	.	6gg^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
