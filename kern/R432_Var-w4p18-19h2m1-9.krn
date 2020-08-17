@@ -9,7 +9,7 @@
 *I"Contrabass	*	*I"Trombone	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Oboe	*	*I"Clarinet in Eb	*	*I"Flute	*
 *I'Cb.	*	*I'Tbn.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Ob.	*	*I'Eb Cl.	*	*I'Fl.	*
 *clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*	*	*ITrd4c7	*	*	*	*	*	*ITrd-2c-3	*	*	*
+*ITrd0c0	*	*	*	*	*	*I	*	*	*	*	*	*I	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
@@ -19,7 +19,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Subitement  Très vif et nerveux	!
 !LO:TX:a:t=sff	!	!LO:TX:a:t=sff	!	!	!	!LO:TX:a:t=sff	!	!LO:TX:a:t=sff	!	!LO:TX:a:t=sff	!	!LO:TX:a:t=sff	!	!LO:TX:a:t=sff	!
-[8FF#X^ [8D	p	[8BB^	p	.	.	[8g^	p	[8CC#X^	p	[8an^	p	[8cc^	p	[8g#X^	p
+[8FF#X^ [8Dn	p	[8BBn^	p	.	.	[8gn^	p	[8CC#X^	p	[8an^	p	[8ccn^	p	[8g#X^	p
 2.FF#,] 2.D]	fff < [	2.BB,]	ff < [	[4gg^	fff	2.g]	fff < [	2.CC#,]	ff < [	2.a,]	fff < [	2.cc,]	fff < [	2.g#,]	fff < [
 .	.	.	.	(8.ggL]	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	16ffJk)	.	.	.	.	.	.	.	.	.	.	.
@@ -70,14 +70,14 @@
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 12FF#L] 12D]	.	12BBL]	.	4gg	.	12gL]	.	12CC#XL]	.	12aL]	.	12ccL]	.	12g#XL]	.
-12FF#X^ 12D	.	12BB^	.	.	.	12g^	.	12CC^	.	12a^	.	12cc^	.	12g^	.
-12FF#^J 12D	.	12BB^J	.	.	.	12g^J	.	12CC^J	.	12a^J	.	12cc^J	.	12g^J	.
+12FF#X^ 12D	.	12BB^	.	.	.	12g^	.	12CC#^	.	12a^	.	12cc^	.	12g#^	.
+12FF#^J 12D	.	12BB^J	.	.	.	12g^J	.	12CC#^J	.	12a^J	.	12cc^J	.	12g#^J	.
 8r	.	8r	.	(16ffLL	.	8r	.	8r	.	8r	.	8r	.	8r	.
 .	.	.	.	16ggJ)	.	.	.	.	.	.	.	.	.	.	.
-8FF#^ 8D	.	8BB^	.	[8ff^J	.	8g^	.	8CC^	.	8a^	.	8cc^	.	8g^	.
+8FF#^ 8D	.	8BB^	.	[8ff^J	.	8g^	.	8CC#^	.	8a^	.	8cc^	.	8g#^	.
 8r	.	8r	.	8ffL]	.	8r	.	8r	.	8r	.	8r	.	8r	.
-16FF#^LL 16D	.	16BB^LL	.	8ee^,J	.	16g^LL	.	16CC^LL	.	16a^LL	.	16cc^LL	.	16g^LL	.
-16FF#^JJ 16D	.	16BB^JJ	.	.	.	16g^JJ	.	16CC^JJ	.	16a^JJ	.	16cc^JJ	.	16g^JJ	.
+16FF#^LL 16D	.	16BB^LL	.	8ee^,J	.	16g^LL	.	16CC#^LL	.	16a^LL	.	16cc^LL	.	16g#^LL	.
+16FF#^JJ 16D	.	16BB^JJ	.	.	.	16g^JJ	.	16CC#^JJ	.	16a^JJ	.	16cc^JJ	.	16g#^JJ	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 8r	.	8r	.	16ee^KL	.	8r	.	8r	.	8r	.	8r	.	8r	.
@@ -89,14 +89,14 @@
 [8FF#^ [8D	.	[8BB^	.	.	.	[8g^	.	[8CC#^	.	[8a^	.	[8cc^	.	[8g#^	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 12FF#L] 12D]	.	12BBL]	.	4gg]	.	12gL]	.	12CC#L]	.	12aL]	.	12ccL]	.	12g#XL]	.
-12FF#X^ 12D	.	12BB^	.	.	.	12g^	.	12CC#X^	.	12a^	.	12cc^	.	12g^	.
-12FF#^J 12D	.	12BB^J	.	.	.	12g^J	.	12CC#^J	.	12a^J	.	12cc^J	.	12g^J	.
+12FF#X^ 12D	.	12BB^	.	.	.	12g^	.	12CC#X^	.	12a^	.	12cc^	.	12g#^	.
+12FF#^J 12D	.	12BB^J	.	.	.	12g^J	.	12CC#^J	.	12a^J	.	12cc^J	.	12g#^J	.
 8r	.	8r	.	(16ffKL	.	8r	.	8r	.	8r	.	8r	.	8r	.
 .	.	.	.	[8.ee^J)	.	.	.	.	.	.	.	.	.	.	.
-8FF#^ 8D	.	8BB^	.	.	.	8g^	.	8CC#^	.	8a^	.	8cc^	.	8g^	.
+8FF#^ 8D	.	8BB^	.	.	.	8g^	.	8CC#^	.	8a^	.	8cc^	.	8g#^	.
 8r	.	8r	.	4ee]	.	8r	.	8r	.	8r	.	8r	.	8r	.
-16FF#^LL 16D	.	16BB^LL	.	.	.	16g^LL	.	16CC#^LL	.	16a^LL	.	16cc^LL	.	16g^LL	.
-16FF#^JJ 16D	.	16BB^JJ	.	.	.	16g^JJ	.	16CC#^JJ	.	16a^JJ	.	16cc^JJ	.	16g^JJ	.
+16FF#^LL 16D	.	16BB^LL	.	.	.	16g^LL	.	16CC#^LL	.	16a^LL	.	16cc^LL	.	16g#^LL	.
+16FF#^JJ 16D	.	16BB^JJ	.	.	.	16g^JJ	.	16CC#^JJ	.	16a^JJ	.	16cc^JJ	.	16g#^JJ	.
 4r	.	4r	.	[4ee^	.	4r	.	4r	.	4r	.	4r	.	4r	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
