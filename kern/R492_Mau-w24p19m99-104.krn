@@ -15,8 +15,8 @@
 *met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =99	=99	=99	=99	=99	=99	=99
 !	!	!	!	!	!LO:TX:t=[half]=132	!
-!	!LO:TX:b:t=[f]	!	!LO:TX:b:i:t=espr.	!	!LO:TX:b:i:t=espr.	!
-8d'	8ddd	.	(4F#X	f <	(4ddd	f <
+!	!	!LO:DY:ed=brack	!LO:TX:b:i:t=espr.	!	!LO:TX:b:i:t=espr.	!
+8d'	8ddd	f	(4F#X	f <	(4ddd	f <
 8r	8r	.	.	.	.	.
 *clefG2	*	*	*	*	*	*
 *	*8va	*	*	*	*	*
@@ -31,7 +31,7 @@
 4B-X' 4d	4aa-X' 4cccn 4aaa-X	.	4c)	[	4aaa-X)	[
 =101	=101	=101	=101	=101	=101	=101
 4C#X'	4een' 4gg#X 4eeen	.	(4B	<	(4een	<
-4G#X' 4Bn	4cc#X' 4ee#X 4ccc#X	.	2g)	.	2ccc#X)	[
+4G#X' 4Bn	4cc#X' 4ee#X 4ccc#X	.	2g)	[	2ccc#X)	[
 4F#X'	4ff#X' 4aa 4fff#X	.	.	.	.	.
 *	*X8va	*	*	*	*	*
 4B' 4d	4dd' 4ffn 4ddd	.	(4f	[ <	(4dd	<
