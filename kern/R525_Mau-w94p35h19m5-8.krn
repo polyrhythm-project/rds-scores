@@ -15,7 +15,7 @@
 =195	=195	=195	=195	=195
 !	!LO:TX:t=[quarter]=120	!	!	!LO:TX:t=[quarter]=120
 !	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]
-16FFLL	(16cLL)	.	4c~	4ccc~
+(16FFLL	(16cLL)	.	4c~	4ccc~
 16C	16f	.	.	.
 16F	16a-X	.	.	.
 16CJJ	16cJJ	.	.	.
@@ -49,8 +49,8 @@
 16CJJ	16cJJ	.	.	16aJJ
 16FLL	16fLL	.	8gL)	16gggLL
 16G	16an	.	.	16a
-16FF	16c	.	(8cJ	16ccc
-16CJJ	16fJJ)	[	.	16aJJ
+16FF	16c	.	(8cJ_	16ccc
+16CJJ)	16fJJ)	[	.	16aJJ
 =	=	=	=	=
 *-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
