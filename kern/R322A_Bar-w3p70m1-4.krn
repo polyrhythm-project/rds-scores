@@ -9,7 +9,7 @@
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Horns in F III.IV.	*	*I"Horns in F I.II.	*	*I"2 Bassoons	*	*I"2 Clarinets in Bb	*	*I"2 Oboes
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob.
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2
-*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*
+*ITrd-7c-12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
@@ -19,22 +19,22 @@
 .	.	.	.	.	.	.	.	12bJ	.	.	.	.	.	.	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:Bi:t=poco	!	!LO:TX:b:Bi:t=poco	!	!LO:TX:b:Bi:t=poco f
-4C	pp	4C	pp	4r	.	4r	.	4.cc)	.	4C	p	4G' 4e	f	4c' 4g	f	4C' 4G	f	4eX' 4cc	f	4g' 4cc
+4c	pp	4C	pp	4r	.	4r	.	4.cc)	.	4C	p	4G' 4e	f	4c' 4g	f	4C' 4G	f	4eX' 4cc	f	4g' 4cc
 4r	.	4r	.	4e	pp	4g	pp	.	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r
 .	.	.	.	.	.	.	.	8g	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4e	.	4g	.	[4cc	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4c	.	4c	.	4r	.	4r	.	8ccL]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
+4cc	.	4c	.	4r	.	4r	.	8ccL]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
 .	.	.	.	.	.	.	.	8gJ	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4e	.	4g	.	4cc	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4e	.	4g	.	4g	.	.	.	.	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4C	.	4C	.	4r	.	4r	.	4.cc	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
+4c	.	4C	.	4r	.	4r	.	4.cc	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
 4r	.	4r	.	4e	.	4g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8g	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4e	.	4g	.	[4cc	.	.	.	.	.	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4c	.	4c	.	4r	.	4r	.	8ccL]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
+4cc	.	4c	.	4r	.	4r	.	8ccL]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r
 .	.	.	.	.	.	.	.	8gJ	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4e	.	4g	.	4cc	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	4r	.	4c	.	4e	.	4g	.	.	.	.	.	.	.	.	.	.	.	.
