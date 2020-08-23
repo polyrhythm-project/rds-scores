@@ -7,7 +7,7 @@
 *grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff3	*	*staff2	*	*staff1	*
-*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
+*I"Piano	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
 *	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*
 *clefG2	*clefF4	*	*clefG2	*	*clefF4	*
 *k[]	*k[]	*	*	*	*k[]	*
@@ -22,7 +22,8 @@
 12b	.	.	.	.	.	.
 12g#XJ	.	.	.	.	.	.
 12e#XL	.	.	.	.	.	.
-12g#	.	.	.	.	.	.
+12g#X	.	.	.	.	.	.
+!LO:TX:t=(Triolen)	!	!	!	!	!	!
 12ccnJ	.	.	.	.	.	.
 12bL	.	.	.	.	.	.
 12d 12a	.	.	.	.	.	.
@@ -31,7 +32,7 @@
 !LO:TX:b:t=cresc.	!	!	!	!	!	!
 12f#XL	1EE	< p [[	1r	.	1r	.
 12g	.	.	.	.	.	.
-12dd-XJ	.	.	.	.	.	.
+12dd-X^J	.	.	.	.	.	.
 12b-XL	.	.	.	.	.	.
 12e-X	.	.	.	.	.	.
 12g-XJ	.	.	.	.	.	.
@@ -43,33 +44,33 @@
 12ccJ	.	.	.	.	.	.
 *	*	*	*clefF4	*	*	*
 =55	=55	=55	=55	=55	=55	=55
-12d-XL 12b-X	1r	> ]	1FFF	< p [[	1r	.
+12d-XL 12b-X	1r	> ]	1EEE	< p [[	1r	.
 12e-X	.	.	.	.	.	.
 12fJ	.	.	.	.	.	.
 12g-XL	.	.	.	.	.	.
-12ddn	.	.	.	.	.	.
+12ddn^	.	.	.	.	.	.
 12bnJ	.	.	.	.	.	.
 12dnL	.	.	.	.	.	.
 12f	.	.	.	.	.	.
 12dd-XJ	.	.	.	.	.	.
 12a-XL	.	.	.	.	.	.
 12e-X	.	.	.	.	.	.
-12a-J	.	.	.	.	.	.
+12a-XJ	.	.	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56
 12ddnL	1EE	<[	1r	> ]	1r	.
 12cc#X	.	.	.	.	.	.
 12cnJ 12b	.	.	.	.	.	.
 12dL	.	.	.	.	.	.
-12e#X	.	.	.	.	.	.
+12enX	.	.	.	.	.	.
 12fJ	.	.	.	.	.	.
 12ee-X^L	.	.	.	.	.	.
 12ccn	.	.	.	.	.	.
 12c#XJ	.	.	.	.	.	.
-12e#L	.	.	.	.	.	.
+12eL	.	.	.	.	.	.
 12dd	.	.	.	.	.	.
 12g#XJ	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57
-12eL	1r	> ]	1FFF	<[	1r	.
+12eL	1r	> ]	1EEE	<[	1r	.
 12g#X	.	.	.	.	.	.
 12ee-XJ	.	.	.	.	.	.
 12ddL	.	.	.	.	.	.
@@ -77,7 +78,7 @@
 12c#XJ	.	.	.	.	.	.
 12d#XL	.	.	.	.	.	.
 12e	.	.	.	.	.	.
-12eenJ	.	.	.	.	.	.
+12een^J	.	.	.	.	.	.
 12cc#XL	.	.	.	.	.	.
 12cn	.	.	.	.	.	.
 12e-XJ	.	.	.	.	.	.
@@ -93,8 +94,8 @@
 12cn	.	.	.	.	.	.
 12dJ	.	.	.	.	.	.
 12e-XL	4r	] > ]	.	.	.	.
-12b-X 12bb-X	.	.	.	.	.	.
-12ggnJ	.	.	.	.	.	.
+12b-X 12bb-^X	.	.	.	.	.	.
+12gJ	.	.	.	.	.	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1[(s2,s3)]{(s4,s5)}
