@@ -14,24 +14,24 @@
 *C:	*C:	*C:	*C:	*C:	*	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
 =30	=30	=30	=30	=30	=30	=30	=30
-!	!	!	!	!	!	!LO:TX:t=[quarter]=132	!
-!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!	!LO:TX:b:t=[mf]	!
-4r	16r	8.r	16Re/LL)	4r	.	4r	.
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!
+!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]	!	!LO:TX:b:t=	!
+4r	16r	8.r	16Re/LL)	4r	.	4r	.mf
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	.	.	.	.
 .	16r	16Re/	16Re/JJ	.	.	.	.
-!	!	!	!	!	!	!LO:TX:a:t=[con sord]	!
-8Re/L	4r	16Re/LL	16Re/LL	([8AA~	<	([8D-X~ [8E-X	<
+!	!	!	!	!LO:TX:a:t=[con sord]	!	!LO:TX:a:t=[con sord]	!
+8Re/L	4r	16Re/LL	16Re/LL	8r	.	8r	.
 .	.	16Re/	16Re/	.	.	.	.
-8Re/J	.	16r	16Re/	4AA]	.	4D-] 4E-]	.
+8Re/J	.	16r	16Re/	([8AA~	.<	([8D-~ [8E-~	.<
 .	.	16Re/JJ	16Re/JJ	.	.	.	.
-4r	16r	16Re/LL	4r	.	.	.	.
+4r	16r	16Re/LL	4r	4AA]	.	4D-] 4E-]	.
 .	16Rf\LL	16Re/	.	.	.	.	.
-.	16Rd\JJ	16r	.	8FF#X^)	f	8C^ 8Dn)	f
+.	16Rd\JJ	16r	.	.	.	.	.
 .	16r	16Re/JJ	.	.	.	.	.
-8Re/L	16r	16Re/LL	16Re/LL	4r	[	4r	[
+8Re/L	16r	16Re/LL	16Re/LL	8FF#'^^)	[f	8C'^ 8D'^)	[f
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
-8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
+8Re/J	16Rd\JJ	16r	16Re/	8r	.	8r	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31
 4r	16r	8.r	16Re/LL	4r	.	4r	.
@@ -52,8 +52,8 @@
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32
 4r	16r	8.r	16Re/LL	8FF#X^)	.	8C^ 8Dn)	.
-.	16Rf\LL	.	16Re/	.	.	.	.
-.	16Rd\JJ	.	16Re/	8r	[	8r	[
+.	16Rf\LL	.	16Re/	.	.	.	.[
+.	16Rd\JJ	.	16Re/	8r	[	8r	.
 .	16r	16Re/	16Re/JJ	.	.	.	.
 8Re/L	4r	16Re/LL	16Re/LL	4D'~	.	4E-X'~ 4B-X	.
 .	.	16Re/	16Re/	.	.	.	.
@@ -61,14 +61,14 @@
 .	.	16Re/JJ	16Re/JJ	.	.	.	.
 4r	16r	16Re/LL	4r	8r	.	8r	.
 .	16Rf\LL	16Re/	.	.	.	.	.
-.	16Rd\JJ	16r	.	(4.D~	< [	(4.E-~ 4.B-	< [
+.	16Rd\JJ	16r	.	(4.D~	<	(4.E-~ 4.B-	.<
 .	16r	16Re/JJ	.	.	.	.	.
 8Re/L	16r	16Re/LL	16Re/LL	.	.	.	.
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33
-4r	16r	8.r	16Re/LL	8F'^)	.	8G'^ 8e-X)	.
+4r	16r	8.r	16Re/LL	8F'^)	.[	8G'^ 8e-X)	.[
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	.	8r	.
 .	16r	16Re/	16Re/JJ	.	.	.	.
@@ -85,7 +85,7 @@
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
 .	16r	16Re/JJ	16Re/JJ	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
-4r	16r	8.r	16Re/LL	8FFn'^)	[	8C'^ 8D-X)	[
+4r	16r	8.r	16Re/LL	8FFn'^)	[	8C'^ 8D-X)	.[
 .	16Rf\LL	.	16Re/	.	.	.	.
 .	16Rd\JJ	.	16Re/	8r	.	8r	.
 .	16r	16Re/	16Re/JJ	.	.	.	.
@@ -131,10 +131,10 @@
 .	16Rf\LL	16Re/	.	.	.	.	.
 .	16Rd\JJ	16r	.	8r	.	8r	.
 .	16r	16Re/JJ	.	.	.	.	.
-8Re/L	16r	16Re/LL	16Re/LL	(4AA~	< [	4D-~ [4E-X	< [
+8Re/L	16r	16Re/LL	16Re/LL	[4AA~	<	4D-~ [4E-X	<
 .	16Rf\LL	16Re/	16Re/	.	.	.	.
 8Re/J	16Rd\JJ	16r	16Re/	.	.	.	.
-.	16r	16Re/JJ	16Re/JJ	.	.	.	.
+.	16r	16Re/JJ	16Re/JJ	.	[	.	[
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
