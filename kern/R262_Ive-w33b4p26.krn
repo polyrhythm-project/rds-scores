@@ -18,11 +18,11 @@
 *^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!	!	!	!	!	!	!LO:TX:a:i:t=	!	!	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8GL	]2.AA	.	[	.	((8C^L	4.CC	.	>	.	]8ee-X	.	)]8. L]8.f#X ]8.a#X	.	8.GL	.	]8dd#X	]8.dnL	.	4%3r	.	.	.	]8dd#XL\	.	.	.
+8GL	]2.AA	.	[	.	((8C^L	4.CC	.	>	.	]8ee-X	.	)]8. L]8.f#X ]8.a#Xj	.	8.GL	.	]8dd#X	]8.dnL	.	4%3r	.	.	.	]8dd#XL\	.	.	.
 16r	.	.	.	.	8D-X)	.	.	.	.	4cc	.	.	.	.	.	4ff#X	.	.	.	.	.	.	8b#X	.	.	.
-16EJ	.	.	.	.	.	.	.	.	.	.	.	)8.J 8.f# 8.a#	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.	.	.	.	.
+16EJ	.	.	.	.	.	.	.	.	.	.	.	8.J 8.f# 8.a#	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	8C'J)	.	.	.]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a#X	.	.	.
-8r	.	.	.	.	((8C^L	4.CC	.	>	.	16ddLL	.	4 4f# 4a#	.	8E]	.	[8dd#X	16fLL]	.	.	.	.	.	8g#XJ)	.	.	.
+8r	.	.	.	.	((8C^L	4.CC	.	>	.	16ddLL	.	4 4f# 4a#	.	8E]	.	[8dd#X	16fLL]	.	.	.	.	.	8g#XJ)j	.	.	.
 .	.	.	.	.	.	.	.	.	.	[16ee-XJ	.	.	.	.	.	.	[16dnJJ	.	.	.	.	.	.	.	.	.
 8AA	.	.	.	.	8D-)	.	.	.	.	8ee-]	.	.	.	4AA	.	16dd#kL]	4d_	.	.	.	.	.	(4e#X	.	>	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.	.	.	.	.
@@ -54,8 +54,8 @@
 4r	[2.AA	.	.	.	((8C^L	4.CC	.	>	.	8ccL]	.	8.L] 8.f#] 8.a#])	.	4E]	.	8ff#L]	16fKL]	.	4%3r	.	.	.	(8b-XL	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dn	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	8D-X)	.	.	.	.	16ddL	.	.	.	.	.	[8dd#XJ	.	.	.	.	.	.	8ccJ)	.	.	.
-.	.	.	.	.	.	.	.	.	.	[16ee-XJJ	.	(8.'J 8.f#X 8.a#X	.	.	.	.	[16enJk	.	.	.	.	.	.	.	.	.
-8AAL	.	.	.	.	8C'J)	.	.	.]]	.	4ee-_	.	.	.	4AA	.	4dd#_	4e]	.	.	.	.	.	((8ee-X	.	.	.
+.	.	.	.	.	.	.	.	.	.	[16ee-XJJ	.	(8.'J 8.f#X 8.a#Xi	.	.	.	.	[16enJk	.	.	.	.	.	.	.	.	.
+8AAL	.	.	.	.	8C'J)	.	.	.]]	.	4ee-_	.	.	.	4AA	.	4dd#_	4e]	.	.	.	.	.	((8ee-Xi	.	.	.
 8r	.	.	.	.	((8C^L	4.CC	.	>	.	.	.	8.'L 8.f# 8.a#	.	.	.	.	.	.	.	.	.	.	4.ff	.	.	.
 8GJ	.	.	.	.	8D-)	.	.	.	.	16ee-KL]	.	.	.	[4G	.	16dd#KL]	8.dnL	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	[8.ccJ	.	[8.'J [8.f# [8.a#	.	.	.	[8.ff#XJ	.	.	.	.	.	.	.	.	.	.
@@ -67,6 +67,7 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!CDT: 1874/10/20-1954/05/19
+!!!Xfilter: slurcheck
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American
@@ -85,3 +86,5 @@
 !!!excerpt-end-time: 7:09
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
