@@ -3,39 +3,39 @@
 !!!OMV:
 !!!example: 798
 !!!work: Bri-42
-**kern	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam	**kern	**text	**text	**dynam
-*part5	*part5	*part5	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
-*staff6	*staff5	*	*staff4	*staff4	*staff4	*	*staff3	*staff3	*staff3	*	*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
-*I"Organ	*	*	*I"BASS	*	*	*	*I"TENOR	*	*	*	*I"ALTO	*	*	*	*I"SOPRANO	*	*	*
-*I'Org.	*	*	*I'B.	*	*	*	*I'T.	*	*	*	*I'A.	*	*	*	*I'S.	*	*	*
-*clefF4	*clefG2	*	*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
-*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*
-*k[b-]	*k[b-]	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
-*F:	*F:	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*
-*M5/4	*M5/4	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*
-=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!LO:TX:t=[quarter]=80	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!	!	!
-!	!LO:TX:b:t=[f]	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!	!LO:TX:a:t=[f]	!	!	!
-8FF`	4d~ 4f#X 4a	4ryy	.	(4A	do-	Lord	.	8F#X	di-	of	.	(4a	do-	Lord	.	8f#X	di-	of	.
-16EELL	.	.	.	.	.	.	.	8G#X	-es	the	.	.	.	.	.	8g#X	-es	the	.
-16FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8EE`J	(4d 4a	8gL	.	8Gn	.	.	.	(4A	do-	Lord	.	8gn	.	.	.	(4a	do-	Lord	.
-16FFLL	.	[8fnJ	.	4.Fn	.	.	>	.	.	.	.	4.fn	.	.	>	.	.	.	.
-16EEJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8FF`J	8g#XL	4c 4f]	>	.	.	.	.	8G#	.	.	>	.	.	.	.	8g#	.	.	>
-16EELL	[8f#XJ	.	.	.	.	.	.	4.F#	.	.	.	.	.	.	.	4.f#	.	.	.
-16FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8EE`J	4f#]	2B- 2e-X	.	2E-X)	.	.	]	.	.	.	.	2e-X)	.	.	]	.	.	.	.
-16FFLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-16EE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-16FF	4en)	.	]	.	.	.	.	4En)	.	.	]	.	.	.	.	4en)	.	.	]
-16EE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-16FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-16EEJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank
+*part5	*	*part5	*	*part5	*	*part4	*	*part4	*	*part4	*	*part4	*	*part3	*	*part3	*	*part3	*part3	*	*part2	*	*part2	*	*part2	*	*part2	*	*part1	*	*part1	*	*part1	*
+*staff6	*	*staff5	*	*	*	*staff4	*	*staff4	*	*staff4	*	*	*	*staff3	*	*staff3	*	*staff3	*	*	*staff2	*	*staff2	*	*staff2	*	*	*	*staff1	*	*staff1	*	*staff1	*
+*I"Organ	*	*	*	*	*	*I"BASS	*	*	*	*	*	*	*	*I"TENOR	*	*	*	*	*	*	*I"ALTO	*	*	*	*	*	*	*	*I"SOPRANO	*	*	*	*	*
+*I'Org.	*	*	*	*	*	*I'B.	*	*	*	*	*	*	*	*I'T.	*	*	*	*	*	*	*I'A.	*	*	*	*	*	*	*	*I'S.	*	*	*	*	*
+*clefF4	*	*clefG2	*	*	*	*clefF4	*	*	*	*	*	*	*	*clefGv2	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*	*	*	*	*k[b-]	*	*	*	*	*	*	*k[b-]	*	*	*	*	*	*	*	*k[b-]	*	*	*	*	*
+*F:	*	*F:	*	*	*	*F:	*	*	*	*	*	*	*	*F:	*	*	*	*	*	*	*F:	*	*	*	*	*	*	*	*F:	*	*	*	*	*
+*M5/4	*	*M5/4	*	*	*	*M5/4	*	*	*	*	*	*	*	*M5/4	*	*	*	*	*	*	*M5/4	*	*	*	*	*	*	*	*M5/4	*	*	*	*	*
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=[quarter]=80	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!	!	!	!	!
+!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+8FF`]	.	4d~ 4f#X 4a	4ryy	f	.	.	(4A	f	do-	.	Lord_	.	.	.	8F#X	f	di-	.	of	.	.	(>4a	f	do-	.	Lord_	.	.	.	8f#X	f	di-	.	of	.
+(16EELL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8G#X	.	-es	.	the	.	.	.	.	.	.	.	.	.	.	8g#X	.	-es	.	the	.
+16FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EE`J)	.	(4d 4a	8gL	.	.	.	8Gn	.	.	.	.	.	.	.	(>4A	.	do-	.	Lord_	.	.	8gn	.	.	.	.	.	.	.	(>4a	.	do-	.	Lord_	.
+(16FFLL	.	.	[8fnJ	.	.	.	4.Fn	.	.	.	.	.	>	.	.	.	.	.	.	.	.	4.fn	.	.	.	.	.	>	.	.	.	.	.	.	.
+16EEJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF`J)	.	8g#XL	4c 4f]	.	>	.	.	.	.	.	.	.	.	.	8G#Z	.	.	.	.	>	.	.	.	.	.	.	.	.	.	8g#Z	.	.	.	.	.
+(16EELL	.	[8f#XJ	.	.	.	.	.	.	.	.	.	.	.	.	4.F#Z	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.f#Z	.	.	.	.	.
+16FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EE`J)	.	4f#]	2B- 2e-X	.	.	.	2E-X)	.	.	.	.	.	]	.	.	.	.	.	.	.	.	2e-X)	.	.	.	.	.	]	.	.	.	.	.	.	.
+(16FFLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16EE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF	.	4en)	.	.	]	.	.	.	.	.	.	.	.	.	4En)	.	.	.	.	]	.	.	.	.	.	.	.	.	.	4en)	.	.	.	.	.
+16EE	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16EEJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]
 !!!CDT: 1913/11/22-1976/12/04
 !!!CBL: Lowestoft, England
@@ -50,6 +50,10 @@
 !!!MPN: McGraw, R.
 !!!ODT: 1962
 !!!PDT: 1963
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: > = above
 !!!excerpt-start-measure: 41
 !!!excerpt-end-measure: 41
 !!!excerpt-start-time: 2:15
