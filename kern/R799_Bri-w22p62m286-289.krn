@@ -3,7 +3,6 @@
 !!!OMV:
 !!!example: 799
 !!!work: Bri-22
-!!!Xfilter: extract -s 1,2,3,0,4,0,5,0,6,7,8,0,9,10
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part5	*part5	*part4	*	*part3	*	*part2	*	*part2	*part2	*part1	*	*part1	*part1
 *staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
