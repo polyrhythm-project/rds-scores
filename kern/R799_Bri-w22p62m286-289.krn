@@ -20,6 +20,7 @@
 .	.	.	.	.	.	8fnL	.	8ffnL	.	8E-X	.	8e-X	.
 .	.	.	.	.	.	8e-XJ	.	8ee-XJ	.	8G-XJ	.	8g-XJ	.
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TR:acc=n	!	!LO:TR:acc=n	!	!	!	!	!	!	!	!	!
 8ee-X^	mf	2ee-XTT	.	2ee-XTT	.	8g-XL	.	8gg-XL	.	8FL	.	8fL	.
 8r	.	.	.	.	.	8e-	.	8ee-	.	8A-X	.	8a-X	.
 4r	.	.	.	.	.	8d-X	.	8dd-X	.	8G-	.	8g-	.
@@ -29,6 +30,7 @@
 8r	.	.	.	.	.	8c-X	.	8cc-X	.	8c-X	.	8cc-X	.
 4r	.	.	.	.	.	8e-X	.	8ee-X	.	8B-X	.	8b-X	.
 .	.	.	.	.	.	8c-J	.	8cc-J	[	8d-XJ	.	8dd-XJ	[
+!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!
 8cc-X^	.	2cc-XTT	.	2cc-XTT	.	8B-XL	.	8b-XL	.	4c-^	.	4cc-^	.
 8r	.	.	.	.	.	8d-	.	8dd-	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*
@@ -40,6 +42,7 @@
 8r	.	.	.	.	.	8A-X	.	8a-X	.	8fn	.	8ffn	.
 4r	.	.	.	.	.	8G-X	.	8g-X	.	8e-X	.	8ee-X	.
 .	.	.	.	.	.	8B-XJ	.	8b-XJ	.	8g-XJ	.	8gg-XJ	.
+!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!
 8a-X^	.	2a-XTT	.	2a-XTT	.	8G-L	.	8g-L	.	8fL	.	8ffL	.
 8r	.	.	.	.	.	8Fn	.	8fn	.	8a-X	.	8aa-X	.
 4r	.	.	.	.	.	8A-X	.	8a-X	.	8g-	.	8gg-	.
@@ -49,6 +52,7 @@
 8r	.	.	.	.	.	8G-X	.	8g-X	.	8cc-X	.	8ccc-X	.
 4r	.	.	.	.	.	8E-	.	8e-	<	8b-X	.	8bb-X	<
 .	.	.	.	.	.	8D-XJ	.	8d-XJ	.	8dd-XJ	.	8ddd-XJ	.
+!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!
 8fn^	.	2fntt	.	2fntt	.	8FnL	.	8fnL	.	8cc-L	.	8ccc-L	.
 8r	.	.	.	.	.	8D-	.	8d-	.	8ee-X	.	8eee-X	.
 4r	.	.	.	.	.	8C-X	.	8c-X	.	8dd-	.	8ddd-	.
