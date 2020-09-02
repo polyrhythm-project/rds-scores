@@ -3,68 +3,68 @@
 !!!OMV: Movement 1
 !!!example: 222
 !!!work: Sch-35
-**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
-*part6	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
-*staff6	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
-*I"Violin 1	*I"Solo Violin	*I"Xylophone	*	*I"Flute 3.	*I"Flute 2.	*	*I"Flute 1.	*
-*I'Vln. 1	*I'Vln.	*I'Xyl.	*	*I'Fl.	*I'Fl.	*	*I'Fl.	*
-*clefG2	*clefG2	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*
-*	*	*Trd0c0	*	*	*	*	*	*
-*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*
-*M2/2	*M2/2	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
-=73	=73	=73	=73	=73	=73	=73	=73	=73
-!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
-!	!	!	!	!	!	!	!LO:TX:a:B:t=Tempo	!
-!	!	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[p]	!
-4r	4r	4r	.	8bn'	8aa-X'	.	8dddn'	p
-.	.	.	.	8r	8r	.	8r	.
-!	!LO:TX:b:t=[f]	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!
-8r	16ff#X'LL	8cccn'L	p	4r	8r	.	8r	.
-.	16dn'	.	.	.	.	.	.	.
-!LO:TX:b:t=[f]	!	!	!	!	!	!	!	!
-!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!
-8gnL	(16d	8dddd-X'	.	.	8gn`L	p	8gn`L	p
-.	16ff#JJ)	.	.	.	.	.	.	.
-8g	(16ffnLL	8ccc'	.	2r	8g`	.	8g`	.
-.	16aaan)	.	.	.	.	.	.	.
-8gJ	16ff'	8dddd-'J	.	.	8g`J	.	8g`J	.
-.	16aaa'JJ	.	.	.	.	.	.	.
-8b-XL	8r	8eee-XL	.	.	8b-X`L	.	8b-X`L	.
-8b-	(16aa-XLL	8ffff-XJ	.	.	8b-`	.	8b-`	.
-.	16fn)	.	.	.	.	.	.	.
-=74	=74	=74	=74	=74	=74	=74	=74	=74
-8b-XJ	16fn'	8eee-XL	.	1r	8b-X`J	.	8b-X`J	.
-.	16aa-X'JJ	.	.	.	.	.	.	.
-8r	(16aa-LL	8ffff-X	.	.	8r	.	8r	.
-.	16cccc-XJJ)	.	.	.	.	.	.	.
-4r	16aa-'LL	8eee-	.	.	4r	.	4r	.
-.	16cccc-'JJ	.	.	.	.	.	.	.
-.	8r	8ffff-J	.	.	.	.	.	.
-8b-L	8r	8eeenL	.	.	8b-`L	.	8b-`L	.
-8b-	(16bbnLL	8ffffn	.	.	8b-`	.	8b-`	.
-.	16dddd#X)	.	.	.	.	.	.	.
-8b-	16bb'	8eee	.	.	8b-`	.	8b-`	.
-.	16dddd#'JJ	.	.	.	.	.	.	.
-8b-J	16bb'LL	8ffffJ	.	.	8b-`J	.	8b-`J	.
-.	16g#X'	.	.	.	.	.	.	.
-=75	=75	=75	=75	=75	=75	=75	=75	=75
-8r	(16bb	16eeenLL	.	1r	8r	.	8r	.
-.	16g#XJJ)	16ffffn	.	.	.	.	.	.
-8b-XL	8r	16eee	.	.	8b-X`L	.	8b-X`L	.
-.	.	16ffffJJ	.	.	.	.	.	.
-8b-	8r	8ddddnL	.	.	8b-`	.	8b-`	.
-8gnJ	(16aanLL	8ccc#X	.	.	8gn`J	.	8gn`J	.
-.	16ccccn)	.	.	.	.	.	.	.
-8gL	16aa'	8dddd	.	.	8g`L	.	8g`L	.
-.	16cccc'JJ	.	.	.	.	.	.	.
-8g	(16aaLL	8ccc#J	.	.	8g`	.	8g`	.
-.	16f#X)	.	.	.	.	.	.	.
-8gJ	16aa'	8ccc#L	.	.	8g`J	.	8g`J	.
-.	16f#'JJ	.	.	.	.	.	.	.
-8r	8r	8ddddJ	.	.	8r	.	8r	.
-=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part6	*	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violin 1	*	*I"Solo Violin	*	*I"Xylophone	*	*I"Flute 3.	*	*I"Flute 2.	*	*I"Flute 1.	*
+*I'Vln. 1	*	*I'Vln.	*	*I'Xyl.	*	*I'Fl.	*	*I'Fl.	*	*I'Fl.	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*Trd0c0	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tempo	!
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4r	.	4r	.	4r	.	8bn'	p	8aa-X'	p	8dddn'	p
+.	.	.	.	.	.	8r	.	8r	.	8r	.
+!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!	!
+8r	.	16ff#X'LL	f	8cccn'L	p	4r	.	8r	.	8r	.
+.	.	16dn'	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+8gnL	f	(16d	.	8dddd-X'	.	.	.	8gn`L	p	8gn`L	p
+.	.	16ff#JJ)	.	.	.	.	.	.	.	.	.
+8g	.	(16ffnLL	.	8ccc'	.	2r	.	8g`	.	8g`	.
+.	.	16aaan)	.	.	.	.	.	.	.	.	.
+8gJ	.	16ff'	.	8dddd-'J	.	.	.	8g`J	.	8g`J	.
+.	.	16aaa'JJ	.	.	.	.	.	.	.	.	.
+8b-XL	.	8r	.	8eee-XL	.	.	.	8b-X`L	.	8b-X`L	.
+8b-	.	(16aa-XLL	.	8ffff-XJ	.	.	.	8b-`	.	8b-`	.
+.	.	16fn)	.	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+8b-XJ	.	16fn'	.	8eee-XL	.	1r	.	8b-X`J	.	8b-X`J	.
+.	.	16aa-X'JJ	.	.	.	.	.	.	.	.	.
+8r	.	(16aa-LL	.	8ffff-X	.	.	.	8r	.	8r	.
+.	.	16cccc-XJJ)	.	.	.	.	.	.	.	.	.
+4r	.	16aa-'LL	.	8eee-	.	.	.	4r	.	4r	.
+.	.	16cccc-'JJ	.	.	.	.	.	.	.	.	.
+.	.	8r	.	8ffff-J	.	.	.	.	.	.	.
+8b-L	.	8r	.	8eeenL	.	.	.	8b-`L	.	8b-`L	.
+8b-	.	(16bbnLL	.	8ffffn	.	.	.	8b-`	.	8b-`	.
+.	.	16dddd#X)	.	.	.	.	.	.	.	.	.
+8b-	.	16bb'	.	8eee	.	.	.	8b-`	.	8b-`	.
+.	.	16dddd#'JJ	.	.	.	.	.	.	.	.	.
+8b-J	.	16bb'LL	.	8ffffJ	.	.	.	8b-`J	.	8b-`J	.
+.	.	16g#X'	.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+8r	.	(16bb	.	16eeenLL	.	1r	.	8r	.	8r	.
+.	.	16g#XJJ)	.	16ffffn	.	.	.	.	.	.	.
+8b-XL	.	8r	.	16eee	.	.	.	8b-X`L	.	8b-X`L	.
+.	.	.	.	16ffffJJ	.	.	.	.	.	.	.
+8b-	.	8r	.	8ddddnL	.	.	.	8b-`	.	8b-`	.
+8gnJ	.	(16aanLL	.	8ccc#X	.	.	.	8gn`J	.	8gn`J	.
+.	.	16ccccn)	.	.	.	.	.	.	.	.	.
+8gL	.	16aa'	.	8dddd	.	.	.	8g`L	.	8g`L	.
+.	.	16cccc'JJ	.	.	.	.	.	.	.	.	.
+8g	.	(16aaLL	.	8ccc#J	.	.	.	8g`	.	8g`	.
+.	.	16f#X)	.	.	.	.	.	.	.	.	.
+8gJ	.	16aa'	.	8ccc#L	.	.	.	8g`J	.	8g`J	.
+.	.	16f#'JJ	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8ddddJ	.	.	.	8r	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2,s3)])][(s4)]s5[(s6)]
 !!!CDT: 1874/09/13-1951/07/13
 !!!CBL: Vienna, Austria
