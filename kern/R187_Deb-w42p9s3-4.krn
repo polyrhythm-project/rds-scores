@@ -17,92 +17,92 @@
 *^	*	*
 !	!	!LO:TX:t=[quarter]=107	!
 !	!	!LO:TX:b:i:t=lointain et raide	!
-8AAA'L	8GG	2r	pp
+8AAA'L	8GGG	2r	pp
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =123	=123	=123	=123
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =124	=124	=124	=124
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =125	=125	=125	=125
-8AAA'L	8GG	2r	.
+8AAA'L	8GGG	2r	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 *v	*v	*	*
 =126	=126	=126
 *	*8va	*
 *^	*	*
 !	!	!LO:TX:b:i:t=sempre	!
-8AAA'L	8GG	(16aaaKL	.
+8AAA'L	8GGG	(16aaaKL	.
 .	.	8cccc)	.
 8AAA'J	8r	.	.
 .	.	(16aaaJk	pp
-8AAA'L	8GG	8cccc'L)	.
+8AAA'L	8GGG	8cccc'L)	.
 8AAA'J	8r	8aaa'J	.
 =127	=127	=127	=127
 !	!	!LO:TX:b:i:t=très exactement rythmé	!
-8AAA'L	8GG	(16fffKL	.
+8AAA'L	8GGG	(16fffKL	.
 .	.	8aaa)	.
 8AAA'J	8r	.	.
 .	.	(16fffJk	.
-8AAA'L	8GG	8aaa'L)	.
+8AAA'L	8GGG	8aaa'L)	.
 8AAA'J	8r	8fff'J	.
 =128	=128	=128	=128
-8AAA'L	8GG	(16dddKL	.
+8AAA'L	8GGG	(16dddKL	.
 .	.	8fff)	.
 8AAA'J	8r	.	.
 .	.	(16dddJk	.
-8AAA'L	8GG	8fff'L)	.
+8AAA'L	8GGG	8fff'L)	.
 8AAA'J	8r	(16dddL	.
 .	.	16fffJJ	.
 =129	=129	=129	=129
-8AAA'L	8GG	2ddd)	.
+8AAA'L	8GGG	2ddd)	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
 =130	=130	=130	=130
-8AAA'L	8GG	(16cccKL	.
+8AAA'L	8GGG	(16cccKL	.
 .	.	8ddd)	.
 8AAA'J	8r	.	.
 .	.	(16cccJk	.
-8AAA'L	8GG	8aa'L)	.
+8AAA'L	8GGG	8aa'L)	.
 *v	*v	*	*
-*	*X8va	*
 *^	*	*
 8AAA'J	8r	8ccc'J	.
+*	*	*X8va	*
 =131	=131	=131	=131
-8AAA'L	8GG	(16aaKL	.
+8AAA'L	8GGG	(16aaKL	.
 .	.	8bb-)	.
 8AAA'J	8r	.	.
 .	.	(16aaJk	.
-8AAA'L	8GG	4ff~)	.
+8AAA'L	8GGG	4ff~)	.
 8AAA'J	8r	.	.
 =132	=132	=132	=132
-8AAA'L	8GG	(16ffKL	.
+8AAA'L	8GGG	(16ffKL	.
 .	.	8gg)	.
 8AAA'J	8r	.	.
 .	.	16ffJk	.
-8AAA'L	8GG	8ccL	.
+8AAA'L	8GGG	8ccL	.
 8AAA'J	8r	(16ccL	.
 .	.	16eeJJ	.
 =133	=133	=133	=133
-8AAA'L	8GG	2cc)	.
+8AAA'L	8GGG	2cc)	.
 8AAA'J	8r	.	.
-8AAA'L	8GG	.	.
+8AAA'L	8GGG	.	.
 *v	*v	*	*
-*X8ba	*	*
+*	*	*
 *^	*	*
 8AAA'J	8r	.	.
 *v	*v	*	*
-*	*clefF4	*
+*X8ba	*clefF4	*
 =134	=134	=134
 8F'L	(16AKL	p
 !	!LO:TX:b:i:t=en augmentant peu à peu	!
