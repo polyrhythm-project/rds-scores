@@ -18,10 +18,10 @@
 *	*^	*	*	*	*	*	*	*
 !	!	!	!LO:TX:b:t=[pp]	!	!	!LO:TX:a:t=arco	!	!	!
 4r	2.AAA 2.AA	4ryy	4r	4ryy	.	8ee'`L	pp	8eeee'`L	pp
-!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=192	!
+!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
 .	.	.	.	.	.	8ee'`	.	8eeee'`	.
 !	!	!	!LO:TX:b:i:t=cresc. poco a poco	!	!	!LO:TX:b:i:t=cresc. poco a poco	!	!LO:TX:b:i:t=cresc. poco a poco	!
-2AA	.	4E\	(4E	2C#	< [	8dd'	.	8dddd'	.
+2AA	.	4E\(	(4E	2C#	< [	8dd'	.	8dddd'	.
 .	.	.	.	.	.	8ee'`J	.	8eeee'`J	.
 .	.	4Fn\	4Fn	.	.	8a'`L	.	8aaa'`L	.
 .	.	.	.	.	.	8a'`	.	8aaa'`	.
@@ -37,14 +37,14 @@
 *	*v	*v	*	*	*	*	*
 *X8ba	*	*	*	*	*	*
 *^	*^	*	*	*	*	*
-4AA]	4G	4E-X 4G)	4Cn	]	8a'L	.	8aaa'L	.
+4AA])	4G	4E-X 4G)	4Cn	]	8a'L	.	8aaa'L	.
 .	.	.	.	.	8a'	.	8aaa'	.
 *	*	*v	*v	*	*	*	*	*
 =237	=237	=237	=237	=237	=237	=237	=237
 *	*^	*	*	*	*	*	*
 4r	2.AAA 2.AA	4ryy	4r	.	8gn'	.	8gggn'	.
 .	.	.	.	.	8a'J	.	8aaa'J	.
-2F#	.	4Cn\	(4A 4cn	<	8d'L	.	8ddd'L	.
+2F#(	.	4Cn\	(4A 4cn	<	8d'L	.	8ddd'L	.
 .	.	.	.	.	8d'	.	8ddd'	.
 .	.	4D\	4d	[	8fn'	.	8fffn'	.
 .	.	.	.	.	8g'J	.	8ggg'J	.
@@ -53,13 +53,13 @@
 *	*	*^	*	*	*	*	*
 2F#X	12FnL	12fnL	2A	>	8a'L	.	8aaa'L	.
 .	12E-X	12e-X	.	.	.	.	.	.
-*	*	*	*	*	*	*	*X8va	*
+*	*	*	*	*	*	*	*	*
 .	.	.	.	.	8a'J	.	8aaa'J	.
 .	12DJ	12dJ	.	.	.	.	.	.
-*	*	*	*	*	*clefF4	*	*	*
+*	*	*	*	*	*clefF4	*	*X8va	*
 .	4Cn	4cn	.	.	8d'L	.	8ddd'L	.
 .	.	.	.	.	8d'J	.	8ddd'J	.
-4F#X	4D	4d)	4A	]	8cn'L	.	8cccn'L	.
+4F#X)	4D	4d)	4A	]	8cn'L	.	8cccn'L	.
 .	.	.	.	.	8d'J	.	8ddd'J	.
 *v	*v	*	*	*	*	*	*	*
 *	*v	*v	*	*	*	*	*
