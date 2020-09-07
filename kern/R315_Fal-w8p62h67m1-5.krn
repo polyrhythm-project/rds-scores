@@ -8,7 +8,7 @@
 *part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*part9	*part9	*part8	*	*part8	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivox	*	*	*Iarpa	*Iarpa	*	*Icemba	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*ICstr	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivox	*	*	*Iarpa	*Iarpa	*	*Icemba	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Treble Solo	*	*	*I"Harp	*	*	*	*	*I"Harpsichord	*	*I"Timpani	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Clarinet in Bb	*	*I"Cor Anglais	*	*I"Oboe	*	*I"Flute	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tr. Solo	*	*	*I'Hp.	*	*	*	*	*I'Hpsd.	*	*I'Timp.	*	*I'Tpt.	*	*I'Hn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -18,10 +18,11 @@
 *MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*	*MM76	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*
 !!LO:REH:t=67
 =36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)
-8AA-X'L	f	8AA-X'L	f	16c'LL	f	16E-X'LL 16c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	.	8AA-X' 8E-X	8c'	f	4.ryy	.	24AA<-XLL 24E<-X	.	8AA-X'	mf	4.r	.	[4.c^	fp	8c'	mf	4.r	.	4.r	.	4.r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=(Btte di legno)	!	!	!	!	!	!	!	!	!	!	!	!	!
+8AA-X'L	f	8AA-X'L	f	16c'LL	f	16E-X'LL 16c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	.	8AA-X' 8E-X	8c'	f	4.ryy	.	24AA<-XLL 24E<-X	.ff>	8AA-X'	mf	4.r	.	[4.c^	fp	8c'	mf	4.r	.	4.r	.	4.r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	16E-X'J 16c	.	16E-'J 16c	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.]mf	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8AA-'	p	8AA-'	p	8E-' 8c	p	8E-' 8c	p	8r	.	8B-' 8g-	] p	.	.	.	8r	8r	.	.	.	24E<-'LL	.	8r	.	.	.	.	.	8r	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
