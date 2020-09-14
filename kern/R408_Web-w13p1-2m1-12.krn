@@ -6,6 +6,8 @@
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICstr	*ICstr	*	*ICidio	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Iglock	*	*Iarpa	*Iarpa	*	*Iclest	*Iclest	*	*Itromt	*	*Itromp	*	*Iclars	*	*Iflt	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin	*	*I"Glockenspiel	*	*I"Harp	*	*	*I"Celesta	*	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Clarinet in Bb	*	*I"Flute	*
 *I'Vc.	*	*I'Vla.	*	*I'Vln.	*	*I'Glock.	*	*I'Hp.	*	*	*I'Cel.	*	*	*I'Tbn.	*	*I'Tpt.	*	*I'Cl.	*	*I'Fl.	*
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -95,7 +97,7 @@
 .	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	16r	.	.	.	4r	.
 .	.	.	.	.	.	.	.	.	16an'^LL	<	.	.	.	.	.	8bX	ppp	.	.	.	.
 .	.	.	.	.	.	8r	.	.	16a'JJ	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	16r	[	.	.	.	.	.	16r	< [	.	.	.	.
+.	.	.	.	.	.	.	.	.	16r	[	.	.	.	.	.	16r	<[	.	.	.	.
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 *^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
