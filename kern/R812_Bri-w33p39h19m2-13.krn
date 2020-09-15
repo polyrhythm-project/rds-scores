@@ -109,7 +109,7 @@
 8FnJ	.	]	8FnJ	.	]	8fnJ	.	]	8r	[	8CTT	>]	[8AA~J	>]	[8AA~J [8C	>]	[8B-~J	>]	[8B-~J [8c	>]	[8C~J [8c	>]	[8C~J [8c	>]
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)](s8)[(s9,s10,s11)]
 !!!CDT: 1913/11/22-1976/12/04
 !!!CBL: Lowestoft, England
 !!!CDL: Aldeburgh, England
