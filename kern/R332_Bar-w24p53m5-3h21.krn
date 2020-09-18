@@ -6,21 +6,20 @@
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ituba	*	*Itromb	*	*Itromt	*	*Itromt	*	*Icor	*	*Icor	*	*Ifagot	*	*Icangl	*	*Ioboe	*	*Ioboe	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Tuba	*	*I"Bass Trombone	*	*I"Trombone II	*	*I"Trombone I	*	*I"Horn in F II,IV	*	*I"Horn in F I,III	*	*I"Bassoons	*	*I"Cor Anglais	*	*I"Oboe II	*	*I"Oboe I	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tba.	*	*I'Tbn.	*	*I'Tbn.	*	*I'Tbn.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'C. A.	*	*I'Ob.	*	*I'Ob.	*
+!!pagebreak:original
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd4c7	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!LO:TX:b:t=[mf]	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=a 3	!	!	!	!	!	!LO:TX:t=[quarter]=74	!
-4C#Xt	p	4GG#Xt	p	4FnT	p	4AnT	p	4B#X	.	8r	.	8r	.	(8d#X	p	((8.B#XL	p	8F'L 8A	f	2r	.	4B#X	mf	1r	.	1r	.	2r	.
+4C#Xt	p	4GG#Xt	p	4FnT	p	4AnT	p	4B#X	.	8r	.	8r	.	8d#X	p	((8.B#XL	p	8F'L 8A	f	2r	.	4B#X	mf	1r	.	1r	.	2r	.
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	.	.	.	.	.	.	8CC#X'L	f	8GG#X'L	f	8r)	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8CC#X'L	f	8GG#X'L	f	8r	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!LO:TX:a:t=sul IV	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4GT	<	4BBt	<	4Et	<	4A#Xt	<	(8d#XL	.	8GGG'J	.	8BB'J	.	4r	.	8d#X)	.	8r	.	.	.	(8d#XL	<	.	.	.	.	.	.
@@ -33,8 +32,13 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
 4AnT	[	4D#Xt	[	4Bt	[	4e#Xt	[	4a#X~	[	8r	.	8r	.	.	.	8d#)	.	.	.	4c-X~ 4f	.	4a#X~)	[	.	.	.	.	4a#X~)	.
 .	.	.	.	.	.	.	.	.	.	8AA'^^J	[	8D#X'^^J	[	.	.	8r	[	.	.	.	.	.	.	.	.	.	.	.	.
-=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208
-!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=poco a poco accel.	!
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
 4C#Xt	.	4GG#Xt	.	4FnT	.	4AnT	.	(16B#XLL	.	8CC#X'L	.	8GG#X'L	.	1r	.	((8.B#XL	.	8r	.	8r	.	(16B#XLL	.	2r	.	1r	.	(16B#XLL	.
 .	.	.	.	.	.	.	.	16A#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#XJ	.	.	.	.	.	16A#XJ	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
@@ -51,7 +55,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!
 4AnT	[	4D#Xt	[	4Bt	[	4e#Xt	[	4a#X~	[	4AA~	[	4D#X~	[	.	.	8d#)	.	8r	.	8r	.	4a#X~)	[	4b-~)	.	.	.	4a#X~)	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	[	8c-X'^^J	.	8f'^^J	[	.	.	.	.	.	.	.	.
-=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 4C#Xt	<	4GG#Xt	<	4FnT	.	4AnT	.	(16B#XLL	.	8r	.	8r	.	1r	.	((8.B#XL	.	8F'L	.	8A'L	.	(16B#XLL	.	(16cLL	.	2r	.	(16B#XLL	.
 .	.	.	.	.	.	.	.	16A#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#X)	.	16B-)	.	.	.	16A#X)	.
 .	.	.	.	.	.	.	.	(16A#	.	8CC#X'L	<	8GG#X'L	< <	.	.	.	.	8r	.	8r	.	(16A#	.	(16B-	.	.	.	(16A#	.
@@ -88,5 +92,5 @@
 !!!excerpt-end-measure: 209
 !!!excerpt-start-time: 6:13
 !!!excerpt-end-time: 6:44
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04

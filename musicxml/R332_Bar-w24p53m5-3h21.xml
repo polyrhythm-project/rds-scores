@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">Béla Bartók</creator>
   <encoding>
-   <encoding-date>2020-06-15</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2020-08-05</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -80,6 +80,11 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Oboe I</part-name>
    <part-name-display>
     <display-text>Oboe I</display-text>
@@ -93,8 +98,8 @@
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -117,8 +122,8 @@
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -141,7 +146,7 @@
     <instrument-sound>wind.reed.english-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>English Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -165,8 +170,8 @@
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bassoon</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -193,8 +198,8 @@
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>French Horn</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -217,12 +222,17 @@
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>French Horn</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P7">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Trombone I</part-name>
    <part-name-display>
     <display-text>Trombone I</display-text>
@@ -236,7 +246,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -260,7 +270,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -284,7 +294,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -308,8 +318,8 @@
     <instrument-sound>brass.tuba</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Tuba</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Tuba Bb</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -336,12 +346,17 @@
     <instrument-sound>strings.violin</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Violin ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violins</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P12">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violin II</part-name>
    <part-name-display>
     <display-text>Violin II</display-text>
@@ -353,11 +368,16 @@
    <score-instrument id="P12-I1">
     <instrument-name>Violin II</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P13">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Viola</part-name>
    <part-name-display>
     <display-text>Viola</display-text>
@@ -371,12 +391,17 @@
     <instrument-sound>strings.viola</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Viola ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violas</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P14">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -390,12 +415,17 @@
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Cello ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Celli</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P15">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Contrabass</part-name>
    <part-name-display>
     <display-text>Contrabass</display-text>
@@ -409,8 +439,8 @@
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Contrabass ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -2394,6 +2424,11 @@
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
+    <sound>
+     <play>
+      <mute>on</mute>
+     </play>
+    </sound>
    </direction>
    <note color="#000000" default-x="84">
     <pitch>
@@ -2795,6 +2830,11 @@
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
+    <sound>
+     <play>
+      <mute>on</mute>
+     </play>
+    </sound>
    </direction>
    <direction>
     <direction-type>
@@ -3564,9 +3604,6 @@
     <accidental>sharp</accidental>
     <stem>down</stem>
     <staff>1</staff>
-    <notations>
-     <slur color="#000000" type="start" orientation="over" />
-    </notations>
    </note>
    <note default-x="119">
     <rest />
@@ -3575,9 +3612,6 @@
     <voice>1</voice>
     <type>eighth</type>
     <staff>1</staff>
-    <notations>
-     <slur color="#000000" type="stop" orientation="over" />
-    </notations>
    </note>
    <note default-x="188">
     <rest />
@@ -6048,8 +6082,8 @@
     <notations>
      <ornaments>
       <wavy-line type="continue" default-y="20" />
-      <trill-mark default-y="35" />
-      <wavy-line type="continue" default-y="35" />
+      <trill-mark default-y="20" />
+      <wavy-line type="continue" default-y="20" />
      </ornaments>
     </notations>
    </note>
@@ -6068,7 +6102,7 @@
     <staff>1</staff>
     <notations>
      <ornaments>
-      <wavy-line type="continue" default-y="35" />
+      <wavy-line type="continue" default-y="20" />
       <trill-mark default-y="20" />
       <wavy-line type="continue" default-y="20" />
      </ornaments>
@@ -6098,9 +6132,9 @@
     <notations>
      <ornaments>
       <wavy-line type="continue" default-y="20" />
-      <trill-mark default-y="35" />
-      <wavy-line type="continue" default-y="35" />
-      <wavy-line type="continue" default-y="35" />
+      <trill-mark default-y="20" />
+      <wavy-line type="continue" default-y="20" />
+      <wavy-line type="continue" default-y="20" />
      </ornaments>
     </notations>
    </note>
@@ -6149,8 +6183,8 @@
     <notations>
      <ornaments>
       <wavy-line type="continue" default-y="20" />
-      <trill-mark default-y="35" />
-      <wavy-line type="continue" default-y="35" />
+      <trill-mark default-y="20" />
+      <wavy-line type="continue" default-y="20" />
      </ornaments>
     </notations>
    </note>
@@ -6169,7 +6203,7 @@
     <staff>1</staff>
     <notations>
      <ornaments>
-      <wavy-line type="continue" default-y="35" />
+      <wavy-line type="continue" default-y="20" />
       <trill-mark default-y="20" />
       <wavy-line type="continue" default-y="20" />
      </ornaments>
@@ -6199,9 +6233,9 @@
     <notations>
      <ornaments>
       <wavy-line type="continue" default-y="20" />
-      <trill-mark default-y="35" />
-      <wavy-line type="continue" default-y="35" />
-      <wavy-line type="continue" default-y="35" />
+      <trill-mark default-y="20" />
+      <wavy-line type="continue" default-y="20" />
+      <wavy-line type="continue" default-y="20" />
      </ornaments>
     </notations>
    </note>

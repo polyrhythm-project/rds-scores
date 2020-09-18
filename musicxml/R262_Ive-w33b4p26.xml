@@ -8,8 +8,8 @@
  <identification>
   <creator type="composer">Charles Ives</creator>
   <encoding>
-   <encoding-date>2020-06-15</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2020-08-14</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -79,11 +79,6 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Flute</part-name>
    <part-name-display>
     <display-text>Flute</display-text>
@@ -97,12 +92,17 @@
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Flute</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P2">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Oboe</part-name>
    <part-name-display>
     <display-text>Oboe</display-text>
@@ -116,8 +116,8 @@
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -144,7 +144,7 @@
     <instrument-sound>pitched-percussion.tubular-bells</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Tubular Bells</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -168,7 +168,7 @@
     <instrument-sound>pitched-percussion.tubular-bells</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Tubular Bells</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -178,6 +178,11 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P5">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violin I</part-name>
    <part-name-display>
     <display-text>Violin I</display-text>
@@ -191,12 +196,17 @@
     <instrument-sound>strings.violin</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Violin ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violins</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P6">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violin II</part-name>
    <part-name-display>
     <display-text>Violin II</display-text>
@@ -208,7 +218,7 @@
    <score-instrument id="P6-I1">
     <instrument-name>Violin II</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -231,12 +241,17 @@
     <instrument-sound>strings.viola</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Viola ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violas</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P8">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -250,8 +265,8 @@
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Cello ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Celli</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -274,8 +289,8 @@
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Contrabass ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -312,7 +327,25 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-y="25" justify="center" valign="middle" font-family="Didot" font-style="italic" font-size="7.0755" font-weight="normal">121</words>
+     <words default-x="101" default-y="-76" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[p]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-y="53" justify="center" valign="middle" font-family="Didot" font-style="italic" font-size="7.0755" font-weight="normal">121</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
+      <beat-unit>quarter</beat-unit>
+      <beat-unit-dot />
+      <per-minute>36</per-minute>
+     </metronome>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -794,6 +827,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="101" default-y="-94" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[pp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="107" default-y="20">
     <pitch>
      <step>D</step>
@@ -1598,7 +1638,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>55</staff-distance>
+     <staff-distance>84</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -1618,6 +1658,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="101" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[pp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="107" default-y="-49">
     <pitch>
      <step>G</step>
@@ -1864,6 +1911,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[ppp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="107" default-y="9">
     <pitch>
      <step>B</step>
@@ -2660,7 +2714,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>55</staff-distance>
+     <staff-distance>103</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -2680,6 +2734,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="101" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[pp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="107" default-y="-40">
     <pitch>
      <step>E</step>
@@ -3119,7 +3180,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>55</staff-distance>
+     <staff-distance>73</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -3193,7 +3254,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>55</staff-distance>
+     <staff-distance>76</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -3213,6 +3274,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="43" default-y="-86" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[pp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="107" default-y="12">
     <pitch>
      <step>C</step>
@@ -3235,7 +3303,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3280,7 +3348,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3308,7 +3376,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3383,7 +3451,7 @@
   <measure number="2" width="385">
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3410,7 +3478,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3455,7 +3523,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3483,7 +3551,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3558,7 +3626,7 @@
   <measure number="3" width="334">
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3585,7 +3653,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3630,7 +3698,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3658,7 +3726,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3733,7 +3801,7 @@
   <measure number="4" width="350">
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3760,7 +3828,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3805,7 +3873,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">-64</offset>
     <voice>1</voice>
@@ -3833,7 +3901,7 @@
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-4" default-y="-48" color="#000000" type="diminuendo" />
+     <wedge default-x="-4" default-y="-77" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3916,7 +3984,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>55</staff-distance>
+     <staff-distance>113</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -3943,7 +4011,28 @@
    </attributes>
    <direction>
     <direction-type>
-     <wedge default-x="-24" default-y="-48" color="#000000" type="stop" />
+     <words default-x="44" default-y="13" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="7.6735" font-weight="normal">[pizz.]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="101" default-y="-84" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[pp]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="35" default-y="-74" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="7.6735" font-weight="normal">[arco]</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="-24" default-y="-77" color="#000000" type="stop" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>

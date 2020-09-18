@@ -7,9 +7,9 @@
  <identification>
   <creator type="composer">Aaron Copland</creator>
   <encoding>
-   <encoding-date>2020-07-10</encoding-date>
-   <encoder>Aaron Graham</encoder>
-   <software>Sibelius 20.3.0</software>
+   <encoding-date>2020-08-07</encoding-date>
+   <encoder>claud</encoder>
+   <software>Sibelius 20.6.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -344,11 +344,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P11">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Trombone III Tuba</part-name>
    <part-name-display>
     <display-text>Trombone III</display-text>
@@ -371,11 +366,6 @@
   <part-group type="stop" number="5" />
   <part-group type="stop" number="3" />
   <score-part id="P12">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Snare Drum</part-name>
    <part-name-display>
     <display-text>Snare Drum</display-text>
@@ -396,11 +386,6 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P13">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -451,11 +436,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P16">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Violin II</part-name>
    <part-name-display>
     <display-text>Violin II</display-text>
@@ -473,11 +453,6 @@
   </score-part>
   <part-group type="stop" number="7" />
   <score-part id="P17">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Viola</part-name>
    <part-name-display>
     <display-text>Viola</display-text>
@@ -497,11 +472,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P18">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -521,11 +491,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P19">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Contrabass</part-name>
    <part-name-display>
     <display-text>Contrabass</display-text>
@@ -564,7 +529,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -589,6 +554,14 @@
    </direction>
    <direction>
     <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
     </direction-type>
     <voice>1</voice>
@@ -596,7 +569,7 @@
    </direction>
    <direction>
     <direction-type>
-     <metronome default-y="47" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
+     <metronome default-y="37" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
       <beat-unit>half</beat-unit>
       <per-minute>72</per-minute>
      </metronome>
@@ -682,7 +655,7 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="26" default-y="57" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="7.6735" font-weight="normal">*Xtuplet</words>
+     <words default-x="26" default-y="56" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="7.6735" font-weight="normal">*Xtuplet</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -956,7 +929,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -967,6 +940,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <dynamics default-x="88" default-y="-74" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
@@ -1477,7 +1458,7 @@
      <fifths>1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -1492,6 +1473,14 @@
      <chromatic>-2</chromatic>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note default-x="94">
     <rest />
     <duration>1024</duration>
@@ -1827,7 +1816,7 @@
      <fifths>1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -1843,6 +1832,14 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -2137,7 +2134,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -2148,6 +2145,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -2442,7 +2447,7 @@
      <fifths>0</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -2457,6 +2462,14 @@
      <chromatic>-7</chromatic>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -2751,7 +2764,7 @@
      <fifths>0</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -2766,6 +2779,14 @@
      <chromatic>-7</chromatic>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -3258,7 +3279,7 @@
      <fifths>0</fifths>
      <mode>none</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -3273,6 +3294,14 @@
      <chromatic>-2</chromatic>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -3538,7 +3567,7 @@
      <fifths>0</fifths>
      <mode>none</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -3553,6 +3582,14 @@
      <chromatic>-2</chromatic>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -3967,7 +4004,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -3978,6 +4015,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -4225,7 +4270,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -4236,6 +4281,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -4620,7 +4673,7 @@
      <fifths>0</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -4633,6 +4686,14 @@
      <staff-lines>1</staff-lines>
     </staff-details>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-50" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -4933,7 +4994,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -4949,6 +5010,14 @@
     <staff-details number="1" print-object="yes" />
     <staff-details number="2" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-74" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -5159,6 +5228,14 @@
    <backup>
     <duration>1024</duration>
    </backup>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-76" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -6256,7 +6333,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -6269,6 +6346,14 @@
    </attributes>
    <direction>
     <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
     </direction-type>
     <voice>1</voice>
@@ -6276,7 +6361,7 @@
    </direction>
    <direction>
     <direction-type>
-     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
+     <metronome default-y="5" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">
       <beat-unit>half</beat-unit>
       <per-minute>72</per-minute>
      </metronome>
@@ -6706,7 +6791,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -6717,6 +6802,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -7146,7 +7239,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -7157,6 +7250,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-71" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -7691,7 +7792,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -7702,6 +7803,14 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>
@@ -8036,7 +8145,7 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time color="#000000">
+    <time print-object="no" color="#000000">
      <beats>4</beats>
      <beat-type>4</beat-type>
     </time>
@@ -8052,6 +8161,14 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="70" default-y="-10" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+     <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="12.8556" font-weight="normal"></words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <words default-x="88" default-y="-70" justify="left" valign="middle" font-family="Opus Text Std" font-style="normal" font-size="7.6735" font-weight="normal">[f]</words>

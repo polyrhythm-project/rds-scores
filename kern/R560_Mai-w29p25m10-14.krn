@@ -8,16 +8,16 @@
 *staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
+!!pagebreak:original
 *clefF4	*clefG2	*
 *k[]	*k[]	*
 *C:	*C:	*
 *M18/16	*M18/16	*
-=10	=10	=10
+=1	=1	=1
 !	!LO:TX:t=[eighth-dot]=132	!
 16FF#X'LL	8r	mf
 16A'	.	.
-!	!LO:TX:b:i:t=  molto marcato	!
-!	!	!LO:DY:a
+!	!LO:TX:a:i:t=  molto marc.	!
 16D#X'J	16aa'^KL	f
 16Cn'L	[8.ddn^J	.
 16dn'	.	.
@@ -33,84 +33,86 @@
 16D#X'J	.	.
 16C'L	8cc#]	.
 16dn'	.	.
-16G#'JJ	[16e#X^Jk	.
-=11	=11	=11
-!LO:TX:b:t=sempre stacc.	!	!
-16FF'LL	8e#L]	.
-16A'	.	.
-16D#X'J	[16g#X^k	.
-16Cn'L	8.g#J_	.
-16dn'	.	.
-16G#X'JJ	.	.
-16FF'LL	8g#L_	.
-16A'	.	.
-16D#'J	16g#k]	.
-16C'L	[8.g#^J	.
-16d'	.	.
-16G#'JJ	.	.
-16FF'LL	8g#L]	.
-16A'	.	.
-16D#'J	[16g#^k	.
-16C'L	8.g#J_	.
-16d'	.	.
-16G#'JJ	.	.
-=12	=12	=12
-16FF#X'LL	16g#LL]	.
-16A'	16f#X'^^	.
-16D#X'J	[16b^J	.
-16Cn'L	8b]	.
-16dn'	.	.
-16G#X'JJ	[16ccn^Jk	.
-16FF#'LL	16ccLL]	.
-16A'	16b'^^	.
-16D#'J	[16g#X^J	.
-16C'L	16g#K]	.
-16d'	[8b^J	.
-16G#'JJ	.	.
-16FF#'LL	16bLL]	.
-16A'	16b'^^	.
-16D#'J	16cc'^^J	.
-16C'L	16ffn'^^L	.
-16d'	16ff#X'^^	.
-16G#'JJ	16bb'^^JJ	.
-=13	=13	=13
-16CC#X'LL	8r	.
-16E'	.	.
-16AA#X'J	16ee'^^KL 16eee	.
-16GGn'L	[8.a^J [8.aa	.
-16An'	.	.
-16D#X'JJ	.	.
-16CC#'LL	8aL] 8aa]	.
-16E'	.	.
-16AA#'J	16g#X'^^k 16gg#X	.
-16GG'L	[8.c#X^J [8.cc#X	.
-16A'	.	.
-16D#'JJ	.	.
-16CC#'LL	8.c#L_ 8.cc#_	.
-16E'	.	.
-16AA#'J	.	.
-16GG'L	8c#] 8cc#]	.
-16A'	.	.
-16D#'JJ	[16B#X^Jk	.
-=14	=14	=14
-16CC#X'LL	8B#L]	.
-16E'	.	.
-16AA#X'J	8f##X~	.
-16GGn'L	.	.
-16An'	8e~J	.
-16D#X'JJ	.	.
-16CC#'LL	8d#X~L	.
-16E'	.	.
-16AA#'J	8B#X~	.
-16GG'L	.	.
-16A'	8f##~J	.
-16D#'JJ	.	.
-16CC#'LL	16e^KL	.
-16E'	[8d#^	.
-16AA#'J	.	.
-16GG'L	8.d#J_	.
-16A'	.	.
-16D#'JJ	.	.
+16G#X'JJ	[16e#X^Jk	.
+=2	=2	=2
+!	!LO:TX:b:i:t=sempre stacc.	!
+16FFLL	8e#L]	.
+16A	.	.
+16D#XJ	[16g#X^k	.
+16CnL	8.g#J_	.
+16dn	.	.
+16G#XJJ	.	.
+16FFLL	8.g#L_	.
+16A	.	.
+16D#J	.	.
+16CL	16g#k]	.
+16d	[8g#^J	.
+16G#JJ	.	.
+16FFLL	8g#L]	.
+16A	.	.
+16D#J	[16g#^k	.
+16CL	8.g#J_	.
+16d	.	.
+16G#JJ	.	.
+!!linebreak:original
+=3	=3	=3
+16FF#XLL	16g#XLL]	.
+16A	16f#X'	.
+16D#XJ	[16b^J	.
+16CnL	8b]	.
+16dn	.	.
+16G#XJJ	[16ccn^Jk	.
+16FF#LL	16ccLL]	.
+16A	16b'	.
+16D#J	[16g#X^JJ	.
+16CL	16g#KL]	.
+16d	[8b^J	.
+16G#JJ	.	.
+16FF#LL	16bLL]	.
+16A	16b'	.
+16D#XJ	16cc'J	.
+16CL	16ffn'L	.
+16d	16ff#X'	.
+16G#XJJ	16bb'JJ	.
+!!linebreak:original
+=4	=4	=4
+16CC#XLL	8r	.
+16E	.	.
+16AA#XJ	16ee'KL 16eee	.
+16GGnL	[8.a^J [8.aa	.
+16An	.	.
+16D#XJJ	.	.
+16CC#LL	8aL] 8aa]	.
+16E	.	.
+16AA#J	16g#X'k 16gg#X	.
+16GGL	[8.c#X^J [8.cc#X	.
+16A	.	.
+16D#JJ	.	.
+16CC#LL	8.c#L_ 8.cc#_	.
+16E	.	.
+16AA#J	.	.
+16GGL	8c#] 8cc#]	.
+16A	.	.
+16D#JJ	[16B#X^Jk	.
+=5	=5	=5
+16CC#XLL	8B#L]	.
+16E	.	.
+16AA#XJ	8f##X~	.
+16GGnL	.	.
+16An	8e~J	.
+16D#XJJ	.	.
+16CC#LL	8d#X~L	.
+16E	.	.
+16AA#J	8B#X~	.
+16GGL	.	.
+16A	8f~J	.
+16D#JJ	.	.
+16CC#LL	16e^KL	.
+16E	[8d#^	.
+16AA#J	.	.
+16GGL	8.d#J_	.
+16A	.	.
+16D#JJ	.	.
 =	=	=
 *-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
@@ -131,5 +133,5 @@
 !!!excerpt-end-measure: 14
 !!!excerpt-start-time: 0:27
 !!!excerpt-end-time: 0:41
-!!!EEV: 2020/07/28
-!!!ONB: Converted from MusicXML on 2020/07/28
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
