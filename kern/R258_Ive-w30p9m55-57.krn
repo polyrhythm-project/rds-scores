@@ -3,13 +3,6 @@
 !!!OMV:
 !!!example: 258
 !!!work: Ive-30
-!!!Xfilter: transpose -t -P8 -s 23
-!!!Xfilter: transpose -t M2 -s 14
-!!!Xfilter: transpose -t P8 -s 1
-!!!Xfilter: transpose -t -P5 -s 15
-!!!Xfilter: transpose -t -P5 -s 16
-!!!Xfilter: transpose -t P8 -s 23
-!!!Xfilter: transpose -t P8 -s 23
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part18	*part17	*part16	*part15	*part14	*part13	*part13	*part12	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -55,12 +48,11 @@
 .	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 6G 6g	6GGn 6Gn	.	.	.	3x	.	12x	.	.	.	.	6GGn 6Gn	.	.	.	6Gn	6d	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	16eek	.	16fk	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	12r	.	4r	4E	.	.	8.ee	.	8.f	.	.	4ccc#X	.	4ccc#X	.	4bbb-X	.
+.	.	.	.	.	.	.	12r	.	4r	4E	.	.	8ee	.	8.f	.	.	4ccc#X	.	4ccc#X	.	4bbb-X	.
 6G-X^^ 6g-X	6GG-X^^ 6G-X	.	.	.	.	.	12x	.	.	.	.	6GG-X^^ 6G-X	.	.	.	6G-X^^	6d-X^^	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8a-XJk	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	16a-XJk	.	16gJk	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJk	.	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 6B 6f	6BBn 6F	2C#X 2E 2A	2B-X 2c 2g	2g#X 2b 2ee-X	3x	p	(12x	pp	4FF	4BB-X	f	6BBn 6F	8ggL	2x	2g	6F	6c	4.ddd	.	4.ddd	.	4.dddd	.
 .	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
