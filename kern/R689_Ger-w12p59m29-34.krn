@@ -3,66 +3,66 @@
 !!!OMV: "I got rhythm"
 !!!example: 689
 !!!work: Ger-12
-**kern	**kern	**kern	**text	**mxhm
-*part2	*part2	*part1	*part1	*part1
-*staff3	*staff2	*staff1	*staff1	*
-*I"Piano	*	*I"Treble Solo	*	*
-*I'Pno.	*	*I'Tr. Solo	*	*
-*clefF4	*clefG2	*clefG2	*	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*
-*B-:	*B-:	*B-:	*	*
-*M2/2	*M2/2	*M2/2	*	*
-*met(c|)	*met(c|)	*met(c|)	*	*
-=29	=29	=29	=29	=29
-!	!	!LO:TX:t=[half]=80	!	!
-!	!LO:TX:b:t=[p-mf]	!LO:TX:a:t=[p-mf]	!	!
-4BBB- 4BB-	4r	4r	.	B- major
-!	!	!LO:TX:a:i:t=(with abandon)	!	!
-4r	[4B-^ [4d [4f	[4f	I	.
-4FF	8B-] 8d] 8f]	8f]	.	.
-.	4.B-^ 4.d 4.g	4.g	got	B- major-sixth
-4r	.	.	.	.
-=30	=30	=30	=30	=30
-*	*^	*	*	*
-4CC 4C	4.e-^ 4.g 4.b-	4ryy	4.b-	rhy-	C minor-seventh
-4r	.	8ryy	.	.	.
-.	[8cc^	[8e-^ [8a	[8cc	-thm,	.
-4FF	2cc]	4e-] 4a]	2cc]	.	F dominant
-4r	.	4e- 4a	.	.	.
-*	*v	*v	*	*	*
-=31	=31	=31	=31	=31
-4FF 4F	4r	4r	.	B- major-sixth
-4r	[4d^ [4f [4g [4cc	[4cc	I	.
-4FF	8d] 8f] 8g] 8cc]	8cc]	.	.
-.	4.d-X^ 4.en 4.g 4.b-	4.b-	got	E diminished
-4r	.	.	.	.
-=32	=32	=32	=32	=32
-*	*^	*	*	*
-4CC 4C	4.g^	4.B- 4.e-X	4.g	mu-	C minor-seventh
-4r	.	.	.	.	.
-.	[8f^	[8B- [8e-	[8f	-sic,	.
-4FF	2f]	4B-] 4e-]	2f]	.	F dominant
-4r	.	4A 4e-	.	.	.
-*	*v	*v	*	*	*
-=33	=33	=33	=33	=33
-(16qqFF/LL	.	.	.	.
-16qqGG/	.	.	.	.
-16qqAA/JJ	.	.	.	.
-4BB-)	4r	4r	.	B- major
-4r	[4B-^ [4d [4f	[4f	I	.
-4FF	8B-] 8d] 8f]	8f]	.	.
-.	4.B-^ 4.d 4.g	4.g	got	B- major-sixth
-4r	.	.	.	.
-=34	=34	=34	=34	=34
-4CC 4C	4.e-^ 4.g 4.b-	4.b-	my	C minor-seventh
-4r	.	.	.	.
-.	[8e-^ [8a [8cc	[8cc	man	.
-4FF	8e-] 8a] 8cc]	8cc]	.	F dominant
-.	4g-X^ 4b- 4ee-	4ee-	Who	E- minor-sixth
-4r	.	.	.	.
-.	8cc	8cc	could	.
-=	=	=	=	=
-*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**mxhm
+*part2	*	*part2	*	*part1	*	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*	*staff1	*
+*I"Piano	*	*	*	*I"Treble Solo	*	*	*
+*I'Pno.	*	*	*	*I'Tr. Solo	*	*	*
+*clefF4	*	*clefG2	*	*clefG2	*	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*	*
+*B-:	*	*B-:	*	*B-:	*	*	*
+*M2/2	*	*M2/2	*	*M2/2	*	*	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*	*
+=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:
+!	!	!	!	!LO:TX:t=[half]=80	!	!	!
+!LO:TX:b:t= 	!LO:DY:ed=brack	!LO:TX:b:t=[p-mf]	!	!LO:TX:a:t=[p-mf]	!	!	!
+4BBB- 4BB-	.	4r	.	4r	.	.	B- major
+!	!	!	!	!LO:TX:a:i:t=(with abandon)	!	!	!
+4r	.	[4B-^ [4d [4f	.	[4f	.	I	.
+4FF	.	8B-] 8d] 8f]	.	8f]	.	.	.
+.	.	4.B-^ 4.d 4.g	.	4.g	.	got	B- major-sixth
+4r	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+*	*	*^	*	*	*	*	*
+4CC 4C	.	4.e-^ 4.g 4.b-	4ryy	.	4.b-	.	rhy-	C minor-seventh
+4r	.	.	8ryy	.	.	.	.	.
+.	.	[8cc^	[8e-^ [8a	.	[8cc	.	-thm,	.
+4FF	.	2cc]	4e-] 4a]	.	2cc]	.	.	F dominant
+4r	.	.	4e- 4a	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*
+=31	=31	=31	=31	=31	=31	=31	=31
+4FF 4F	.	4r	.	4r	.	.	B- major-sixth
+4r	.	[4d^ [4f [4g [4cc	.	[4cc	.	I	.
+4FF	.	8d] 8f] 8g] 8cc]	.	8cc]	.	.	.
+.	.	4.d-X^ 4.en 4.g 4.b-	.	4.b-	.	got	E diminished
+4r	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+*	*	*^	*	*	*	*	*
+4CC 4C	.	4.g^	4.B- 4.e-X	.	4.g	.	mu-	C minor-seventh
+4r	.	.	.	.	.	.	.	.
+.	.	[8f^	[8B- [8e-	.	[8f	.	-sic,	.
+4FF	.	2f]	4B-] 4e-]	.	2f]	.	.	F dominant
+4r	.	.	4A 4e-	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*
+=33	=33	=33	=33	=33	=33	=33	=33
+(16qqFF/LL	.	.	.	.	.	.	.
+16qqGG/	.	.	.	.	.	.	.
+16qqAA/JJ	.	.	.	.	.	.	.
+4BB-)	.	4r	.	4r	.	.	B- major
+4r	.	[4B-^ [4d [4f	.	[4f	.	I	.
+4FF	.	8B-] 8d] 8f]	.	8f]	.	.	.
+.	.	4.B-^ 4.d 4.g	.	4.g	.	got	B- major-sixth
+4r	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+4CC 4C	.	4.e-^ 4.g 4.b-	.	4.b-	.	my	C minor-seventh
+4r	.	.	.	.	.	.	.
+.	.	[8e-^ [8a [8cc	.	[8cc	.	man	.
+4FF	.	8e-] 8a] 8cc]	.	8cc]	.	.	F dominant
+.	.	4g-X^ 4b- 4ee-	.	4ee-	.	Who	E- minor-sixth
+4r	.	.	.	.	.	.	.
+.	.	8cc	.	8cc	.	could	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1[({(s2,s3)})]
 !!!CDT: 1898/09/26-1937/07/11
 !!!CBL: Brooklyn, United States
