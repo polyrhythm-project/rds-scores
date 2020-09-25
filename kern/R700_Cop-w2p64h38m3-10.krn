@@ -3,13 +3,6 @@
 !!!OMV: Movement 3: Allegro vivo
 !!!example: 700
 !!!work: Cop-2
-!!!Xfilter: transpose -t M2 -s 19
-!!!Xfilter: transpose -t -m3 -s 17
-!!!Xfilter: transpose -t -P8 -s 12
-!!!Xfilter: transpose -t -P8 -s 12
-!!!Xfilter: tranpose -t -P8 -s 12
-!!!Xfilter: transpose -t P8 -s 25
-!!!Xfilter: extract -k 1,2,3,4,5,6,7,0,8,0,9,0,10,0,11,0,12,13,14,15,16
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
@@ -77,9 +70,8 @@
 8d#X	.	8d#X	.	8ff#X	.	8aa	.	16ee-'XJk	16eee-'XJk 16eeee-X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
 .	.	.	.	.	.	.	.	16ff^LL	16fff^LL 16ffff	.	.	.	.	.	.	.	.	.	.	.	16ee#^LL	.	16ff^LL	.	16ff^LL	.	16ff^LL	.	16fff^LL	.
 8eJ	.	8eJ	.	8eJ	.	8g#XJ	.	16gg'	16ggg' 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##'	.	16gg'	.	16gg'	.	16gg'	.	16ggg'	.
-*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	.	.	16ee-^JJ	16eee-^JJ 16eeee-	.	.	.	.	.	.	.	.	.	.	.	16dd#^JJ	.	16ee-^JJ	.	16ee-^JJ	.	16ee-^JJ	.	16eee-^JJ	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)][(s3,s4)]s5)][([(s6,s7)]s8,s9)][(s10)][({(s11,s12)})][([(s13,s14)]s15,s16)]
 !!!CDT: 1900/11/14-1990/12/02
