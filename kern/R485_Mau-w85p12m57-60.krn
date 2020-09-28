@@ -7,7 +7,9 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Trumpet in C	*	*I"Horn in F III. IV.	*	*I"Horn in F I. II.	*	*I"Bassoon III.	*	*I"Bassoon I. II.	*	*I"Clarinet in Bb III.	*	*I"Clarinet in Bb I. II.	*	*I"Oboe III.	*	*I"Oboe I. II.	*	*I"Flute I. II.	*	*I"Piccolo I.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*Itimpa	*	*Icor	*	*Icor	*	*Ifagot	*	*Ifagot	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Trumpet in C	*	*I"Horn in F III. IV.	*	*I"Horn in F I. II.	*	*I"Bassoon III.	*	*I"Bassoon I. II.	*	*I"Clarinet in Bb III	*	*I"Clarinet in Bb I. II.	*	*I"Oboe III.	*	*I"Oboe I. II.	*	*I"Flute I. II.	*	*I"Piccolo I.	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*	*	*	*ITrd0c0	*
@@ -17,14 +19,14 @@
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 !	!	!	!	!	!	!	!	!LO:TX:t=[half]=84	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=84	!
-8C'	f	8C'L)	f	8c'L)	f	8c'L)	f	8c'L	f	8C	f	8r	.	8r	.	8r)	.	2.B	f	4e 4g)	f	2.b	f	4ee 4gg)	f	2.bb	f	4ee 4gg	f	4eee 4ggg	f	4gg	f
+8C'	f	8C'L)	f	8c'L)	f	8c'L)	f	8c'L	f	8C	f	8r	.	8r	.	8r)	.	2.B	f	4e 4g)	f	2.b	f	4ee) 4gg)	f	2.bb	f	)4ee )4gg	f	)4eee ]4ggg	f	]4gg	f
 8r	.	(8E'J	.	(8e'J	.	(8e'J	.	(8e'J	.	8r	.	4cc~	f	4c~	f	4c~	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	8C')	.	8c')	.	8c')	.	8c')	.	4r	.	.	.	.	.	.	.	.	.	(8c 8e-X	.	.	.	(8cc 8ee-	.	.	.	(8cc 8ee-X	.	(8ccc 8eee-X	.	(8ee-X	.
 .	.	8r	.	8r	.	8r	.	8r	.	.	.	[8ee-X	.	[8e-X	.	[8e-X	.	.	.	4e-X 4g)	.	.	.	4ee-X 4gg)	.	.	.	4ee-X 4gg)	.	4eee-X 4ggg)	.	4gg)	.
 2r	.	8E-X'L	.	8e-X'L	.	8e-X'L	.	8e-X'L	.	4r	.	8ee-L]	.	8e-L]	.	8e-L]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	8C'J	.	8c'J	.	8c'J	.	8c'J	.	.	.	8cc'J	.	8c'J	.	8c'J	.	.	.	(8c 8en	.	.	.	(8cc 8eeX	.	.	.	(8cc 8een	.	(8ccc 8eeen	.	(8een	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8een'	.	8e'	.	8e'	.	(4b	.	[4en [4g	.	(4B	.	[4eeX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
+.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8een'	.	8e'	.	8e'	.	(4b	.	[4en [4g	.	(4B	.	[4eenX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
 .	.	8En'	.	8en'	.	8en'	.	8en'	.	8F'	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 1r	.	8C'	.	8c'	.	8c'	.	8c'	.	8C'	.	4cc~	.	4c~	.	4c~	.	2.b)	.	4e] 4g])	.	2.b)	.	4ee] 4gg])	.	2.bb)	.	4ee] 4gg])	.	4eee] 4ggg])	.	4gg])	.
@@ -34,7 +36,7 @@
 .	.	8r	.	8r	.	8r	.	8r	.	4r	.	8cc'L	.	8c'L	.	8c'L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	8En'	.	8en'	.	8en'	.	8en'	.	.	.	8een'J	.	8e'J	.	8e'J	.	.	.	(8c 8en	.	.	.	(8cc 8eeX	.	.	.	(8cc 8een	.	(8ccc 8eeen	.	(8een	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-.	.	8C'	.	8c'	.	8c'	.	8c'	.	8F'L	.	8r	.	8r	.	8r	.	(4B	.	[4en [4g	.	(4B	.	[4eeX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
+.	.	8C'	.	8c'	.	8c'	.	8c'	.	8F'L	.	8r	.	8r	.	8r	.	(4B	.	[4en [4g	.	(4B	.	[4eenX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
 .	.	8r	.	8r	.	8r	.	8r	.	8C'J	.	[8cc~	.	[8c~	.	[8c~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 1r	.	8E-X'L	.	8e-X'L	.	8ee-X'L	.	8ee-X'L	.	2r	.	8cc]	.	8c]	.	8c]	.	2.B)	.	4e] 4g])	.	2.b)	.	4ee] 4gg])	.	2.bb)	.	4ee] 4gg])	.	4eee] 4ggg])	.	4gg])	.
@@ -43,16 +45,16 @@
 .	.	8En'	.	8en'	.	8een'	.	8een'	.	.	.	8cc'	.	8c'	.	8c'	.	.	.	4e-X 4g)	.	.	.	4ee-X 4gg)	.	.	.	4ee-X 4gg)	.	4eee-X 4ggg)	.	4gg)	.
 .	.	8C'	.	8c'	.	8cc'	.	8cc'	.	8r	.	8een'	.	8e'	.	8e'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	8r	.	8r	.	8r	.	8r	.	8F'	.	8r	.	8r	.	8r	.	.	.	(8c 8en	.	.	.	(8cc 8eeX	.	.	.	(8cc 8een	.	(8ccc 8eeen	.	(8een	.
-.	.	8E-X'L	.	8e-X'L	.	8ee-X'L	.	8ee-X'L	.	8C'	.	4cc~	.	4c~	.	4c~	.	(4C	.	[4en [4g	.	(4B	.	[4eeX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
+.	.	8E-X'L	.	8e-X'L	.	8ee-X'L	.	8ee-X'L	.	8C'	.	4cc~	.	4c~	.	4c~	.	(4C	.	[4en [4g	.	(4B	.	[4eenX [4gg	.	(4b	.	[4een [4gg	.	[4eeen [4ggg	.	[4gg	.
 .	.	8C'J	.	8c'J	.	8cc'J	.	8cc'J	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 8r	.	8r	.	8r	.	8r	.	8r	.	2r	.	4ee-X	.	4e-X	.	4e-X	.	2.C)	.	4e] 4g])	.	2.b)	.	4ee] 4gg])	.	2.bb)	.	4ee] 4gg])	.	4eee] 4ggg])	.	4gg])	.
 8E-X'L	.	8E-X'L	.	8e-X'L	.	8ee-X'L	.	8eee-X'L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8C'J	.	8C'J	.	8c'J	.	8cc'J	.	8ccc'J	.	.	.	8cc'L	.	8c'L	.	8c'L	.	.	.	(8c 8e-X	.	.	.	(8cc 8ee-	.	.	.	(8cc 8ee-X	.	(8ccc 8eee-X	.	(8ee-X	.
-8r	.	8r	.	8r	.	8r	.	8r	.	.	.	8een'J	.	8e'J	.	8e'J	.	.	.	4e- 4g)	.	.	.	4ee-X 4gg)	.	.	.	4ee- 4gg)	.	4eee- 4ggg)	.	4gg)	.
+8r	.	8r	.	8r	.	8r	.	8r	.	.	.	8een'J	.	8e'J	.	8e'J	.	.	.	4e- 4g)	.	.	.	4ee- 4gg)	.	.	.	4ee- 4gg)	.	4eee- 4ggg)	.	4gg)	.
 8En'L	.	8En'L	.	8en'L	.	8een'L	.	8eeen'L	.	8F'L	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8C'J	.	8C'J	.	8c'J	.	8cc'J	.	8ccc'J	.	8C'J	.	8r	.	8r	.	8r	.	.	.	(8c 8en	.	.	.	(8cc 8eeX	.	.	.	(8cc 8een	.	(8ccc 8eeen	.	(8een	.
-8r	.	8r	.	8r	.	8r	.	8r	.	4r	.	4r	.	4r	.	4r	.	(4C_	.	[4en [4g)	.	(4cc_	.	[4eeX [4gg)	.	(4cc_	.	[4een [4gg)	.	[4eeen [4ggg)	.	[4gg)	.
+8r	.	8r	.	8r	.	8r	.	8r	.	4r	.	4r	.	4r	.	4r	.	(4C_	.	[4en [4g)	.	4cc_	.	[4eenX [4gg)	.	(4cc_	.	[4een [4gg)	.	[4eeen [4ggg)	.	[4gg)	.
 8E'	.	8E'	.	(8e'_	.	(8ee'_	.	(8eee'_	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
