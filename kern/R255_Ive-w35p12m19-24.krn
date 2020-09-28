@@ -13,7 +13,7 @@
 *k[]	*k[]	*	*k[]	*k[]
 *C:	*C:	*	*C:	*C:
 *M3/8	*M3/8	*	*M3/8	*M3/8
-=1	=1	=1	=1	=1
+=19	=19	=19	=19	=19
 *^	*	*	*	*
 !	!	!	!	!	!LO:TX:t=[eighth]=216
 !	!	!	!	!	!LO:TX:b:t=[f]
@@ -26,7 +26,7 @@
 *v	*v	*	*	*	*
 8r	16e	.	8fJ	8ddJ
 .	16dJJ)	.	.	.
-=2	=2	=2	=2	=2
+=20	=20	=20	=20	=20
 *^	*	*	*	*
 16ryy@	8D^^L	(16B-X^^LL	.	(16g^^LL	8ee-X^^L
 16ryy@	.	16A	.	16f#X	.
@@ -34,7 +34,7 @@
 16DJJ)	.	16c#X	.	16e-XJJ)	.
 16ryy@	8r	16e	.	(16a-X^^LL	8ggJ
 16ryy@	.	16dJJ)	.	16g	.
-=3	=3	=3	=3	=3	=3
+=21	=21	=21	=21	=21	=21
 !	!	!LO:TX:a:i:t="Saying the same thing over & over & louder & louder-ain't arguing, DKE. ["]	!	!LO:TX:b:t=	!LO:TX:b:t=
 16ryy@	8DL	(16B-X^^LL	.	16fn	(16cc^^LL
 16ryy@	.	16A	.	16enJJ)	16ff#X
@@ -44,7 +44,7 @@
 *v	*v	*	*	*	*
 8r	16e	.	8f#XJ	(16bb-X^^LL
 .	16dJJ)	.	.	16eee
-=4	=4	=4	=4	=4
+=22	=22	=22	=22	=22
 *^	*	*	*	*
 16ryy@	8DL	(16B-X^^LL	f <	8ffnL	16eee-X
 16ryy@	.	16A	.	.	16aaaJJ)
@@ -53,7 +53,7 @@
 *v	*v	*	*	*	*
 8r	16e	.	8dd#XL	16ccc#X
 .	16dJJ)	[	.	16ggnJJ)
-=5	=5	=5	=5	=5
+=23	=23	=23	=23	=23
 *^	*	*	*	*
 16ryy@	8DL	(16B-X^^LL	ff <	8a#XJ	(16cccn^^LL
 16ryy@	.	16A	.	.	16gg-X
@@ -63,7 +63,7 @@
 !	!	!	!LO:TX:b:t=	!LO:TX:b:t=
 8r	16e	.	8g-X	(16bb-X^^LL
 .	16dJJ)	[	.	16ee
-=6	=6	=6	=6	=6
+=24	=24	=24	=24	=24
 *^	*	*	*	*
 16ryy@	8DL	(16B-X^^LL	fff <	([8fJ	16ee-X
 16ryy@	.	16A	.	.	16aJJ)
@@ -73,7 +73,7 @@
 8r	16e	.	.	16dd-X
 !	!LO:TX:b:t=	!	!	!
 .	16dJJ)	[	.	16ggnJJ)
-=7	=7	=7	=7	=7
+=25	=25	=25	=25	=25
 *^	*	*	*	*
 16ryy@	8DL	(16d-X^^LL	.	4e)	(16cc^^LL
 16ryy@	.	16A-X	.	.	16f#X
@@ -94,7 +94,7 @@
 16ryy@	.	16Dn	.	.	.
 (16E-^^LL	8CCJ 8GG	16C#X	.	8B-X 8d	8aJ 8aa
 16DJJ)	.	16F#XJJ)	.	.	.
-=8	=8	=8	=8	=8	=8
+=26	=26	=26	=26	=26	=26
 *	*	*	*	*	*^
 16ryy@	8DL	16FnLL	.	8G#X^^ 8d	(16bb-X^^LL	4.a
 16ryy@	.	16C	.	.	16aa	.
@@ -113,7 +113,7 @@
 16ryy@	.	16en	.	.	.
 (16E-^^LL	8CCJ 8GG	16Bn	.	8r	16ggnLL
 16DJJ)	.	16cnJJ	.	.	16ccc#XJ
-=9	=9	=9	=9	=9	=9
+=27	=27	=27	=27	=27	=27
 *	*	*^	*	*	*
 16ryy@	8DL	16ryy@	16fLL	.	8B-X 8d	8ggg#XJ
 16ryy@	.	16ryy@	16F#X	.	.	.
@@ -132,7 +132,7 @@
 16DD	16ryy@	.	.	.	16ccJJ
 16EE-X	(16e-^^LL	8CJ 8G	.	8G#X^^ 8d	8a^L 8ggg#X
 16AA-XJJ	16dJJ)	.	.	.	.
-=10	=10	=10	=10	=10	=10
+=28	=28	=28	=28	=28	=28
 16D-XLL	16ryy@	8CL 8G	.	8r	8a^ 8ggg#
 16Dn	16ryy@	.	.	.	.
 16AA	(16e-X^^LL	8CJ 8G	.	8B-X 8d	8a^J 8ggg#

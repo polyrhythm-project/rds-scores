@@ -1,8 +1,8 @@
 !!!COM: Martin, Frank
-!!!OTL: Esquisses (Sketches) for Small Orchestra
+!!!OTL: Esquisse pour Piano
 !!!OMV:
 !!!example: 534x
-!!!work: Mai-6x
+!!!work: Mai-0
 **kern	**dynam	**kern	**dynam
 *grp:C	*grp:C	*grp:C	*grp:C
 *part1	*	*part1	*part1
@@ -100,19 +100,19 @@
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
 !!!CNT: Swiss
-!!!AGN: Orchestral; Symphonic
-!!!MCN: Ansermet, Ernest
-!!!MDT: 1920/10/30
-!!!MGN: Orchestre de la Suisse Romande
-!!!MLC: Geneva, Switzerland
-!!!MPD: 1920
-!!!MPN:
-!!!ODT: 1920
+!!!AGN: Instrumental; Keyboard
+!!!MCN: unknown
+!!!MDT: ?
+!!!MGN:
+!!!MLC: unknown
+!!!MPD: 1966
+!!!MPN: unknown
+!!!ODT: 1965
 !!!PDT: unknown
 !!!excerpt-start-measure: 1
-!!!excerpt-end-measure: 5
+!!!excerpt-end-measure: 12
 !!!excerpt-start-time: 0:00
-!!!excerpt-end-time:
+!!!excerpt-end-time: 0:19
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

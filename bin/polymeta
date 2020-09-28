@@ -194,7 +194,7 @@ sub processFile {
 	$basename =~ s/.*\///;
 	die "Filename is not a kern file ending in .krn: $basename\n" if $basename !~ /\.krn$/;
 	$basename =~ s/\.krn$//;
-	if ($basename !~ /^(R|T)(\d+[A-Z]?)_/) {
+	if ($basename !~ /^(R|T)(\d+[A-Zx]?)_/) {
 		die "PROBLEM WITH FILENAME $basename\n";
 	}
 	my $barstart = -1;
@@ -565,8 +565,16 @@ sub convertDateToHumdrum {
 	if ($input =~ /^\s*$/) {
 		return "";
 	}
-	die "Date is incorrect: >>$input<<" if $input !~ /\d{4}/;
+	if ($input eq "unknown") {
+		return "?";
+	} else {
+		die "Date is incorrect: >>$input<<" if $input !~ /\d{4}/;
+	}
 	if ($input !~ /^(\d+)-([^-]+)-(\d{4})$/) {
+		if ($input =~ /^\d{4}$/) {
+			# date is a year
+			return $input;
+		}
 		die "Problem with date: >>$input<<\n";
 	}
 	my $day = $1;
