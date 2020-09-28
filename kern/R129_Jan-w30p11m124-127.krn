@@ -4,22 +4,20 @@
 !!!example: 129
 !!!work: Jan-30
 **kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part2	*	*part2	*part2	*part1	*part1
 *staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*	*I"Violoncello	*
 *I'Pno.	*	*	*	*I'Vc.	*
-!!pagebreak:original
 *clefF4	*	*clefG2	*	*clefF4	*
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*	*A:	*	*A:	*
 *M2/8	*	*M2/8	*	*M2/8	*
 =1	=1	=1	=1	=1	=1
 *^	*	*	*	*	*
-!	!	!	!	!	!	!
-!	!	!	!	!	!	!
+*grp:B	*	*	*	*	*	*
 (8.GnL	24EE	.	4ryy	.	24r	.
 *	*	*	*	*	*Xtuplet	*
-!	!	!	!	!	!	!
 .	24ELL	.	.	.	(24BB'LL	.
 .	24EJJ 24Gn	.	.	.	24BB'JJ 24E	.
 .	8r	.	.	.	24BB'LL 24E	.

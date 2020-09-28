@@ -173,7 +173,8 @@ sub processFile {
 	}
 	if ($counter != $parts) {
 		if (($groupa !~ /^0$/) && ($groupb !~ /^0$/)) {
-			die "Problem finding $parts **kern spines on line: $starline in file $file\n";
+			print STDERR "Warning: Problem finding $parts **kern spines on line: $starline in file $file so skipping\n";
+			return;
 		}
 	}
 	$groupa =~ s/ //g;
@@ -342,9 +343,10 @@ sub buildExampleIndex {
 		if ($example =~ /^\s*$/) {
 			die "Error: File $file is missing an example number.\n";
 		}
-		if ($output{$example}) {
-			die "Error: $example matches two files: $output{$example} and $file\n";
-		}
+		# Sllow overwriting of examples (skip one)
+		#if ($output{$example}) {
+		#	die "Error: $example matches two files: $output{$example} and $file\n";
+		#}
 		$output{$example} = $file;
 	}
 	return %output;

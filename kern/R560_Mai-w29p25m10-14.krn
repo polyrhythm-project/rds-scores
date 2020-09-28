@@ -4,11 +4,11 @@
 !!!example: 560
 !!!work: Mai-29
 **kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
-!!pagebreak:original
 *clefF4	*clefG2	*
 *k[]	*k[]	*
 *C:	*C:	*
@@ -54,7 +54,6 @@
 16CL	8.g#J_	.
 16d	.	.
 16G#JJ	.	.
-!!linebreak:original
 =3	=3	=3
 16FF#XLL	16g#XLL<]	.
 16A	16f#X'^^	.
@@ -74,7 +73,6 @@
 16CL	16ffn'^^L	.
 16d	16ff#X'^^	.
 16G#XJJ	16bb'^^JJ	.
-!!linebreak:original
 =4	=4	=4
 16CC#XLL	8r	.
 16E	.	.
@@ -135,6 +133,5 @@
 !!!excerpt-end-time: 0:41
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below

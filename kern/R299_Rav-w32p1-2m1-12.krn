@@ -4,6 +4,7 @@
 !!!example: 299
 !!!work: Rav-32
 **kern	**text	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*
 *I"Soprano Solo	*	*I"Violoncello	*
@@ -14,7 +15,6 @@
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
 !	!	!LO:TX:t=[[eighth]=100]	!
-!	!	!	!
 !	!	!LO:TX:a:B:t=Andante quasi allegretto	!
 4r	.	(16gLL	p
 !	!	!LO:TX:b:i:t=espressivo	!

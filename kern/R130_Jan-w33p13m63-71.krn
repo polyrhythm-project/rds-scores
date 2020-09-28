@@ -18,7 +18,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
-4.An 4.Bn 4.d#X	.	4.e-	[4.cc-Xt	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	4.E- 4.A- 4.c	<	4.e-X	4.e- 	<	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
+4.An 4.Bn 4.d#X	.	4.e-	[4.cc-Xt	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	4.E- 4.A- 4.c	<	4.e-X	4.e-	<	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -61,7 +61,6 @@
 *k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*F:	*	*C:	*	*B-:	*	*B-:	*	*C:	*	*C:	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=rit.	!
 !	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
 !	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!

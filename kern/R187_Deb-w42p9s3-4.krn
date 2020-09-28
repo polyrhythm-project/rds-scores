@@ -4,6 +4,7 @@
 !!!example: 187
 !!!work: Deb-42
 **kern	**kern	**dynam
+*grp:C	*grp:C	*grp:C
 *part1	*part1	*part1
 *staff2	*staff1	*
 *ICklav	*ICklav	*
@@ -100,7 +101,6 @@
 8AAA'J	8r	.	.
 8AAA'L	8GGG	.	.
 *v	*v	*	*
-*	*	*
 *^	*	*
 8AAA'J	8r	.	.
 *v	*v	*	*

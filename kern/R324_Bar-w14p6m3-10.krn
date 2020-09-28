@@ -4,6 +4,7 @@
 !!!example: 324
 !!!work: Bar-14
 **kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*
 *staff2	*staff1	*
 *ICklav	*ICklav	*

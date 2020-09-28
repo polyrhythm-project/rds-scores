@@ -3,57 +3,58 @@
 !!!OMV: Act I, Prelude
 !!!example: 144
 !!!work: Jan-47
-**kern	**kern	**kern	**kern	**kern
-*part13	*part12	*part11	*part10	*part9
-*staff13	*staff12	*staff11	*staff10	*staff9
-*I"Timpani	*I"Trumpet in F	*I"Trumpet in F	*I"Horn in F	*I"Horn in F
-*I'Timp.	*I'F Tpt.	*I'F Tpt.	*I'Hn.	*I'Hn.
-*clefF4	*clefG2	*clefG2	*clefG2	*clefG2
-*	*ITrd-3c-5	*ITrd-3c-5	*ITrd4c7	*ITrd4c7
-*k[]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
-*C:	*F:	*F:	*F:	*F:
-*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
-=38	=38	=38	=38	=38
-!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]
-8.A-XL	24ccLL	24ccLL	24cLL	24cLL
-.	24b-	24b-	24B-	24B-
-.	24e-XJJ	24e-XJJ	24E-XJJ	24E-XJJ
-.	24e-LL	24e-LL	24E-LL	24E-LL
-.	24f	24b-	24F	24B-
-16E-Xk	.	.	.	.
-.	24a-XJJ	24ccJJ	24A-XJJ	24cJJ
-[8A-J	8b-^^	8ee-X^^	8B-^^	8e-X^^
-=39	=39	=39	=39	=39
-16A-LL]	24ccLL	24ccLL	24cLL	24cLL
-.	24f	24b-	24F	24B-
-16E-XJJ	.	.	.	.
-.	24e-XJJ	24e-XJJ	24E-XJJ	24E-XJJ
-8.A-XL	24e-LL	24e-LL	24E-LL	24E-LL
-.	24f	24b-	24F	24B-
-.	24ccJJ	24ccJJ	24cJJ	24cJJ
-.	8f^^	8b-^^	8F^^	8B-^^
-16E-Jk	.	.	.	.
-=40	=40	=40	=40	=40
-8.A-XL	24ccLL	24ccLL	24cLL	24cLL
-.	24b-	24b-	24B-	24B-
-.	24e-XJJ	24e-XJJ	24E-XJJ	24E-XJJ
-.	24e-LL	24e-LL	24E-LL	24E-LL
-.	24f	24b-	24F	24B-
-16E-Xk	.	.	.	.
-.	24a-XJJ	24ccJJ	24A-XJJ	24cJJ
-[8A-J	8b-^^	8ee-X^^	8B-^^	8e-X^^
-=41	=41	=41	=41	=41
-16A-LL]	24ccLL	24ccLL	24cLL	24cLL
-.	24f	24b-	24F	24B-
-16E-XJJ	.	.	.	.
-.	24e-XJJ	24e-XJJ	24E-XJJ	24E-XJJ
-8.A-XL	24cLL	24cLL	24CLL	24CLL
-.	24e-X	24a-X	24E-X	24A-X
-.	24gJJ	24b-JJ	24GJJ	24B-JJ
-.	[8a-X^^	[8a-X^^	[8A-X^^	[8A-^^
-16E-Jk	.	.	.	.
-=	=	=	=	=
-*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*
+*I"Timpani	*	*I"Trumpet in F	*	*I"Trumpet in F	*	*I"Horn in F	*	*I"Horn in F	*
+*I'Timp.	*	*I'F Tpt.	*	*I'F Tpt.	*	*I'Hn.	*	*I'Hn.	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd4c7	*	*ITrd4c7	*
+*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*C:	*	*F:	*	*F:	*	*F:	*	*F:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8.A-XL	p	24ccLL	p	24ccLL	p	24cLL	p	24cLL	p
+.	.	24b-	.	24b-	.	24B-	.	24B-	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+.	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-Xk	.	.	.	.	.	.	.	.	.
+.	.	24a-XJJ	.	24ccJJ	.	24A-XJJ	.	24cJJ	.
+[8A-J	.	8b-^^	.	8ee-X^^	.	8B-^^	.	8e-X^^	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+16A-LL]	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XJJ	.	.	.	.	.	.	.	.	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+8.A-XL	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+.	.	24ccJJ	.	24ccJJ	.	24cJJ	.	24cJJ	.
+.	.	8f^^	.	8b-^^	.	8F^^	.	8B-^^	.
+16E-Jk	.	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+8.A-XL	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24b-	.	24b-	.	24B-	.	24B-	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+.	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-Xk	.	.	.	.	.	.	.	.	.
+.	.	24a-XJJ	.	24ccJJ	.	24A-XJJ	.	24cJJ	.
+[8A-J	.	8b-^^	.	8ee-X^^	.	8B-^^	.	8e-X^^	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+16A-LL]	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XJJ	.	.	.	.	.	.	.	.	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+8.A-XL	.	24cLL	.	24cLL	.	24CLL	.	24CLL	.
+.	.	24e-X	.	24a-X	.	24E-X	.	24A-X	.
+.	.	24gJJ	.	24b-JJ	.	24GJJ	.	24B-JJ	.
+.	.	[8a-X^^	.	[8a-X^^	.	[8A-X^^	.	[8A-^^	.
+16E-Jk	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8)][(s9,s10,s11,s12)][(s13)][(s14,s15,s16,s17,s18)]
 !!!CDT: 1854/07/03-1928/08/12
 !!!CBL: Hukvaldy, Moravia

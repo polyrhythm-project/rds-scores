@@ -4,6 +4,7 @@
 !!!example: 222
 !!!work: Sch-35
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
 *part6	*	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violin 1	*	*I"Solo Violin	*	*I"Xylophone	*	*I"Flute 3.	*	*I"Flute 2.	*	*I"Flute 1.	*
@@ -11,7 +12,6 @@
 *clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*Trd0c0	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*	*	*	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
 !	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
@@ -22,7 +22,6 @@
 !	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!	!
 8r	.	16ff#X'LL	f	8cccn'L	p	4r	.	8r	.	8r	.
 .	.	16dn'	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=pizz.	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
 8gnL	f	(16d	.	8dddd-X'	.	.	.	8gn`L	p	8gn`L	p
 .	.	16ff#JJ)	.	.	.	.	.	.	.	.	.

@@ -4,6 +4,7 @@
 !!!example: 428
 !!!work: Var-1
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
 *part27	*part27	*part26	*part26	*part25	*part25	*part24	*part24	*part23	*part23	*part22	*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff27	*	*staff26	*	*staff25	*	*staff24	*	*staff23	*	*staff22	*staff21	*	*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violin II	*	*I"Violin I	*	*I"W. G.	*	*I"Cast. Tamb.	*	*I"Tri.	*I"Cymb. B.D. 1. 2.	*	*I"Snare Drum	*	*I"S.B. L.R.	*	*I"Siren	*	*I"Xylophone	*	*I"Timpani 2.	*	*I"Cb. Tuba	*	*I"Tuba	*	*I"Trombone 4. 5.	*	*I"Trombone 1. 2. 3.	*	*I"Trumpet in C 3. 4.	*	*I"Trumpet in C 1. 2.	*	*I"Horn in F 7. 8.	*	*I"Horn in F 5. 6.	*	*I"Horn in F 3. 4.	*	*I"Horn in F 1. 2.	*	*I"Contrabassoon 1.	*	*I"Bassoon 2.	*	*I"Oboe 1.	*	*I"Piccolo 3.	*	*I"Piccolo 1. 2.	*
@@ -65,13 +66,12 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12Re/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 !LO:TX:a:t=div.	!	!	!	!	!	!LO:TX:b:i:t=l.v.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=morendo	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=subito molto dim.	!	!LO:TX:b:i:t=subito molto dim.	!	!LO:TX:b:i:t=subito molto dim.	!	!LO:TX:b:i:t=subito molto dim.	!	!LO:TX:b:i:t=subito molto dim.	!	!LO:TX:b:i:t=subito molto dim.	!	!	!	!	!	!	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-[1EE [1C	pp >	1ddd_	.	1eeee-_	.	4r	[1RA	mp	16Re/LL	4r	mf	8r	4r	4r	.	8Re'/	.	4r	4r	.	1Re_	[f >	1r	.	32FF^)L	.	8EE]	ppp	8CC]	ppp	8FF] 8C#]	ppp	8F#]	ppp	1r	.	1r	.	1GGG_ 1GG#_	>]	1GGG_ 1GG#_	>]	1CC_ 1C#_	>]	1CC_ 1C#_	>]	1EE_	mf	1CC_	mf	8ddd]	]ppp	1r	.	8eee-]	]ppp
+[1EE [1C	pp >	1ddd_	.	1eeee-_	.	4r	[1RA	mp	16Re/LL	4r	mf	8r	4r	4r	.	8Re'/	.	4r	4r	.	1Re_	[f >	1r	.	32FF^)L	.	8EE]	ppp	8CC]	ppp	8FF] 8C#]	ppp	8F#]	ppp	1r	.	1r	.	1GGG_ 1GG#_	>]	1GGG_ 1GG#_	>]	1CC_ 1C#_	>]	1CC_ 1C#_	>]	1EE_	mf	1CC_	mf	8ddd]	] ppp	1r	.	8eee-]	] ppp
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -111,7 +111,6 @@
 .	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	16Re/JJ	.	.	.	.	.	.	32FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	32Re/J	.	.	.	.	.	.	.	.	.	.	.	.	32FF^J	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
@@ -142,11 +141,10 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	16RA\JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 *	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!LO:TX:b:i:t=l.v.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-8EE'] 8C]	]pppp	1ddd_	.	1eeee-_	.	1r	[1RA	.	1r	4r	ff	1r	4r	8RA\	.	1r	.	16Re/LL	8r	.	1Re_	[f<	4r	.	1r	.	1r	.	1r	.	1r	.	1r	.	4r	.	4r	.	8GGG] 8GG#]	ppp	8GGG] 8GG#]	ppp	8CC] 8C#]	ppp	8CC] 8C#]	ppp	8EE]	ppp	8CC]	ppp	1r	.	8r	.	8r	.
+8EE'] 8C]	] pppp	1ddd_	.	1eeee-_	.	1r	[1RA	.	1r	4r	ff	1r	4r	8RA\	.	1r	.	16Re/LL	8r	.	1Re_	[f<	4r	.	1r	.	1r	.	1r	.	1r	.	1r	.	4r	.	4r	.	8GGG] 8GG#]	ppp	8GGG] 8GG#]	ppp	8CC] 8C#]	ppp	8CC] 8C#]	ppp	8EE]	ppp	8CC]	ppp	1r	.	8r	.	8r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a3	!
 8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	16Re/	[8RA\	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	32r	.	32r	.

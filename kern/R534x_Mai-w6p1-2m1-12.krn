@@ -4,13 +4,13 @@
 !!!example: 534x
 !!!work: Mai-6x
 **kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C
 *part1	*	*part1	*part1
 *staff2	*	*staff1	*
 *ICklav	*	*ICklav	*
 *Ipiano	*	*Ipiano	*
 *I"Piano	*	*	*
 *I'Pno.	*	*	*
-!!pagebreak:original
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
@@ -43,7 +43,6 @@
 .	.	16a-XL	.
 (8f~L 8cc#X	.	16b-	.
 .	.	16a-JJ	.
-!!linebreak:original
 =5	=5	=5	=5
 8e'J 8bn)	.	8b-X'L>)	.
 (8f~L 8dd	.	(<16a-X^k	.
@@ -75,7 +74,6 @@
 .	.	16ff#XL	.
 8f#'J 8cc#)	.	16a#X	.
 .	.	16ggJJ	.
-!!linebreak:original
 =10	=10	=10	=10
 8g' 8dd#X	.	16aa#XLL	.
 .	.	16ccc#XJ	.

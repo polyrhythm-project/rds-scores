@@ -11,7 +11,6 @@
 *I'Pno.	*	*	*I'Vla.	*	*I'Vln. I	*	*I'Tbn.	*	*I'Cl.	*
 *clefF4	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM45	*MM45	*	*MM45	*	*MM45	*	*MM45	*	*MM45	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
@@ -62,6 +61,5 @@
 !!!excerpt-end-time: 1:18
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below

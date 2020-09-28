@@ -4,6 +4,7 @@
 !!!example: 295
 !!!work: Rav-23
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part3	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*I"Violoncello	*	*I"Violin	*

@@ -4,13 +4,13 @@
 !!!example: 187x
 !!!work: Deb-42x
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part5	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICklav	*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Ifagot	*	*Iflt	*	*Ipicco	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*I"Piano	*	*	*	*I"Snare Drum	*	*I"Bassoon	*	*I"Flute	*	*I"Piccolo	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*I'Pno.	*	*	*	*I'S. D.	*	*I'Bsn.	*	*I'Fl.	*	*I'Picc.	*
-!!pagebreak:original
 *	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefX2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*
@@ -80,7 +80,6 @@
 8AA'	.	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
 8AA'J	.	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*
-!!pagebreak:original
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8AA'L	.	2r	.	2r	.	2r	.	2r	8AAA'L	8GGG	.	(16cccKL	.	8Re'\	.	2r	.	2r	.	(16ccKL	.
 .	.	.	.	.	.	.	.	.	.	.	.	8ddd)	.	.	.	.	.	.	.	8dd)	.

@@ -4,6 +4,7 @@
 !!!example: 308B
 !!!work: Fal-6
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*	*	*	*	*	*	*	*	*	*	*
 *part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part7	*part7	*part1	*part1
 *staff20	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
 *ICstr	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*
@@ -107,7 +108,6 @@
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
 16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16eeJ	.
 .	.	.	.	.	32c	.	32d	.	.	.	.	.
-!!!Xfilter: slurcheck
 .	16DD	.	16DD	.	32F#	.	32e	.	[8F# [8f#	.	8ddJ[	.
 .	.	.	.	.	32F#	.	32e	.	.	.	.	.
 .	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
@@ -136,4 +136,3 @@
 !!!excerpt-end-time: 1:50
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("

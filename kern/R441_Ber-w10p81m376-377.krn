@@ -4,6 +4,7 @@
 !!!example: 441
 !!!work: Ber-10
 **kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part6	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff12	*	*staff11	*staff10	*staff9	*	*staff8	*	*staff7	*staff7	*staff7	*	*staff6	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Viola senza sord.	*	*I"Viola Solo II con sord.	*I"Viola Solo I con sord.	*I"Violin I senza sord.	*	*I"Violin Solo I con sord.	*	*I"Marie	*	*	*	*I"Harp	*I"Horn in F II senza sord.	*	*I"Horn in F I senza sord.	*	*I"Bassoon I	*	*I"Bass Clarinet in Bb	*
@@ -11,7 +12,6 @@
 *clefC3	*	*clefC3	*clefC3	*clefG2	*	*clefG2	*	*clefG2	*	*	*	*clefF4	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*
 *k[]	*	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M6/8	*	*M6/8	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*	*	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 =47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)
 !LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=senza sord.	!	!LO:TX:t=[quarter-dot]=58	!	!	!	!	!	!	!	!	!	!	!	!	!	!

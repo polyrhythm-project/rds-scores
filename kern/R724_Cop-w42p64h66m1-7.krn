@@ -3,8 +3,8 @@
 !!!OMV: Movement 3: Subway Jam
 !!!example: 724
 !!!work: Cop-42
-!!!Xfilter: extract -k 1,0,2,0,3,0,4,0,5,0,6,0,7,0
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**blank	**blank	**blank
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*	*part1	*part1	*	*	*
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*staff1	*	*	*	*
 *I"Bass Drum	*	*I"Timbales	*	*I"Congas	*	*I"Tenor Drum	*	*I"Trombone 3.	*	*	*I"Trombone 1. 2.	*	*	*	*
@@ -158,5 +158,3 @@
 !!!excerpt-end-time: 1:03
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("

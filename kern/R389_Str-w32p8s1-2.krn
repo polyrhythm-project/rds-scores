@@ -3,8 +3,8 @@
 !!!OMV: Eglogue I (Part II)
 !!!example: 389
 !!!work: Str-32
-!!!Xfilter: extract -s 1,0,2,0,3,0
 **kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part2	*	*part2	*	*part1	*
 *staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*	*I"Violin	*

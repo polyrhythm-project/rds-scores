@@ -4,11 +4,11 @@
 !!!example: 262
 !!!work: Ive-33
 **kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
 *part9	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
 *staff9	*	*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Bells	*I"Bells	*I"Oboe	*	*I"Flute	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Bells	*I'Bells	*I'Ob.	*	*I'Fl.	*
-!!pagebreak:original
 *clefF4	*	*clefF4	*	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*	*clefG2	*
 *Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*
@@ -68,7 +68,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!CDT: 1874/10/20-1954/05/19
-!!!Xfilter: slurcheck
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American

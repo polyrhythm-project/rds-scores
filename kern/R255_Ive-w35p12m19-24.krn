@@ -4,11 +4,11 @@
 !!!example: 255
 !!!work: Ive-35
 **kern	**kern	**dynam	**kern	**kern
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part4	*part3	*part3	*part2	*part1
 *staff4	*staff3	*	*staff2	*staff1
 *I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I
 *I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I
-!!pagebreak:original
 *clefF4	*clefC3	*	*clefG2	*clefG2
 *k[]	*k[]	*	*k[]	*k[]
 *C:	*C:	*	*C:	*C:
@@ -94,7 +94,6 @@
 16ryy@	.	16Dn	.	.	.
 (16E-^^LL	8CCJ 8GG	16C#X	.	8B-X 8d	8aJ 8aa
 16DJJ)	.	16F#XJJ)	.	.	.
-!!linebreak:original
 =8	=8	=8	=8	=8	=8
 *	*	*	*	*	*^
 16ryy@	8DL	16FnLL	.	8G#X^^ 8d	(16bb-X^^LL	4.a

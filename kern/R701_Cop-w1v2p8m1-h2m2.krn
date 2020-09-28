@@ -4,11 +4,11 @@
 !!!example: 701
 !!!work: Cop-1
 **kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part5	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*	*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
 *I"Violin II Divisi II	*	*I"Violin II Divisi I	*	*I"Piano	*	*	*I"Oboe II	*	*I"Oboe I	*
 *I'2.Vl. 2.Div.	*	*I'2.Vl. 1.Div.	*	*I'Pno.	*	*	*I'2.Ob.	*	*I'1.Ob.	*
-!!pagebreak:original
 *clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*
@@ -97,7 +97,6 @@
 .	.	.	.	8r	8a	.	.	.	.	.
 8g	.	8c	.	8cL	8g	.	8dd^L	.	8dd^L	.
 8r	.	8r	.	8dJ	8r	.	8ccJ	.	8ccJ	.
-!!linebreak:original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8aL	.	8a	.	8r	8aL	.	4%3r	.	8r	.
 8cJ	.	8r	.	8c	8gJ	.	.	.	8dd^	.

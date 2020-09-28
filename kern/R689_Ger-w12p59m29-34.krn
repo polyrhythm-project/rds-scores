@@ -4,6 +4,7 @@
 !!!example: 689
 !!!work: Ger-12
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**mxhm
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part2	*	*part2	*	*part1	*	*part1	*part1
 *staff3	*	*staff2	*	*staff1	*	*staff1	*
 *I"Piano	*	*	*	*I"Treble Solo	*	*	*
