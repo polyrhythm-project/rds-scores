@@ -20,9 +20,10 @@
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 !LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=4o	!	!LO:TX:b:t=2o	!	!LO:TX:b:i:t=doux	!	!LO:TX:a:i:t=léger	!	!	!	!LO:TX:t=[quarter-dot]=72	!
-8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	32aLLL	p	32bLLL	p	32ddLLL	p	32ee#XLLL	p	32ee#XLLL	p	20.bLL]	>	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
+8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	32aLLL	p	32bLLL	p	32ddLLL	p	32ee#XLLL	p	32ee#XLLL	p	(20.bLL]	>	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a/	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.a	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
@@ -63,7 +64,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!LO:TX:b:i:t=doux	!	!LO:TX:b:i:t=doux	!	!	!	!LO:TX:b:i:t=léger	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!LO:TX:a:t=4o	!	!LO:TX:a:t=2o	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	8%3r	.	([4d	p	([4f#X	p	4.F# 4.A)	.	16b)	(24bLL	p	(20.e#XLL	p >	(20.bbLL	p >
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
@@ -91,7 +92,7 @@
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
-8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(20.bLL	p >	4.F#X)	.	4.A)	.	([4d [4f#	.	(24bLL	16b)	.	8%3r	.	8%3r	.
+8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(20.bLL	p >	4.F#X)	.	4.A)	.	[4d ([4f#	.	(24bLL	16b)	.	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.
@@ -112,7 +113,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20.e#XJJ)	]	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32a	.	32dd	.	32ff#	.	32aa	.	32bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ)	.	.	.	.	.	.
-.	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	.	.	.	.	.	32AJJk 32e#X	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	.	.	.	.	.	32AJJk 32e#X)	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
