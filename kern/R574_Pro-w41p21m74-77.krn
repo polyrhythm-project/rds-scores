@@ -3,124 +3,123 @@
 !!!OMV: Movement 3
 !!!example: 574
 !!!work: Pro-41
-**kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
-*part1	*part1	*part1
-*staff2	*staff1	*
-*I"Piano	*	*
-*I'Pno.	*	*
-*clefF4	*clefF4	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*
-*A-:	*A-:	*
-*M4/4	*M4/4	*
-=74	=74	=74
-!	!LO:TX:t=[quarter]=96	!
-!	!LO:TX:b:t=[p]	!
-!	!	!LO:DY:ed=brack
-20AAA-LL	8.AA-~L	.p
-20CC-X	.	.
-20AAA-	.	.
-20FFF#X	.	.
-.	16BB-Jk	.
-20GGGJJ	.	.
-20AAA-LL	8.BB-~L	.
-20CC-	.	.
-20AAA-	.	.
-20FFF#	.	.
-.	16C-XJk	.
-20GGGJJ	.	.
-20AAA-LL	8.C-L	.
-20CC-	.	.
-20AAA-	.	.
-20FFF#	.	.
-.	16D-Jk	.
-20GGGJJ	.	.
-20AAA-LL	8.D-L	.
-20CC-	.	.
-20AAA-	.	.
-20FFF#	.	.
-.	16BBnJk	.
-20GGGJJ	.	.
-=75||	=75||	=75||
-*k[]	*k[]	*
-*C:	*C:	*
-20GGGLL	8.E~L	<
-20CC	.	.
-20GGG	.	.
-20DDD#X	.	.
-.	16F#XJk	.
-20EEEJJ	.	.
-20GGGLL	8.F#~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16BBJk	.
-20EEEJJ	.	.
-20GGGLL	8.E~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16F#Jk	.
-20EEEJJ	.	.
-20GGGLL	8.B~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16c#XJk	.
-20EEEJJ	.	.
-=76	=76	=76
-*	*clefG2	*
-20GGGLL	8.c#X~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#X	.	.
-.	16d#XJk	.
-20EEEJJ	.	.
-20GGGLL	8.d#~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16BJk	.
-20EEEJJ	.	.
-20GGGLL	8.e~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16f#XJk	.
-20EEEJJ	.	.
-20GGGLL	8.f#~L	.
-20CC	.	.
-20GGG	.	.
-20DDD#	.	.
-.	16dnJk	.
-20EEEJJ	.	.
-=77	=77	=77
-20GGGLL	8.g~L	.
-20CC	.	.
-20GGG	.	.
-20DDDn	.	.
-.	16aJk	.
-20EEEJJ	.	.
-20GGGLL	8.a~L	.
-20CC	.	.
-20GGG	.	.
-20DDD	.	.
-.	16dJk	.
-20EEEJJ	.	.
-20GGGLL	8.g~L	.
-20CC	.	.
-20GGG	.	.
-20DDD	.	.
-.	16aJk	.
-20EEEJJ	.	.
-20GGGLL	8.a~L	.
-20CC	.	.
-20GGG	.	.
-20DDD	.	.
-.	16dJk	[
-20EEEJJ	.	.
-=	=	=
-*-	*-	*-
+**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*grp:B
+*part1	*	*part1	*part1
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+*clefF4	*	*clefF4	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
+*A-:	*	*A-:	*
+*M4/4	*	*M4/4	*
+=74	=74	=74	=74
+!	!	!LO:TX:t=[quarter]=96	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+20AAA-LL	p	8.AA-~L	p
+20CC-X	.	.	.
+20AAA-	.	.	.
+20FFF#X	.	.	.
+.	.	16BB-Jk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.BB-~L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16C-XJk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.C-L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16D-Jk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.D-L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16BBnJk	.
+20GGGJJ	.	.	.
+=75||	=75||	=75||	=75||
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+20GGGLL	.	8.E~L	<
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#X	.	.	.
+.	.	16F#XJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.F#~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16BBJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.E~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16F#Jk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.B~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16c#XJk	.
+20EEEJJ	.	.	.
+=76	=76	=76	=76
+*	*	*clefG2	*
+20GGGLL	.	8.c#X~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#X	.	.	.
+.	.	16d#XJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.d#~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16BJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.e~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16f#XJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.f#~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD#	.	.	.
+.	.	16dnJk	.
+20EEEJJ	.	.	.
+=77	=77	=77	=77
+20GGGLL	.	8.g~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDDn	.	.	.
+.	.	16aJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.a~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD	.	.	.
+.	.	16dJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.g~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD	.	.	.
+.	.	16aJk	.
+20EEEJJ	.	.	.
+20GGGLL	.	8.a~L	.
+20CC	.	.	.
+20GGG	.	.	.
+20DDD	.	.	.
+.	.	16dJk	.
+20EEEJJ	.	.	[
+=	=	=	=
+*-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
