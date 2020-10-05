@@ -1,7 +1,6 @@
 !!!COM: Martin, Frank
 !!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
 !!!OMV: No. 3
-!!!filter: shed -e "s/grp:A/color:crimson/I; s/grp:B/color:dodgerblue/I”
 !!!example: 536
 !!!work: Mai-8
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text
@@ -52,7 +51,7 @@
 .	.	8r	.	4.g	.	.	.
 .	.	(8d	mf	.	.	.	.
 .	.	8c'L)	.	.	.	.	.
-.	]	8c'J	.	(8dd	.	.	.
+.	]]	8c'J	.	(8dd	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
 1CC_ 1GG_	p	4.G	>	8ccL	>	1r	.
 .	.	.	.	8g	.	.	.
