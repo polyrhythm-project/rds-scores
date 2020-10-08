@@ -3,217 +3,218 @@
 !!!OMV: I: Soupir (Sigh)
 !!!example: 281
 !!!work: Rav-21
-**kern	**kern	**kern	**text	**kern	**kern	**kern	**kern	**kern	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
-*part7	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1	*part1
-*staff8	*staff7	*staff6	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
-*I"Piano	*	*I"Voice	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Flute II	*
-*I'Pno.	*	*I'V.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'2.Fl.	*
-*clefF4	*clefG2	*clefG2	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*
-*G:	*G:	*G:	*	*G:	*G:	*G:	*G:	*G:	*
-*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*
-=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-!	!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!	!	!	!
-*	*	*	*	*	*	*Xtuplet	*	*	*
-!	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
-!	!	!	!	!	!	!LO:TX:b:t=[pp]	!LO:TX:b:t=[pp]	!LO:TX:a:t=1	!
-8r	4r	(4e	Et	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	1r	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
-!	!LO:TX:a:t=p sourdine	!	!	!	!	!	!	!	!
-[8FF#~ [8GG	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
-4FF#_ 4GG_	[4g [4a	8aL	vers	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
-.	.	8aJ	le	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
-4r	2r	8gL	ciel	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
-.	.	8gJ	er-	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
-8r	.	4d	-rant	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ)	64EJJJ)	.	64BJJJ)	.	.
-[8DD~ 8FF#_	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ)	64EJJJJ)	.	64BJJJJ)	.	.
-=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2r	[4e 4a_ [4b	8eL	de	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	2r	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
-.	.	8eJ	ton	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
-.	4r	4g	œil	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
-.	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
-8r	4r	8aL	an-	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	4r	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
-8FF#~_ [8GG	.	8aJ	-gé-	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
-4FF#_ 4GG_	[4g 4a_	[4cc#X)	-li-	(64eLLLL	(64ELLLL	(48ddLLL	(64BLLLL	[4d	pp
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJ	.	.	.
-.	.	.	.	64eJJJ	64EJJJ)	.	64BJJJ)	.	.
-.	.	.	.	(64eLLL	(64ELLL	48ddLL	(64BLLL	.	.
-.	.	.	.	64A	64c	.	64g	.	.
-.	.	.	.	.	.	48gg	.	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bbJJ	.	.	.
-.	.	.	.	64EEJJJ)	64eeJJJ)	.	64bbJJJ)	.	.
-.	.	.	.	(64EELLL	(64eeLLL	48dddLL	(64bbLLL	.	.
-.	.	.	.	64C	64a	.	64ee	.	.
-.	.	.	.	.	.	48bb	.	.	.
-.	.	.	.	64A)	64c	.	64g	.	.
-.	.	.	.	.	.	48ggJJJ)	.	.	.
-.	.	.	.	64eJJJJ	64EJJJJ)	.	64BJJJJ)	.	.
-=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*grp:C
+*part7	*	*part7	*	*part6	*	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*
+*I'Pno.	*	*	*	*I'V.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'2.Fl.	*
+*clefF4	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=1	!
+8r	.	4r	.	(4e	p	Et	(64eLLLL	pp	(64ELLLL	pp	(48ddLLL	pp	(64BLLLL	pp	1r	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ)	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+!	!	!LO:TX:a:t=sourdine	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[8FF#~ [8GG	p	.	.	.	.	.	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ)	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+4FF#_ 4GG_	.	[4g [4a	.	8aL	.	vers	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ)	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+.	.	.	.	8aJ	.	le	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ)	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+4r	.	2r	.	8gL	.	ciel	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ)	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+.	.	.	.	8gJ	.	er-	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ)	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+8r	.	.	.	4d	.	-rant	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ)	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+[8DD~ 8FF#_	.	.	.	.	.	.	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ)	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	[4e 4a_ [4b	.	8eL	.	de	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	2r	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+.	.	.	.	8eJ	.	ton	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+.	.	4r	.	4g	.	œil	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+.	.	.	.	.	.	.	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+8r	.	4r	.	8aL	.	an-	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	4r	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+8FF#~_ [8GG	.	.	.	8aJ	.	-gé-	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+4FF#_ 4GG_	.	[4g 4a_	.	[4cc#X)	.	-li-	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	[4d	pp
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJ	.	64EJJJ)	.	.	.	64BJJJ)	.	.	.
+.	.	.	.	.	.	.	(64eLLL	.	(64ELLL	.	48ddLL	.	(64BLLL	.	.	.
+.	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbJJ	.	.	.	.	.
+.	.	.	.	.	.	.	64EEJJJ)	.	64eeJJJ)	.	.	.	64bbJJJ)	.	.	.
+.	.	.	.	.	.	.	(64EELLL	.	(64eeLLL	.	48dddLL	.	(64bbLLL	.	.	.
+.	.	.	.	.	.	.	64C	.	64a	.	.	.	64ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bb	.	.	.	.	.
+.	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
+.	.	.	.	.	.	.	64eJJJJ	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1)][(s2,s3,s4,s5)]s6[({(s7,s8)})]
 !!!CDT: 1875/03/07-1937/12/28
 !!!CBL: Ciboure, France
