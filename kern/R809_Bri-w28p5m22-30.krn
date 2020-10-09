@@ -4,7 +4,7 @@
 !!!example: 809
 !!!work: Bri-28
 **kern	**kern	**kern	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *I"Pedals	*	*I"Organ	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
 *I'Ped.	*	*I'Org.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
 *	*stria2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -103,3 +103,4 @@
 !!!excerpt-end-time: 1:26
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+
