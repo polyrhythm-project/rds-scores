@@ -4,7 +4,7 @@
 !!!example: 130
 !!!work: Jan-33
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part14	*part14	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin Solo	*I"Timpani	*	*I"Trombones	*	*I"Horns in F	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*	*I"Oboes	*	*I"Flutes	*
@@ -18,7 +18,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
-4.An 4.Bn 4.d#X	.	4.e-	[4.cc-Xt	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	4.E- 4.A- 4.c	<	4.e-X	4.e-	<	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
+4.An 4.Bn 4.d#X	.	4.e-]	[4.cc-Xtt	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	4.E- 4.A- 4.c	<	4.e-X	4.e-	<	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -32,7 +32,7 @@
 .	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	[	.	.	[	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-8%3r	.	8%3r	4.cc-_	<	4.ccc-_TTT	<	4.ccc-_TTT	<	8%3r	32E-XLLL	.	8%3r	.	8%3r	.	4.BB_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+8%3r	.	8%3r	4.cc-_ttt	<	4.ccc-_TTT	<	4.ccc-_TTT	<	8%3r	32E-XLLL	.	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -45,7 +45,7 @@
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-8%3r	.	8%3r	4.cc-]	[	4.ccc-]TTT	[	4.ccc-]TTT	[	8%3r	32E-XLLL	<	8%3r	.	8%3r	.	4.BB_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+8%3r	.	8%3r	4.cc-]ttt	[	4.ccc-]TTT	[	4.ccc-]TTT	[	8%3r	32E-XLLL	<	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -64,7 +64,7 @@
 !	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=rit.	!
 !	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
 !	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!
-8%3r	.	8%3r	4.bt	.	4.bTT	.	4.bbTT	.	8%3r	32E-XLLL	[	8%3r	.	8%3r	.	4.AA_ [4.BB	.	4.E-_	<	4.bb_TTT	<	4.bb_TTT	<	4.bb_TTT	<
+8%3r	.	8%3r	4.btt	.	4.bTT	.	4.bbTT	.	8%3r	32E-XLLL	[	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.E-_	<	4.bb_TTT	<	4.bb_TTT	<	4.bb_TTT	<
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -79,7 +79,7 @@
 *	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||
 !	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TX:t=[quarter-dot]=84	!LO:TUP:num=2	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter-dot]=84	!
-8%3r	.	8%3r	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	8%3r	64%3BBnLLL	f <	8%3r	.	8%3r	.	4.AA_ [4.BB	.	4.E-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
+8%3r	.	8%3r	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	8%3r	64%3BBnLLL	f <	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.E-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
 .	.	.	64%3a	.	64%3a	.	64%3aa	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	64%3b	.	64%3b	.	64%3bb	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	64%3cc#XJJ	.	64%3cc#XJJ	.	64%3ccc#XJJ	.	.	64%3BBJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -88,6 +88,7 @@
 .	.	.	64%3dd#X	.	64%3dd#X	.	64%3ddd#X	.	.	64%3BB	.	.	.	.	.	.	.	.	.	64%3ddd	.	.	.	64%3ddd#X	.
 .	.	.	64%3eeJJJ	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	64%3BBJJJ	[	.	.	.	.	.	.	.	.	64%3eeeXJJJ	.	.	.	64%3eeeJJJ)	.
 =68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=stacc.	!

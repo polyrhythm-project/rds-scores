@@ -16,7 +16,6 @@
 *M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=58	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Andante	!	!
 4BB	Ag-	p	4F#	Ag-	p	4B	Ag-	p	4f#	Ag-	p	4%5r	.	.	4%5r	.	.	4%5r	.	.	4%5r	.	.
 4BB	-nus	.	4F#	-nus	.	4B	-nus	.	4f#	-nus	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -38,21 +37,21 @@
 4BB	-di:	.	4F#	-di:	.	4B	-di:	.	4f#	-di:	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	8E	pec-	.	8E	pec-	.	8e	pec-	.	8e	pec-	.
 4BB	mi-	.	4F#	mi-	.	4B	mi-	.	4f#	mi-	.	4F#	-ca-	.	4F#	-ca-	.	4f#	-ca-	.	4f#	-ca-	.
-4BB	-se-	.	4F#	-se-	.	4B	-se-	.	4f#	-se-	.	8DL	-ta	<	8DL	-ta	.	8dL	-ta	.	8dL	-ta	.
-.	.	.	.	.	.	.	.	.	.	.	.	[8CJ	mun-	] > ]	[8CJ	mun-	< [ > ]	[8cJ	mun-	< [ > ]	[8cJ	mun-	< [ > ]
+4BB	-se-	.	4F#	-se-	.	4B	-se-	.	4f#	-se-	.	8DL	-ta	[<	8DL	-ta	[<	8dL	-ta	[<	8dL	-ta	[<
+.	.	.	.	.	.	.	.	.	.	.	.	[8CJ	mun-	>[	[8CJ	mun-	>[	[8cJ	mun-	>[	[8cJ	mun-	>[
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 *M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
-4BB	-re-	.	4F#	-re-	.	4B	-re-	.	4f#	-re-	.	2C]	.	>	2C]	.	>	2c]	.	>	2c]	.	>
+4BB	-re-	.	4F#	-re-	.	4B	-re-	.	4f#	-re-	.	2C]	.	.	2C]	.	.	2c]	.	.	2c]	.	.
 4BB	-re	.	4F#	-re	.	4B	-re	.	4f#	-re	.	.	.	.	.	.	.	.	.	.	.	.	.
-4BB	no-	.	4F#	no-	.	4B	no-	.	4f#	no-	.	2C	-di:	]]	2C	-di:	]]	2c	-di:	]]	2c	-di:	]]
-4BB	-bis.	.	4F#	-bis.	.	4B	-bis.	.	4f#	-bis.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB	no-	.	4F#	no-	.	4B	no-	.	4f#	no-	.	2C	-di:	.	2C	-di:	.	2c	-di:	.	2c	-di:	.
+4BB	-bis.	.	4F#	-bis.	.	4B	-bis.	.	4f#	-bis.	.	.	.	]]	.	.	]]	.	.	]]	.	.	]]
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 *M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
 4BB	Ag-	.	4F#	Ag-	.	4B	Ag-	.	4f#	Ag-	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
-4BB	-nus	.	4F#	-nus	.	4B	-nus	.	4f#	-nus	.	8C#XL	mi-	<	8C#XL	mi-	<	8c#XL	mi-	<	8c#XL	mi-	<
+4BB	-nus	.	4F#	-nus	.	4B	-nus	.	4f#	-nus	.	8C#XL	mi-	[<	8C#XL	mi-	[<	8c#XL	mi-	[<	8c#XL	mi-	[<
 .	.	.	.	.	.	.	.	.	.	.	.	8DJ	-se-	.	8DJ	-se-	.	8dJ	-se-	.	8dJ	-se-	.
-4AA	De-	< [ > ]	4E 4A	De-	< [ > ]	4cn	De-	< [ > ]	4e 4f#	De-	< [ > ]	(4E	-re-	< [ > ]	(4E	-re-	< [ > ]	(4e	-re-	< [ > ]	(4e	-re-	< [ > ]
-4AA	-i,	.	4E 4A	-i,	.	4c	-i,	.	4e 4f#	-i,	.	8G	.	]	8G	.	]	8g	.	]	8g	.	]
+4AAZ	De-	.	4E 4AZ	De-	.	4cnZ	De-	.	4e 4f#Z	De-	.	(4EZ	-re-	[[	(4EZ	-re-	[[	(4eZ	-re-	[[	(4eZ	-re-	[[
+4AA	-i,	.	4E 4A	-i,	.	4c	-i,	.	4e 4f#	-i,	.	8G	.	.	8G	.	.	8g	.	.	8g	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
 4AA	qui	.	4E 4A	qui	.	4c	qui	.	4e 4f#	qui	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	[8D	.	.	[8D	.	.	[8d	.	.	[8d	.	.
@@ -63,13 +62,14 @@
 .	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
 4AA	pec-	.	4E 4A	pec-	.	4c	pec-	.	4e 4f#	pec-	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	8G)	.	.	8G)	.	.	8g)	.	.	8g)	.	.
-4AA	-ca-	<	4E 4A	-ca-	<	4c	-ca-	<	4e 4f#	-ca-	.	(8AL	-re	.	(8AL	-re	.	(8aL	-re	.	(8aL	-re	.
+4AA	-ca-	<	4E 4A	-ca-	<	4c	-ca-	<	4e 4f#	-ca-	.	(8AL	-re_	.	(8AL	-re_	.	(8aL	-re_	.	(8aL	-re_	.
 .	.	.	.	.	.	.	.	.	.	.	.	8G	.	.	8G	.	.	8g	.	.	8g	.	.
 4AA	-ta	[	4E 4A	-ta	[	4c	-ta	[	4e 4f#	-ta	.	8EJ)	.	.	8EJ)	.	.	8eJ)	.	.	8eJ)	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.	.	8r	.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
+!!!RDF**kern: Z = hairpin accent
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands

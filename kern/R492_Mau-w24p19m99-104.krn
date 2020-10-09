@@ -7,6 +7,8 @@
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part3	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICstr	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*	*Ivioln	*
 *I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
 *I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
 *clefF4	*clefG2	*	*clefF4	*	*clefG2	*
@@ -17,7 +19,7 @@
 =99	=99	=99	=99	=99	=99	=99
 !	!	!	!	!	!LO:TX:t=[half]=132	!
 !	!	!LO:DY:ed=brack	!LO:TX:b:i:t=espr.	!	!LO:TX:b:i:t=espr.	!
-8d'	8ddd	f	(4F#X	f <	(4ddd	f <
+8d')	8ddd)	f	(4F#X	f <	(4ddd	f <
 8r	8r	.	.	.	.	.
 *clefG2	*	*	*	*	*	*
 *	*8va	*	*	*	*	*
@@ -34,8 +36,8 @@
 4C#X'	4een' 4gg#X 4eeen	.	(4B	<	(4een	<
 4G#X' 4Bn	4cc#X' 4ee#X 4ccc#X	.	2g)	[	2ccc#X)	[
 4F#X'	4ff#X' 4aa 4fff#X	.	.	.	.	.
-*	*X8va	*	*	*	*	*
 4B' 4d	4dd' 4ffn 4ddd	.	(4f	[ <	(4dd	<
+*	*X8va	*	*	*	*	*
 =102	=102	=102	=102	=102	=102	=102
 4E'	4b' 4dd 4bb	.	2a-X)	[	2bb)	[
 *clefG2	*	*	*	*	*	*
@@ -52,7 +54,7 @@
 4c' 4e	4b' 4gg 4bb	.	2b)	.	2d)	.
 4d-X' 4f	4g' 4ee-X 4gg	.	.	.	.	.
 4d-' 4f#X	4en' 4cc 4een	.	(4c#X	.	(4e	.
-4e-X' 4g	4c#X' 4a 4cc#X	.	[4a)	.	[4c#X)	.
+4e-X' 4g	4c#X' 4a 4cc#X	.	[4a)	.	[4c#X	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]

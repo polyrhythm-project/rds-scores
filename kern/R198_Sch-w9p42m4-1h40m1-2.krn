@@ -4,9 +4,11 @@
 !!!example: 198
 !!!work: Sch-9
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*	*part3	*part3	*part2	*part2	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*
 *clefC4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -18,7 +20,7 @@
 *	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half-dot]=94	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(womöglich)	!
-!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem immer noch col legno	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:TX:b:t=[pp]	!	!LO:DY:ed=brack	!
+!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem immer noch col legno	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:TX:b:t=[pp]	!	!	!LO:DY:ed=brack
 4B-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB- 4B-	p	4GG	p	4B-X	pp	2.d-XT	pp	4B-	sf	4B-X	fff
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -47,6 +49,7 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
+*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*
 4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-X	.	4%3r	.	4%3r	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
