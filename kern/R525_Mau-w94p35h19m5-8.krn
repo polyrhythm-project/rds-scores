@@ -3,57 +3,58 @@
 !!!OMV: Movement 3
 !!!example: 525
 !!!work: Mau-94
-**kern	**kern	**dynam	**kern	**kern
-*grp:A	*grp:B	*grp:B	*grp:B	*grp:A
-*part3	*part3	*part3	*part2	*part1
-*staff4	*staff3	*	*staff2	*staff1
-*I"Piano	*	*	*I"Violoncello	*I"Violin I
-*I'Pno.	*	*	*I'Vc.	*I'Vln. I
-*clefF4	*clefG2	*	*clefF4	*clefG2
-*k[]	*k[]	*	*k[]	*k[]
-*C:	*C:	*	*C:	*C:
-*M2/4	*M2/4	*	*M2/4	*M2/4
-=195	=195	=195	=195	=195
-!	!LO:TX:t=[quarter]=120	!	!	!LO:TX:t=[quarter]=120
-!	!LO:TX:b:t=[p]	!	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]
-(16FFLL	(16cLL)	.	4c~	4ccc~
-16C	16f	.	.	.
-16F	16a-X	.	.	.
-16CJJ	16cJJ	.	.	.
-16FLL	16fLL	.	8r	8r
-16G	16an	.	.	.
-16FF	16c	.	(16cLL	(16cccLL
-16CJJ	16fJJ	.	16AJJ)	16aaJJ)
-=196	=196	=196	=196	=196
-16FLL	16a-XLL	.	8cL	8cccL
-16C	16c	.	.	.
-16F	16f	.	8cJ	16cccL
-16GJJ	16anJJ	.	.	16aJJ
-*	*	*	*clefG2	*
-16FFLL	16cLL	.	(8dL	16dddLL
-16C	16f	.	.	16a
-16F	16a-X	.	8fJ)	16fff
-16CJJ	16cJJ	.	.	16aJJ
-=197	=197	=197	=197	=197
-16FLL	16fLL	.	(8cL	16cccLL
-16G	16an	.	.	16aJ
-16FF	16c	.	8dJ)	8ddd~J
-16CJJ	16fJJ	.	.	.
-16FLL	16a-XLL	.	8r	8r
-16C	16c	.	.	.
-16F	16f	.	(8c	16cccLL
-16GJJ	16anJJ	.	.	16aJJ
-=198	=198	=198	=198	=198
-16FFLL	16cLL	<	8dL	16dddLL
-16C	16f	.	.	16a
-16F	16a-X	.	8fJ	16fff
-16CJJ	16cJJ	.	.	16aJJ
-16FLL	16fLL	.	8gL)	16gggLL
-16G	16an	.	.	16a
-16FF	16c	.	(8cJ_	16ccc
-16CJJ)	16fJJ)	[	.	16aJJ
-=	=	=	=	=
-*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*	*part3	*part3	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Violoncello	*	*I"Violin I	*
+*I'Pno.	*	*	*	*I'Vc.	*	*I'Vln. I	*
+*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!LO:REH:t=19
+=195	=195	=195	=195	=195	=195	=195	=195
+!	!	!LO:TX:t=[quarter]=120	!	!	!	!LO:TX:t=[quarter]=120	!
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+(16FFLL	.	(16cLL	p	4c~	mf	4ccc~	mf
+16C	.	16f	.	.	.	.	.
+16F	.	16a-X	.	.	.	.	.
+16CJJ	.	16cJJ	.	.	.	.	.
+16FLL	.	16fLL	.	8r	.	8r	.
+16G	.	16an	.	.	.	.	.
+16FF	.	16c	.	(16cLL	.	(16cccLL	.
+16CJJ	.	16fJJ	.	16AJJ)	.	16aaJJ)	.
+=196	=196	=196	=196	=196	=196	=196	=196
+16FLL	.	16a-XLL	.	8cL	.	8cccL	.
+16C	.	16c	.	.	.	.	.
+16F	.	16f	.	8cJ	.	16cccL	.
+16GJJ	.	16anJJ	.	.	.	16aJJ	.
+*	*	*	*	*clefG2	*	*	*
+16FFLL	.	16cLL	.	(8dL	.	16dddLL	.
+16C	.	16f	.	.	.	16a	.
+16F	.	16a-X	.	8fJ)	.	16fff	.
+16CJJ	.	16cJJ	.	.	.	16aJJ	.
+=197	=197	=197	=197	=197	=197	=197	=197
+16FLL	.	16fLL	.	(8cL	.	16cccLL	.
+16G	.	16an	.	.	.	16aJ	.
+16FF	.	16c	.	8dJ)	.	8ddd~J	.
+16CJJ	.	16fJJ	.	.	.	.	.
+16FLL	.	16a-XLL	.	8r	.	8r	.
+16C	.	16c	.	.	.	.	.
+16F	.	16f	.	(8c	.	16cccLL	.
+16GJJ	.	16anJJ	.	.	.	16aJJ	.
+=198	=198	=198	=198	=198	=198	=198	=198
+16FFLL	.	16cLL	<	8dL	.	16dddLL	.
+16C	.	16f	.	.	.	16a	.
+16F	.	16a-X	.	8fJ	.	16fff	.
+16CJJ	.	16cJJ	.	.	.	16aJJ	.
+16FLL	.	16fLL	.	8gL)	.	16gggLL	.
+16G	.	16an	.	.	.	16a	.
+16FF	.	16c	.	(8cJ_	.	16ccc	.
+16CJJ)	.	16fJJ)	[	.	.	16aJJ	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
