@@ -4,85 +4,89 @@
 !!!example: 310
 !!!work: Fal-3
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
-*ICklav	*ICklav	*
-*Ipiano	*Ipiano	*
 *I"Piano	*	*
 *I'Pno.	*	*
+!!pagebreak:original
 *clefF4	*clefF4	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
 *M3/8	*M3/8	*
-*MM138	*MM138	*
 =1	=1	=1
+!	!LO:TX:t=[quarter]=120	!
 4.r	8r	.
-.	8r	.
-.	(24c#LL	pp
+.	8r	pp
+.	(24c#LL	.
 .	24F#	.
-.	24C#JJ	.
+.	24C#J	.
 =2	=2	=2
 *	*^	*
-8ryy	)8C#<'	8r	.
+8ryy	8ryy@	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =3	=3	=3	=3
-4.ryy	8f#'L	16f#LL<	.
+4.ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#<	.
-.	.	24F#<JJ	.
-=4	=4	=4	=4
-8ryy	8C#<'	8r	.
+.	.	24c#	.
+.	.	24F#JJ	.
+*v	*v	*	*
+=4	=4	=4
+*	*^	*
+8ryy	8ryy@	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =5	=5	=5	=5
-4.ryy	8f#'L	16f#LL<	.
+4.ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#<	.
-.	.	24F#<JJ	.
-=6	=6	=6	=6
-8ryy	8C#<'	8r	.
-8r	8f#'L	16f#LL	<
+.	.	24c#	.
+.	.	24F#JJ	.
+*v	*v	*	*
+=6	=6	=6
+*	*^	*
+8ryy	8ryy@	8r	<
+8r	8f#'L	16f#LL	.
 .	.	16A#	.
-8c#' 8d#	8e#'J	16e#	.
+8d#' 8e#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =7	=7	=7	=7
-8r	8f#'L	16f#LL	.
+8r'	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8d#'	16d#	.
 .	.	16A#	.
-8r	8c#'J	16c#	.
-.	.	16BJJ	.
+8r'	8c#'J	16c#	.
+.	.	16BJJ	[
 =8	=8	=8	=8
-8c#' 8d#	8f#'L	16f#LL	[ >
+8c#' 8d#	8f#'L	16f#LL	>
 .	.	16A#	.
 8r	8d#'	16d#	.
 .	.	16A#	.
 8r	8c#'J	16c#	.
-.	.	16BJJ	.
+.	.	16BJJ	]
 =9	=9	=9	=9
-4.ryy	8f#'L	16f#LL<	]
+4.ryy	8f#'L	16f#LL	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#<	.
-.	.	24F#<JJ	.
-*	*v	*v	*
+.	.	24c#	.
+.	.	24F#JJ	.
+*v	*v	*	*
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1876/11/23-1946/11/14
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
@@ -100,7 +104,5 @@
 !!!excerpt-end-measure: 8
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:06
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
+!!!EEV: 2020/10/05
+!!!ONB: Converted from MusicXML on 2020/10/05
