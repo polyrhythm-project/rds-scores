@@ -4,7 +4,7 @@
 !!!example: 730
 !!!work: Mes-16
 **kern	**kern	**kern
-*grp:A	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B
 *part2	*part1	*part1
 *staff3	*staff2	*staff1
 *I"Pedals	*I"Organ	*
