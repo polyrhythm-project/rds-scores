@@ -3,119 +3,119 @@
 !!!OMV: Part II: Dance of the Neighbours
 !!!example: 308B
 !!!work: Fal-6
-**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*	*	*	*	*	*	*	*	*	*	*
-*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part7	*part7	*part1	*part1
-*staff20	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
-*ICstr	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*
-*Icbass	*Icello	*	*Icello	*	*Iviola	*	*Ivioln	*	*Icor	*	*Iflt	*
-*I"Contrabass	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Horn in F	*	*I"Flute 1	*
-*I'Cb.	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Hn.	*	*I'Fl.	*
-*clefF4	*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
-*k[f#]	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
-*G:	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
-*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*
+*part18	*	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part7	*part7	*part1	*part1
+*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Ivioln	*	*Icor	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Horn in F	*	*I"Flute 1	*
+*I'Cb.	*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Hn.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 !!LO:REH:t=10
-=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
-*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
-*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
-!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=96	!
-!LO:TX:b:t=pp sempre	!	!	!LO:TX:a:t=sul tasto	!	!	!	!	!	!	!	!	!
-16%3AL	(16DDLL	ppp	(16DDLL	ppp	32F#LLL	ppp	32eLLL	ppp	[4.F# [4.f#	ppp	8r	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-.	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16ddd'LL	pp
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16ddd'J	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8ddd'J	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
-.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
-=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
-16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.F#] 4.f#]	.	8ddd'L	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AA	.	16AA	.	32c	.	32d	.	.	.	.	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8.eee~	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16dddJk	.
-.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
-16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	[4.G [4.g	.	8cccL)	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16aaLi	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8cccJ	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
-=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
-16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G_ 4.g_	.	16cccLL]	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AA	.	16AA	.	32c	.	32d	.	.	.	16aaJ	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.bb	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16aaJk	.
-.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
-16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4.G_ 4.g_	.	8ggL	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	16aaL	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8aaJ	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
-=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
-16%3AL	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G] 4.g]	.	16aaLL]	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AA	.	16AA	.	32c	.	32d	.	.	.	16ff#J	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.gg	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16ff#Jk	.
-.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
-=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-16%3AL	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4G 4g	.	8eeL	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
-.	.	.	.	.	32G	.	32e	.	.	.	.	.
-.	16DD	.	16DD	.	32c	.	32d	.	.	.	16ff#L	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-16%3dJ	16AA	.	16AA	.	32c	.	32d	.	.	.	16eeJ	.
-.	.	.	.	.	32c	.	32d	.	.	.	.	.
-.	16DD	.	16DD	.	32F#	.	32e	.	[8F# [8f#	.	8ddJ[	.
-.	.	.	.	.	32F#	.	32e	.	.	.	.	.
-.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
-.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
-*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*
-*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
-=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=96	!
+!	!LO:DY:t=%s sempre	!	!	!LO:TX:a:t=sul tasto	!	!	!	!	!	!	!	!	!
+16%3AL	.pp	(16DDLL	ppp	(16DDLL	ppp	32F#LLL	ppp	32eLLL	ppp	[4.F# [4.f#	ppp	8r	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	.	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16ddd'LL	pp
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16ddd'J	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8ddd'J	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+16%3AL	.	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.F#] 4.f#]	.	8ddd'L	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AA	.	16AA	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32F#	.	32e	.	.	.	8.eee~	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16dddJk	.
+.	.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+16%3AL	.	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	[4.G [4.g	.	8cccL)	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16aaLi	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8cccJ	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+16%3AL	.	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G_ 4.g_	.	16cccLL]	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16aaJ	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.bb	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16aaJk	.
+.	.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+16%3AL	.	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4.G_ 4.g_	.	8ggL	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	16aaL	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32G	.	32e	.	.	.	[8aaJ	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32GJJJ	.	32eJJJ	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+16%3AL	.	(16DDLL	.	(16DDLL	.	32cLLL	.	32dLLL	.	4.G] 4.g]	.	16aaLL]	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16ff#J	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32G	.	32e	.	.	.	8.gg	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	.	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16ff#Jk	.
+.	.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+16%3AL	.	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4G 4g	.	8eeL	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+.	.	16DD	.	16DD	.	32c	.	32d	.	.	.	16ff#L	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16eeJ	.
+.	.	.	.	.	.	32c	.	32d	.	.	.	.	.
+.	.	16DD	.	16DD	.	32F#	.	32e	.	[8F# [8f#	.	8ddJ[	.
+.	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	32F#	.	32e	.	.	.	.	.
+.	.	.	.	.	.	32F#JJJ	.	32eJJJ	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)][({(s11,s12)})][({(s13,s14)})][(s15,s16,s17,s18,s19,s20)]
 !!!CDT: 1876/11/23-1946/11/14
 !!!CBL: Cádiz, Spain
