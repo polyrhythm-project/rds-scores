@@ -7,6 +7,8 @@
 *grp:A	*grp:A	*grp:B	*grp:B
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*
+*ICvox	*	*ICstr	*
+*Isoprn	*	*Icello	*
 *I"Soprano Solo	*	*I"Violoncello	*
 *I'S. Solo	*	*I'Vc.	*
 *clefG2	*	*clefF4	*
@@ -79,7 +81,7 @@
 16d	mes	(8EJ	.
 16a	che-	.	.
 =7	=7	=7	=7
-[4.e	-veux.	8AL	.
+[4.e	-veux._	8AL	.
 .	.	8d)	.
 .	.	(8EJ	.
 8e])	.	8AL)	.
@@ -98,7 +100,7 @@
 *M9/8	*	*M9/8	*
 4cc	l'heu-	8DL]	.
 .	.	(8a^	.
-[8cc	-re:	8gJ)	.
+[8cc	-re:_	8gJ)	.
 8cc])	.	8dL	.
 8r	.	(16a^L	.
 .	.	16g)	.
