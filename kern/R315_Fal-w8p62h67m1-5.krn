@@ -4,7 +4,7 @@
 !!!example: 315
 !!!work: Fal-8
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*part9	*part9	*part8	*	*part8	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
@@ -22,6 +22,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	16E-X'J 16c	.	16E-'J 16c	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.]mf	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8AA-'	p	8AA-'	p	8E-' 8c	p	8E-' 8c	p	8r	.	8B-' 8g-	] p	.	.	.	8r	8r	.	.	.	24E<-'LL	.	8r	.	.	.	.	.	8r	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -58,11 +59,11 @@
 8AA-X'L	.	8AA-X'L	.	8E-X'L 8c	.	8E-X'L 8c	.	8r	.	8B-X'L 8g-X	.	8ccL	.	oh	4.r	4.r	.	4ryy	.	24E<-X'LL	.	8r	.	8r	.	4c]	.	4.r	.	8r	.	8r	.	8r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8AA-'	.	8AA-'	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	8cc	.	par	.	.	.	.	.	24E<-'LL	.	8AA-X	.	8r	.	.	.	.	.	8r	.	8r	.	8r	.
+8AA-'J	.	8AA-'J	.	16E-'L 16c	.	16E-'L 16c	.	8r	.	16B-'L 16g-	.	8cc	.	par	.	.	.	.	.	24E<-'LL	.	8AA-X	.	8r	.	.	.	.	.	8r	.	8r	.	8r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	16E-'J 16c	.	16E-'J 16c	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8Dn'J 8An	sf	8Dn'J 8An	sf	8cJ	sf	8cJ	sf	8en 8cc 8een	sf	8g-J	sf	8ccJ	.	sin	.	.	.	8D'^ 8An	.ff	8c'^	.	8r	.	8dd'^	f	8D'^ 8g-X	f	.	.	8A'^	f	8e'^ 8cc	f	8ccc'^	f
+8Dni' 8Ani	sf	8Dni' 8Ani	sf	8cJ	sf	8cJ	sf	8eni 8cc 8eeni	sf	8g-J	sf	8ccJ	.	sin	.	.	.	8D'^ 8An	.ff	8c'^	.	8r	.	8dd'^	f	8D'^ 8g-X	f	.	.	8A'^	f	8e'^ 8cc	f	8ccc'^	f
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 8AA-X'L	p	8AA-X'L	p	16E-X'LL 16c	p	16E-X'LL 16c	p	4.r	.	16B-X'LL 16g-X	p	4.cc	.	par	4.r	4.r	.	4.ryy	.mf	24AA<-X~LL 24E<-X	.mfX	8AA-X	.	4.r	.	[4.c~	p	4.r	.	4.r	.	4.r	.	4.r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X 24g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -99,3 +100,4 @@
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
