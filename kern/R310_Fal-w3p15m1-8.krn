@@ -4,6 +4,7 @@
 !!!example: 310
 !!!work: Fal-3
 **kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -17,44 +18,44 @@
 !	!LO:TX:t=[quarter]=120	!
 4.r	8r	.
 .	8r	pp
-.	(24c#LL	.
+.	(24c#L	.
 .	24F#	.
-.	24C#J	.
+.	24C#	.
 =2	=2	=2
 *	*^	*
-8ryy	8ryy@	8r	.
+8ryy	8C#<'J	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =3	=3	=3	=3
-4.ryy	8f#'L	16f#LL	.
+4.ryy	8f#'L	16f#LL<	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
+.	.	24c<#	.
+.	.	24F<#JJ	.
 *v	*v	*	*
 =4	=4	=4
 *	*^	*
-8ryy	8ryy@	8r	.
+8ryy	8C#<'	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
 =5	=5	=5	=5
-4.ryy	8f#'L	16f#LL	.
+4.ryy	8f#'L	16f#LL<	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
+.	.	24c<#	.
+.	.	24F<#JJ	.
 *v	*v	*	*
 =6	=6	=6
 *	*^	*
-8ryy	8ryy@	8r	<
+8ryy	8C#<'	8r	<
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8d#' 8e#	8e#'J	16e#	.
@@ -74,13 +75,13 @@
 8r	8c#'J	16c#	.
 .	.	16BJJ	]
 =9	=9	=9	=9
-4.ryy	8f#'L	16f#LL	.
+4.ryy	8f#'L	16f#LL<	.
 .	.	16A#	.
 .	8d#'	16d#	.
 .	.	16A#J	.
 .	8c#'J	24c#L	.
-.	.	24c#	.
-.	.	24F#JJ	.
+.	.	24c<#	.
+.	.	24F<#JJ	.
 *v	*v	*	*
 =	=	=
 *-	*-	*-
@@ -106,3 +107,5 @@
 !!!excerpt-end-time: 0:06
 !!!EEV: 2020/10/05
 !!!ONB: Converted from MusicXML on 2020/10/05
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
