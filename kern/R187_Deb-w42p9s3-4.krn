@@ -19,7 +19,8 @@
 =122	=122	=122
 *^	*	*
 !	!	!LO:TX:t=[quarter]=107	!
-!	!	!LO:TX:b:i:t=lointain et raide	!
+!	!	!LO:TX:b:i:t=	!LO:HP:i:t=s%
+!	!	!	!LO:DY:t=%s  lointain et raide
 8AAA'L	8GGG	2r	pp
 8AAA'J	8r	.	.
 8AAA'L	8GGG	.	.
@@ -43,15 +44,16 @@
 =126	=126	=126
 *	*8va	*
 *^	*	*
-!	!	!LO:TX:b:i:t=sempre	!
-8AAA'L	8GGG	(16aaaKL	.
+!	!	!LO:TX:b:i:t=	!LO:DY:t=sempre  %s  très exactement rythmé
+8AAA'L	8GGG	(16aaaKL	pp
 .	.	8cccc)	.
 8AAA'J	8r	.	.
-.	.	(16aaaJk	pp
+!	!	!	!LO:DY:t
+.	.	(16aaaJk	.
 8AAA'L	8GGG	8cccc'L)	.
 8AAA'J	8r	8aaa'J	.
 =127	=127	=127	=127
-!	!	!LO:TX:b:i:t=très exactement rythmé	!
+!	!	!LO:TX:b:i:t=	!
 8AAA'L	8GGG	(16fffKL	.
 .	.	8aaa)	.
 8AAA'J	8r	.	.
@@ -106,8 +108,9 @@
 *v	*v	*	*
 *X8ba	*clefF4	*
 =134	=134	=134
+!	!	!LO:DY:t=%s en augmentant peu à peu
 8F'L	(16AKL	p
-!	!LO:TX:b:i:t=en augmentant peu à peu	!
+!	!LO:TX:b:i:t=	!
 .	8c)	.
 8f'J	.	.
 .	(16AJk	.
