@@ -4,7 +4,7 @@
 !!!example: 144
 !!!work: Jan-47
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part13	*	*part12	*	*part11	*	*part10	*	*part9	*
 *staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*
 *I"Timpani	*	*I"Trumpet in F II	*	*I"Trumpet in F I	*	*I"Horn in F II	*	*I"Horn in F I	*
@@ -14,8 +14,11 @@
 *k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *C:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=4
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 !	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Più mosso ([eighth]=145, [quarter-dot]=48)	!
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[Banda Interna (Offstage)]	!
 8.A-XL	f	24ccLL	f	24ccLL	f	24cLL	f	24cLL	f
 .	.	24f	.	24b-	.	24F	.	24B-	.
 .	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
