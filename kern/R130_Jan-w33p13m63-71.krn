@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 130
 !!!work: Jan-33
+!!!Xfilter: transpose -t -P8 -s 1
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part14	*part14	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -10,15 +11,16 @@
 *I"Contrabass	*	*I"Violoncello	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin Solo	*I"Timpani	*	*I"Trombones	*	*I"Horns in F	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*	*I"Oboes	*	*I"Flutes	*
 *I'Cb.	*	*I'Vc.	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*I'Timp.	*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
 *clefF4	*	*clefF4	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
-*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd8c14	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*E-:	*	*E-:	*	*E-:	*	*E-:	*C:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
 *M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=2
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
-4.An 4.Bn 4.d#X	.	4.e-]	[4.cc-Xtt	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	4.E- 4.A- 4.c	<	4.e-X	4.e-	<	[4.BB-- [4.C-X	ff	[4.E-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
+]4.AAnX ]4.BBnX ]4.D#X	.	4.e-]	[4.cc-XTT	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	32E-XLLL	mf	]4.E- ]4.A- ]4.c	<	4.e-X	4.e-	<	[4.BB-- [4.C-X	ff	[4.EE-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -32,7 +34,7 @@
 .	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	[	.	.	[	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
-8%3r	.	8%3r	4.cc-_ttt	<	4.ccc-_TTT	<	4.ccc-_TTT	<	8%3r	32E-XLLL	.	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+8%3r	.	8%3r	4.cc-_ttt	<	4.ccc-_TTT	<	4.ccc-_TTT	<	8%3r	32E-XLLL	.	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.EE-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -45,7 +47,7 @@
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
-8%3r	.	8%3r	4.cc-]ttt	[	4.ccc-]TTT	[	4.ccc-]TTT	[	8%3r	32E-XLLL	<	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.E-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+8%3r	.	8%3r	4.cc-]ttt	[	4.ccc-]TTT	[	4.ccc-]TTT	[	8%3r	32E-XLLL	<	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.EE-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -58,13 +60,13 @@
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
-*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b]	*	*k[b-e-]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*F:	*	*C:	*	*B-:	*	*B-:	*	*C:	*	*C:	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!
-!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=rit.	!
-!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
-!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Vivo	!
-8%3r	.	8%3r	4.btt	.	4.bTT	.	4.bbTT	.	8%3r	32E-XLLL	[	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.E-_	<	4.bb_TTT	<	4.bb_TTT	<	4.bb_TTT	<
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!
+8%3r	.	8%3r	4.bTT	.	4.bTT	.	4.bbTT	.	8%3r	32E-XLLL	.	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.EE-_	<	4.bb_TTT	<	4.bb_TTT	<	4.bb_TTT	<
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -75,40 +77,41 @@
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	32E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	32E-XJJJ	.	.	.	.	.	.	.	.	[	.	[	.	[	.	[
+.	.	.	.	.	.	.	.	.	.	32E-XJJJ	.[[	.	.	.	.	.	.	.	[[	.	[[	.	[[	.	[[
 *	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||
-!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TX:t=[quarter-dot]=84	!LO:TUP:num=2	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter-dot]=84	!
-8%3r	.	8%3r	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	8%3r	64%3BBnLLL	f <	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.E-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
+!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TX:t=	!LO:TUP:num=2	!	!	!	!	!	!	!	!LO:TX:a:B:	!	!	!	!	!	!LO:TX:t=Vivo ([quarter-dot]=84)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
+8%3r	.	8%3r	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	8%3r	64%3BBnLLL	f <	8%3r	.	8%3r	.	(4.AA] 4.BB_	.	4.EE-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
 .	.	.	64%3a	.	64%3a	.	64%3aa	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	64%3b	.	64%3b	.	64%3bb	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	64%3cc#XJJ	.	64%3cc#XJJ	.	64%3ccc#XJJ	.	.	64%3BBJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	64%3bLL	.	64%3bLL	.	64%3bbLL	.	.	64%3BBLL	.	.	.	.	.	.	.	.	.	64%3bbLL]	.	.	.	64%3bbLL]	.
 .	.	.	64%3cc#	.	64%3cc#	.	64%3ccc#	.	.	64%3BB	.	.	.	.	.	.	.	.	.	64%3ccc#X	.	.	.	64%3ccc#X	.
 .	.	.	64%3dd#X	.	64%3dd#X	.	64%3ddd#X	.	.	64%3BB	.	.	.	.	.	.	.	.	.	64%3ddd	.	.	.	64%3ddd#X	.
-.	.	.	64%3eeJJJ	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	64%3BBJJJ	[	.	.	.	.	.	.	.	.	64%3eeeXJJJ	.	.	.	64%3eeeJJJ)	.
+.	.	.	64%3eeJJJ	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	64%3BBJJJ	[[	.	.	.	.	.	.	.	.	64%3eeeXJJJ	.	.	.	64%3eeeJJJ)	.
 =68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=stacc.	!
-4G	f	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8BBn^^	.	8%3r	.	8%3r	.	4BB^^]	[4.GG^^	.	8E-^^]	.	8eee-X^^)	.	8bb^^]	.	8ddd#XL	.
-.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8bb	.
+4GG	f	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8BBn^^	.	8%3r	.	8%3r	.	8BB^^]	)[4.GG^^	.	8EE-^^]	.	8eee-X^^)	.	8bb^^]	.	8ddd#XL	.
+.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8r	.	.	8r	.	8r	.	8r	.	8bb	.
 .	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8r	.	.	8r	.	8r	.	8r	.	8ddd#J	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
-4G	.	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG^^_	.	8%3r	.	8%3r	.	8%3r	.	8ccc#XL	.
+4GG	.	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG_	.	8%3r	.	8%3r	.	8%3r	.	8ccc#XL	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
 .	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
-4G	.	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG^^_	.	8%3r	.	8%3r	.	8%3r	.	8bbL	.
+4GG	.	16%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG_	.	8%3r	.	8%3r	.	8%3r	.	8bbL	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.
 .	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 !	!	!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4G	.	16%3r	8%3r	.	64%3gLLL	ff	64%3ggLLL	ff	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG^^]	.	8%3r	.	8%3r	.	8%3r	.	4.bb]	.
+4GG	.	16%3r	8%3r	.	64%3gLLL	ff	64%3ggLLL	ff	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG]	.	8%3r	.	8%3r	.	8%3r	.	4.bb]	.
 .	.	.	.	.	64%3a	.	64%3aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	64%3b	.	64%3bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	64%3cc#XJJ	.	64%3ccc#XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
