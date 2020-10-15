@@ -3,96 +3,98 @@
 !!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 426
 !!!work: Var-4
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
-*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
-*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Oboe	*I"Clarinet in Eb	*	*I"Flute	*
-*I'Cb.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Ob.	*I'Eb Cl.	*	*I'Fl.	*
-*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*I	*	*	*	*	*I	*	*	*
-*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*k[b-e-a-]	*	*k[]	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*
-=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:b:t=[ff]	!	!	!LO:TX:t=[quarter]=100	!
-1r	.	1r	.	1r	.	16G#XKL	.ff	8aL	1r	.	1r	.
-.	.	.	.	.	.	8B-X^	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	8ee-XJ	.	.	.	.
-.	.	.	.	.	.	[16bn^Jk	.	.	.	.	.	.
-.	.	.	.	.	.	2b_	< [ >	12eenL	.	.	.	.
-.	.	.	.	.	.	.	.	(12f	.	.	.	.
-.	.	.	.	.	.	.	.	[12dd#XJ)	.	.	.	.
-.	.	.	.	.	.	.	.	4dd#]	.	.	.	.
-.	.	.	.	.	.	8bL]	]	8f#XL	.	.	.	.
-.	.	.	.	.	.	(8c^nJ	.	8cc#XJ	.	.	.	.
-=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
-4%3r	.	4%3r	.	4%3r	.	16g'KL)	.	8dd#XL	4%3r	.	4%3r	.
-.	.	.	.	.	.	8.g^J	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	16eeL	.	.	.	.
-.	.	.	.	.	.	.	.	16fniJJ	.	.	.	.
-.	.	.	.	.	.	12c^L	.	[2g#X	.	.	.	.
-.	.	.	.	.	.	12b	.	.	.	.	.	.
-.	.	.	.	.	.	(8qb/	.	.	.	.	.	.
-.	.	.	.	.	.	12g^J)	.	.	.	.	.	.
-.	.	.	.	.	.	8f#X^L	.	.	.	.	.	.
-.	.	.	.	.	.	8a^J	.	.	.	.	.	.
-=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*
-1r	.	1r	.	1r	.	[2.b	.	2g#_	4r	.	1r	.
-.	.	.	.	.	.	.	.	.	24a'LL	ff	.	.
-.	.	.	.	.	.	.	.	.	24b-X'	.	.	.
-.	.	.	.	.	.	.	.	.	24a'J	.	.	.
-.	.	.	.	.	.	.	.	.	8a^J	.	.	.
-.	.	.	.	.	.	.	.	6g#]	24a'LL	.	.	.
-.	.	.	.	.	.	.	.	.	24b-'	.	.	.
-.	.	.	.	.	.	.	.	.	24a'J	.	.	.
-.	.	.	.	.	.	.	.	.	8a^J	.	.	.
-.	.	.	.	.	.	.	.	6b-X	.	.	.	.
-.	.	.	.	.	.	8bL]	.	.	16r^	.	.	.
-.	.	.	.	.	.	.	.	.	8.a^	.	.	.
-.	.	.	.	.	.	.	.	[6dd	.	.	.	.
-.	.	.	.	.	.	[8c#X^J	.	.	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-1r	.	1r	.	1r	.	8c#L]	.	4dd]	16gg#XKL	.	1r	.
-.	.	.	.	.	.	.	.	.	8ddn^	.	.	.
-.	.	.	.	.	.	8d#XJ	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	[16ccc#X^Jk	.	.	.
-.	.	.	.	.	.	12g#XL	.	[4aa	2ccc#_	< [	.	.
-.	.	.	.	.	.	12B-X	.	.	.	.	.	.
-.	.	.	.	.	.	[12g#J	.	.	.	.	.	.
-.	.	.	.	.	.	4g#]	.	8aaL]	.	.	.	.
-.	.	.	.	.	.	.	.	8ggJ	.	.	.	.
-.	.	.	.	.	.	4Gn	.	[4f#X	8ccc#L]	> ]	.	.
-.	.	.	.	.	.	.	.	.	8dd^J	.	.	.
-=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*
-!	!	!LO:TX:a:t=(sourd.)	!	!LO:TX:a:t=(sourd.)	!	!	!	!	!	!	!	!
-4%3r	.	4%3r	.	4%3r	.	8fLn	.	12f#XL]	16ccc#X'KL	.	4%3r	.
-.	.	.	.	.	.	.	.	.	8.ccc#^J	.	.	.
-.	.	.	.	.	.	.	.	12b	.	.	.	.
-.	.	.	.	.	.	8cniJ	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	12cc#XJ	.	.	.	.
-.	.	.	.	.	.	4B	.	4cccn	(12ccn^L	.	.	.
-.	.	.	.	.	.	.	.	.	12bbXi)	.	.	.
-.	.	.	.	.	.	.	.	.	(8qbb-/	.	.	.
-.	.	.	.	.	.	.	.	.	12eeX^J)	.	.	.
-.	.	.	.	.	.	(4e-X	.	(4een	8dd^L	.	.	.
-.	.	.	.	.	.	.	.	.	8ff#X^J	.	.	.
-*	*	*	*	*	*	*clefF4	*	*	*	*	*	*
-=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-!	!	!	!	!	!	!	!	!LO:TX:b:t=sff	!LO:TX:b:t=sff	!	!	!
-4r	.	8r	.	8r	.	[2.Dn)	.	[2.fffni)	[2.fffn	.sff	8r	ff
-.	.	[8g^	ff	[8aa#X^	fff	.	.	.	.	.	[8ff#X^	.
-(16EKL	ff	2g_	.	2aa#_	.	.	.	.	.	.	2ff#_	.
-[8.A#X^J)	.	.	.	.	.	.	.	.	.	.	.	.
-16A#KL]	.	.	.	.	.	.	.	.	.	.	.	.
-8E^	.	.	.	.	.	.	.	.	.	.	.	.
-[16A#Jk	.	.	.	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Oboe	*	*I"Clarinet in Eb	*	*I"Flute	*
+*I'Cb.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Ob.	*	*I'Eb Cl.	*	*I'Fl.	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*I	*	*	*	*	*	*I	*	*	*
+*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[]	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=1
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[quarter]=100	!
+1r	.	1r	.	1r	.	16G#XKL	.ff	8aL	ff	1r	.	1r	.
+.	.	.	.	.	.	8B-X^	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ee-XJ	.	.	.	.	.
+.	.	.	.	.	.	[16bn^Jk	.	.	.	.	.	.	.
+.	.	.	.	.	.	2b_	<	12eenL	.	.	.	.	.
+.	.	.	.	.	.	.	[[	(12f	.	.	.	.	.
+.	.	.	.	.	.	.	>	[12dd#XJ)	.	.	.	.	.
+.	.	.	.	.	.	.	]]	4dd#]	.	.	.	.	.
+.	.	.	.	.	.	8bL]	.	8f#XL	.	.	.	.	.
+.	.	.	.	.	.	(8c^nJZ	.	8cc#XJ	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3r	.	4%3r	.	4%3r	.	16g'KL)	.	8dd#XL	.	4%3r	.	4%3r	.
+.	.	.	.	.	.	8.g^J	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16eeL	.	.	.	.	.
+.	.	.	.	.	.	.	.	16fnJJZ	.	.	.	.	.
+.	.	.	.	.	.	12c^L	.	[2g#X	.	.	.	.	.
+.	.	.	.	.	.	12b	.	.	.	.	.	.	.
+.	.	.	.	.	.	(8qb/	.	.	.	.	.	.	.
+.	.	.	.	.	.	12g^J)	.	.	.	.	.	.	.
+.	.	.	.	.	.	8f#X^L	.	.	.	.	.	.	.
+.	.	.	.	.	.	8a^J	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+1r	.	1r	.	1r	.	[2.b	.	2g#_	.	4r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	24a'LL	ff	.	.
+.	.	.	.	.	.	.	.	.	.	24b-X'	.	.	.
+.	.	.	.	.	.	.	.	.	.	24a'J	.	.	.
+.	.	.	.	.	.	.	.	.	.	8a^J	.	.	.
+.	.	.	.	.	.	.	.	6g#]	.	24a'LL	.	.	.
+.	.	.	.	.	.	.	.	.	.	24b-'	.	.	.
+.	.	.	.	.	.	.	.	.	.	24a'J	.	.	.
+.	.	.	.	.	.	.	.	.	.	8a^J	.	.	.
+.	.	.	.	.	.	.	.	6b-X	.	.	.	.	.
+.	.	.	.	.	.	8bL]	.	.	.	16r^	.	.	.
+.	.	.	.	.	.	.	.	.	.	8.a^	.	.	.
+.	.	.	.	.	.	.	.	[6dd	.	.	.	.	.
+.	.	.	.	.	.	[8c#X^J	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1r	.	1r	.	1r	.	8c#LZ]	.	4dd]	.	16gg#XKL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8ddn^Z	.	.	.
+.	.	.	.	.	.	8d#XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	[16ccc#X^Jk	.	.	.
+.	.	.	.	.	.	12g#XL	.	[4aa	.	2ccc#_	.	.	.
+.	.	.	.	.	.	12B-X	.	.	.	.	<	.	.
+.	.	.	.	.	.	[12g#J	.	.	.	.	[[	.	.
+.	.	.	.	.	.	4g#]	.	8aaL]	.	.	>	.	.
+.	.	.	.	.	.	.	.	8ggJ	.	.	]]	.	.
+.	.	.	.	.	.	4Gn	.	[4f#X	.	8ccc#L]	.	.	.
+.	.	.	.	.	.	.	.	.	.	8dd^J	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	!LO:TX:a:t=(sourd.)	!	!LO:TX:a:t=(sourd.)	!	!	!	!	!	!	!	!	!
+4%3r	.	4%3r	.	4%3r	.	8fLnZ	.	12f#XL]	.	16ccc#X'KL	.	4%3r	.
+.	.	.	.	.	.	.	.	.	.	8.ccc#^J	.	.	.
+.	.	.	.	.	.	.	.	12b	.	.	.	.	.
+.	.	.	.	.	.	8cnZJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12cc#XJ	.	.	.	.	.
+.	.	.	.	.	.	4B	.	4cccn	.	(12ccn^L	.	.	.
+.	.	.	.	.	.	.	.	.	.	12bbXZ)	.	.	.
+.	.	.	.	.	.	.	.	.	.	(8qbb-/	.	.	.
+.	.	.	.	.	.	.	.	.	.	12eeX^J)	.	.	.
+.	.	.	.	.	.	(4e-X	.	(4eenZ	.	8dd^L	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ff#X^J	.	.	.
+*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4r	.	8r	.	8r	.	[2.Dn)	.	[2.fffnZ)	sff	[2.fffn	sff	8r	ff
+.	.	[8g^	ff	[8aa#X^	fff	.	.	.	.	.	.	[8ff#X^	.
+(16EKL	ff	2g_	.	2aa#_	.	.	.	.	.	.	.	2ff#_	.
+[8.A#X^J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+16A#KL]	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E^	.	.	.	.	.	.	.	.	.	.	.	.	.
+[16A#Jk	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)]
 !!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
