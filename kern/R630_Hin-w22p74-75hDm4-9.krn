@@ -4,7 +4,7 @@
 !!!example: 630
 !!!work: Hin-22
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part4	*	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*	*ICklav	*ICbras	*	*ICbras	*	*ICww	*
@@ -121,6 +121,5 @@
 !!!excerpt-end-time: 1:39
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
