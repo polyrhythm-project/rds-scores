@@ -4,7 +4,7 @@
 !!!example: 411
 !!!work: Web-28
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Clarinet in Bb	*
@@ -15,10 +15,10 @@
 *MM45	*MM45	*	*MM45	*	*MM45	*	*MM45	*	*MM45	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 !	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!
-2r	8r	p	2r	.	]8.gg#X	p >	2r	.	4r	.
+2r	8r	p	2r	.	]8.gg#X	p	2r	.	4r	.
 .	8E-X~ 8dn	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	[16gn~kL	]	.	.	.	.
-.	4r	.	.	.	16g]J	.	.	.	8r	.
+.	.	.	.	.	[16gn~kL	>	.	.	.	.
+.	4r	.	.	.	16g]J	]	.	.	8r	.
 .	.	.	.	.	16r	.	.	.	.	.
 .	.	.	.	.	8r	.	.	.	8An~	f
 *	*clefG2	*	*	*	*	*	*	*	*	*
