@@ -4,7 +4,7 @@
 !!!example: 616
 !!!work: Hin-6
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -75,6 +75,7 @@
 .	.	.	.	12fJ)	.	12ddnJ)	.
 .	.	16B-JJ)	.	.	.	.	.
 =117	=117	=117	=117	=117	=117	=117	=117
+*	*	*grp:A	*grp:A	*grp:B	*grp:B	*	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !	!	!	!	!	!	!LO:TX:a:B:t=(6/8)	!
 12BB-L]	.	4G	.	16e-LL	mf	[4ee-	.
