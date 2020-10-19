@@ -4,7 +4,7 @@
 !!!example: 408
 !!!work: Web-13
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICstr	*ICstr	*	*ICidio	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
@@ -19,6 +19,7 @@
 8r	.	8r	.	8r	.	8r	.	8r	8b'	ppp	8r	8r	.	8r	.	8cc#X'	ppp	8r	.	8r	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!LO:TX:a:i:t=dolcissimo	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Flatterz.	!
+*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*
 2r	.	8Cnv 8Fn	pp	2r	.	2r	.	4cn~	4r	.	2r	4An~	ppp	2r	.	2r	.	2r	.	4r	.
 .	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	4r	.	.	.	.	.	4r	12r	.	.	4r	.	.	.	.	.	.	.	12r	ppp
@@ -33,12 +34,15 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	([8ggn	ppp	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*grp:A	*grp:A	*	*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*
 2r	.	4r	.	4r	.	2r	.	2r	4r	.	2G#XTTT	2r	<	2r	.	2r	.	8gg]	.	4r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[4.bbX	<	.	.
 .	.	8r	.	8r	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	12r	ppp
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[6cc#X@32@	<[
 .	.	[8dnv	pp <	[8Bnv	pp <	.	.	.	8Bn 8dn	ppp	.	.	[[	.	.	.	.	.	[[	.	.
+!!LO:REH:t=5
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*
 2r	.	12d]	.	12B]	.	2r	.	2r	6r	.	2G#XTTT	2r	>	2r	.	2r	.	4bb]	.	12cc#]	.
 .	.	12r	[	12r	[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.
 .	.	6.e-Xv	>	6.cnv	>	.	.	.	6cn 6e-X	pp	.	.	.	.	.	.	.	.	.	6.b-X	>
@@ -61,14 +65,15 @@
 16r	[ >	.	.	.	.	.	.	.	.	.	.	.	.	.	[[	.	[[	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 !	!	!	!	!LO:TX:a:i:t=dolcissimo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-8r	.	2r	.	4r	.	2r	.	2r	2r	.	2G#XTTT	2r	> ]	6Fn	.	6a-X	.	2r	.	2r	.
+8r	.	2r	.	4r	.	2r	.	2r	2r	.	2G#XTTT	2r	>	6Fn	.	6a-X	.	2r	.	2r	.
 (4cc#X	pp ] >	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	6F#X	>	12g~L	>	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	6F#X)	>	12g~L	>	.	.	.	.
 .	.	.	.	[4bbb-X	p<[[	.	.	.	.	.	.	.	.	.	.	12a~J)	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	]	6r	]	.	.	.	.
-8Bn)	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Bn)	]	.	.	.	.	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=verklingend	!	!	!	!	!	!	!	!	!
+*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A
 (4.an	ppp <	2r	.	12bbb-L]	]	2r	.	2r	2r	.	4G#XTTT	2r	.	2r	.	2r	.	2r	.	8r	.
 .	[[	.	.	(12ddn	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
@@ -86,6 +91,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32fnJJJ	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*grp:A	*	*	*	*	*	*grp:A	*grp:A	*	*	*grp:B	*grp:B
 2r	.	2r	.	8r	.	8r	.	2r	4r	ppp	2r	2r	.	2r	.	4r	.	2r	.	12en@32@L	>
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd#X@32@J	.
 .	.	.	.	[4.gggn	pp >	4ggn~	ppp	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -96,9 +102,11 @@
 .	.	.	.	.	.	8r	.	.	16a'JJ	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	16r	[	.	.	.	.	.	16r	<[	.	.	.	.
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=10
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 *^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!LO:TX:a:i:t=zügernd tempo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*
 4.GG#X 4.C#X	2G	pp <	2r	.	4ggg]	ppp >	2r	.	6r	2r	.	4.G#X^	2r	pp	2r	.	2r	.	2r	.	2r	.
 .	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	[	.	.	4r	]	.	.	12DnL	.	< pp	.	.	.	.	.	.	.	.	.	.	.
@@ -108,11 +116,13 @@
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=rit.	!
+*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*
 2r	.	2r	.	2r	.	2r	.	8B-XL	2r	.	2r	2r	.	2r	.	2r	.	2r	.	2r	.
 .	.	.	.	.	.	.	.	8AnJ	.	>	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8BnL	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8E-XJ	.	]	.	.	.	.	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A
 2r	.	2r	.	2r	.	2r	.	2r	2r	.	4r	2r	.	2r	.	8r	ppp	2r	.	16r	ppp
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16fn'LL	>
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g'LLn	>	.	.	16f'JJ	.
