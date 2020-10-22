@@ -12,11 +12,11 @@
 *I"Piano	*	*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
 *	*	*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*
 *clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefF4	*
-*k[]	*	*	*k[]	*	*	*	*k[]	*
+*k[]	*	*	*k[]	*	*ITrd-3c-5	*	*k[]	*
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
 *MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-!LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[quarter]=131	!
+!LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
 *Xtuplet	*	*Xtuplet	*	*	*	*	*	*
 12cc>^L	p	4ryy	1r	.	1r	.	1r	.
 12a>n	.	.	.	.	.	.	.	.
@@ -46,7 +46,7 @@
 12cc>J	.	.	.	]	.	.	.	.
 *	*	*	*	*	*clefF4	*	*	*
 =55	=55	=55	=55	=55	=55	=55	=55	=55
-12d-XL	.	12b-X	1r	.	1EEE	p<	1r	.
+12d-XL	.	12b-X	1r	.	1FF	p<	1r	.
 12e-X	.	12ryy	.	.	.	.	.	.
 12fJ	.	12ryy	.	.	.	.	.	.
 12g-XL	.	4ryy	.	.	.	.	.	.
@@ -72,7 +72,7 @@
 12dd>	.	.	.	.	.	.	.	.
 12g>#XJ	.	.	.	]	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-12eL	.	4ryy	1r	.	1EEE	p<	1r	.
+12eL	.	4ryy	1r	.	1FF	p<	1r	.
 12g#X	.	.	.	.	.	.	.	.
 12ee>-XJ	.	.	.	.	.	.	.	.
 12ryy	.	12ddL	.	.	.	.	.	.
@@ -96,7 +96,7 @@
 12cn	.	12ryy	.	.	.	.	.	.
 12dJ	.	12ryy	.	.	.	.	.	.
 !	!	!	!	!	!LO:TX:i:b:t=cresc.	!	!	!
-12e-XL	.	4ryy	4r	]	4EEE[	mf<[	.	.
+12e-XL	.	4ryy	4r	]	4FF[	mf<[	.	.
 12b>-X 12bb>-^X	.	.	.	.	.	.	.	.
 12g>J#	.	.	.	.	.	.	.	.
 =	=	=	=	=	=	=	=	=
