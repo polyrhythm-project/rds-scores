@@ -4,19 +4,19 @@
 !!!example: 215
 !!!work: Sch-33
 **kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff7	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Tenor Solo	*	*	*I"Tuba	*	*I"Horn II [C]	*	*I"Bassoon I	*	*I"Clarinet II [C]	*	*I"English Horn [C]	*	*I"Flute I	*
-*I'T. Solo	*	*	*I'Tba.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Fl.	*
+*I"ARON	*	*	*I"Tuba	*	*I"Horn II [C]	*	*I"Bassoon I	*	*I"Clarinet II [C]	*	*I"English Horn [C]	*	*I"Flute I	*
+*I'ARON	*	*	*I'Tba.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Fl.	*
 *clefGv2	*	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 *M2/2	*	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)
-!LO:TX:t=[half]=44	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=44]	!
-2B-X	Schlie-	p	2FFn~	p	2Cn~	p	1r)	.	2G-X~	p	4r	.	1r	.
+!LO:TX:t=MOSES ist wieder näher.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Breit ([half]=44)	!
+2B-X	Schlie-	p	2FFn~	p	2Cn~	p	1r)j	.	2G-X~	p	4r	.	1r	.
 .	.	.	.	.	.	.	.	.	.	.	4.e-X~	p	.	.
 4.Bn	-ßet	.	2DD-X~	.	2AA-X~	.	.	.	2G~	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	4.dn~	.	.	.
@@ -50,7 +50,7 @@
 4.G-	ihr	.	.	.	.	.	.	.	.	.	4.gn~	.	.	.
 .	.	.	4r	.	4.En~	.	4r	.	4.dn~	.	.	.	4.ee-X)	.
 8cnL	ihn	.	.	.	.	.	.	.	.	.	4dd-X~	.	.	.
-(8c	sehn_	.	8r	.	.	.	8r	.	.	.	.	.	.	.
+(8ci	sehn_	.	8r	.	.	.	8r	.	.	.	.	.	.	.
 [8enJ	.	.	[8BBn~	.	8r	.	[8fn	p	[8B-X~	.	8r	.	8r	.
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
@@ -74,3 +74,6 @@
 !!!excerpt-end-time: 3:15
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
