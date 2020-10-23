@@ -4,7 +4,7 @@
 !!!example: 392
 !!!work: Str-33
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam
-*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*	*
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part2	*part1	*part1	*part1
 *staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*staff1	*staff1	*
 *I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Treble Solo	*	*
@@ -13,6 +13,7 @@
 *k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*
 *D:	*	*D:	*	*D:	*	*D:	*D:	*D:	*	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
+!!!LO:REH:t=74
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 *^	*	*	*	*	*	*	*^	*	*	*
 !LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
@@ -53,6 +54,7 @@
 .	4r	.	4r	.	(4E	.	8r	8ff#J	8BJ] 8f#]	8b	n'ose	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gL	8g	.	.
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+!!!LO:REH:t=75
 =68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
 *^	*	*	*	*	*	*	*^	*	*	*
@@ -85,6 +87,7 @@
 .	.	.	.	.	4e	.	8r	.	.	8gL	-sou-	.
 .	.	.	.	.	.	.	8gv	8ryy	[8g	8aJ	.	.
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+!!!LO:REH:t=76
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
 *^	*	*	*	*	*	*	*^	*	*	*
@@ -119,6 +122,7 @@
 [4C#	[4Cn	.	[4Cn	.	4r	.	8r	.	.	8ee	pres-	]
 .	.	.	.	.	.	.	8fff#'v	8fff#L	[8f#L [8b	8dd#X	-se	.
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+!!!LO:REH:t=77
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*
 *^	*	*	*	*	*	*	*^	*	*	*
@@ -150,6 +154,7 @@
 .	4r	.	4r	.	(4f#	.	8r	.	.	8f#	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gL	8gJ	.	<
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*
+!!!LO:REH:t=78
 =80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*
 *^	*	*	*	*	*	*	*^	*	*	*
