@@ -1,0 +1,80 @@
+!!!COM: George Gershwin
+!!!OTL: [R686x_Ger-w3p12h9m1-5]
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*	*8va	*
+=1	=1	=1
+!	!LO:TX:t=[quarter]=171	!
+!	!LO:TX:b:i:t=  marc.	!
+8qC/ 8qG	([8qbbn/	mf
+8B-X^L 8c 8e	8ccL 8ccc	.
+8A	8ffJ 8eee	.
+8G	4gg^ 4ggg)	.
+8B-^J 8c 8e	.	.
+8AL	4gg^ 4ggg	.
+8GJ	.	.
+12B-^L 12c 12e	4gg^ 4ggg	.
+12A	.	.
+12GJ	.	.
+=2	=2	=2
+8Bn^L 8d 8f	4gg^ 4ggg	.
+8A	.	.
+.	([8qggg#X/	.
+8G	8aaL 8aaa	.
+8B^J 8d 8f	8ggJ 8gggn	.
+8AL	8ff'L 8fff)	.
+8GJ	8ee'J 8eee	.
+12B^L 12d 12f	4dd~^ 4ddd	.
+12A	.	.
+12GJ	.	.
+!!linebreak:original
+=3	=3	=3
+*	*^	*
+8B-X^L 8c 8e	4r	2c 2cc	.
+8A	.	.	.
+*	*X8va	*	*
+8G	8r	.	.
+8B-^J 8c 8e	(8b-X^ 8cc 8ee	.	.
+8AL	8aL	2ryy	.
+8GJ	8gJ)	.	.
+!	!LO:TX:b:i:t=R.H.	!	!
+4r	12ryy@	.	.
+.	12ryy@	.	.
+.	12ryy@	.	.
+*	*v	*v	*
+=4	=4	=4
+*^	*	*
+8B-X^L 8c 8e-X	4AAA-X' 4AA-X	1r	.
+8A-X	.	.	.
+8G-X	4AAA-' 4AA-	.	.
+8B-^J 8c 8e-	.	.	.
+8A-L	4AAA-' 4AA-	.	.
+8G-J	.	.	.
+12B-^L 12c 12e-	4AAA-' 4AA-	.	.
+12A-	.	.	.
+12G-J	.	.	.
+*v	*v	*	*
+=5	=5	=5
+8qC/	([8qbbn/	.
+*	*8va	*
+8B-X^L 8c 8en	8ccL 8ccc	.
+8An	8eeJ 8eee	.
+8Gn	4gg'^ 4ggg)	.
+8B-^J 8c 8e	.	.
+8AL	4gg'^ 4ggg	.
+8GJ	.	.
+*	*X8va	*
+12B-^L 12c 12e	4gg'^ 4ggg	.
+12A	.	.
+12GJ	.	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
