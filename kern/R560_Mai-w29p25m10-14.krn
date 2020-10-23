@@ -116,6 +116,10 @@
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!ONB: Converted from MusicXML on 2020/09/04
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
@@ -134,8 +138,3 @@
 !!!excerpt-start-time: 0:27
 !!!excerpt-end-time: 0:41
 !!!EEV: 2020/09/18
-!!!ONB: Converted from MusicXML on 2020/09/04
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
-
-!!!RDF**kern: i = editorial accidental, paren

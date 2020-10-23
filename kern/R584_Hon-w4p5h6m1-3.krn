@@ -1,0 +1,56 @@
+!!!COM: Arthur Honegger
+!!!OTL: [R584_Hon-w4p5h6m1-3]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*
+*I'Pno.	*	*	*I'Cl.	*	*I'Fl.	*	*I'Fl.	*
+*	*	*	*ITrd2c3	*	*	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
+*E:	*E:	*	*E:	*	*E:	*	*E:	*
+*M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+!!LO:REH:t=6
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*MM160	*MM160	*	*MM160	*	*MM160	*	*MM160	*
+4ryy	8CC#<L	p	4r	.	4r	.	4r	.
+.	8C#<J	.	.	.	.	.	.	.
+1ryy	8c#L	.	8e'L	p	8g#'L	p	8cc#'L	p
+.	8cc#J	.	8e'J	.	8f##X'J	.	8b'J	.
+.	8cc#L	.	4e'	.	4g#'	.	4cc#'	.
+.	8ccc#J	.	.	.	.	.	.	.
+.	8ccc#L	.	4f#'	.	4b'	.	4dd#'	.
+.	8cc#J	.	.	.	.	.	.	.
+.	8cc#L	.	4r	.	4r	.	4r	.
+.	8c#J	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	8CC#<L	.	12gX'L	.	12ccn'L	.	12ee'L	.
+.	.	.	12g'	.	12cc'	.	12ee'	.
+.	8C#<J	.	.	.	.	.	.	.
+.	.	.	12g'J	.	12cc'J	.	12ee'J	.
+1ryy	8c#L	.	4f#'	.	4b'	.	4ddn'	.
+.	8cc#J	.	.	.	.	.	.	.
+.	8cc#L	.	4e'	.	4g#'	.	4cc#'	.
+.	8ccc#J	.	.	.	.	.	.	.
+.	8ccc#L	.	4r	.	4r	.	4r	.
+.	8cc#J	.	.	.	.	.	.	.
+.	8cc#L	.	12f#'L	.	12a#X'L	.	12cc#'L	.
+.	.	.	12f#'	.	12a#'	.	12cc#'	.
+.	8c#J	.	.	.	.	.	.	.
+.	.	.	12f#'J	.	12a#'J	.	12cc#'J	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	8CC#<L	.	4d'	.	4f##X'	.	4b'	.
+.	8C#<J	.	.	.	.	.	.	.
+1ryy	8c#L	.	8e-X'L	.	8e#X'L	.	8a'L	.
+.	8cc#J	.	8d'J	.	8fn'J	.	8b'J	.
+.	8cc#L	.	4c#	.	4en	.	4g#	.
+.	8ccc#J	.	.	.	.	.	.	.
+.	8ccc#L	.	2c#	.	2e	.	2g#	.
+.	8cc#J	.	.	.	.	.	.	.
+.	8cc#L	.	.	.	.	.	.	.
+.	8c#J	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]{(s4,s5)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
