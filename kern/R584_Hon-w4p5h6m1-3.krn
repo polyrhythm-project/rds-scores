@@ -3,12 +3,12 @@
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Piano	*	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*
+*I"Piano	*grp:A	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*
 *I'Pno.	*	*	*I'Cl.	*	*I'Fl.	*	*I'Fl.	*
-*	*	*	*ITrd2c3	*	*	*	*	*
+*	*	*	*ITrd2c3	*	*grp:B	*	*grp:B	*
 *clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
-*E:	*E:	*	*E:	*	*E:	*	*E:	*
+*E:	*	*	*grp:B	*	*E:	*	*E:	*
 *M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
 !!LO:REH:t=6
 =1	=1	=1	=1	=1	=1	=1	=1	=1
