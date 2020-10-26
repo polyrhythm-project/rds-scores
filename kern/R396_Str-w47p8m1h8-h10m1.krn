@@ -4,7 +4,11 @@
 !!!example: 396
 !!!work: Str-47
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*staff1
+*I"Contrabass	*	*I"Violincello	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2
 *Trd0c0	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]
@@ -100,7 +104,7 @@
 .	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
 .	.	.	.	12r	.	12r	.	12r	.	.	12r
 4C	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-L 12gg 12bb- 12ddd- 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	.	
 .	.	.	.	12r	.	12r	.	12r	.	.	12r
 4A	.	4A	.	8r	.	8r	.	8r	.	8r	8r
 !	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
