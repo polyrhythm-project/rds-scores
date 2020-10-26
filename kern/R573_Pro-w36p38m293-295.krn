@@ -4,7 +4,7 @@
 !!!example: 573
 !!!work: Pro-36
 **kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B	*grp:B
 *part1	*	*part1	*
 *staff2	*	*staff1	*
 *I"Piano	*	*	*
