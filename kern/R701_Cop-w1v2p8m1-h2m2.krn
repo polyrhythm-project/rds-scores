@@ -14,14 +14,15 @@
 *C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!LO:TX:t=[quarter]=120	!	!	!	!	!	!	!	!
-!	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=  non leggiero	!	!	!	!LO:TX:t=[quarter]=120	!
+!	!	!LO:TX:t= Molto Allegro ([quarter]=160)	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s non leggiero	!	!	!LO:TX:t=Molto Allegro ([quarter]=160)	!
 4r	.	8aL	p	8r	8a^L	p	4%3r	.	4%3r	.
 .	.	8cJ	.	8c^	8gJ	.	.	.	.	.
 4r	.	4r	.	8d	8r	.	.	.	.	.
 .	.	.	.	8r	8a	.	.	.	.	.
-8g	p	8c	.	8c^L	8g^	.	.	.	.	.
 !LO:TX:a:t=col legno	!	!	!	!	!	!	!	!	!	!
+8g	p	8c	.	8c^L	8g^	.	.	.	.	.
+!LO:TX:a:t=	!	!	!	!	!	!	!	!	!	!
 8r	.	8r	.	8dJ	8r	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8aL	.	8a	.	8r	8a^L	.	4%3r	.	4%3r	.
@@ -31,7 +32,7 @@
 8c	.	8g	.	8c^L	8g^	.	.	.	.	.
 8r	.	8r	.	8dJ	8r	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=  ritmico	!
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s ritmico
 !	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
 8a	.	8aL	.	8r	8a^L	.	4%3r	.	8dd^L	mf
 8r	.	8cJ	.	8c^	8gJ	.	.	.	8ccJ	.
@@ -177,7 +178,7 @@
 8r	.	8r	.	8dJ	8r	.	8gg^	.	8gg^	.
 =	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2{(s3,s4)}s5,s6
+!!!system-decoration: [(s1,s2)]{(s3,s4)}[s5,s6]
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
