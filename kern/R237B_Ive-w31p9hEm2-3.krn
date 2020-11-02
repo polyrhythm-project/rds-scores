@@ -29,7 +29,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
 !LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!LO:TX:b:t=	!	!	!	!LO:TX:b:t=	!	!	!	!LO:TX:b:t=	!	!LO:DY:t= %s decresc.	!	!LO:TX:b:t=	!	!LO:DY:t= %s decresc.	!	!LO:TX:b:t=	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!
 !	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
-32CC^^LLL	.ff	32GG#X^^LLL	32CC^^LLL	.ff	32C#X^^ 32GnLLL	.ff	32G#X^^ 32dLLL	.ff	.sf >	.	32d#X^^ 32aLLL	.	sf >	4d 4e-X 4g 4b-X	]8aL ]8b ]8cc#Xi ]8ee ]8gg#Xi	.ff	(32CLLL	.	4.Re	.	sff	.	(4.Rcc\	.	.sff	.	(32BB^^LLL	.	sf	.	]8c'nXL	.f	]4cc#Xi	.f	4.CC^^	.ff	8c'Ln	.ff	]4cc#Xi	.ff
+32CC^^LLL	.ff	32GG#X^^LLL	32CC^^LLL	.ff	32C#X^^ 32GnLLL	.ff	32G#X^^ 32dLLL	.	.sf >	.	32d#X^^ 32aLLL	.	sf >	4d 4e-X 4g 4b-X	]8aL ]8b ]8cc#Xi ]8ee ]8gg#Xi	.ff	(32CLLL	.	4.Re	.	sff	.	(4.Rcc\	.	sff	.	(32BB^^LLL	.	sf	.	]8c'nXL	.f	]4cc#Xi	.f	4.CC^^	.ff	8c'Ln	.ff	]4cc#Xi	.ff
 32CC^^	.	32GG#X^^	32CC^^	.	32C#X^^ 32Gn	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 32CC^^	.	32GG#X^^	32CC^^	.	32C#X^^ 32Gn	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	[16D-X^^JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
 32CC^^	.	32GG#X^^	32CC^^	.	32C#X^^ 32Gn	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -62,7 +62,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Rcc\)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 *	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!					!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[simile]	!	!LO:TX:t=[simile]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 32CC^^LLL	.	32GG#X^^LLL	32CCX^^LLL	.	4.C#X 4.Gn	4.ryy	.	32G#X^^ 32dLLL	.	sf >	.	32d#X^^ 32aLLL	.	sf >	4ff#X 4aa 4ccc#X 4ddd	8gg-X) 8bb-X) 8ddd-X)	8ryy	.	(32CLLL	.	4.Re	.	.	.	8%7	.	.	.	(32BB^^LLL	.	sf	.	8c#X'L	.	4cc^^	.	4.CC^^	.	8c#X'L	.	4cc^^	.
 32CC^^	.	32GG#X^^	32CC^^	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 32CC^^	.	32GG#X^^	32CC^^	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	[16D-X^^JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
