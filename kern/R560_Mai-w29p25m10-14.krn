@@ -16,7 +16,7 @@
 *C:	*	*C:	*
 *M18/16	*	*M18/16	*
 =10	=10	=10	=10
-!	!	!LO:TX:t=[eighth-dot]=132	!
+!	!	!LO:TX:t=[ [eighth-dot]=132 ]	!
 16FF#X'LL	mf	8r	.
 16A'	.	.	.
 !	!	!LO:TX:a:i:t=  molto marc.	!
