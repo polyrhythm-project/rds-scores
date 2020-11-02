@@ -11,7 +11,7 @@
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*	*I'S. D.	*	*I'Tba.	*	*I'Tbn.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Picc.	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefX	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd0c0	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd-7c-12	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*C:	*	*F:	*	*F:	*	*	*	*	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
@@ -20,14 +20,14 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[half]=72	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=72	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack
-1r	f	8cL	f	8dL 8f	f	4.fff	f	4.fff	f	8cL 8d 8f	f	8b-L 8dd	f	8Re/L	f	4.c	1r	f	4.cc	f	4.ff	f	4eeX	f	8cL 8f	f	8b-L	f	8cL	f	8ddL	f	1r	.	8b-L 8dd	f	4eee	f
+1r	f	8cL	f	8dL 8f	f	4.fff	f	4.fff	f	8cL 8d 8f	f	8b-L 8dd	f	8Re/L	f	4.c	1r	f	4.cc	f	4.ff	f	4eeX	f	8cL 8f	f	8b-L	f	8cL	f	8ddL	f	1r	.	8b-L 8dd	f	4eeee	f
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=poco a poco cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	.	.
-.	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	.	.	.	.	.	.	.	4cc	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	4ccc	.
+.	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	.	.	.	.	.	.	.	4cc	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	4cccc	.
 .	.	8cJ	.	8dJ 8f	.	8aaa	.	8aaa	.	8cJ 8d 8f	.	8b-J 8dd	.	8Re/J	.	8c	.	.	8cc	.	8aa	.	.	.	8cJ 8f	.	8b-J	.	8cJ	.	8ddJ	.	.	.	8b-J 8dd	.	.	.
-.	.	8cL	.	8dL 8f	.	4.ggg	.	4.ggg	.	8cL 8d 8f	.	8b-L 8dd	.	8Re/L	.	4B-	.	.	4b-	.	4.gg	.	4b-	.	8cL 8f	.	8b-L	.	8cL	.	8ddL	.	.	.	8b-L 8dd	.	4bb-	.
+.	.	8cL	.	8dL 8f	.	4.ggg	.	4.ggg	.	8cL 8d 8f	.	8b-L 8dd	.	8Re/L	.	4B-	.	.	4b-	.	4.gg	.	4b-	.	8cL 8f	.	8b-L	.	8cL	.	8ddL	.	.	.	8b-L 8dd	.	4bbb-	.
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	.	.
-.	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	4G	.	.	4g	.	.	.	4dd	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	4ddd	.
+.	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd	.	8Re/	.	4G	.	.	4g	.	.	.	4dd	.	8c 8f	.	8b-	.	8c	.	8dd	.	.	.	8b- 8dd	.	4dddd	.
 !	!	!	!	!	!	!LO:TX:a:t=div.	!	!LO:TX:a:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	8cJ	.	8dJ 8f	.	8cc 8ccc	ff	8cc 8ccc	ff	8cJ 8d 8f	.	8b-J 8dd	.	8Re/J	.	.	.	.	.	.	8c	.	.	.	8cJ 8f	.	8b-J	.	8cJ	.	8ddJ	.	.	.	8b-J 8dd	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
@@ -50,17 +50,17 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-2r	.	8cL	.	8dL 8f	.	3ccc 3cccc	.	3ccc 3cccc	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.F	4.r	.	4.f	.	3cc	3cc	.	3cc	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	f	8b-L 8dd	.	3ccc	ff
+2r	.	8cL	.	8dL 8f	.	3ccc 3cccc	.	3ccc 3cccc	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.F	4.r	.	4.f	.	3cc	3cc	.	3cc	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	f	8b-L 8dd	.	3cccc	ff
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
-.	.	.	.	.	.	6ccc 6cccc	.	6ccc 6cccc	.	.	.	.	.	.	.	.	.	.	.	.	6cc	6cc	ff	6cc	ff	.	.	.	.	.	.	.	.	.	.	.	.	6ccc	.
+.	.	.	.	.	.	6ccc 6cccc	.	6ccc 6cccc	.	.	.	.	.	.	.	.	.	.	.	.	6cc	6cc	ff	6cc	ff	.	.	.	.	.	.	.	.	.	.	.	.	6cccc	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 .	.	8cJ	.	8dJ 8f	.	.	.	.	.	8cJ 8d 8f	.	8b-J 8dd 8ff	.	8Re/J	.	8D	8D	.	8A	.	.	.	.	.	.	8cJ 8f	.	8ddJ	.	8cJ	.	8ddJ	.	8b-J 8ff	.	8b-J 8dd	.	.	.
-4r	.	8cL	.	8dL 8f	.	3bb- 3bbb-	.	3bb- 3bbb-	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.C	4.C	.	4.G	.	3b-	3b-	.	3bb-	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	.	8b-L 8dd	.	3bb-	.
+4r	.	8cL	.	8dL 8f	.	3bb- 3bbb-	.	3bb- 3bbb-	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.C	4.C	.	4.G	.	3b-	3b-	.	3bb-	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	.	8b-L 8dd	.	3bbb-	.
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
 8r	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
-.	.	.	.	.	.	6gg 6ggg	.	6gg 6ggg	.	.	.	.	.	.	.	.	.	.	.	.	6g	6g	.	6gg	.	.	.	.	.	.	.	.	.	.	.	.	.	6gg	.
-8C	.	8cJ	.	8dJ 8f	.	.	.	.	.	8cJ 8d 8f	.	8b-J 8dd 8ff	.	8Re/J	.	8CC	8CC	ff	8C	.	.	.	.	.	.	8cJ 8f	.	8ddJ	.	8cJ	.	8ddJ	.	8b-J 8ff	.	8b-J 8dd	.	.	.
+.	.	.	.	.	.	6gg 6ggg	.	6gg 6ggg	.	.	.	.	.	.	.	.	.	.	.	.	6g	6g	.	6gg	.	.	.	.	.	.	.	.	.	.	.	.	.	6ggg	.
+8CC	.	8cJ	.	8dJ 8f	.	.	.	.	.	8cJ 8d 8f	.	8b-J 8dd 8ff	.	8Re/J	.	8CC	8CC	ff	8C	.	.	.	.	.	.	8cJ 8f	.	8ddJ	.	8cJ	.	8ddJ	.	8b-J 8ff	.	8b-J 8dd	.	.	.
 =112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -73,7 +73,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-3c	.	8c 8d	.	8d 8f 8b-	.	3ff 3fff	.	3ff 3fff	.	2c^ 2d 2f 2b-	.	2dd^ 2gg 2ccc	.	32Re/LLL	.	3C^	3C^	.	3c^	.	3f	3f	.	3ff	.	2c^ 2f	ff	2dd^	ff	2c^	ff	2ff^	ff	2dd^ 2ccc	ff	2gg^ 2ccc	ff	3ff	3ff	.
+3C	.	8c 8d	.	8d 8f 8b-	.	3ff 3fff	.	3ff 3fff	.	2c^ 2d 2f 2b-	.	2dd^ 2gg 2ccc	.	32Re/LLL	.	3C^	3C^	.	3c^	.	3f	3f	.	3ff	.	2c^ 2f	ff	2dd^	ff	2c^	ff	2ff^	ff	2dd^ 2ccc	ff	2gg^ 2ccc	ff	3fff	3fff	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -84,16 +84,16 @@
 .	.	4r	.	4r	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-6c	.	.	.	.	.	6ddd 6aaa	.	6ddd 6aaa	.	.	.	.	.	.	.	6C	6C	.	6c	.	6dd	6r	.	6aa	.	.	.	.	.	.	.	.	.	.	.	.	.	6aa	6dd	.
+6C	.	.	.	.	.	6ddd 6aaa	.	6ddd 6aaa	.	.	.	.	.	.	.	6C	6C	.	6c	.	6dd	6r	.	6aa	.	.	.	.	.	.	.	.	.	.	.	.	.	6aaa	6ddd	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-3B-	.	4r	.	4r	.	3ccc 3ggg	.	3ccc 3ggg	.	4r^	.	4r^	.	4r	.	3BB-	3BB-	.	3B-	.	3cc	3r	.	3gg	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	3gg	3cc	.
+3BB-	.	4r	.	4r	.	3ccc 3ggg	.	3ccc 3ggg	.	4r^	.	4r^	.	4r	.	3BB-	3BB-	.	3B-	.	3cc	3r	.	3gg	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	3ggg	3ccc	.
 .	.	8cL 8d	.	8dL 8f 8b-	.	.	.	.	.	4c^ 4d 4f 4b-	.	4dd^ 4gg 4ccc	.	4Re^/	sff	.	.	.	.	.	.	.	.	.	.	4c^ 4f	.	4dd^	.	4c^	.	4ff^	.	8dd^L 8ccc	.	4gg^ 4ccc	.	.	.	.
-6G	.	.	.	.	.	6gg 6ccc	.	6gg 6ccc	.	.	.	.	.	.	.	6GG	6GG	.	6G	.	6r	6r	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	6cc	6cc	.
+6GG	.	.	.	.	.	6gg 6ccc	.	6gg 6ccc	.	.	.	.	.	.	.	6GG	6GG	.	6G	.	6r	6r	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	6ccc	6ccc	.
 .	.	8cJ	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ 8gg	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
