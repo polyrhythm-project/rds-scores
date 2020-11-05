@@ -7,6 +7,8 @@
 *grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff10	*staff9	*staff9	*	*staff8	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*	*Iarpa	*	*Ipiano	*	*Imando	*	*Imando	*	*Ifagot	*	*Iclarb	*	*Iclars	*
 *I"Violoncello	*	*I"Viola III	*	*I"Viola II	*	*I"Viola I	*	*I"Violin I	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"Harp	*	*I"Piano	*	*I"Mandolin	*	*I"Mandolin	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*
 *I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. I	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'Hp.	*	*I'Pno.	*	*I'Mand.	*	*I'Mand.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*
 *clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
