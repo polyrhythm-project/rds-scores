@@ -7,6 +7,8 @@
 *grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff7	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICvox	*	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Itenor	*	*	*Ituba	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Iflt	*
 *I"ARON	*	*	*I"Tuba	*	*I"Horn II [C]	*	*I"Bassoon I	*	*I"Clarinet II [C]	*	*I"English Horn [C]	*	*I"Flute I	*
 *I'ARON	*	*	*I'Tba.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Fl.	*
 *clefGv2	*	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
