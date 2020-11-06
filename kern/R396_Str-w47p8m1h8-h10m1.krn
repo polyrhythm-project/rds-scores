@@ -7,7 +7,9 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*staff1
-*I"Contrabass	*	*I"Violincello	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano
+*I"Contrabass	*	*I"Violincello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2
 *Trd0c0	*	*	*	*	*	*	*	*	*	*	*
