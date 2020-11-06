@@ -6,12 +6,12 @@
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
 *part3	*part2	*part1	*part14	*part13	*part12	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff2	*staff1	*staff14	*staff13	*staff12	*	*staff11	*staff10	*	*staff9	*staff8	*staff7	*staff6	*	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
-*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Percussion	*	*I"Percussion	*I"Timpani	*	*I"Trombone 1. 2.	*I"Trumpet in Bb 1. 2.	*I"Horn in F 3. 4.	*I"Horn in F 1. 2.	*	*I"Bassoon 1. 2.	*I"Clarinet in Bb 1. 2.	*I"Oboe 1. 2.	*I"Flute 1. 2.	*	*I"Piccolo	*
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Percussion	*	*I"Percussion	*I"Timpani	*	*I"Trombone 1. 2.	*I"Trumpet in C 1.	*I"Horn in F 3. 4.	*I"Horn in F 1. 2.	*	*I"Bassoon 1. 2.	*I"Clarinet in Bb 1. 2.	*I"Oboe 1. 2.	*I"Flute 1. 2.	*	*I"Piccolo	*
 *I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Perc.	*	*I'Perc.	*I'Timp.	*	*I'Tbn.	*I'Tpt.	*I'Hn.	*I'Hn.	*	*I'Bsn.	*I'Cl.	*I'Ob.	*I'Fl.	*	*I'Picc.	*
 *clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*	*clefF4	*clefF4	*	*clefF4	*clefG2	*clefG2	*clefG2	*	*clefF4	*clefG2	*clefG2	*clefG2	*	*clefG2	*
-*Trd0c0	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*ITrd4c7	*ITrd4c7	*	*	*ITrd1c2	*	*	*	*ITrd0c0	*
-*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[b-e-]	*k[b-]	*k[b-]	*	*k[]	*k[b-e-]	*k[]	*k[]	*	*k[]	*
-*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*	*	*ITrd1c2	*	*	*	*ITrd0c0	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*k[b-]	*k[b-]	*	*k[]	*k[b-e-]	*k[]	*k[]	*	*k[]	*
+*ITrd7c12	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
 *tb48	*tb48	*tb48	*tb48	*tb48	*tb48	*	*tb48	*tb48	*	*tb48	*tb48	*tb48	*tb48	*	*tb48	*tb48	*tb48	*tb48	*	*tb48	*
 !!pagebreak:original
@@ -23,74 +23,74 @@
 *	*	*	*	*	*	*v	*v	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*^	*	*^	*	*	*^	*	*^	*	*	*	*	*^	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:B:t=Meno (poco mosso)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Meno (poco mosso)	!
-6An^^	6AAn	6An^^	6AAn	2cc#X	2fn 2g#X	2bbn	2dd 2ee	2cccn 2eee-X 2gggn	12Rdd/L	3Rf\	p f	4Rd/	4r	4BB-X	f	6A^^	6AA	6dd	1r	6d	.	6An	6AAn^^	6eX^^	4dd	4dd	f	4dd	f
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Meno (poco mosso)	!
+6AA^^	6AAA^^	6An^^	6AAn^^	2cc#X	2fn 2g#X	2bbn	2dd 2ee	2cccn 2eee-X 2gggn	12Rdd/L	3Rf\	p f	4Rd/	4r	4BB-X	f	6A^^	6AA^^	]6ee	1r	6d	.	6An^^	6AAn^^	6eX^^	4dd	4dd	f	4bbb	f
 .	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-6A-X	6AA#X	6A-X	6AA#X	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6A-X	6BB-X	3cc	.	3d#X	.	6A-X	6AA-X	6e-	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	mf	.	.	.	.	.	.	.	.	.	12.ff#XL	12.ff#XL	.	12.eee-XL	.
-6G^^	6BB	6G^^	6BB	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6G^^	6BBn	.	.	.	.	6G	6GG^^	6d^^	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eek	24eek	.	24ddd-Xk	.
-.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd#XJ	12dd#XJ	.	12cccJ	.
-6G-X	6C	6G-X	6C	4.cn	4.E 4.Gn	4.b-X	4.d-X 4.e-X	4.b 4.dd 4.ff#X	12Rdd/J	.	.	4Rd/	4r	4BB-	f	6G-X	6C	8.ee-L	.	8eL	.	6G-X	6GG-X	6d-X	3bb-X	3bb-X	.	3gg	.
+6AA-X	6AAA#X	6A-X	6AA#X	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6A-X	6BB-X	3dd	.	3d#X	.	6A-X	6AA-X	6e-	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	mf	.	.	.	.	.	.	.	.	.	12.ff#XL	12.ff#XL	.	12.eeee-XL	.
+6GG^^	6BBB^^	6G^^	6BB^^	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6G^^	6BBn^^	.	.	.	.	6G^^	6GG^^	6d^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eek	24eek	.	24dddd-Xk	.
+.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd#XJ	12dd#XJ	.	12ccccJ	.
+6GG-X	6CC	6G-X	6C	4.cn	4.E 4.Gn	4.b-X	4.d-X 4.e-X	4.b 4.dd 4.ff#X	12Rdd/J	.	.	4Rd/	4r	4BB-	f	6G-X	6C	8.ffnL	.	8eL	.	6G-X	6GG-X	6d-X	3bb-X	3bb-X	.	3ggg	.
 .	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8f	.	.	.	.	.	.	.	.	.
-6F^^	6C#X	6F^^	6C#X	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6F^^	6C#X	.	.	.	.	6F	6FF^^	6c^^	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddk	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.dd	.	8.f	.	.	.	.	.	.	.	.	.
-6E	6D	6E	6D	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E	6D	.	.	.	.	6E	6EE	6BX	6gg	6aa	.	6ff#X	.
+6FF^^	6CC#X^^	6F^^	6C#X^^	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6F^^	6C#X^^	.	.	.	.	6F^^	6FF^^	6cn^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eek	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.ee	.	8.f	.	.	.	.	.	.	.	.	.
+6EE	6DD	6E	6D	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E	6D	.	.	.	.	6E	6EE	6BX	6aa	6aa	.	6fff#X	.
 .	.	.	.	8c	8E 8G	8b-	8d- 8e-	8b 8dd 8ff#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g-XJk	.	16gJk	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a-XJk	.	16gJk	.	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 *	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-6E-X^^	6E-	6E-X^^	6E-	2b	2d#X 2f#X	2aa	2cc 2dd	2aa#X 2ccc#X 2fffn	2ryy	12Rdd/L	3Rf\	.	4Rd/	4r	4BB-X	.	6E-X^^	6E-	4.ff	1r	6A-X	.	6E-X^^	6B-^^	12.ggL	12.ggL	.	12.eeL	.
+6EE-X^^	6EE-^^	6E-X^^	6E-^^	2b	2d#X 2f#X	2aa	2cc 2dd	2aa#X 2ccc#X 2fffn	2ryy	12Rdd/L	3Rf\	.	4Rd/	4r	4BB-X	.	6E-X^^	6E-^^	4.gg	1r	6A-X	.	6E-X^^	6B-X^^	12.ggL	12.ggL	.	12.eeeL	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gg#Xk	24gg#Xk	.	24ffnk	.
-6D	6D	6D	6D	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6D	6D	.	.	12A-	.	6D	6A	12dd#XJ	12dd#XJ	.	12ccJ	.
-.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	.	.	4e-X	.	.	.	4bb	4bb	.	4gg#X	.
-12.D-XL	12.D-L	12.D-XL	12.D-L	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	12.D-XL	12.D-L	.	.	.	.	12.D-XL	12.A-XL	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg-XLL	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gg#Xk	24gg#Xk	.	24fffnk	.
+6DD	6DD	6D	6D	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6D	6D	.	.	12A-	.	6D	6A	12dd#XJ	12dd#XJ	.	12cccJ	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	.	.	4e-X	.	.	.	4bb	4bb	.	4ggg#X	.
+12.DD-XL	12.DD-L	12.D-XL	12.D-L	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	12.D-XL	12.D-L	.	.	.	.	12.D-XL	12.A-XL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa-XLL	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg-JJ	.	.	.	.	.	.	.	.	.	.
-24D-Jk	24D-Jk	24D-Jk	24D-Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	24D-Jk	24D-Jk	.	.	.	.	24D-Jk	24A-Jk	.	.	.	.	.
-6A-X^^	6AA-X	6A-X^^	6AA-X	2B-X	2Dn 2Fn	2a-X	2c-X 2d-X	2ee	2a 2ccn	12Rdd/J	.	.	4Rd/	4r	4BB-	.	6A-X^^	6AA-X	8.ee-L	.	8.eL	.	6A-X^^	6e-^^	4ccc	4ccc	.	4aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa-JJ	.	.	.	.	.	.	.	.	.	.
+24DD-Jk	24DD-Jk	24D-Jk	24D-Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	24D-Jk	24D-Jk	.	.	.	.	24D-Jk	24A-Jk	.	.	.	.	.
+6AA-X^^	6AAA-X^^	6A-X^^	6AA-X^^	2B-X	2Dn 2Fn	2a-X	2c-X 2d-X	2ee	2a 2ccn	12Rdd/J	.	.	4Rd/	4r	4BB-	.	6A-X^^	6AA-X^^	8.ffL	.	8.eL	.	6A-X^^	6e-X^^	4ccc	4ccc	.	4aaa	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-6G	6BBn	6G	6BBn	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6Gn	6AAn	.	.	.	.	6Gn	6d	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddk	.	16fk	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.dd	.	8.f	.	.	.	4ccc#X	4ccc#X	.	4bb-X	.
-6G-X^^	6BB#X	6G-X^^	6BB#X	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6G-X^^	6GG-X	.	.	.	.	6G-X^^	6d-X^^	.	.	.	.	.
+6GG	6BBB	6G	6BBn	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6G	6AAn	.	.	.	.	6G	6d	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eek	.	16fk	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.ee	.	8.f	.	.	.	4ccc#X	4ccc#X	.	4bbb-X	.
+6GG-X^^	6BBB#X^^	6G-X^^	6BB#X^^	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6G-X^^	6BB-X^^	.	.	.	.	6G-X^^	6d-X^^	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g-XJk	.	16gJk	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a-XJk	.	16gJk	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(one or two horns)	!	!	!	!	!	!	!	!
-6F	6BB	6F	6BB	2A	2C#X 2E	2g	2B-X 2c	2ee-X	2g#X 2b	(12Rdd/L	3Rf\	pp p	4Rd/	4r	4BB-X	f	6F	6BBn	8ffL	2ryy	2g	mp	6F	6c	4.ddd	4.ddd	.	4.ddd	.
+6FF	6BBB	6F	6BB	2A	2C#X 2E	2g	2B-X 2c	2ee-X	2g#X 2b	(12Rdd/L	3Rf\	ppp	4Rd/	4r	4BB-X	f	6F	6BBn	8ggL	2ryy	2g	mp	6F	6c	4.ddd	4.ddd	.	4.dddd	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg-XL	.	.	.	.	.	.	.	.	.	.
-6E^^	6C	6E^^	6C	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E^^	6C	.	.	.	.	6E^^	6BX^^	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJJ	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.ee-L	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa-XL	.	.	.	.	.	.	.	.	.	.
+6EE^^	6CC^^	6E^^	6C^^	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E^^	6C^^	.	.	.	.	6E^^	6BX^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJJ	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	8.ffL	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=3 or 6	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-6E-X	6D-X	6E-X	6D-X	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6E-X	6D-X	.	.	.	.	6E-X	6B-	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#X	8cc#X	.	8cc#X	.
+6EE-X	6DD-X	6E-X	6D-X	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6E-X	6D-X	.	.	.	.	6E-X	6B-	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#X	8cc#X	.	8ccc#X	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJk	.	.	.	.	.	.	.	.	.	.
-6D-^^	6D	6D-^^	6D	4.g#X	4.c#X 4.d#X	4.ff#X	4.a 4.b	4.ggn 4.bb-X 4.dddn	2ryy	12Rdd/J	.	.	4Rd/	4r	4BB-	.	6D-^^	6D	8.ggL	4.F#X	2ryy	.	6D^^	6A^^	3cccn	3cccn	.	3cccn	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJk	.	.	.	.	.	.	.	.	.	.
+6DD^^	6DD^^	6Dn^^	6D^^	4.g#X	4.cnX 4.d#X	4.ff#X	4.a 4.b	4.ggn 4.bb-X 4.dddn\	2ryy	12Rdd/J	.	.	4Rd/	4r	4BB-	.	6D^^	6D^^	8.aaL	4.F#X	2ryy	.	6D^^	6A^^	3cccn	3cccn	.	3ccccn	.
 .	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-6D-X	6D-	6D-X	6D-	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6D-X	6D-	.	.	.	.	6D-X	6A-X	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJk	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	4g	.	.	.	.	.	.	.	.	.	.
-12.CL	12.CL	12.CL	12.CL	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	12.CL	12.CL	.	.	.	.	12.CL	12.GL	6bb	6bb	.	6bb	.
-.	.	.	.	8g#	8c# 8d#	8ff#	8a 8b	8gg 8bb- 8ddd	.	.	.	.	.	.	.	.	.	.	.	8F#	.	.	.	.	.	.	.	.	.
+6DD-X	6DD-	6D-X	6D-	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6D-X	6D-	.	.	.	.	6D-X	6A-X	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16anJk	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4r	4E	4r	.	.	.	4a	.	.	.	.	.	.	.	.	.	.
+12.CCL	12.CCL	12.CL	12.CL	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	12.CL	12.CL	.	.	.	.	12.CL	12.GL	6bb	6bb	.	6bbb	.
+.	.	.	.	8g#	8c 8d#	8ff#	8a 8b	8gg 8bb- 8ddd\	.	.	.	.	.	.	.	.	.	.	.	8F#	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12r)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-24CJk	24CJk	24CJk	24CJk	.	.	.	.	.	.	.	.	.	.	.	.	.	24CJk	24CJk	.	.	.	.	24CJk	24GJk	.	.	.	.	.
+24CCJk	24CCJk	24CJk	24CJk	.	.	.	.	.	.	.	.	.	.	.	.	.	24CJk	24CJk	.	.	.	.	24CJk	24GJk	.	.	.	.	.
 *v	*v	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*v	*v	*	*	*v	*v	*	*	*v	*v	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12[(s13,s14)]),s15,s16,s17]
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)][(s10,s11,s12)][(s13,s14,s15,s16,s17)]
 !!!CDT: 1874/10/20-1954/05/19
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
@@ -110,3 +110,6 @@
 !!!excerpt-end-time: 4:11
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/10/05
+!!!Xfilter: colorgroups
+!!!Xfilter: colorgroups
+!!!Xfilter: colorgroups
