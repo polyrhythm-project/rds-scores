@@ -21,7 +21,10 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half-dot]=94	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(womöglich)	!
 !	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem immer noch col legno	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:TX:b:t=[pp]	!	!	!LO:DY:ed=brack
-4B-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB- 4B-	p	4GG	p	4B-X	pp	2.d-XT	pp	4B-	sf	4B-X	fff
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:rehearsal mark 40 needs to be added to beginning	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:this first oboe pitch needs parentheses around it	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:system brackets need to be fixed to match original	!	!	!	!	!	!	!
+4B-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GG	p	4B-X	pp	2.d-XTT	pp	4B-X	sf	4B-X	fff
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -50,7 +53,7 @@
 .	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
 *	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*
-4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-X	.	4%3r	.	4%3r	.
+4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-XTTT	.	4%3r	.	4%3r	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
