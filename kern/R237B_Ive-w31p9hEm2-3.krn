@@ -11,7 +11,7 @@
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*	*	*ICstr	*	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*	*	*ICidio	*	*	*	*ICbras	*	*	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*	*	*Ivioln	*	*	*Ipiano	*Ipiano	*	*Itimpa	*	*Itrngl	*	*	*	*Ibdrum	*	*	*	*Itromt	*	*	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*	*	*I"Violin I	*	*	*I"Piano	*	*	*I"Timpani	*	*I"Triangle	*	*	*	*I"Bass Drum	*	*	*	*I"Trombone	*	*	*	*I"Trumpet in Bb II	*	*I"Trumpet in Bb I	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Flute	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*	*	*I'Vln. I	*	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tri.	*	*	*	*I'Perc.	*	*	*	*I'Tbn.	*	*	*	*I'Tpt.	*	*I'Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*	*	*I'Vln. I	*	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tri.	*	*	*	*I'B.D.	*	*	*	*I'Tbn.	*	*	*	*I'Tpt.	*	*I'Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*	*	*clefG2	*	*	*clefG2	*clefG2	*	*clefF4	*	*clefX	*	*	*	*clefF4	*	*	*	*clefF4	*	*	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*	*
@@ -64,8 +64,9 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 *	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!					!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[simile]	!	!LO:TX:t=[simile]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-32CC^^LLL	.	32GG#X^^LLL	32CCX^^LLL	.	4.C#X 4.Gn	4.ryy	.	32G#X^^ 32dLLL	.	sf >	.	32d#X^^ 32aLLL	.	sf >	4ff#X 4aa 4ccc#X 4ddd	8gg-X) 8bb-X) 8ddd-X)	8ryy	.	(32CLLL	.	4.Re	.	[4.Rcc\	.	8%7	.	.	.	(32BB^^LLL	.	sf	.	8c#X'L	.	4cc^^	.	4.CC^^	.	8c#X'L	.	4cc^^	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[simile]	!	!LO:TX:t=[simile]	!	!	!	!LO:TX:t=P:problem:repeat should not have two above it.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+32CC^^LLL	.	32GG#X^^LLL	32CCX^^LLL	.	4.C#X 4.Gn	4.ryy	.	32G#X^^ 32dLLL	.	sf >	.	32d#X^^ 32aLLL	.	sf >	4ff#X 4aa 4ccc#X 4ddd	8gg-X) 8bb-X) 8ddd-X)	8ryy	.	(32CLLL	.	4.Re	.	.	.	[4.Rcc\	.	.	.	(32BB^^LLL	.	sf	.	8c#X'L	.	4cc^^	.	4.CC^^	.	8c#X'L	.	4cc^^	.
 32CC^^	.	32GG#X^^	32CC^^	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 32CC^^	.	32GG#X^^	32CC^^	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	[16D-X^^JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
 32CC^^	.	32GG#X^^	32CC^^	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -81,9 +82,9 @@
 32CC^^JJJ	.	32GG#X^^JJJ	32CC^^JJJ	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4BBB-X	.	4BB-X	2ryy	.	4An	4ryy	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	8ryy	16g'LL 16a 16cc# 16een 16gg# 16aa	.	.	32C	.	4Re	.	16Rcc\]	.	.	.	.	.	(4An	.	.	.	8BX'J	.	.	.	(4BB-X	.	8BX'J	.	.	.
+4BBB-X	.	4BB-X	2ryy	.	4An	4ryy	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	8ryy	16g'LL 16a 16cc# 16een 16gg# 16aa	.	.	32C	.	4Re	.	.	.	16Rcc\]	.	.	.	(4An	.	.	.	8BX'J	.	.	.	(4BB-X	.	8BX'J	.	.	.
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	[16gJJ [16a [16cc# [16ee [16gg# [16aa	.	.	32C	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	.	.	16ccJk)	.	.	.	.	.	16ccJk)	.
+.	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	[16gJJ [16a [16cc# [16ee [16gg# [16aa	.	.	32C	.	.	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	16ccJk)	.	.	.	.	.	16ccJk)	.
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	[4.ff#X [4.aa [4.ccc#X [4.ddd	8g] 8a] 8cc#] 8ee] 8gg#] 8aa]	8ryy	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	8A'L	.	4b-X^^	.	.	.	8A'L	.	4b-X^^	.
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -93,11 +94,11 @@
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	32G#X^^ 32d	.	.	.	32d#X^^ 32a	.	.	.	.	.	.	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	32G#X^^ 32dJJJ	.	.	.	32d#X^^ 32aJJJ	.	.	.	.	.	.	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	.	.	8r	.	]	.	8r	.	]	.	16gggn'^^L 16bbbn 16ddddn	.	.	8C)	.	.	.	.	.	.	.	.	.	.	.	.	.	8a'J	.	8b-'	.	.	.	8f'J	.	8b-'	.
-.	.	.	.	.	16dJk	.	.	.	.	.	.	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16dJk	.	.	.	.	.	.	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	.	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
