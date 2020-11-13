@@ -4,7 +4,7 @@
 !!!example: 129
 !!!work: Jan-30
 **kern		**dynam	**kern	**dynam	**kern	**dynam
-*grp:A		*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*grp:A		*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part2		*	*part2	*part2	*part1	*part1
 *staff3		*	*staff2	*	*staff1	*
 *ICklav		*	*ICklav	*	*ICstr	*
@@ -34,6 +34,7 @@
 .	.	.	.	.	(24gn	f
 =125	=125	=125	=125	=125	=125	=125
 *	*ped	*	*	*	*	*
+*	*	*	*	*	*grp:B	*grp:B
 8ryy	24EE	.	(64ff#XLLLL	.f	16aLL	.
 .	.	.	64ee	.	.	.
 !	!	!	!	!	!LO:TX:b:i:t=cresc.	!
