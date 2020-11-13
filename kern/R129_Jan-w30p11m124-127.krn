@@ -7,8 +7,8 @@
 *grp:A		*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part2		*	*part2	*part2	*part1	*part1
 *staff3		*	*staff2	*	*staff1	*
-*ICklav	*	*ICklav	*	*ICstr	*
-*Ipiano	*	*Ipiano	*	*Icello	*
+*ICklav		*	*ICklav	*	*ICstr	*
+*Ipiano		*	*Ipiano	*	*Icello	*
 *I"Piano		*	*	*	*I"Violoncello	*
 *I'Pno.		*	*	*	*I'Vc.	*
 *clefF4		*	*clefG2	*	*clefF4	*
@@ -17,7 +17,7 @@
 *M2/8		*	*M2/8	*	*M2/8	*
 =124		=124	=124	=124	=124	=124
 *^		*	*	*	*	*
-*grp:B	*	*	*	*	*	*
+*grp:B	*grp:A	*	*	*	*	*
 !	!	!LO:DY:ed=brack	!	!	!	!
 *	*	*	*	*	*Xtuplet	*
 !	!LO:TUP:	!	!	!	!	!
@@ -29,50 +29,50 @@
 .	8r	.	.	.	24BB'LL 24E	.
 .	.	.	.	.	24BB'JJ 24E)	.
 !LO:TX:t=P:problem:extraneous text showing	!	!	!	!	!	!
-16BJk)	.	.	.	.	.	.
+16BJk)j	.	.	.	.	.	.
 !	!	!	!	!	!	!LO:DY:t=espress. %s
 .	.	.	.	.	(24gn	f
 =125	=125	=125	=125	=125	=125	=125
-*ped	*	*	*	*	*	*
-24EE	8ryy	.	(64ff#XLLLL	.f	16aLL	.
+*	*ped	*	*	*	*	*
+8ryy	24EE	.	(64ff#XLLLL	.f	16aLL	.
 .	.	.	64ee	.	.	.
 !	!	!	!	!	!LO:TX:b:i:t=cresc.	!
 .	.	.	64b	.	.	.
-24E'LL	.	.	.	.	.	.
+.	24E'LL	.	.	.	.	.
 .	.	.	64gnJJJ	.	.	.
 .	.	.	64cc#XLLL	.	16gn	.
 .	.	.	64b	.	.	.
-24E'JJ 24Gn	.	.	.	.	.	.
+.	24E'JJ 24Gn	.	.	.	.	.
 .	.	.	64g	.	.	.
 .	.	.	64eJJJJ)	.	.	.
-24BB\	8BB/	.	8r	.	16f#X	.
-24E'\LL	.	.	.	.	.	.
+8BB/	24BB\	.	8r	.	16f#X	.
+.	24E'\LL	.	.	.	.	.
 .	.	.	.	.	16BJJ)	.
-24E'JJ 24G	.	.	.	.	.	.
+.	24E'JJ 24G	.	.	.	.	.
 =126	=126	=126	=126	=126	=126	=126
-24C#X\	8C#X/	.	8r	.	(8.eL	.
-24E'\LL	.	.	.	.	.	.
-24E'JJ 24Gn	.	.	.	.	.	.
-24BB\	8BB/	.	8r	.	.	.
-24E'\LL	.	.	.	.	.	.
+8C#X/	24C#X\	.	8r	.	(8.eL	.
+.	24E'\LL	.	.	.	.	.
+.	24E'JJ 24Gn	.	.	.	.	.
+8BB/	24BB\	.	8r	.	.	.
+.	24E'\LL	.	.	.	.	.
 .	.	.	.	.	16gnJk)	.
-24E'JJ 24G	.	.	.	.	.	.
+.	24E'JJ 24G	.	.	.	.	.
 =127	=127	=127	=127	=127	=127	=127
-*ped	*	*	*	*	*	*
-24EE	8ryy	.	(64ff#XLLLL	.	(16aLL	.
+*	*ped	*	*	*	*	*
+8ryy	24EE	.	(64ff#XLLLL	.	(16aLL	.
 .	.	.	64ee	.	.	.
 .	.	.	64b	.	.	.
-24E'LL	.	.	.	.	.	.
+.	24E'LL	.	.	.	.	.
 .	.	.	64gnJJJ	.	.	.
 .	.	.	64cc#XLLL	.	16gn	.
 .	.	.	64b	.	.	.
-24E'JJ 24Gn	.	.	.	.	.	.
+.	24E'JJ 24Gn	.	.	.	.	.
 .	.	.	64g	.	.	.
 .	.	.	64eJJJJ)	.	.	.
-24BB\	8BB/	.	8r	.	16f#X	.
-24E'\LL	.	.	.	.	.	.
+8BB/	24BB\	.	8r	.	16f#X	.
+.	24E'\LL	.	.	.	.	.
 .	.	.	.	.	16BJJ)	.
-24E'JJ 24G	.	.	.	.	.	.
+.	24E'JJ 24G	.	.	.	.	.
 *v	*v	*	*	*	*	*
 =		=	=	=	=	=
 *-		*-	*-	*-	*-	*-
@@ -96,4 +96,5 @@
 !!!excerpt-end-time: 3:58
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
-!!!filter: slurcheck
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
