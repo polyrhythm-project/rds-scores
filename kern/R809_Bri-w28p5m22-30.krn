@@ -14,13 +14,10 @@
 *E:	*C:	*E:	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 *M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
 !	!	!	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
-.	8b	.	.	.	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
+4.ryy	8b	4.ryy	4.ryy	.	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
 .	8b	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
 .	8bJ	.	.	.	8F#J	.	.	8f#J	.	.	8f#J	.	.	8f#J	.	.
 .	.	16qqE/LL	((((16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-!	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	16qqF#X/JJ	16qaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 (((2.EE	4.b	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	4.G#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.
 .	8bL	.	.	.	(8D#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<
@@ -37,14 +34,12 @@
 2.EE	8bL	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	8c#	.	.	8cc#	.	.	8cc#	.	.	8cc#	.	.
 .	8bJ	.	.	.	8d#J	.	.	8dd#J	.	.	8dd#J	.	.	8dd#J	.	.
 .	4.b	.	.	.	4.e)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
 .	[8b	.	.	.	4e^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff
 .	.	16qqE/LL	(16qqbb/LL	<	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16qqF#/JJ	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 2.EE	8b]	2.E 2.G# 2.B	2.ee 2.gg# 2.bb)	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	4b	.	.	.	4e^	God	.	4ee^	God	.	4ee^	God	.	4ee^	God	.
 .	4b	.	.	.	4e^	of	.	4ee^	of	.	4ee^	of	.	4ee^	of	.
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
 .	[8b	.	.	.	(4.e^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.
 .	.	16qqEn/LL	(16qqcccn/LL	ff [	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!LO:TX:b:i:t=dim. subito	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -56,7 +51,6 @@
 .	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 2.EE	4b]	2.E 2.A-X 2.cn	2.ee-X 2.aa-X 2.ccc)	.	4C]	.	]	4c]	.	]	4c]	.	]	4c]	.	]
 .	4r	.	.	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
 .	8b	.	.	.	8Cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp
 .	8b	.	.	.	8C	and	.	8c	and	.	8c	and	.	8c	and	.
 .	.	16qqEn/LL	(16qqcccn/LL	ppp ]	.	.	.	.	.	.	.	.	.	.	.	.
@@ -66,7 +60,6 @@
 .	8b	.	.	.	8E-X	full	.	8e-X	full	.	8e-X	full	.	8e-X	full	.
 .	8b	.	.	.	8D	of	.	8d	of	.	8d	of	.	8d	of	.
 .	8b	.	.	.	8C	the	.	8c	the	.	8c	the	.	8c	the	.
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
 .	8b	.	.	.	8Gn	ma-	.	8gn	ma-	.	8gn	ma-	.	8gn	ma-	.
 .	.	16qqEn/LL	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16qqF#X/JJ	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -74,7 +67,6 @@
 .	8b	.	.	.	8G	-ty	.	8g	-ty	.	8g	-ty	.	8g	-ty	.
 .	8b	.	.	.	8Fn	of	.	8fn	of	.	8fn	of	.	8fn	of	.
 .	8b	.	.	.	8E-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.
-!	!	!	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!
 .	4b	.	.	.	4Cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>
 .	.	16qqEn/LL	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16qqF#X/JJ	16qqdddn/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
