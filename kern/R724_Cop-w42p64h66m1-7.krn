@@ -8,7 +8,7 @@
 *part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*	*part1	*part1	*	*	*
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*staff1	*	*	*	*
 *ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICbras	*	*	*ICbras	*	*	*	*
-*Ibdrum	*	*Itimpa	*	*Iconga	*	*Itdrum	*	*Itromt	*	*	*Itromt	*	*	*	*
+*Ibdrum	*	*Itimpa	*	*	*	*	*	*Itromt	*	*	*Itromt	*	*	*	*
 *I"Bass Drum	*	*I"Timbales	*	*I"Congas	*	*I"Tenor Drum	*	*I"Trombone 3.	*	*	*I"Trombone 1. 2.	*	*	*	*
 *I'B. D.	*	*I'Timb.	*	*I'Congas	*	*I'T. D.	*	*I'Tbn.	*	*	*I'Tbn.	*	*	*	*
 *stria1	*	*stria1	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*
@@ -17,21 +17,22 @@
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!	!	!	!
-!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!	!LO:TX:b:t=	!LO:DY:ed=brack	!	!	!
-4r	.mf	16r	.mf	8.r	.mf	16Re/LL	.mf	4r	.mf	.	4r	mf	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=132	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!
+4r	mf	16r	mf	8.r	mf	16Re/LL	mf	4r	mf	.	4r	mf	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord.]	!	!	!LO:TX:a:t=[con sord.]	!	!	!	!
 8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8r	.	.	8r	.	.	.	.
 .	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t= [con sord]	!	!	!	!
 8Re/J	.	.	.	16r	.	16Re/	.	([8AA~	.<	.	([8D-~ [8E-~	.<	.	.	.
 .	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 4r	.	16r	.	16Re/LL	.	4r	.	4AA]	.	.	4D-] 4E-]	.	.	.	.
 .	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
 8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	8FF#'^)	[f	.	8C'^ 8D'^)	[f	.	.	.
 .	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	8r	.	.	8r	.	.	.	.
@@ -54,6 +55,7 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
 4r	.	16r	.	8.r	.	16Re/LL	.	8FF#'^)	.[[	.	8C'^ 8Dn)	.[[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
@@ -88,6 +90,7 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
 4r	.	16r	.	8.r	.	16Re/LL	.	8FFn'^)	[[	.	8C-'^ 8D-X)	.[[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
@@ -134,6 +137,7 @@
 .	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	16r	.	.	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: notes should have ties, as the score continutes on past excerpt.	!	!	!LO:TX:t=P:problem: notes should have ties, as the score continutes on past excerpt.	!	!	!	!
 8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	(4AA~i	<	.	(4D-~ 4E-Xi	<	.	.	.
 .	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
