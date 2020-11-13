@@ -48,10 +48,11 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!
+!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
 2r	.	8cL	.	8dL 8f	.	3ccc 3cccc	.	3ccc 3cccc	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.F	4.r	.	4.f	.	3cc	3cc	.	3cc	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	f	8b-L 8dd	.	3cccc	ff
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
@@ -75,6 +76,9 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:t=P:problem: notes should have a bracket preceding them to indicate further divisi.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:t=P:problem: notes should have a bracket preceding them to indicate further divisi.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 3C	.	8c 8d	.	8d 8f 8b-	.	3ff 3fff	.	3ff 3fff	.	2c^ 2d 2f 2b-	.	2dd^ 2gg 2ccc	.	32Re/LLL	.	3C^	3C^	.	3c^	.	3f	3f	.	3ff	.	2c^ 2f	ff	2dd^	ff	2c^	ff	2ff^	ff	2dd^ 2ccc	ff	2gg^ 2ccc	ff	3fff	3fff	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
