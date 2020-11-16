@@ -19,12 +19,14 @@
 !	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tempo	!
 !	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: sub bracket needs to be added for 3 Flutes	!
 4r	.	4r	.	4r	.	8bn'	p	8aa-X'	p	8dddn'	p
 .	.	.	.	.	.	8r	.	8r	.	8r	.
 !	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!	!
 8r	.	16ff#X'LL	f	8cccn'L	p	4r	.	8r	.	8r	.
 .	.	16dn'	.	.	.	.	.	.	.	.	.
 !LO:TX:a:t=pizz.	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:over the barline beaming needs to be added	!
 8gnL	f	(16d	.	8dddd-X'	.	.	.	8gn`L	p	8gn`L	p
 .	.	16ff#JJ)	.	.	.	.	.	.	.	.	.
 8g	.	(16ffnLL	.	8ccc'	.	2r	.	8g`	.	8g`	.
