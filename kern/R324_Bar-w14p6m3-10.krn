@@ -19,7 +19,9 @@
 !	!LO:TX:t=[quarter]=74	!
 !	!LO:TX:b:i:t=molto espr.	!
 !	!	!LO:DY:ed=brack
+!LO:TX:t=P:problem:hanging slurs and ties need to be added to 1st mm BASS stave	!	!
 4e 4cc#X	2ee~	p
+!LO:TX:t=P:problem: ped markings need to be added throughout	!	!
 4A(	.	.
 4e 4cc#	4ee~	.
 =4	=4	=4
