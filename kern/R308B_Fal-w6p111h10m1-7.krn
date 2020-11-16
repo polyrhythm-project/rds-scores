@@ -26,6 +26,7 @@
 .	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
 .	.	16AA	.	16AA	.	32F#	.	32e	.	.	.	.	.
 .	.	.	.	.	.	32F#	.	32e	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:text marking "Solo" should be added??	!
 .	.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16ddd'LL	pp
 .	.	.	.	.	.	32c	.	32d	.	.	.	.	.
 16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16ddd'J	.
@@ -52,6 +53,7 @@
 .	.	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
 .	.	.	.	.	.	32G	.	32e	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: slur needs to be added here until end of example (hanging slur at end)	!
 .	.	16DD	.	16DD	.	32c	.	32d	.	.	.	(16aaLi	.
 .	.	.	.	.	.	32c	.	32d	.	.	.	.	.
 16%3dJ	.	16AA	.	16AA	.	32c	.	32d	.	.	.	16bbJ	.
@@ -100,6 +102,7 @@
 .	.	16AAJJ)	.	16AAJJ)	.	32c	.	32d	.	.	.	16ff#Jk	.
 .	.	.	.	.	.	32cJJJ	.	32dJJJ	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:hanging slurs need to be added to both voices in this measure	!	!	!
 16%3AL	.	(16DDLL	.	(16DDLL	.	32GLLL	.	32eLLL	.	4G 4g	.	8eeL	.
 .	.	.	.	.	.	32G	.	32e	.	.	.	.	.
 .	.	16AA	.	16AA	.	32G	.	32e	.	.	.	.	.
