@@ -19,6 +19,7 @@
 *	*	*^	*	*^	*
 !	!	!	!	!	!LO:TX:t=[[quarter]=78]	!	!
 !	!	!LO:TX:b:t=	!	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:DY:ed=brack
+!	!	!	!	!	!	!LO:TX:t=P:problem: bar number does not show in original, should maybe be deleted???	!
 16GLL	.	(8ddL	16fnLL	.p	4ddd^	4a^	.f
 16A	.	.	16g	.	.	.	.
 16f#	.	8eeJ	16a	.	.	.	.
@@ -95,6 +96,7 @@
 16A	.	.	16c	.	.	.	.
 16f#	.	.	16d	.	8ggJ	.	.
 16AJJ	.	.	16eJJ	.	.	.	.
+!	!	!LO:TX:t=P:problem: hanging slur should be added here to match original	!	!	!	!	!
 16GLL	.	(8aL	16fnLL	.	4aa)	.	.
 16A	.	.	16e	.	.	.	.
 16f#	.	8gJ	16d	.	.	.	.
