@@ -24,6 +24,8 @@
 !	!	!	!	!	!	!	!	!	!LO:TX:b:t=[pp]	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:b:t=	!	!LO:DY:ed=brack	!LO:TX:b:t=	!	!	!LO:DY:ed=brack	!LO:TX:b:t=[pp]	!	!LO:TX:b:t=(others)	!	!	!LO:DY:ed=brack	!	!LO:TX:b:t=	!	!LO:DY:a:ed=brack	!	!	!	!	!
 !LO:TX:b:t=	!	!	!LO:TX:a:t=(one)	!	!	!	!LO:TX:a:t=(two)	!	!LO:TX:a:t=(one)	!	!LO:TX:a:t=(three or four)	!	!	!LO:TX:b:t=	!LO:DY:ed	!	!	!	!	!LO:TX:t=[rall - en - tan - do]	!
+!	!	!	!	!LO:TX:t=P:problem:rest is clashing with pitch on beat 1 CLO	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:system decorations need to be fixed to match original	!	!	!	!	!	!	!
 2.EEE 2.EE	8EEE 8EE	pp	4r	4r	2C]	pp	]8.dL	]8.dL	4cc]	]8B	8f#X] 8a#X]	ppp	8.gL]	[4fff#X	4r	pp	.	4%3r	.	4%3r	.
 .	8r	.	.	.	.	.	.	.	.	[4B'	[4f#'v 4a#	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	[16fnJk	[16fJk	.	.	.	.	[16eJk	.	.	.	.	.	.	.	.
@@ -35,6 +37,7 @@
 .	.	.	.	.	.	.	8r	.	4B']	4f#'] 4a#	.	.	.	[8ddJ	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	[16gJk	.	.	.	.	.	.	.	.
 *	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!LO:TX:t=P:problem:bracket needs to be added for these two pitches	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	4r	.	(8D-XL	4CC	.	4r	[4cc	.	.	.	8gL]	[4gg#X	4dd]	.	.	.	.	.	.
 .	.	.	8CJ)	.	.	.	.	([8B'	([8f#'u [8a#	.	8eJ	.	.	.	.	.	.	.	.
 *v	*v	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*
