@@ -16,6 +16,7 @@
 !!LO:REH:t=593
 =151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)
 !	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all text needs to be added to vocal parts	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 [2.BB-X	p	(2c#X	p<	(8fnL	p<	(4.ddn	p < >	8A-X	.	2.r	.	2.r	.	4g	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
 .	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	.	.	.	.	8ddn	.	8e-X	.	8an	.	.	.
 .	.	.	.	(2g	.	.	.	8GnL	.	.	.	.	.	4b-X 4dd	.	.	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
@@ -26,6 +27,7 @@
 =152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=e.v.	!	!LO:TX:b:i:t=begleitend	!	!	!	!LO:TX:i:t=hervor	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all haupstimmes and nebenstimmes need to be added throughout	!	!	!
 8BB-L]	.	2d])	>	2fn)	>	2bn)	>	4Bn	.	2.r	.	2Cn	mp	4c	2ryy	.	(4ddn	.	4ee-X 4gg	]	(4f#X	mf	(4ddn	f	2.r	.
 (8AAnJ	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8EE-XL	.	.	.	.	.	.	.	8r	.	.	.	.	.	4g 4ee-X	.	.	8ccnL	.	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
@@ -35,6 +37,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 =153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all polymetric measures need barlines fixed, strings need dotted barlines added in	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 2DD]	.	2e-_	.	2g-_	.	2b-_	.	8DnL	.	4r	.	2.Dn	.	4aa 4ddd 4ggg	.	4e-X)	.	8ddn 8ggn	.	4Gn')	[	4e-X')	[	8r	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
 .	.	.	.	.	.	.	.	8AAnJ	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8aaL	mf
@@ -53,6 +56,7 @@
 (8BB-XL	<	.	.	.	.	.	.	4r	.	(8b-XL	.	4r	.	4aa 4ddd 4fff#	.	4r	.	(8b-X	.	(8cn	.	(8dn	.	4ddd	.
 [8AAnJ	.	8dn)	[ >	8gn)	[ >	([8bn	[ >	.	.	8anJ)	.	.	.	.	.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
 =155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: this top pitch should be in parentheses	!	!	!	!	!	!	!	!	!
 2.AA])	[>]]	([4d	.	(4gn	.	8bnL]	.	8BnL	.	2.r	.	4r	.	4G	.	2.GGn 2.Gn	.	(4e-XTT	.	4GnTT	.	4B-XTT	.	8aanL	.
 .	.	.	.	.	.	8cc#XJ))	]	8c#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dddn	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*^	*	*	*
