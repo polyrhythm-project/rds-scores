@@ -23,6 +23,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=80	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=a 2	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: sub brackets need to be added so system decorations match original	!	!	!	!	!	!	!	!
 1r	f	4An	f	4a-X	f	4A-X	f	4c#X	f	1r	f	1r	f	1r	f	4r	f	4r	f	4r	f	16A-XLL	f	16AnLL	f	4A-X	f	4c#X 4a-X	f	16c#X 16a-XLL	2r	f
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	16c#X 16a-X	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	16c#X 16a-X	.	.
@@ -199,6 +200,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=2d	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: some clashing of rests in HRN parts	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 2F	.	6E~	.	6A#X~	.	6r~	.	6d~	.	6r	.	6r	6r	.	3.r	6r	.	.	.	2FF	.	.	.	2r	.	2r	.	2r	.	.	.	.	.
 .	.	6Fn~	.	6B~	.	6r~	.	6c#~	.	6r	.	6r	6r	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
