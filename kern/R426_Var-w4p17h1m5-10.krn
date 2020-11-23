@@ -41,6 +41,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 1r	.	1r	.	1r	.	[2.b	.	2g#_	.	4r	.	1r	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: natural needs to be removed	!	!	!
 .	.	.	.	.	.	.	.	.	.	24a'LL	ff	.	.
 .	.	.	.	.	.	.	.	.	.	24b-X'	.	.	.
 .	.	.	.	.	.	.	.	.	.	24a'J	.	.	.
@@ -75,8 +76,10 @@
 .	.	.	.	.	.	8cnZJ	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	12cc#XJ	.	.	.	.	.
 .	.	.	.	.	.	4B	.	4cccn	.	(12ccn^L	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: some clashing of slurs and accidentals here	!	!	!
 .	.	.	.	.	.	.	.	.	.	12bbXZ)	.	.	.
 .	.	.	.	.	.	.	.	.	.	(8qbb-/	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: natural needs to be removed	!	!	!
 .	.	.	.	.	.	.	.	.	.	12eeX^J)	.	.	.
 .	.	.	.	.	.	(4e-X	.	(4eenZ	.	8dd^L	.	.	.
 .	.	.	.	.	.	.	.	.	.	8ff#X^J	.	.	.
