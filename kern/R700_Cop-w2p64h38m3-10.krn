@@ -7,6 +7,8 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Ixylo	*	*Itromt	*	*Itromp	*	*Icor	*	*Icor	*	*Iclars	*	*Iclarp	*	*Ioboe	*	*Iflt	*	*Ipicco	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Xylophone	*	*I"Trombone I. II.	*	*I"Trumpet in C I.II.	*	*I"Horn in F III.IV.	*	*I"Horn in F I.II.	*	*I"Clarinet in A I.II.	*	*I" Piccolo Clarinet in D	*	*I"Oboe I.II.	*	*I"Flute I.II.	*	*I"Piccolo	*
 *I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Xyl.	*	*I'Tbn.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'A Cl.	*	*I'D Cl.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
 *clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -21,6 +23,7 @@
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8dL	f	8dL	f	8eL	f	8g#XL	f	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	16bb-'Jk	16bbb-Jk 16bbbb-'	.	.	.	.	.	.	.	.	.	.	.	16aa#'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bbb-'Jk	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all over the barline beaming needs to be added	!
 8d#XJ	.	8d#XJ	.	8cc#XJ	.	8eeJ	.	8gg~	8ggg~ 8gggg	.	8r	.	8r	.	8r	.	8r	.	8r	.	8ff##X^	.	8ggX^	.	8gg^	.	8gg^	.	8ggg^	.
 =133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
 8e^L	.	8e^L	.	8gL	.	8b-XL	.	16gg'k	16ggg'k 16gggg	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##X'k	.	16ggX'k	.	16gg'k	.	16gg'k	.	16ggg'k	.
@@ -42,6 +45,7 @@
 8d#XJ	.	8d#XJ	.	8g	.	8b-X	.	16ee-'XJk	16eee-XJk 16eeee-'X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
 .	.	.	.	.	.	.	.	16ff^	16fff^ 16ffff	.	.	.	.	.	.	.	.	.	.	.	16ee#^	.	16ff^	.	16ff^	.	16ff^	.	16fff^	.
 =136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:dashed barlines need to be added to match original
 8e^L	.	8e^L	.	8ff#X	.	8aa	.	16gg'LL	16ggg'LL 16gggg	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##X'LL	.	16ggX'LL	.	16gg'LL	.	16gg'LL	.	16ggg'LL	.
 .	.	.	.	.	.	.	.	16ee-X^JJ	16eee-X^JJ 16eeee-X	.	.	.	.	.	.	.	.	.	.	.	16dd#^JJ	.	16ee-X^JJ	.	16ee-X^JJ	.	16ee-X^JJ	.	16eee-X^JJ	.
 8c#X	.	8c#X	.	8eL	.	8g#XL	.	16r	16r	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.	16r	.	16r	.	16r	.

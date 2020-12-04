@@ -7,6 +7,8 @@
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part13	*	*part12	*	*part11	*	*part10	*	*part9	*
 *staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*
+*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*
+*Itimpa	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*
 *I"Timpani	*	*I"Trumpet in F II	*	*I"Trumpet in F I	*	*I"Horn in F II	*	*I"Horn in F I	*
 *I'Timp.	*	*I'F Tpt. II	*	*I'F Tpt. I	*	*I'F Hn. II	*	*I'F Hn. I	*
 *clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -26,6 +28,7 @@
 .	.	24f	.	24b-	.	24F	.	24B-	.
 16E-XJ	.	.	.	.	.	.	.	.	.
 .	.	24a-XJJ	.	24ccJJ	.	24A-XJJ	.	24cJJ	.
+!LO:TX:t=P:problem:over the barline beaming needs to be added to timpani part	!	!	!	!	!	!	!	!	!
 [8A-	.	8b-^^	.	8ee-X^^	.	8B-^^	.	8e-X^^	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 16A-LL]	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.

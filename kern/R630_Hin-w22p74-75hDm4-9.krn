@@ -18,6 +18,7 @@
 =53	=53	=53	=53	=53	=53	=53	=53	=53
 !LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
 *Xtuplet	*	*Xtuplet	*	*	*	*	*	*
+!LO:TX:t=P:problem: editorial dynamic is clashing with beams	!	!	!	!	!	!	!	!
 12cc>^L	p	4ryy	1r	.	1r	.	1r	.
 12a>n	.	.	.	.	.	.	.	.
 12enJ	.	.	.	.	.	.	.	.
@@ -39,6 +40,7 @@
 12e-X	.	.	.	.	.	.	.	.
 12g-XJ	.	.	.	[	.	.	.	.
 12cc>L	.	.	.	>	.	.	.	.
+!LO:TX:t=P:problem: piano is missing "sempre cresc." text, needs to be added??	!	!	!	!	!	!	!	!
 12a>-X	.	.	.	.	.	.	.	.
 12f-XJ	.	.	.	.	.	.	.	.
 12a-L	.	.	.	.	.	.	.	.
@@ -74,6 +76,7 @@
 =57	=57	=57	=57	=57	=57	=57	=57	=57
 12eL	.	4ryy	1r	.	1FF	p<	1r	.
 12g#X	.	.	.	.	.	.	.	.
+!LO:TX:t=P:problem: too wide spacing for piano staves	!	!	!	!	!	!	!	!
 12ee>-XJ	.	.	.	.	.	.	.	.
 12ryy	.	12ddL	.	.	.	.	.	.
 12BL	.	12ccJ	.	.	.	.	.	.

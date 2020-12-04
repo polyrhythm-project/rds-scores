@@ -30,7 +30,7 @@
 8.D#XL]	8.eL 8.f#X 8.a 8.cc#X	.
 [16BBnJk	[16c#XJk [16e [16f#X [16b-X	.
 =27	=27	=27
-8.BBnL]	16c#LL] 16e] 16f#] 16b-]	4ee 4aa 4ddd#X
+8.BBnL]	16c#ZLL] 16e] 16f#Z] 16b-Z]	4ee 4aa 4ddd#X
 .	16fn 16g#X 16b-X 16ddn	.
 .	16e 16f#X 16a 16cc#X	.
 [16Fnk	16dJ 16fn 16g#X 16ccn	.
@@ -49,6 +49,9 @@
 =	=	=
 *-	*-	*-
 !!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France

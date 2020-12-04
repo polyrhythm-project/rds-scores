@@ -17,6 +17,7 @@
 =559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!
 !LO:TX:a:t=[arco]	!LO:DY:ed=brack	!	!	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: sub bracket needs to be added so system decorations match original	!	!	!	!	!
 8.G#XL	mf	2r	.	4d#X 4b	p	4dd#X	p	4dd#X	p	8.GG#XL	f	8d#X'L	mp
 .	.	.	.	.	.	.	.	.	.	.	.	8f#'J	.
 16C#Jk	.	.	.	.	.	.	.	.	.	16CC#Jk	.	.	.

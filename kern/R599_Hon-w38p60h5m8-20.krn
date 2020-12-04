@@ -15,6 +15,7 @@
 *M3/4	*M3/4		*M3/4	*M3/4	*M3/4	*M9/8	*M9/8	*	*M3/4	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
 *	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!LO:TX:b:i:t=sostenuto		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: system decorations need to be fixed to match original	!	!	!	!	!	!	!
 4En 4Bn	2.E	4EEn 4BBn	8B 8d#X	8gn 8ee	8bn 8gg	12BnL 12d#X 12en 12g	12bnL 12dd#X 12een 12gg	mf	4%3r	12ggL	mf	12bbnL	mf	12ddd#XL	mf	12eeeL	mf	12gggL	mf
 .	.	.	.	.	.	12r	12r	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
 .	.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -44,6 +45,7 @@
 .	8F#X		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.		.	.	.	12eJ 12f#	12a#J 12cc#	.	.	12cc#J	.	12eeJ	.	12ff#J	.	12bb-J	.	12ccc#J	.
 .	4G)		.	.	.	6r	6r	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all over the barline beaming needs to be added	!
 .	.		.	.	.	12c#L 12f#	12a#L 12ee	.	.	12eeL	.	12dd-XL	.	12ff#L	.	12bb-L	.	12eeeL	.
 =98	=98		=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
 !LO:TX:a:t=pizz.	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!

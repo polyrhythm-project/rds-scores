@@ -1,149 +1,56 @@
-!!!COM: Ives, Charles
-!!!OTL: A Symphony: New England Holidays
-!!!OMV: IV: Thanksgiving and Forefather's Day
-!!!example: 262x
-!!!work: Ive-33
-!!!Xfilter: transpose -t P8 -s 9
-!!!Xfilter: transpose -t P8 -s 10
-**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*	*grp:A	*grp:B	*	*	*grp:B	*grp:B	*grp:B	*grp:B
-*part8	*	*part7	*part7	*part6	*part5	*part4	*	*part3	*part3	*	*	*part2	*part2	*part1	*part1
-*staff9	*	*staff8	*	*staff7	*staff6	*staff5	*	*staff4	*staff3	*	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*I"Violin 2	*I"Violin 1	*	*I"Bells	*	*	*	*I"Oboe I	*	*I"Flute I	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*I'Vln. 2	*I'Vln. 1	*	*I'Bells	*	*	*	*I'Ob.	*	*I'Fl.	*
-*clefF4	*	*clefF4	*	*clefC3	*clefG2	*clefG2	*	*clefF4	*clefG2	*	*	*clefG2	*	*clefG2	*
-*ITrd7c12	*	*	*	*	*	*	*	*ITrd-7c-12	*ITrd-7c-12	*	*	*	*	*	*
-*k[]	*	*k[]	*	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*	*k[]	*	*k[]	*
-*C:	*	*C:	*	*C:	*C:	*C:	*	*C:	*C:	*	*	*C:	*	*C:	*
-*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*	*M3/4	*	*M3/4	*
-=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
-*^	*	*^	*	*^	*^	*	*	*	*^	*	*	*	*	*	*
-*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!LO:TX:b:t=[pp]	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:b:t=	!	!LO:DY:ed=brack	!LO:TX:b:t=	!	!	!LO:DY:ed=brack	!LO:TX:b:t=[pp]	!	!LO:TX:b:t=(others)	!	!	!LO:DY:ed=brack	!	!LO:TX:b:t=	!	!LO:DY:a:ed=brack	!	!	!	!	!
-!LO:TX:b:t=	!	!	!LO:TX:a:t=(one)	!	!	!	!LO:TX:a:t=(two)	!	!LO:TX:a:t=(one)	!	!LO:TX:a:t=(three or four)	!	!	!LO:TX:b:t=	!LO:DY:ed	!	!	!	!	!LO:TX:t=[rall - en - tan - do]	!
-2.EEE 2.EE	8EEE 8EE	pp	4r	4r	2C]	pp	]8.dL	]8.dL	4cc]	]8B	8f#X] 8a#X]	ppp	8.gL]	[4fff#X	4r	pp	.	4%3r	.	4%3r	.
-.	8r	.	.	.	.	.	.	.	.	[4B'	[4f#'v 4a#	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	[16fnJk	[16fJk	.	.	.	.	[16eJk	.	.	.	.	.	.	.	.
-!	!	!	!LO:TX:b:t=non div.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!
-!	!	!	!LO:TX:a:t=a few only	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	4r	.	4r	4r	.	.	8f]	8f]	16ddKL	.	.	.	8.eL]	16fff#KL]	8ffL	pp	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	8.dd#XJ	.	.	.	.	8.ddd#XJ	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
-.	.	.	.	.	.	.	8r	.	4B']	4f#'] 4a#	.	.	.	[8ddJ	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	[16gJk	.	.	.	.	.	.	.	.
-*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-.	4r	.	(8D-XL	4CC	.	4r	[4cc	.	.	.	8gL]	[4gg#X	4dd]	.	.	.	.	.	.
-.	.	.	8CJ)	.	.	.	.	([8B'	([8f#'u [8a#	.	8eJ	.	.	.	.	.	.	.	.
-*v	*v	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*
-*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
-=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
-*M6/8	*	*M6/8	*	*M6/8	*M6/8	*M6/8	*	*M6/8	*M6/8	*	*	*M6/8	*	*M6/8	*
-*^	*	*^	*	*	*^	*	*	*	*^	*	*	*	*	*	*
-!LO:TX:a:t=pizz.	!LO:TX:b:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[eighth]=[eighth] 	!
-8GGL	[2.AAAu	.	((8C^L	4.CC	pp >	4%3r	4.cc]	8.BL]	8.f#L] 8.a#]	.	4g	8gg#]	4.r	.	.	4r	.	4%3r	.
-8r	.	.	8D-X)	.	.	.	.	.	.	.	.	4fff#X	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	8.B'J)	8.f#X'J 8.a#X)	.	.	.	.	.	.	.	.	.	.
-8EE	.	.	8C'J)	.	.	.	.	.	.	.	[8e	.	.	.	.	8r	.	.	.
-8r	.	.	((8C^L	4.CC	] > ]	.	16ddnLL	(8.B'L	(8.f#'vL 8.a#	.	8e]	4ddd#X	16r	.	.	8r	.	.	.
-.	.	.	.	.	.	.	[16dd#XJJ	.	.	.	.	.	[16dd	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t= %s  ( as a kind of solo, but not f )	!	!
-8AAAJ	.	.	8D-)	.	.	.	8dd#L]	.	.	.	4A	.	8ddL]	.	.	(8d#XL	pp	.	.
-.	.	.	.	.	.	.	.	[8.B'J	[8.f#'J [8.a#	.	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=	!	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=	!	!	!
-8r	.	.	8C'J)	.	.	.	[8ccJ	.	.	.	.	[8fff#X	[8ffJ	.	.	8g#XJ)	.	.	.
-=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
-8GGL	2.AAA]	.	((8C^L	4.CC	> ]	4%3r	8cc]	8.BL])	8.f#L] 8.a#])	.	4e	8fff#]	8ffL_	.	.	(4.g#X	.	4%3r	.
-8r	.	.	8D-X)	.	.	.	16ddnLL	.	.	.	.	4ddd#X	16ffk]	.	.	.	.	.	.
-.	.	.	.	.	.	.	[16dd#X	(8.B'J	(8.f#X'uJ 8.a#X	.	.	.	8dd	.	.	.	.	.	.
-8EE	.	.	8C'J)	.	.	.	8dd#JJ]	.	.	.	[8g	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	[16ffJk	.	.	.	.	.	.
-8r	.	.	((8C^L	4.CC	] > ]	.	[4cc	8.B'L	8.f#'L 8.a#	.	8g]	[4fff#X	4ff]	.	.	8a#)	.	.	.
-8AAAJ	.	.	8D-)	.	.	.	.	.	.	.	4e	.	.	.	.	(8b#XL	.	.	.
-.	.	.	.	.	.	.	.	[8.B'J	[8.f#'J [8.a#	.	.	.	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	16ccLL]	.	.	.	.	16fff#LL]	[8dd	.	.	8g#XJ)	.	.	.
-.	.	.	.	.	.	.	[16ddnJJ	.	.	.	.	[16ddd#JJ	.	.	.	.	.	.	.
-=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
-8GGL	[2.AAA	.	((8C^L	4.CC	>]	4%3r	4dd]	8.BL])	8.f#L] 8.a#])	.	4A	4ddd#]	8.ddL]	.	.	N(4.a#X	.	4r	.
-8r	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	(8.B'J	(8.f#X'vJ 8.a#X	.	.	.	[16ffJk	.	.	.	.	.	.
-8EE	.	.	8C'J)	.	.	.	4.cc	.	.	.	[8g	4.fff#X	4.ff]	.	.	.	.	8r	.
-8r	.	.	((8C^L	4.CC	] > ]	.	.	8.B'L	8.f#'L 8.a#	.	8g]	.	.	.	.	4r)	.	8b#XN)j	p
-8AAAJ	.	.	8D-)	.	.	.	.	.	.	.	4e	.	.	.	.	.	.	([4dd#X	.
-.	.	.	.	.	.	.	.	[8.B'J	[8.f#'J [8.a#	.	.	.	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	16ddLL	.	.	.	.	[8ddd#X	[8dd	.	.	8r	.	.	.
-.	.	.	.	.	.	.	[16ee-XJJ	.	.	.	.	.	.	.	.	.	.	.	.
-=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!	!	!	!	!	!	!
-8GGL	2.AAA]	.	((8C^L	4.CC	>]	4%3r	8ee-X]	8.BL])	8.f#L] 8.a#])	.	8.gL	8ddd#X]	8.ddL]	.	.	4%3r	.	8dd#XL]	.
-16r	.	.	8D-X)	.	.	.	4cc	.	.	.	.	4fff#X	.	.	.	.	.	8b#X	.
-16EEJk	.	.	.	.	.	.	.	8.BJ	8.f#XuJ 8.a#X	.	[8.eJ	.	[8.ffJ	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a#X	.
-8r	.	.	((8C^L	4.CC	] > ]	.	16ddLL	4B	4f#v 4a#	.	8e]	[8ddd#X	16ffLL]	.	.	.	.	8g#XJ)	.
-.	.	.	.	.	.	.	[16ee-XJ	.	.	.	.	.	[16ddJJ	.	.	.	.	.	.
-8AAA	.	.	8D-)	.	.	.	8ee-]	.	.	.	4A	16ddd#KL]	4dd_	.	.	.	.	(4e#X	>
-.	.	.	.	.	.	.	.	.	.	.	.	8.gg#XJ	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.]]	.	[8aJ	[8B	[8f#u [8a#	.	.	.	.	.	.	.	.	.	.
-=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
-8EEL	[2.AAA	.	((8C^L	4.CC	>	4%3r	16aLL]	8.BL]	8.f#L] 8.a#]	.	4e	[4ddd#X	16ddKL]	.	.	4r	.	(4.g#X)	.
-.	.	.	.	.	.	.	16ddJ	.	.	.	.	.	[8.ddJ	.	.	.	.	.	.
-8r	.	.	8D-X)	.	.	.	[8ee-XJ	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	(8.B'	(8.f#X'vJ 8.a#X	.	.	.	.	.	.	.	.	.	.
-8GGJ	.	.	8C'J)	.	.	.	16ee-KL]	.	.	.	4g	16ddd#KL]	16ddKL]	.	.	8r	.	.	.
-.	.	.	.	.	.	.	[8.ccJ	.	.	.	.	[8.fff#XJ	[8.ffJ	.	.	.	.	.	.
-8r	.	.	((8C^L	4.CC	] > ]	.	.	8.B'	8.f#'L 8.a#	.	.	.	.	.	.	8fn	pp >	4r)	]
-8EEL	.	.	8D-)	.	.	.	8ccL]	.	.	.	8.eL	8fff#L]	16ffKL]	.	.	(8e-XL	.	.	.
-.	.	.	.	.	.	.	.	[8.B'J	[8.f#'J [8.a#	.	.	.	[8.ddJ	.	.	.	.	.	.
-16r	.	.	8C'J)	.	.	.	16ddL	.	.	.	.	[8ddd#XJ	.	.	.	8a-X'J)	.	8r	.
-16AAAJk	.	.	.	.	.	.	[16ee-XJJ	.	.	.	[16AJk	.	.	.	.	.	]	.	.
-=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
-4r	2.AAA]	.	((8C^L	4.CC	>]	4%3r	4ee-]	8.BL])	8.f#L] 8.a#])	.	4A]	4ddd#]	8.ddL]	.	.	N(4.a-Xi	.	4r	.
-.	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	(8.B'	(8.f#X'uJ 8.a#X	.	.	.	[16ffJk	.	.	.	.	.	.
-8GGL	.	.	8C'J)	.	.	.	8.ccL	.	.	.	4g	8.fff#XL	8.ffL]	.	.	.	.	8r	.
-8r	.	.	((8C^L	4.CC	] > ]	.	.	8.B'	8.f#'L 8.a#	.	.	.	.	.	.	4r	.	(8b-X	pp
-.	.	.	.	.	.	.	16ddJk	.	.	.	.	[16ddd#XJk	[16ddJk	.	.	.	.	.	.
-8EEJ	.	.	8D-)	.	.	.	8ee-XL	.	.	.	[4e	8ddd#L]	8.ddL]	.	.	.	.	8ccL	.
-.	.	.	.	.	.	.	.	[8.B'J	[8.f#'J [8.a#	.	.	.	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	[8ccJ	.	.	.	.	[8fff#XJ	.	.	.	8r	.	8a-XJ)N)j	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	[16ffJk	.	.	.	.	.	.
-=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
-4r	[2.AAA	.	((8C^L	4.CC	>]	4%3r	8ccL]	8.BL])	8.f#L] 8.a#])	.	4e]	8fff#L]	16ffKL]	.	.	4%3r	.	(8b-XL	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.	.
-.	.	.	8D-X)	.	.	.	16ddL	.	.	.	.	[8ddd#XJ	.	.	.	.	.	8ccJ)	.
-.	.	.	.	.	.	.	[16ee-XJJ	(8.B'	(8.f#X'vJ 8.a#X	.	.	.	[16eeJk	.	.	.	.	.	.
-8AAAL	.	.	8C'J)	.	.	.	4ee-_	.	.	.	4A	4ddd#_	4ee]	.	.	.	.	(8ee-Xi	.
-8r	.	.	((8C^L	4.CC	] > ]	.	.	8.B'	8.f#'L 8.a#	.	.	.	.	.	.	.	.	4.ff	.
-8GGJ	.	.	8D-)	.	.	.	16ee-KL]	.	.	.	[4g	16ddd#KL]	8.ddL	.	.	.	.	.	.
-.	.	.	.	.	.	.	[8.ccJ	[8.B'J)	[8.f#'J [8.a#)	.	.	[8.fff#XJ	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	]]	.	.	.	.	.	.	.	[16ffJk	.	.	.	.	.	.
-*v	*v	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*
-*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2)][([({(s3,s4)})])][(s5,s6,s7,s8,s9)]
-!!!CDT: 1874/10/20-1954/05/19
-!!!CBL: Danbury, United States
-!!!CDL: New York, United States
-!!!CNT: American
-!!!AGN: Orchestral; Programmatic
-!!!MCN: Dorati, Antal
-!!!MDT: 1954/04/09
-!!!MGN: Minneapolis Symphony Orchestra
-!!!MLC: Minneapolis, Minnesota, United States of America
-!!!MPD: 1954
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Rapsodie espagnole (Spanish Rhapsody) for Orchestra
+!!!OMV: I: Prélude à la nuit (Prelude to the Night)
+!!!example: 279
+!!!work: Rav-15
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"2 Harps	*	*	*I"2 Clarinets in Bb	*	*I"2 Oboes	*	*I"2 Flutes	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Hp.	*	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=Sourdines	!	!LO:TX:a:t=Sourdines	!	!	!	!LO:TX:t=[quarter]=66	!	!	!	!	!	!	!LO:TX:a:t=1o	!	!LO:TX:t=[[quarter]=66]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:over the barline beaming needs to be added 	!	!	!
+!	!	!LO:TX:t=P:problem:sub bracket needs to be added for CLO and CB staves	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4D^	p >	4D^	p >	(8fL	p >	(8fffL	p >	2g#X	2b-X	p	[4A-X^ [4B-	p >	(8ffL	p >	[4a-X^ [4b-X	p >
+.	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
+4r	.	4r	.	8d	.	8ddd	.	.	.	.	2A-] 2B-]	.	8dd	.	2a-] 2b-]	.
+.	.	.	.	8c#XJ)	.	8ccc#XJ)	.	.	.	.	.	.	8cc#XJ	.	.	.
+4AA	.	4AA	.	(8fL	.	(8fffL	.	4r	4r	.	.	.	8ffL	.	.	.
+.	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4D^	.	4D^	.	8d	.	8ddd	.	2an	2cc-X	pp	[4An^ [4BnX	.	8dd	.	[4an^ [4bn	.
+.	.	.	.	8c#XJ)	.	8ccc#XJ)	.	.	.	.	.	.	8cc#XJ	.	.	.
+4r	.	4r	.	(8fL	.	(8fffL	.	.	.	.	2A] 2B]	.	8ffL	.	2a] 2b]	.
+.	.	.	.	8e	.	8eee	.	.	.	.	.	.	8ee	.	.	.
+4AA	.	4AA	.	8d	.	8ddd	.	4r	4r	.	.	.	8dd	.	.	.
+.	]]	.	]]	8c#J)	]]	8ccc#J)	]]	.	.	.	.	]]	8cc#J)	]]	.	]]
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][({(s4,s5)})][(s6,s7[(s8,s9)])]
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Colonne, Édouard
+!!!MDT: 1908/03/19
+!!!MGN: Orchestre Colonne
+!!!MLC: Paris, France
+!!!MPD: 1908
 !!!MPN:
-!!!ODT: 1919
-!!!PDT: 1936
-!!!excerpt-start-measure: 117
-!!!excerpt-end-measure: 124
-!!!excerpt-start-time: 6:35
-!!!excerpt-end-time: 7:08
-!!!EEV: 2020/09/18
-!!!ONB: Converted from MusicXML on 2020/09/04
-!!!RDF**kern: N = linked
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!ODT: 1908
+!!!PDT: 1908
+!!!excerpt-start-measure: 4
+!!!excerpt-end-measure: 5
+!!!excerpt-start-time: 0:10
+!!!excerpt-end-time: 0:17
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

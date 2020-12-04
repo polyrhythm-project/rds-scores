@@ -16,6 +16,7 @@
 =118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
 !	!	!	!	!	!	!LO:TX:t=[half-dot]=56	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[half-dot]=56	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all hanging ties and slurs need to be added in first measure	!	!	!	!	!
 (4AAn	p	(4AAn	mp	8E'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r	2r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	)(8d-X'L	mf	4.E'	p	12r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	12f#X	ich	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	>	12g-X'L	f
 .	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8cn)	.	.	.	.	.
@@ -53,6 +54,7 @@
 16%3Cn~J	.	16%3CCn	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.
 !	!	!LO:TX:b:i:t=dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:num=4	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: duplets should be changed to quadruplets throughout to match original	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 16%3Dn~L	.	16%3DDnL	.	2.r	.	2r	.	4c#X	weiß	.	.	.	.	2.r	.	.	8%3BB] 8%3D] 8%3F]	2GGn] 2AAn]	2.r	.	.	.	.	.	.	.	8%3F]	.	2.r	.	2.r	.	.	.
 16%3En~	.	16%3EEn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4B#X	sie	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

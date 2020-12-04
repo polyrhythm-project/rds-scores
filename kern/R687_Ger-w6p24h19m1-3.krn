@@ -92,7 +92,7 @@
 16EJk	.	16EJk	.	16b-Jk	.	16ddJk	.	16ff#Jk	.	.	.	.	.	16Re/Jk	.	16B-Jk 16f#	.	16dJk 16b-	.	16b-Jk	.	16ddJk 16ff#	.
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2)][(s3,s4)]s5[({(s6,s7)})][(s8,s9,s10,s11,s12)]
+!!!system-decoration: [(s1,s2)][(s3,s4)](s5)[({(s6,s7)})][(s8,s9,s10,s11,s12)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: j = editorial accidental, bracket
 !!!RDF**kern: Z = editorial accidental, parentheses

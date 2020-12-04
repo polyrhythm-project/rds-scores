@@ -18,11 +18,13 @@
 !	!LO:TX:t=[quarter]=120	!
 4.r	8r	.
 .	8r	pp
+!	!LO:TX:t=P:problem:first bar should be a pickup measure instead of a full measure	!
 .	(24c#L	.
 .	24F#	.
 .	24C#	.
 =2	=2	=2
 *	*^	*
+!	!LO:TX:t=P:problem:over the barline beaming needs to be added	!	!
 8ryy	8C#<'J	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.

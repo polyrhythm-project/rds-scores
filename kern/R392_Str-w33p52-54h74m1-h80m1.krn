@@ -7,6 +7,8 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part2	*part1	*part1	*part1
 *staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*staff1	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICstr	*ICvox	*	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*Ivioln	*Ivox	*	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Treble Solo	*	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*I'Vln. I	*I'Tr. Solo	*	*
 *ITrd7c-12	*	*	*	*	*	*	*	*	*	*
@@ -20,10 +22,13 @@
 !LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=60	!	!
 !LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!LO:TX:t=[quarter]=60	!	!LO:TX:a:i:t=cantabile dolce	!	!
+!LO:TX:t=P:problem: transposition function causing this part to sound 8va up	!	!	!	!	!	!	!	!	!	!	!	!
 [2DD	[4DDD	p	[4DD	p	4r	.	8r	8ryy	8r	8d	Sur	.
 !	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!	!	!	!	!
 .	.	.	.	.	.	.	8fff#'v	4ryy	4f# 4b	8e	ce	.
 .	4r	.	4r	.	(4F#	p	8r	.	.	8f#	lit	.
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all harmonic markings need to be added throughout	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all over the barline beaming needs to be added	!	!
 .	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	(8gL	el-	<
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
@@ -32,6 +37,7 @@
 4DD]	2r	.	4r	.	4d	.	8r	8ff#J]	8BJ] 8f#]	8aJ)	.	.
 .	.	.	.	.	.	.	8gv	8ryy	4g	[8b	-le	[ >
 4r	.	.	4r	.	4E)	.	8r	8ryy	.	4b]	.	.
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all of these high voice notes in VLN 1 need brackets added around them and should be small noteheads	!	!	!	!
 .	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.
 [4CC#	[4CC#	.	[4CC#	.	4r	.	8r	.	.	8eeL	re-	]
 !	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!	!	!	!	!

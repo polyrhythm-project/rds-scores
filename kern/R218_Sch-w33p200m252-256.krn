@@ -4,9 +4,11 @@
 !!!example: 218
 !!!work: Sch-33
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C	*grp:C
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff10	*staff9	*staff9	*	*staff8	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*	*Iarpa	*	*Ipiano	*	*Imando	*	*Imando	*	*Ifagot	*	*Iclarb	*	*Iclars	*
 *I"Violoncello	*	*I"Viola III	*	*I"Viola II	*	*I"Viola I	*	*I"Violin I	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"Harp	*	*I"Piano	*	*I"Mandolin	*	*I"Mandolin	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*
 *I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. I	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'Hp.	*	*I'Pno.	*	*I'Mand.	*	*I'Mand.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*
 *clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
@@ -16,6 +18,8 @@
 =139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
 !	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!LO:TX:a:t=a 2	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Haupstimme needs to be added here for CLRNT, BSCLRNT and BSNS	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:over the barline beaming needs to be added for MAND, PNO and HRP parts	!	!	!	!	!	!	!
 4%3r	.	8r	.	4r	.	4r	.	4%3r	.	4G#X	pp	Le-	(8e-XL	Le-	p	4r	.	.	8e-XL	mf	8e-XL	mf	8e-XL	mf	8e-XL	mf	(4G#X	p	(4g#X	p	(4G#X	p
 .	.	(8ccn	p	.	.	.	.	.	.	.	.	.	8dnJ)	.	.	.	.	.	8dn	.	8dn	.	8dn	.	8dn	.	.	.	.	.	.	.
 *	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -35,6 +39,7 @@
 .	.	(8E-X	.	.	.	.	.	.	.	.	.	.	8fn	ihr	.	8dd-J	-de	.	8dd-	.	8dd-	.	8dd-	.	8dd-	.	.	[[	.	[[	.	[[
 *	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 4%3r	.	16DnLL')	.	(8G#XL^	.	(8b-XL^	.	4%3r	.	4en	.	En-	(8g-XL	En-	.	8dd-X	nicht,	.	8g-X	.	8g-X	.	8g-X	.	8g-X	.	(4en	.	(4eeX	.	(4eX	.
 .	.	16D'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -47,6 +52,7 @@
 .	.	8CnJ')	.	8F#XJ')	.	16e'	.	.	.	.	.	.	.	.	.	8ee-XJ)	.	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	.	.	.	.	.	.
 .	.	.	.	.	.	16eJJ'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 4r	.	4%3r	.	4%3r	.	4r	.	8r	.	4en	.	furcht	(8ccnL	furcht-	.	8ee-X	-los,	.	8ccnL	.	8ccnL	.	8ccnL	.	8ccnL	.	(4en	.	(4eeX	.	(4eX	.
 .	.	.	.	.	.	.	.	(8bb-X	mf	.	.	.	8dd-XJ)	.	.	8r	.	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	.	.	.	.	.	.
 (8DnL	mf	.	.	.	.	(8anL^	mf	16ccc-XLL)	.	4fn	.	los	4dd-	-los,	.	(8ff#XL	furcht-	.	8ff#X	.	8ff#X	.	8ff#X	.	8ff#X	.	4fn	.	4ffn	.	4fn	.

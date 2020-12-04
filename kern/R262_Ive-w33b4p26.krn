@@ -7,6 +7,8 @@
 **kern	**blank	**dynam	**blank	**kern	**blank	**dynam	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**dynam	**blank	**kern	**blank	**dynam	**blank
 *part9	*	*part9	*	*part8	*	*part8	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part2	*	*part1	*	*part1	*
 *staff9	*	*	*	*staff8	*	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*	*staff1	*	*	*
+*ICstr	*	*	*	*ICstr	*	*	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*	*	*ICww	*	*	*
+*Icbass	*	*	*	*Icello	*	*	*	*Ivioln	*	*Ivioln	*	*Icampn	*	*Icampn	*	*Ioboe	*	*	*	*Iflt	*	*	*
 *I"Contrabass	*	*	*	*I"Violoncello	*	*	*	*I"Violin II	*	*I"Violin I	*	*I"Bells	*	*I"Bells	*	*I"Oboe I	*	*	*	*I"Flute I	*	*	*
 *I'Cb.	*	*	*	*I'Vc.	*	*	*	*I'Vln. II	*	*I'Vln. I	*	*I'Bells	*	*I'Bells	*	*I'Ob.	*	*	*	*I'Fl.	*	*	*
 *clefF4	*	*	*	*clefF4	*	*	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*	*	*clefG2	*	*	*
@@ -18,6 +20,8 @@
 *^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!	!	!	!	!	!	!LO:TX:a:i:t=	!	!	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing hanging slur in 1st measure	!	!
+!	!	!	!	!	!LO:TX:t=P:problem:some measures marked with repeat sign in original, KRN needs to reflect this	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GL	]2.AA	.	[	.	((8C^L	4.CC	.	>	.	]8ee-X	.	)]8. L]8.f#X ]8.a#Xj	.	8.GL	.	]8dd#X	]8.dnL	.	4%3r	.	.	.	]8dd#XL\	.	.	.
 16r	.	.	.	.	8D-X)	.	.	.	.	4cc	.	.	.	.	.	4ff#X	.	.	.	.	.	.	8b#X	.	.	.
 16EJ	.	.	.	.	.	.	.	.	.	.	.	8.J 8.f# 8.a#	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.	.	.	.	.

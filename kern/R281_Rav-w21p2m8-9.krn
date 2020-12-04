@@ -18,6 +18,8 @@
 *	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half]=40	!
 !	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=1	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: diamond noteheads need to be added throughout to match original	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:VLN 2 needs harmonic circle symbols over all notes	!	!	!	!	!
 8r	.	4r	.	(4e	p	Et	(64eLLLL	pp	(64ELLLL	pp	(48ddLLL	pp	(64BLLLL	pp	1r	.
 .	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.
@@ -190,6 +192,7 @@
 .	.	.	.	.	.	.	64A)	.	64c	.	.	.	64g	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	48ggJJJ)	.	.	.	.	.
 .	.	.	.	.	.	.	64eJJJJ	.	64EJJJJ)	.	.	.	64BJJJJ)	.	.	.
+!	!	!	!	!LO:TX:t=P:problem:slur should be extended to become hanging slur	!	!	!	!	!	!	!	!	!	!	!	!
 4FF#_ 4GG_	.	[4g [4a	.	[4cc#X)	.	-li-	(64eLLLL	.	(64ELLLL	.	(48ddLLL	.	(64BLLLL	.	[4d	pp
 .	.	.	.	.	.	.	64A	.	64c	.	.	.	64g	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	48gg	.	.	.	.	.

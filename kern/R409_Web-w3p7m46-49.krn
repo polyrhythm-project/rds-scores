@@ -16,8 +16,9 @@
 =46	=46	=46	=46	=46	=46	=46	=46
 *	*	*tremolo	*	*	*	*	*
 *	*	*	*	*tremolo	*	*	*
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 !	!	!	!	!	!	!LO:TX:a:i:t=belebend	!
-4C#X	.	32eLLL	.	32gLLL	.	(12bbL	.
+4C#X	f	32eLLL	f	32gLLL	f	(12bbL	f
 .	.	32e	.	32g	.	.	.
 .	.	32e	.	32g	.	.	.
 .	.	.	.	.	.	12aa	.
@@ -94,6 +95,7 @@
 .	.	(12e-XL	.	(12bL	.	(12ggL	.
 6GG)	.	12dn	.	12a#X	.	12ff#X	.
 .	.	12e-J)	.	12bJ)	.	12ggJ)	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:tuplet numbers need to be changed from 9 to 3	!
 (6GG-X	.	(18g-XL	.	(18ddL	.	(18bb-XL	.
 .	.	18f	.	18cc#X	.	18aa	.
 .	.	18g-J)	.	18ddJ)	.	18bb-J)	.

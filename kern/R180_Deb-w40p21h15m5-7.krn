@@ -4,7 +4,7 @@
 !!!example: 180
 !!!work: Deb-40
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
@@ -22,6 +22,7 @@
 !LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:i:t=doux	!	!LO:TX:a:i:t=léger	!	!	!	!LO:TX:t=[[quarter-dot]=72]	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Suter original shows these triplets as tremolo triplets (VLN 1, 2 and VLA parts)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	(32a'LLL	p	(32b'LLL	p	(32dd'LLL	p	(32ee#'XLLL	p	(32ee#'LLL	p	40%3bLL]	p	8%3r	.	8%3r)j	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a'	.	32b'	.	32dd'	.	32ee#'	.	32ee#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a/	.	.	.	.	.
@@ -68,6 +69,7 @@
 !	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!LO:TX:a:t=4.	!	!LO:TX:a:t=2.	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	8%3r	.	([4d	p	([4f#X	p	4.F# 4.A)	.	16b)	(24bLL	p	(40%3e#XLL	p >	(40%3bbLL	p >
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:rests clash with notes, leger text clashes with slur	!	!	!	!	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#	.	40%3aa	.
