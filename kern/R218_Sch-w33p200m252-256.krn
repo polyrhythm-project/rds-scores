@@ -4,7 +4,7 @@
 !!!example: 218
 !!!work: Sch-33
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff10	*staff9	*staff9	*	*staff8	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*
@@ -30,6 +30,7 @@
 .	.	8r	.	4r	.	4r	.	.	.	4Gn	.	-lust	(8fnL	-lust	.	8a	-lust	.	8fnL	.	8fnL	.	8fnL	.	8fnL	.	4Gn	.	4g	.	4G	.
 .	.	(8B-X	.	.	.	.	.	.	.	.	.	.	8enJ)	.	.	8r	.	.	8en	.	8en	.	8en	.	8en	.	.	.	.	.	.	.
 =140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 2r	.	16BnLL)	.	(8g#XL^	.	(8ddnL^	.	2r	.	4F#X	.	scheut	4en	scheut	.	8dd-XL	scheut	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	4F#X	.	4f#X	.	4F#X	.
 .	.	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -39,7 +40,7 @@
 .	.	(8E-X	.	.	.	.	.	.	.	.	.	.	8fn	ihr	.	8dd-J	-de	.	8dd-	.	8dd-	.	8dd-	.	8dd-	.	.	[[	.	[[	.	[[
 *	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
-*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 4%3r	.	16DnLL')	.	(8G#XL^	.	(8b-XL^	.	4%3r	.	4en	.	En-	(8g-XL	En-	.	8dd-X	nicht,	.	8g-X	.	8g-X	.	8g-X	.	8g-X	.	(4en	.	(4eeX	.	(4eX	.
 .	.	16D'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -52,7 +53,6 @@
 .	.	8CnJ')	.	8F#XJ')	.	16e'	.	.	.	.	.	.	.	.	.	8ee-XJ)	.	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	.	.	.	.	.	.
 .	.	.	.	.	.	16eJJ'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
-*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 4r	.	4%3r	.	4%3r	.	4r	.	8r	.	4en	.	furcht	(8ccnL	furcht-	.	8ee-X	-los,	.	8ccnL	.	8ccnL	.	8ccnL	.	8ccnL	.	(4en	.	(4eeX	.	(4eX	.
 .	.	.	.	.	.	.	.	(8bb-X	mf	.	.	.	8dd-XJ)	.	.	8r	.	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	.	.	.	.	.	.
 (8DnL	mf	.	.	.	.	(8anL^	mf	16ccc-XLL)	.	4fn	.	los	4dd-	-los,	.	(8ff#XL	furcht-	.	8ff#X	.	8ff#X	.	8ff#X	.	8ff#X	.	4fn	.	4ffn	.	4fn	.
