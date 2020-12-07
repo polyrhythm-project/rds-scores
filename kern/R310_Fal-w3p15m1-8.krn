@@ -8,83 +8,79 @@
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
-*I'Pno.	*	*
-!!pagebreak:original
-*clefF4	*clefF4	*
+*clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
 *M3/8	*M3/8	*
-=1	=1	=1
-!	!LO:TX:t=[quarter]=120	!
-4.r	8r	.
-.	8r	pp
-!	!LO:TX:t=P:problem:first bar should be a pickup measure instead of a full measure	!
-.	(24c#L	.
+*	*clefF4	*
+!!LO:TX:t=Allegro vivo ([quarter-dot]=92)
+!	!	!LO:DY:rj
+8ryy	(>24c#L	pp
 .	24F#	.
-.	24C#	.
-=2	=2	=2
+.	24C#J	.
+=1	=1	=1
 *	*^	*
-!	!LO:TX:t=P:problem:over the barline beaming needs to be added	!	!
-8ryy	8C#<'J	8r	.
+!	!LO:TX:t=P:problem:need beamspan	!	!
+8ryy	8C#<')	8ryy	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
 .	.	16A#JJ	.
-=3	=3	=3	=3
-4.ryy	8f#'L	16f#LL<	.
+=2	=2	=2	=2
+4.ryy	8f#'L	16f#LL\	.
+.	.	16A#J\	.
+.	8d#'	16d#L\	.
+.	.	16A#J\	.
+.	8c#'J	24c#L\	.
+.	.	24c<#/	.
+.	.	24F<#/JJ	.
+*	*v	*v	*
+=3	=3	=3
+*	*^	*
+8C#<'	8ryy	8r	.
+8ry	8f#'L	16f#LL	.
 .	.	16A#	.
-.	8d#'	16d#	.
-.	.	16A#J	.
-.	8c#'J	24c#L	.
-.	.	24c<#	.
-.	.	24F<#JJ	.
-*v	*v	*	*
-=4	=4	=4
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=4	=4	=4	=4
+4.ryy	8f#'L	16f#LL\	.
+.	.	16A#J\	.
+.	8d#'	16d#L\	.
+.	.	16A#J\	.
+.	8c#'J	24c#L\	.
+.	.	24c<#/	.
+.	.	24F<#JJ/	.
+*	*v	*v	*
+=5	=5	=5
 *	*^	*
 8ryy	8C#<'	8r	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
-8c#' 8d#	8e#'J	16e#	.
+8d#' 8e#	8e#'J	16e#	<
 .	.	16A#JJ	.
-=5	=5	=5	=5
-4.ryy	8f#'L	16f#LL<	.
-.	.	16A#	.
-.	8d#'	16d#	.
-.	.	16A#J	.
-.	8c#'J	24c#L	.
-.	.	24c<#	.
-.	.	24F<#JJ	.
-*v	*v	*	*
-=6	=6	=6
-*	*^	*
-8ryy	8C#<'	8r	<
-8r	8f#'L	16f#LL	.
-.	.	16A#	.
-8d#' 8e#	8e#'J	16e#	.
-.	.	16A#JJ	.
-=7	=7	=7	=7
+=6	=6	=6	=6
 8r'	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8d#'	16d#	.
 .	.	16A#	.
 8r'	8c#'J	16c#	.
 .	.	16BJJ	[
-=8	=8	=8	=8
+=7	=7	=7	=7
 8c#' 8d#	8f#'L	16f#LL	>
 .	.	16A#	.
 8r	8d#'	16d#	.
 .	.	16A#	.
 8r	8c#'J	16c#	.
 .	.	16BJJ	]
-=9	=9	=9	=9
-4.ryy	8f#'L	16f#LL<	.
-.	.	16A#	.
-.	8d#'	16d#	.
-.	.	16A#J	.
-.	8c#'J	24c#L	.
-.	.	24c<#	.
-.	.	24F<#JJ	.
-*v	*v	*	*
+=8	=8	=8	=8
+4.ryy	8f#'L	16f#LL\	.
+.	.	16A#J\	.
+.	8d#'	16d#L\	.
+.	.	16A#J\	.
+.	8c#'J	24c#L\	.
+.	.	24c<#/	.
+.	.	24F<#JJ/	.
+*	*v	*v	*
 =	=	=
 *-	*-	*-
 !!!RDF**kern: > = above
@@ -103,11 +99,9 @@
 !!!MPN: Falla, Manuel de; Vela, Luisa
 !!!ODT: 1914
 !!!PDT: 1922
-!!!excerpt-start-measure: 1
+!!!excerpt-start-measure: 0
 !!!excerpt-end-measure: 8
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:06
 !!!EEV: 2020/10/05
 !!!ONB: Converted from MusicXML on 2020/10/05
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
