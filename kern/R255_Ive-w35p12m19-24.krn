@@ -4,7 +4,7 @@
 !!!example: 255
 !!!work: Ive-35
 **kern		**kern		**dynam	**kern	**kern
-*grp:A		*grp:B		*grp:B	*grp:B	*grp:B
+*grp:A		*grp:A		*grp:A	*grp:B	*grp:B
 *part4		*part3		*part3	*part2	*part1
 *staff4		*staff3		*	*staff2	*staff1
 *ICstr		*ICstr		*	*ICstr	*ICstr
