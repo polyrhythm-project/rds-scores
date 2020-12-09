@@ -4,7 +4,7 @@
 !!!example: 281
 !!!work: Rav-21
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*grp:C
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*	*part7	*	*part6	*	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
 *staff8	*	*staff7	*	*staff6	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*
