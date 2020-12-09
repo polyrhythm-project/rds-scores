@@ -4,7 +4,7 @@
 !!!example: 310
 !!!work: Fal-3
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -59,6 +59,7 @@
 8d#' 8e#	8e#'J	16e#	<
 .	.	16A#JJ	.
 =6	=6	=6	=6
+*grp:	*	*grp:B	*grp:B
 8r'	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8d#'	16d#	.
