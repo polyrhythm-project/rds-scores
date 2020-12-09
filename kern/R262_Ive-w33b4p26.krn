@@ -5,6 +5,7 @@
 !!!work: Ive-33
 !!!Xfilter: extract -s 1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0
 **kern	**blank	**dynam	**blank	**kern	**blank	**dynam	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**kern	**blank	**dynam	**blank	**kern	**blank	**dynam	**blank
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part9	*	*part9	*	*part8	*	*part8	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part2	*	*part1	*	*part1	*
 *staff9	*	*	*	*staff8	*	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*	*staff1	*	*	*
 *ICstr	*	*	*	*ICstr	*	*	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*	*	*ICww	*	*	*
@@ -32,6 +33,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	8C'J)	.	.	]]	.	[8aJ	.	[8 [8f# [8a#	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*
 8EL	[2.AA	.	.	.	((8C^L	4.CC	.	>	.	16aL]	.	8.L] 8.f#] 8.a#]	.	4E	.	[4dd#X	16dKL]	.	4r	.	.	.	4.g#X)	.	.	.
 .	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.	.	.	[8.dnJ	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	8D-X)	.	.	.	.	[8ee-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
