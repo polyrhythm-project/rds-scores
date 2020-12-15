@@ -4,7 +4,7 @@
 !!!example: 409
 !!!work: Web-3
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -88,6 +88,7 @@
 6BB-X)	.	12B	.	12f##X	.	12dd#	.
 .	.	12cJ)	.	12g#J)	.	12eeJ)	.
 =48	=48	=48	=48	=48	=48	=48	=48
+*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*
 !	!	!	!	!	!	!LO:TX:a:i:t=steigernd	!
 (6AA	.	(12d-XL	.	(12aL	.	(12ffL	.
 .	.	12c	.	12g#X	.	12ee	.
