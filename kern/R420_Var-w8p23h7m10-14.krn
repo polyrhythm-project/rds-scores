@@ -4,7 +4,7 @@
 !!!example: 420
 !!!work: Var-8
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B
 *part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*	*part12	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff12	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Cymbals Bass Drum 6	*	*I"Bass Drum 4	*	*I"Tenor Drum 3	*	*I"Snare Drum 2	*	*I"Timpani 1	*	*I"Piano	*	*I"Bass	*	*	*I"Trombone 4	*	*I"Trombone 3	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Trumpet in Bb 4	*	*I"Trumpet in Bb 3	*	*I"Trumpet in Bb 2	*	*I"Trumpet in Bb 1	*	*I"Organ	*	*I"Ondes Martenot 2	*	*I"Ondes Martenot 1	*
@@ -46,6 +46,7 @@
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 *^	*	*	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!
+!LO:TX:t-P:problem:cymbals and bass drum rests as superposed	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8r	4Rf\	p	12r	.	8r	8ryy	.	4r	2ryy	.	4%3r	.	4%3r	.	4%3r	.	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4r	.	8.dddL	p
 .	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!LO:TX:a:t=Tambour stick	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -116,6 +117,7 @@
 8r	4r	.	4r	[	8Rb/	8ryy	.	16Rff/LL	8ryy	.	.	.	.	.	16cnLL	MA-	.	8CL	f [ >	8cL	f [ >	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cnLL	.	.	.
 .	.	.	.	.	.	.	.	16Rff/	.	.	.	.	.	.	16c	-E-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16c	.	.	.
 8Rff/	.	.	.	.	8ryy	8Rb\	[	16r	16ryy	.	.	.	.	.	16Fn	-STROS	.	16FFnL	.	16FnL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Fn	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t-P:problem:dash after GI not showing	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	.	.	16Rff^/JJ	16Rff\	[	.	.	.	.	16cJJ	GI-	.	16CJJ)	]	16cJJ)	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cJJ	.	.	.
 *	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
