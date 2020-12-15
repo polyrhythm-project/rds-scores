@@ -4,7 +4,7 @@
 !!!example: 426
 !!!work: Var-4
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
 *staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Oboe	*	*I"Clarinet in Eb	*	*I"Flute	*
@@ -27,6 +27,7 @@
 .	.	.	.	.	.	8bL]	.	8f#XL	.	.	.	.	.
 .	.	.	.	.	.	(8c^nJZ	.	8cc#XJ	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*grp:B	*grp:B	*grp:A	*grp:A	*	*	*	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 4%3r	.	4%3r	.	4%3r	.	16g'KL)	.	8dd#XL	.	4%3r	.	4%3r	.
 .	.	.	.	.	.	8.g^J	.	.	.	.	.	.	.
@@ -39,6 +40,7 @@
 .	.	.	.	.	.	8f#X^L	.	.	.	.	.	.	.
 .	.	.	.	.	.	8a^J	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*	*	*	*	*	*	*grp:A	*grp:A	*grp:B	*grp:B	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 1r	.	1r	.	1r	.	[2.b	.	2g#_	.	4r	.	1r	.
 !	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: natural needs to be removed	!	!	!
@@ -56,6 +58,7 @@
 .	.	.	.	.	.	.	.	[6dd	.	.	.	.	.
 .	.	.	.	.	.	[8c#X^J	.	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*	*	*	*	*	*	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*	*
 1r	.	1r	.	1r	.	8c#LZ]	.	4dd]	.	16gg#XKL	.	1r	.
 .	.	.	.	.	.	.	.	.	.	8ddn^Z	.	.	.
 .	.	.	.	.	.	8d#XJ	.	.	.	.	.	.	.
@@ -68,6 +71,7 @@
 .	.	.	.	.	.	4Gn	.	[4f#X	.	8ccc#L]	.	.	.
 .	.	.	.	.	.	.	.	.	.	8dd^J	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*	*	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 !	!	!LO:TX:a:t=(sourd.)	!	!LO:TX:a:t=(sourd.)	!	!	!	!	!	!	!	!	!
 4%3r	.	4%3r	.	4%3r	.	8fLnZ	.	12f#XL]	.	16ccc#X'KL	.	4%3r	.
@@ -85,6 +89,7 @@
 .	.	.	.	.	.	.	.	.	.	8ff#X^J	.	.	.
 *	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*
 4r	.	8r	.	8r	.	[2.Dn)	.	[2.fffnZ)	sff	[2.fffn	sff	8r	ff
 .	.	[8g^	ff	[8aa#X^	fff	.	.	.	.	.	.	[8ff#X^	.
 (16EKL	ff	2g_	.	2aa#_	.	.	.	.	.	.	.	2ff#_	.
