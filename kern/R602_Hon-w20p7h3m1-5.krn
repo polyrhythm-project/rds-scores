@@ -4,7 +4,7 @@
 !!!example: 602
 !!!work: Hon-20
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part10	*part10	*part9	*part9	*part8	*	*part7	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Piano	*	*	*	*I"Trumpet in C	*	*I"Horn in F II	*	*I"Horn in F I	*	*I"Bassoons	*	*I"Clarinet in Bb II	*	*I"Clarinet in Bb I	*
@@ -71,7 +71,7 @@
 .	.	.	.	.	.	8d-J	.	16d	.	8cc'J	.	.	.	.	.	16c	.	.	.	.	.
 .	.	.	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	16B-XJJ	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*
+*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GG#X^	.	8GG#X^	.	4r	.	8AnL	.	16d-XLL	.	1r	.	4r	.	1r	.	8A-X	.	1r	.	1r	.
 .	.	.	.	.	.	.	.	16g-X	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -92,7 +92,6 @@
 .	.	16BB'	.	.	.	8c	.	16e-	.	.	.	8r	.	.	.	.	.	.	.	.	.
 .	.	16AA'JJ	.	.	.	.	.	16g-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!LO:TX:b:i:t=poco cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GG#X	.	8GG#XL	.	4r	.	8e	.	16d-XLL	.	1r	.	4r	.	1r	.	1r	.	1r	.	1r	.
 .	.	.	.	.	.	.	.	16g-X	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -132,5 +131,4 @@
 !!!excerpt-end-time: 1:36
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-
 !!!RDF**kern: i = editorial accidental
