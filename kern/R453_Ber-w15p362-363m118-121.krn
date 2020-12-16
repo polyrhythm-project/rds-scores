@@ -4,7 +4,7 @@
 !!!example: 453
 !!!work: Ber-15
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff12	*	*staff11	*staff11	*	*staff10	*staff10	*	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Bass Solo	*	*	*I"Baritone Solo	*	*	*I"Treble Solo	*	*	*I"Piano	*	*	*I"Horn in F	*	*I"Horn in F	*	*I"Horn in F	*	*I"Horn in F	*	*I"Alto Saxophone	*	*I"Cor Anglais	*	*I"Oboe	*
@@ -14,7 +14,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[]	*
 *M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*	*M6/4	*	*	*M6/4	*	*	*M6/4	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
 =118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
-!	!	!	!	!	!	!LO:TX:t=[half-dot]=56	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:t=[half-dot]=56	!	!	!	!	!LO:TX:t=P:problem:time signature is cut time	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[half-dot]=56	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all hanging ties and slurs need to be added in first measure	!	!	!	!	!
 (4AAn	p	(4AAn	mp	8E'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r	2r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	)(8d-X'L	mf	4.E'	p	12r	.
@@ -63,6 +63,7 @@
 16%3Gn~J	]	16%3GGnJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16%3BnJ	.	.	.	.	.	.	.	.	.	[16%3BX~J	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*
 16%3AAn~L	>	16%3AAnL	.	8%3r	.	2%3r	.	4G#X	sel-	.	2r	.	.	2%3r	.	.	16%3AAn 16%3BBn 16%3Bn	2r	.	2%3r	.	2%3r	.	2%3r	.	16%3B]	.	2r	.	2%3r	.	2%3r	.
 16%3BBn~	.	16%3BBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8%3.An	.	.	.	.	.	.	.	.	8%3.An'	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4F#X	-ber	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
