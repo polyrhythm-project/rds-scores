@@ -4,7 +4,7 @@
 !!!example: 714
 !!!work: Cop-32
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part18	*	*part17	*	*part16	*	*part15	*part15	*part14	*part14	*part13	*	*part13	*	*part12	*	*part11	*part11	*part10	*	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
@@ -51,6 +51,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!
 !	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
 2r	.	8cL	.	8dL 8f	.	3ccc 3cccc	.	3ccc 3cccc	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.F	4.r	.	4.f	.	3cc	3cc	.	3cc	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	f	8b-L 8dd	.	3cccc	ff
@@ -76,6 +77,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!LO:TX:t=P:problem: notes should have a bracket preceding them to indicate further divisi.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!LO:TX:t=P:problem: notes should have a bracket preceding them to indicate further divisi.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
