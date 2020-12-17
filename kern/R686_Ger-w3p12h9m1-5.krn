@@ -4,10 +4,10 @@
 !!!example: 686
 !!!work: Ger-3
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*	*	*I"Drum Set	*	*I"Trumpet in Bb	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb I	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*I"Piano	*	*I"Drum Set	*	*I"Trumpet in Bb	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb I	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Ban.	*	*	*	*I'Dr.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefpercussion0	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*
@@ -16,7 +16,8 @@
 *MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
 *	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: Piano should be on two staves	!	!LO:TX:t-P:problem: Drum set parts not showing on VHV	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
 4CC'	mf	4CC' 4GG	mf	(8B-X^L	mf	4.c^ 4.e	mf	4c' 4g	mf	(8bb-XL 8ccc 8eee	p	(8x^L	4x	mf	1r	.	(8cL 8cc	mf	4.c^ 4.e	mf	(8B-X^L	mf	1r	.
 .	.	.	.	8A	.	.	.	.	.	8aa	.	8x'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
 4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	8gg)	.	8x')	4x	.	.	.	4g^ 4gg	.	.	.	8G)	.	.	.
