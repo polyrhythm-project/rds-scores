@@ -4,7 +4,7 @@
 !!!example: 809
 !!!work: Bri-28
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *I"Pedals	*	*	*I"Organ	*	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
 *I'Ped.	*	*	*I'Org.	*	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
 *	*	*stria2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -13,7 +13,8 @@
 *k[f#c#g#d#]	*	*k[]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
 *E:	*	*C:	*E:	*	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
-!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
+!	!LO:DY:ed=brack	!LO:TX:t=P:problem: This part is to guide the organist and should not be in cluded in the analysis.	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:First eighth note is missing in all vocal parts.	!	!
 4.ryy	f	8b	4.ryy	f	4.ryy	f	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
 .	.	8b	.	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
 .	.	8bJ	.	.	.	.	8F#J	.	.	8f#J	.	.	8f#J	.	.	8f#J	.	.
