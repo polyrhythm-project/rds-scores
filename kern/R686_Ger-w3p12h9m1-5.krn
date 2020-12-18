@@ -17,68 +17,75 @@
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
 *	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:A	*grp:B	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!LO:TX:t=Let strings snap	!	!	!LO:TX:t=P:problem: 8va here to the end of example	!	!LO:TX:b:t=B. D.	!LO:TX:a:t=Brush	!LO:DY:rj	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
-4CC'	mf	4CC' 4GG	mf	(8B-X^L	mf	4.c^ 4.e	mf	4c' 4g	mf	1ryy	(8bb-XL 8ccc 8eee\	p	(8eeR^L	4fR	mf	1r	.	(8cL 8cc	mf	4.c^ 4.e	mf	(8B-X^L	mf	1r	.
-.	.	.	.	8A	.	.	.	.	.	.	8aa\	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
-4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8gg</)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8G)	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:t=Let strings snap	!	!	!	!	!LO:TX:b:t=B. D.	!LO:TX:a:t=Brush	!LO:DY:rj	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
+4CC'	mf	4CC' 4GG	mf	(8B-X^L	mf	4.c^ 4.e	mf	4c' 4g	mf	1ryy	(8bbb-X\L 8cccc\ 8eeee\	p	(8eeR^L	4fR	mf	1r	.	(8cL 8cc	mf	4.c^ 4.e	mf	(8B-X^L	mf	1r	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8G)	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R. H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8b-XJ 8cc 8ee\	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
-4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aL	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e]	.	8AL	.	.	.
-.	.	.	.	8GJ)	.	.	.	.	.	.	8gJ)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ 8ccc 8eee\	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e]	.	8AL	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R. H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(12B-XL 12c 12e	.	(12eeR^L	4fR	.	.	.	4g^ 4gg	.	4c^ 4e	.	(12B-^L	.	.	.
-.	.	.	.	12A	.	.	.	.	.	.	12A	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
-.	.	.	.	12GJ)	.	.	.	.	.	.	12GJ)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12eeR^L	4fR	.	.	.	4g^ 4gg	.	4c^ 4e	.	(12B-^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
 !	!	!	!	!	!	!	!	!	!	!	!LO:TX:c:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4GG'	.	4GG' 4D	.	(8Bn^L	.	4.d^ 4.f	.	4d' 4g	.	1ryy	(8bbnL 8ddd 8fff	.	(8eeR^L	4fR	.	1r	.	4g^ 4gg	.	4.d^ 4.f	.	(8Bn^L	.	1r	.
-.	.	.	.	8A	.	.	.	.	.	.	8aa	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
+4GG'	.	4GG' 4D	.	(8Bn^L	.	4.d^ 4.f	.	4d' 4g	.	1ryy	(8bbbnL\ 8dddd 8ffff	.	(8eeR^L	4fR	.	1r	.	4g^ 4gg	.	4.d^ 4.f	.	(8Bn^L	.	1r	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8qg#X/ 8qgg#X	.	.	.	.	.	.	.
-4GG'	.	4GG' 4D	.	8G)	.	.	.	4d' 4g	.	.	8gg)	.	8eeR')	4fR	.	.	.	8a'L) 8aa	.	.	.	8G)	.	.	.
-.	.	.	.	(8B^J	.	[8d^ [8f	.	.	.	.	(8bnJ 8dd 8ff	.	(8eeR^J	.	.	.	.	8gn'J 8ggn	.	[8d^ [8f	.	(8B^J	.	.	.
-4GG'	.	4GG' 4D	.	8AL	.	4d] 4f]	.	4d' 4g	.	.	8aL	.	8eeR'L	4fR	.	.	.	8fL 8ff	.	4d] 4f]	.	8AL	.	.	.
-.	.	.	.	8GJ)	.	.	.	.	.	.	8gJ)	.	8eeR'J)	.	.	.	.	8e'J 8ee	.	.	.	8GJ)	.	.	.
-4GG'	.	4GG' 4D	.	(12B^L	.	4d^ 4f	.	4d' 4g	.	.	(12BnL 12d 12f	.	(12eeR^L	4fR	.	.	.	4d~ 4dd	.	4d^ 4f	.	(12B^L	.	.	.
-.	.	.	.	12A	.	.	.	.	.	.	12A	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
-.	.	.	.	12GJ)	.	.	.	.	.	.	12GJ)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+4GG'	.	4GG' 4D	.	8G)	.	.	.	4d' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	8a'L) 8aa	.	.	.	8G)	.	.	.
+.	.	.	.	(8B^J	.	[8d^ [8f	.	.	.	.	(8bbnJ/ 8ddd 8fff	.	(8eeR^J	.	.	.	.	8gn'J 8ggn	.	[8d^ [8f	.	(8B^J	.	.	.
+4GG'	.	4GG' 4D	.	8AL	.	4d] 4f]	.	4d' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	8fL 8ff	.	4d] 4f]	.	8AL	.	.	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	8e'J 8ee	.	.	.	8GJ)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG'	.	4GG' 4D	.	(12B^L	.	4d^ 4f	.	4d' 4g	.	.	(12bL\ 12dd 12ff	.	(12eeR^L	4fR	.	.	.	4d~ 4dd	.	4d^ 4f	.	(12B^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a\	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J/)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=flutter	!	!LO:TX:t=flutter	!	!LO:TX:t=flutter	!	!	!	!	!
-4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.e	.	4c' 4g	.	1ryy	(8bb-XL 8ccc 8eee	.	(8eeR^L	4fR	.	[1c	mf	[1c [1cc	.	4.c^ 4.e	.	(8B-X^L	.	2r	.
-.	.	.	.	8A	.	.	.	.	.	.	8aa	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
-4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8gg)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
-.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8b-XJ 8cc 8ee	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
-4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aL	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e]	.	8AL	.	4r	.
-.	.	.	.	8GJ)	.	.	.	.	.	.	8gJ)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.e	.	4c' 4g	.	1ryy	(8bbb-XL 8cccc 8eeee	.	(8eeR^L	4fR	.	[1c	mf	[1c [1cc	.	4.c^ 4.e	.	(8B-X^L	.	2r	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
+4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
+.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ\ 8ccc 8eee	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e]	.	8AL	.	4r	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Solo	!
-4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(12B-XL 12c 12e	.	(12eeR^L	4fR	.	.	.	.	.	4c^ 4e	.	(12B-^L	.	(12bbL	mf
-.	.	.	.	12A	.	.	.	.	.	.	12A	.	12eeR	.	.	.	.	.	.	.	.	12A	.	12aa	.
-.	.	.	.	12GJ)	.	.	.	.	.	.	12GJ)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	12ggJ)	.
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12eeR^L	4fR	.	.	.	.	.	4c^ 4e	.	(12B-^L	.	(12bbL	mf
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR	.	.	.	.	.	.	.	.	12A	.	12aa	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	12ggJ)	.
 =94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4AAA-X'	.	4AA-X' 4E-X	.	(8Bn^L	.	4.c^ 4.eX	.	4e-X' 4a-X	.	1ryy	(8bb-XL 8ccc 8eee	.	(8eeR^L	4fR	.	1c]	.	1c] 1cc]	.	4.c^ 4.e-X	.	(8Bn^L	.	(8b	.
-.	.	.	.	8A	.	.	.	.	.	.	8aa	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	4ccc)	.
-4AAA-'	.	4AA-' 4E-	.	8G)	.	.	.	4e-' 4a-	.	.	8gg)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
-.	.	.	.	(8B^J	.	[8c^ [8e	.	.	.	.	(8b-XJ 8cc 8ee	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e-	.	(8B^J	.	(8cc	.
-4AAA-'	.	4AA-' 4E-	.	8AL	.	4c] 4e-]	.	4e-' 4a-	.	.	8aL	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e-]	.	8AL	.	4aa-X)	.
-.	.	.	.	8GJ)	.	.	.	.	.	.	8gJ)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
-4AAA-'	.	4AA-' 4E-	.	(12B^L	.	4c^ 4e	.	4e-' 4a-	.	.	(12B-XL 12c 12e	.	(12eeR^L	4fR	.	.	.	.	.	4c^ 4e-	.	(12B^L	.	(8ccL	.
-.	.	.	.	12A	.	.	.	.	.	.	12A	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
+4AAA-X'	.	4AA-X' 4E-X	.	(8Bn^L	.	4.c^ 4.eX	.	4e-X' 4a-X	.	1ryy	(8bbb-XL\ 8cccc 8eeee-	.	(8eeR^L	4fR	.	1c]	.	1c] 1cc]	.	4.c^ 4.e-X	.	(8Bn^L	.	(8b	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa-\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	4ccc)	.
+4AAA-'	.	4AA-' 4E-	.	8G)	.	.	.	4e-' 4a-	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
+.	.	.	.	(8B^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ 8ccc 8eee-	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e-	.	(8B^J	.	(8cc	.
+4AAA-'	.	4AA-' 4E-	.	8AL	.	4c] 4e-]	.	4e-' 4a-	.	.	8aa-\L	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e-]	.	8AL	.	4aa-X)	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg-</J)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+4AAA-'	.	4AA-' 4E-	.	(12B^L	.	4c^ 4e	.	4e-' 4a-	.	.	(>12b-XL 12cc 12ee-	.	(12eeR^L	4fR	.	.	.	.	.	4c^ 4e-	.	(12B^L	.	(8ccL	.
+.	.	.	.	12A	.	.	.	.	.	.	12a-	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee-XJ)	.
-.	.	.	.	12GJ)	.	.	.	.	.	.	12GJ)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g-<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
-4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.e-X	.	4c' 4g	.	1ryy	(8bb-XL 8ccc 8eee	.	(8eeR^L	4fR	.	1r	.	(8cL 8cc	.	4.c^ 4.e-X	.	(8B-X^L	.	4g	.
-.	.	.	.	8A	.	.	.	.	.	.	8aa	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
-4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8gg)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8G)	.	4r	.
-.	.	.	.	(8B-^J	.	[8c^ [8e-	.	.	.	.	(8b-XJ 8cc 8ee	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e-	.	(8B-^J	.	.	.
-4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e-]	.	4c' 4g	.	.	8aL	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e-]	.	8AL	.	2r	.
-.	.	.	.	8GJ)	.	.	.	.	.	.	8gJ)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
-4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e-	.	4c' 4g	.	.	(12B-XL 12c 12e	.	(12eeR^L	4fR	.	.	.	4g^ 4gg	.	4c^ 4e-	.	(12B-^L	.	.	.
-.	.	.	.	12A	.	.	.	.	.	.	12A	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
-.	.	.	.	12GJ)	.	.	.	.	.	.	12GJ)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.e-X	.	4c' 4g	.	1ryy	(8bbb-XL\ 8cccc 8eeeen	.	(8eeR^L	4fR	.	1r	.	(8cL 8cc	.	4.c^ 4.e-X	.	(8B-X^L	.	4g	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaan\	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
+4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8gggn</)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8G)	.	4r	.
+.	.	.	.	(8B-^J	.	[8c^ [8e-	.	.	.	.	(8bb-XJ\ 8ccc 8eee	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e-	.	(8B-^J	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e-]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e-]	.	8AL	.	2r	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e-	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12eeR^L	4fR	.	.	.	4g^ 4gg	.	4c^ 4e-	.	(12B-^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR	.	.	.	.	.	.	.	.	12A	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: < = below
+!!!RDF**kern: > = above
 !!!system-decoration: [(s1,s2)][(s3,s4,s5)]s6{(s7,s8)}s9[(s10,s11,s12,s13)]
 !!!CDT: 1898/09/26-1937/07/11
 !!!CBL: Brooklyn, United States
