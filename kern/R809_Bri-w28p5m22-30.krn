@@ -3,79 +3,79 @@
 !!!OMV:
 !!!example: 809
 !!!work: Bri-28
-**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
-*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*I"Pedals	*	*	*I"Organ	*	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
-*I'Ped.	*	*	*I'Org.	*	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
-*	*	*stria2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*clefF4	*	*clefG2	*clefF4	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
-*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
-*k[f#c#g#d#]	*	*k[]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
-*E:	*	*C:	*E:	*	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
-*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
-!	!LO:DY:ed=brack	!LO:TX:t=P:problem: This part is to guide the organist and should not be in cluded in the analysis.	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:First eighth note is missing in all vocal parts.	!	!
-4.ryy	f	8b	4.ryy	f	4.ryy	f	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
-.	.	8b	.	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
-.	.	8bJ	.	.	.	.	8F#J	.	.	8f#J	.	.	8f#J	.	.	8f#J	.	.
-.	.	.	16qqE/LL	.	((((16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#X/JJ	.	16qaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-(((2.EE	.	4.b	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	4.G#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.
-.	.	8bL	.	.	.	.	(8D#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<
-.	.	8b	.	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
-.	.	8bJ	.	.	.	.	8G#	.	.	8g#	.	.	8g#	.	.	8g#	.	.
-.	.	.	16qqE/LL	.	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	8b	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	8A#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.
-.	.	4.b	.	.	.	.	4.B)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.
-.	.	8bL	.	.	.	.	(8G#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <
-.	.	8bJ	.	.	.	.	8A#X	.	.	8a#X	.	.	8a#X	.	.	8a#X	.	.
-.	.	.	16qqE/LL	.	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	8bL	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	8c#	.	.	8cc#	.	.	8cc#	.	.	8cc#	.	.
-.	.	8bJ	.	.	.	.	8d#J	.	.	8dd#J	.	.	8dd#J	.	.	8dd#J	.	.
-.	.	4.b	.	.	.	.	4.e)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[
-.	.	[8b	.	.	.	.	4e^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff
-.	.	.	16qqE/LL	.	(16qqbb/LL	<	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	8b]	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	4b	.	.	.	.	4e^	God	.	4ee^	God	.	4ee^	God	.	4ee^	God	.
-.	.	4b	.	.	.	.	4e^	of	.	4ee^	of	.	4ee^	of	.	4ee^	of	.
-.	.	[8b	.	.	.	.	(4.e^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.
-.	.	.	16qqEn/LL	.	(16qqcccn/LL	ff [	.	.	.	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!LO:TX:b:i:t=dim. subito	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	4b]	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	8b	.	.	.	.	8Cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.
-.	.	[4.b	.	.	.	.	[4.C	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>
-.	.	.	16qqEn/LL	.	(16qqcccn/LL	>	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	4b]	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	4C]	.	]	4c]	.	]	4c]	.	]	4c]	.	]
-.	.	4r	.	.	.	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
-.	.	8b	.	.	.	.	8Cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp
-.	.	8b	.	.	.	.	8C	and	.	8c	and	.	8c	and	.	8c	and	.
-.	.	.	16qqEn/LL	.	(16qqcccn/LL	ppp ]	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	8b	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	8C	earth	.	8c	earth	.	8c	earth	.	8c	earth	.
-.	.	8b	.	.	.	.	8Dn	are	.	8dn	are	.	8dn	are	.	8dn	are	.
-.	.	8b	.	.	.	.	8E-X	full	.	8e-X	full	.	8e-X	full	.	8e-X	full	.
-.	.	8b	.	.	.	.	8D	of	.	8d	of	.	8d	of	.	8d	of	.
-.	.	8b	.	.	.	.	8C	the	.	8c	the	.	8c	the	.	8c	the	.
-.	.	8b	.	.	.	.	8Gn	ma-	.	8gn	ma-	.	8gn	ma-	.	8gn	ma-	.
-.	.	.	16qqEn/LL	.	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.EE	.	8b	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	8G	-jes-	.	8g	-jes-	.	8g	-jes-	.	8g	-jes-	.
-.	.	8b	.	.	.	.	8G	-ty	.	8g	-ty	.	8g	-ty	.	8g	-ty	.
-.	.	8b	.	.	.	.	8Fn	of	.	8fn	of	.	8fn	of	.	8fn	of	.
-.	.	8b	.	.	.	.	8E-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.
-.	.	4b	.	.	.	.	4Cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>
-.	.	.	16qqEn/LL	.	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	16qqF#X/JJ	.	16qqdddn/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
-2.CCn	.	4b	2.E 2.Gn 2.cn	.	2.een 2.ggn 2.ccc)	.	4C	-ry.	.	4c	-ry.	.	4c	-ry.	.	4c	-ry.	.
-.	.	4r	.	.	.	.	2r	.	]	2r	.	]	2r	.	]	2r	.	]
-.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*I"Pedals	*	*I"Organ	*	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
+*I'Ped.	*	*I'Org.	*	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
+*E:	*	*E:	*	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:First eighth note is missing in all vocal parts.	!	!
+4.ryy	f	4.ryy	f	4.ryy	f	8C#	.	f	8c#	.	f	8c#	.	f	8c#	.	f
+.	.	.	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
+.	.	.	.	.	.	8F#J	.	.	8f#J	.	.	8f#J	.	.	8f#J	.	.
+.	.	16qqE/LL	.	((((16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	.	16qaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+(((2.EE	.	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	4.G#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.	4.g#)	-ly!	.
+.	.	.	.	.	.	(8D#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<	(8d#L	Ho-	<
+.	.	.	.	.	.	8E	.	.	8e	.	.	8e	.	.	8e	.	.
+.	.	.	.	.	.	8G#	.	.	8g#	.	.	8g#	.	.	8g#	.	.
+.	.	16qqE/LL	.	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	8A#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.	8a#XJ	.	.
+.	.	.	.	.	.	4.B)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.	4.b)	-ly!	.
+.	.	.	.	.	.	(8G#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <	(8g#L	Ho-	[ <
+.	.	.	.	.	.	8A#X	.	.	8a#X	.	.	8a#X	.	.	8a#X	.	.
+.	.	16qqE/LL	.	(16qqbb/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	8c#	.	.	8cc#	.	.	8cc#	.	.	8cc#	.	.
+.	.	.	.	.	.	8d#J	.	.	8dd#J	.	.	8dd#J	.	.	8dd#J	.	.
+.	.	.	.	.	.	4.e)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[	4.ee)	-ly!	[
+.	.	.	.	.	.	4e^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff	4ee^	Lord	ff
+.	.	16qqE/LL	.	(16qqbb/LL	<	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#/JJ	.	16qqaa#X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.G# 2.B	.	2.ee 2.gg# 2.bb)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	4e^	God	.	4ee^	God	.	4ee^	God	.	4ee^	God	.
+.	.	.	.	.	.	4e^	of	.	4ee^	of	.	4ee^	of	.	4ee^	of	.
+.	.	.	.	.	.	(4.e^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.	(4.ee^	Sa-	.
+.	.	16qqEn/LL	.	(16qqcccn/LL	ff [	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:b:i:t=dim. subito	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8Cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.	8cn)	-ba-	.
+.	.	.	.	.	.	[4.C	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>	[4.c	-oth!	>
+.	.	16qqEn/LL	.	(16qqcccn/LL	>	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	4C]	.	]	4c]	.	]	4c]	.	]	4c]	.	]
+.	.	.	.	.	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
+.	.	.	.	.	.	8Cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp	8cn	Heav'n	pp
+.	.	.	.	.	.	8C	and	.	8c	and	.	8c	and	.	8c	and	.
+.	.	16qqEn/LL	.	(16qqcccn/LL	ppp ]	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	8C	earth	.	8c	earth	.	8c	earth	.	8c	earth	.
+.	.	.	.	.	.	8Dn	are	.	8dn	are	.	8dn	are	.	8dn	are	.
+.	.	.	.	.	.	8E-X	full	.	8e-X	full	.	8e-X	full	.	8e-X	full	.
+.	.	.	.	.	.	8D	of	.	8d	of	.	8d	of	.	8d	of	.
+.	.	.	.	.	.	8C	the	.	8c	the	.	8c	the	.	8c	the	.
+.	.	.	.	.	.	8Gn	ma-	.	8gn	ma-	.	8gn	ma-	.	8gn	ma-	.
+.	.	16qqEn/LL	.	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	.	16qqbb-X/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.EE	.	2.E 2.A-X 2.cn	.	2.ee-X 2.aa-X 2.ccc)	.	8G	-jes-	.	8g	-jes-	.	8g	-jes-	.	8g	-jes-	.
+.	.	.	.	.	.	8G	-ty	.	8g	-ty	.	8g	-ty	.	8g	-ty	.
+.	.	.	.	.	.	8Fn	of	.	8fn	of	.	8fn	of	.	8fn	of	.
+.	.	.	.	.	.	8E-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.
+.	.	.	.	.	.	4Cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>
+.	.	16qqEn/LL	.	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16qqF#X/JJ	.	16qqdddn/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.CCn	.	2.E 2.Gn 2.cn	.	2.een 2.ggn 2.ccc)	.	4C	-ry.	.	4c	-ry.	.	4c	-ry.	.	4c	-ry.	.
+.	.	.	.	.	.	2r	.	]	2r	.	]	2r	.	]	2r	.	]
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]s7,s8
 !!!CDT: 1913/11/22-1976/12/04
 !!!CBL: Lowestoft, England
