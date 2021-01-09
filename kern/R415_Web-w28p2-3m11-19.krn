@@ -4,7 +4,7 @@
 !!!example: 415
 !!!work: Web-28
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part9	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
@@ -62,6 +62,7 @@
 8r	.	8r	.	.	.	.	.	.	.	.	.	8BnJ)	.	.	.	8r	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:a:t=immer mit Dmpf.	!	!	!	!	!	!	!	!	!	!	!
 8	.	8FF#<LX~	.	2r	.	2r	.	2r	.	4r	.	8e-X~	.	2r	.	2r	.	2r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -74,6 +75,7 @@
 8	.	8BBn~ 8B-JX	.sf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12ddnJ	.	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8r	.	4	.	4r	.	12r	.	12Gn^L	f	12ff#X)	.	2r	.	2r	.	2r	.	2r	.
 !	!	!	!	!	!	!LO:TX:t=ohne Dmpf.	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -87,6 +89,7 @@
 8GGn~ 8F#JX	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	12fnJ)	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B
 4r	.	8b-X~	.	12cc#X~	.	2r	.	2r	.	2r	.	2r	.	2r	.	6dddn~	f	6r	.
 .	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
