@@ -3,20 +3,20 @@
 !!!OMV: Movement 1
 !!!example: 129
 !!!work: Jan-30
-**kern		**dynam	**kern	**dynam	**kern	**dynam
-*grp:A		*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
-*part2		*	*part2	*part2	*part1	*part1
-*staff3		*	*staff2	*	*staff1	*
-*ICklav		*	*ICklav	*	*ICstr	*
-*Ipiano		*	*Ipiano	*	*Icello	*
-*I"Piano		*	*	*	*I"Violoncello	*
-*I'Pno.		*	*	*	*I'Vc.	*
-*clefF4		*	*clefG2	*	*clefF4	*
-*k[f#c#g#]		*	*k[f#c#g#]	*	*k[f#c#g#]	*
-*A:		*	*A:	*	*A:	*
-*M2/8		*	*M2/8	*	*M2/8	*
-=124		=124	=124	=124	=124	=124
-*^		*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICstr	*
+*Ipiano	*	*Ipiano	*	*Icello	*
+*I"Piano	*	*	*	*I"Violoncello	*
+*I'Pno.	*	*	*	*I'Vc.	*
+*clefF4	*	*clefG2	*	*clefF4	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*
+*M2/8	*	*M2/8	*	*M2/8	*
+=124	=124	=124	=124	=124	=124
+*^	*	*	*	*	*
 *grp:B	*grp:A	*	*	*	*	*
 !	!	!LO:DY:ed=brack	!	!	!	!
 *	*	*	*	*	*Xtuplet	*
@@ -75,8 +75,8 @@
 .	.	.	.	.	16BJJ)	.
 .	24E'JJ 24G	.	.	.	.	.
 *v	*v	*	*	*	*	*
-=		=	=	=	=	=
-*-		*-	*-	*-	*-	*-
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1[({(s2,s3)})]
 !!!CDT: 1854/07/03-1928/08/12
 !!!CBL: Hukvaldy, Moravia
