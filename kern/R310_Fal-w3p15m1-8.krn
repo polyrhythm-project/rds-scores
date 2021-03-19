@@ -21,7 +21,7 @@
 =1	=1	=1
 *	*^	*
 !	!LO:TX:t=P:problem:need beamspan	!	!
-8C#<')	8ryy	8ryy	.
+8C#')	8ryy	8ryy	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
@@ -37,7 +37,7 @@
 *	*v	*v	*
 =3	=3	=3
 *	*^	*
-8C#<'	8ryy	8r	.
+8C#'	8ryy	8r	.
 8ry	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
@@ -59,7 +59,7 @@
 8d#' 8e#	8e#'J	16e#	<
 .	.	16A#JJ	.
 =6	=6	=6	=6
-*grp:	*	*grp:B	*grp:B
+*grp:A	*	*grp:B	*grp:B
 8r'	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8d#'	16d#	.
@@ -104,5 +104,5 @@
 !!!excerpt-end-measure: 8
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:06
-!!!EEV: 2020/10/05
+!!!EEV: 2021/03/19
 !!!ONB: Converted from MusicXML on 2020/10/05
