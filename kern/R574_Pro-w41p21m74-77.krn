@@ -141,10 +141,13 @@
 !!!excerpt-end-measure: 77
 !!!excerpt-start-time: 4:54
 !!!excerpt-end-time: 5:04
+!!!excerpt-duration-sec: 10
+!!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {96}
 !!!excerpt-meter-type: quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
+!!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -106,10 +106,13 @@
 !!!excerpt-end-measure: 8
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:06
+!!!excerpt-duration-sec: 6
+!!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: dotted-quarter
 !!!excerpt-tempo-rate: 92
 !!!excerpt-meter-type: triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
+!!!experiment: 1
 !!!EEV: 2021/03/19
 !!!ONB: Converted from MusicXML on 2020/10/05

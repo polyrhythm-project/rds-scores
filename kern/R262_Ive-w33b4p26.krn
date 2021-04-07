@@ -91,11 +91,14 @@
 !!!excerpt-end-measure: 124
 !!!excerpt-start-time: 6:52
 !!!excerpt-end-time: 7:08
+!!!excerpt-duration-sec: 16
+!!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [35-37]
 !!!excerpt-meter-type: compound
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
+!!!experiment: 0
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

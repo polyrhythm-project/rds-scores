@@ -115,10 +115,13 @@
 !!!excerpt-end-measure: 205
 !!!excerpt-start-time: 6:00
 !!!excerpt-end-time: 6:04
+!!!excerpt-duration-sec: 4
+!!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [88]
 !!!excerpt-meter-type: duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
+!!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

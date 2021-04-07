@@ -158,11 +158,14 @@
 !!!excerpt-end-measure: 130(575)
 !!!excerpt-start-time: 3:26
 !!!excerpt-end-time: 3:33
+!!!excerpt-duration-sec: 7
+!!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [88]
 !!!excerpt-meter-type: compound
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
+!!!experiment: 0
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

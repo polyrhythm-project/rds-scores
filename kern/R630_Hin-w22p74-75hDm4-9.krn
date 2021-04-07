@@ -124,11 +124,14 @@
 !!!excerpt-end-measure: 58
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:39
+!!!excerpt-duration-sec: 11
+!!!excerpt-time-signature: [4/4]
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {131}
 !!!excerpt-meter-type: quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
+!!!experiment: 1
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above
