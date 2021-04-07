@@ -5,6 +5,7 @@
 !!!work: Ive-33
 !!!Xfilter: transpose -t P8 -s 9
 !!!Xfilter: transpose -t P8 -s 10
+!!!OMD: [Poco agitando (but slower)]
 **kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part8	*part8	*part7	*part7	*part6	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1

@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 222
 !!!work: Sch-35
+!!!OMD: [Poco allegro]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part6	*	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1

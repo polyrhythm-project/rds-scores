@@ -3,6 +3,7 @@
 !!!OMV: Movement 1: Allegro
 !!!example: 687
 !!!work: Ger-6
+!!!OMD: [Alla breve]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*	*part6	*	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1

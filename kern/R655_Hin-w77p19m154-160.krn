@@ -3,6 +3,7 @@
 !!!OMV: Movement 2: Allegro
 !!!example: 655
 !!!work: Hin-77
+!!!OMD: [Allegro]
 **kern	**kern	**dynam	**kern	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part2	*part1	*part1	*part1

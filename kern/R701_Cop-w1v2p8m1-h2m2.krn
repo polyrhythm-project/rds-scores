@@ -3,6 +3,7 @@
 !!!OMV: Movement 2: Scherzo
 !!!example: 701
 !!!work: Cop-1
+!!!OMD: Allegro molto
 **kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part5	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1

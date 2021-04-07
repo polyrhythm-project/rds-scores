@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 129
 !!!work: Jan-30
+!!!OMD: [Andante, un poco più mosso]
 **kern	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:B	*grp:B	*grp:A	*grp:A
 *part2	*part2	*part2	*part1	*part1
@@ -16,7 +17,6 @@
 *A:	*A:	*	*A:	*
 *M2/8	*M2/8	*	*M2/8	*
 =124	=124	=124	=124	=124
-
 *grp:A	*	*	*	*
 !	!	!	!	!
 *	*	*	*Xtuplet	*

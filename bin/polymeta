@@ -46,6 +46,8 @@ $RECORD{"Work Title"}                        = "OTL";
 $RECORD{"Source Work Full Unit"}             = "OMV";  # run through cleanOMV();
 $RECORD{"Example No."}                       = "example";
 $RECORD{"Work ID"}                           = "work";
+$RECORD{"Example Start Tempo Expression"}		= "OMD";
+
 
 
 # Reference records to display after end of data:
