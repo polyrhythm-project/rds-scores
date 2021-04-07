@@ -1,8 +1,8 @@
-!!!COM:	Webern, Anton (Friedrich Wilhelm von)																					
-!!!OTL:	Fünf Stücke (Five Pieces) for Orchestra, op. 10																					
-!!!OMV:	Movement 1																					
-!!!example:	408																					
-!!!work:	Web-13																					
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!OMV: Movement 1
+!!!example: 408
+!!!work: Web-13
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -137,22 +137,22 @@
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration:	[(s1,s2)][(s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9)][(s10,s11,s12)]																					
-!!!CDT:	1883/12/03-1945/09/15																					
-!!!CBL:	Vienna, Austria																					
-!!!CDL:	Mittersill, Austria																					
-!!!CNT:	Austrian																					
-!!!AGN:	Orchestral; Symphonic																					
-!!!MCN:	Webern, Anton																					
-!!!MDT:	1924/06/22																					
-!!!MGN:	unknown																					
-!!!MLC:	Zürich, Switzerland																					
-!!!MPD:	1924																					
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Webern, Anton
+!!!MDT: 1924/06/22
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1924
 !!!MPN:																						
-!!!ODT:	1913																					
-!!!PDT:	1923																					
-!!!excerpt-start-measure:	1																					
-!!!excerpt-end-measure:	12																					
-!!!excerpt-start-time:	0:00																					
-!!!excerpt-end-time:	0:58																					
+!!!ODT: 1913
+!!!PDT: 1923
+!!!excerpt-start-measure: 0.75
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:58
 !!!EEV:	2020/07/28																					
 !!!ONB:	Converted from MusicXML on 2020/07/28																					
