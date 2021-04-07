@@ -3,6 +3,7 @@
 !!!OMV: "I got rhythm"
 !!!example: 689
 !!!work: Ger-12
+!!!OMD-full: Lively
 !!!OMD: [Very marked (with abandon)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**mxhm
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -83,5 +84,10 @@
 !!!excerpt-end-measure: 34
 !!!excerpt-start-time: 0:51
 !!!excerpt-end-time: 1:00
+!!!excerpt-tempo-beat: {half}
+!!!excerpt-tempo-rate: {80}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -3,6 +3,7 @@
 !!!OMV: Movement 3
 !!!example: 525
 !!!work: Mau-94
+!!!OMD-full: Allegro
 !!!OMD: [Tempo primo (Allegro)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
@@ -74,5 +75,10 @@
 !!!excerpt-end-measure: 198
 !!!excerpt-start-time: 3:29
 !!!excerpt-end-time: 3:34
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [120]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

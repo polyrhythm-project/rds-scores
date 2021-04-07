@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 799
 !!!work: Bri-22
+!!!OMD-full: Lento
 !!!OMD: [Allegro molto]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -83,5 +84,10 @@
 !!!excerpt-end-measure: 289
 !!!excerpt-start-time: 12:48
 !!!excerpt-end-time: 12:53
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [126]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

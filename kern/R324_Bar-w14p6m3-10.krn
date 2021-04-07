@@ -3,6 +3,7 @@
 !!!OMV: IV: Buciumeana, Tanz aus Butschum (Dance of Butschum)
 !!!example: 324
 !!!work: Bar-14
+!!!OMD-full: Moderato
 !!!OMD: [Moderato]
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
@@ -95,5 +96,10 @@
 !!!excerpt-end-measure: 10
 !!!excerpt-start-time: 0:04
 !!!excerpt-end-time: 0:19
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [74]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

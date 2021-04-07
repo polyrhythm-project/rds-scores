@@ -3,6 +3,7 @@
 !!!OMV: Act II, Scene 2
 !!!example: 218
 !!!work: Sch-33
+!!!OMD-full: Sehr rash
 !!!OMD: [Leicht bewegt]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -90,5 +91,10 @@
 !!!excerpt-end-measure: 143(256)
 !!!excerpt-start-time: 5:28
 !!!excerpt-end-time: 5:33
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 129
 !!!work: Jan-30
+!!!OMD-full: Con moto
 !!!OMD: [Andante, un poco più mosso]
 **kern	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:B	*grp:B	*grp:A	*grp:A
@@ -97,5 +98,10 @@
 !!!excerpt-end-measure: 127
 !!!excerpt-start-time: 3:53
 !!!excerpt-end-time: 3:58
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [84]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04

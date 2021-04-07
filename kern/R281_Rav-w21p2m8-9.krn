@@ -3,6 +3,7 @@
 !!!OMV: I: Soupir (Sigh)
 !!!example: 281
 !!!work: Rav-21
+!!!OMD-full: Lent
 !!!OMD: [Lent]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
@@ -238,5 +239,10 @@
 !!!excerpt-end-measure: 9
 !!!excerpt-start-time: 0:46
 !!!excerpt-end-time: 0:59
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [40]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

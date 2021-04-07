@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 130
 !!!work: Jan-33
+!!!OMD-full: Con moto
 !!!OMD: [Con moto]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -145,5 +146,10 @@
 !!!excerpt-end-measure: 71
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:36
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {203}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

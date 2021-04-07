@@ -3,6 +3,7 @@
 !!!OMV: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
 !!!example: 730
 !!!work: Mes-16
+!!!OMD-full: Modéré, un peu lent, rêveur
 !!!OMD: [Modéré, un peu lent, rêveur]
 **kern	**kern	**kern
 *grp:A	*grp:A	*grp:B
@@ -70,5 +71,10 @@
 !!!excerpt-end-measure: 27
 !!!excerpt-start-time: 2:22
 !!!excerpt-end-time: 2:51
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {46}
+!!!excerpt-meter-type: [odd]
+!!!excerpt-beat-group: Gx
+!!!excerpt-beat-subgroup: Gx
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -3,6 +3,7 @@
 !!!OMV: Part V: Agnus Dei
 !!!example: 537
 !!!work: Mai-9
+!!!OMD-full: Andante
 !!!OMD: Andante
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -88,5 +89,10 @@
 !!!excerpt-end-measure: 6
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:29
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {58}
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

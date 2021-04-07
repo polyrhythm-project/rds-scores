@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 332
 !!!work: Bar-24
+!!!OMD-full: Allegro
 !!!OMD: [Più mosso]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -97,5 +98,10 @@
 !!!excerpt-end-measure: 209
 !!!excerpt-start-time: 6:13
 !!!excerpt-end-time: 6:44
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [72-76]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04

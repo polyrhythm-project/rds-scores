@@ -3,6 +3,7 @@
 !!!OMV: Act II, Scene 4
 !!!example: 443
 !!!work: Ber-10
+!!!OMD-full: Langsamer Ländler
 !!!OMD: [Ländler]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -88,5 +89,10 @@
 !!!excerpt-end-measure: 153(595)
 !!!excerpt-start-time: 5:12
 !!!excerpt-end-time: 5:25
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3,G2;G4
+!!!excerpt-beat-subgroup: G3,G2;G2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27

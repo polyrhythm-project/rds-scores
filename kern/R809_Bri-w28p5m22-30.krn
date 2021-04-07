@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 809
 !!!work: Bri-28
+!!!OMD-full: Andante con moto
 !!!OMD: [Andante con moto]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -95,5 +96,10 @@
 !!!excerpt-end-measure: 30
 !!!excerpt-start-time: 0:55
 !!!excerpt-end-time: 1:26
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [144]
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2;G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

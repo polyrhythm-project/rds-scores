@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 616
 !!!work: Hin-6
+!!!OMD-full: Sehr lebhaft, straff im Rhythmus
 !!!OMD: Mit Schwung
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
@@ -112,5 +113,10 @@
 !!!excerpt-end-measure: 117
 !!!excerpt-start-time: 4:05
 !!!excerpt-end-time: 4:12
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {103}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

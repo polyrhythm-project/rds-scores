@@ -4,6 +4,7 @@
 !!!example: 183
 !!!work: Deb-16
 !!!Xfilter: transpose -t -P8 -s 1
+!!!OMD-full: Animé et très rythmé
 !!!OMD: A Tempo [Animé et très rhythmé]
 **kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
@@ -80,5 +81,10 @@
 !!!excerpt-end-measure: 268
 !!!excerpt-start-time: 5:54
 !!!excerpt-end-time: 5:58
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {135}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

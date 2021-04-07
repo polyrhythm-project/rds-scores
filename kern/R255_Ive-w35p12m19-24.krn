@@ -3,6 +3,7 @@
 !!!OMV: II: Arguments
 !!!example: 255
 !!!work: Ive-35
+!!!OMD-full: Allegro con spirito
 !!!OMD: [Allegro con spirito]
 **kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B
@@ -86,6 +87,11 @@
 !!!excerpt-end-measure: 24
 !!!excerpt-start-time: 0:19
 !!!excerpt-end-time: 0:24
+!!!excerpt-tempo-beat: {eighth};{quarter}
+!!!excerpt-tempo-rate: {216};{108}
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

@@ -3,6 +3,7 @@
 !!!OMV: Movement 3
 !!!example: 582
 !!!work: Pro-35
+!!!OMD-full: Precipitato
 !!!OMD: Precipitato
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
@@ -151,5 +152,10 @@
 !!!excerpt-end-measure: 14
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:16
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {368}
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

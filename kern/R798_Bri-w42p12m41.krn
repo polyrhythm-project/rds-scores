@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 798
 !!!work: Bri-42
+!!!OMD-full: Broadly, but with fire
 !!!OMD: [Broadly but with fire]
 **kern	**dynam	**kern	**dynam	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank	**dynam	**blank	**kern	**dynam	**text	**blank	**text	**blank
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -60,5 +61,10 @@
 !!!excerpt-end-measure: 41
 !!!excerpt-start-time: 2:15
 !!!excerpt-end-time: 2:19
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

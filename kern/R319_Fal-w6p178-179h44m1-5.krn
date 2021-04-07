@@ -3,6 +3,7 @@
 !!!OMV: Part II: The Corregidor's Dance
 !!!example: 319
 !!!work: Fal-6
+!!!OMD-full: Allegretto
 !!!OMD: [Grazioso, ma in tempo]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
@@ -157,6 +158,11 @@
 !!!excerpt-end-measure: 130(575)
 !!!excerpt-start-time: 3:26
 !!!excerpt-end-time: 3:33
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [88]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

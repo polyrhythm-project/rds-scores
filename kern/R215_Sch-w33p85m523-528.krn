@@ -3,6 +3,7 @@
 !!!OMV: Act I, Scene 4
 !!!example: 215
 !!!work: Sch-33
+!!!OMD-full: Lebhaft
 !!!OMD: Breit
 **kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
@@ -76,6 +77,11 @@
 !!!excerpt-end-measure: 86(528)
 !!!excerpt-start-time: 2:57
 !!!excerpt-end-time: 3:15
+!!!excerpt-tempo-beat: half
+!!!excerpt-tempo-rate: 44
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Xfilter: slurcheck

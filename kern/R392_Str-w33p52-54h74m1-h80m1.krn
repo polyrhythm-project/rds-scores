@@ -3,6 +3,7 @@
 !!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
 !!!example: 392
 !!!work: Str-33
+!!!OMD-full: none
 !!!OMD: A Tempo [Poco meno]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
@@ -262,5 +263,10 @@
 !!!excerpt-end-measure: 88
 !!!excerpt-start-time: 3:47
 !!!excerpt-end-time: 4:48
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 60
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

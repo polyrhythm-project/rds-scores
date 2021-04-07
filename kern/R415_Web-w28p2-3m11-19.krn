@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 415
 !!!work: Web-28
+!!!OMD-full: Etwas lebhaft
 !!!OMD: [Etwas lebhaft]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -120,5 +121,10 @@
 !!!excerpt-end-measure: 19
 !!!excerpt-start-time: 0:16
 !!!excerpt-end-time: 0:38
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2021/01/08

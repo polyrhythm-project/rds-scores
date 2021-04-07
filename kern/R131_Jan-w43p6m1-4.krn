@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 131
 !!!work: Jan-43
+!!!OMD-full: Presto
 !!!OMD: Presto
 **kern	**text	**text	**dynam	**kern	**text	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
@@ -57,5 +58,10 @@
 !!!excerpt-end-measure: 4
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:03
+!!!excerpt-tempo-beat: dotted-half
+!!!excerpt-tempo-rate: 84
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

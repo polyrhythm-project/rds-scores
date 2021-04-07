@@ -3,6 +3,7 @@
 !!!OMV: Movement 2: Scherzo
 !!!example: 701
 !!!work: Cop-1
+!!!OMD-full: Allegro molto
 !!!OMD: Allegro molto
 **kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -203,5 +204,10 @@
 !!!excerpt-end-measure: 18
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:23
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 160
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04

@@ -3,6 +3,7 @@
 !!!OMV: Movement 3
 !!!example: 573
 !!!work: Pro-36
+!!!OMD-full: Vivace
 !!!OMD: [Allegro ben marcato]
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -54,6 +55,11 @@
 !!!excerpt-end-measure: 295
 !!!excerpt-start-time: 5:39
 !!!excerpt-end-time: 5:42
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {180}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: > = above

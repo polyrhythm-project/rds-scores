@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 408
 !!!work: Web-13
+!!!OMD-full: Sehr ruhig und zart
 !!!OMD: Sehr ruhig und zart
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
@@ -155,5 +156,10 @@
 !!!excerpt-end-measure: 12
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:58
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 50
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV:	2020/07/28																					
 !!!ONB:	Converted from MusicXML on 2020/07/28																					

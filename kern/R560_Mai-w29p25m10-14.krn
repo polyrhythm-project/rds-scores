@@ -3,6 +3,7 @@
 !!!OMV: No. 8
 !!!example: 560
 !!!work: Mai-29
+!!!OMD-full: Vivace
 !!!OMD: [Vivace]
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -138,4 +139,9 @@
 !!!excerpt-end-measure: 14
 !!!excerpt-start-time: 0:27
 !!!excerpt-end-time: 0:41
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/09/18

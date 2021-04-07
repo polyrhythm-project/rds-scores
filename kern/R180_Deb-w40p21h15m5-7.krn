@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 180
 !!!work: Deb-40
+!!!OMD-full: Très lent
 !!!OMD: [Scherzando molto grazioso (Mouv't)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
@@ -139,6 +140,11 @@
 !!!excerpt-end-measure: 132
 !!!excerpt-start-time: 3:12
 !!!excerpt-end-time: 3:15
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [72]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Xfilter: slurcheck

@@ -3,6 +3,7 @@
 !!!OMV: Movement 1: Allegro
 !!!example: 687
 !!!work: Ger-6
+!!!OMD-full: Allegro
 !!!OMD: [Alla breve]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -114,5 +115,10 @@
 !!!excerpt-end-measure: 205
 !!!excerpt-start-time: 6:00
 !!!excerpt-end-time: 6:04
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [88]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

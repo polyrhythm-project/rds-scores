@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 602
 !!!work: Hon-20
+!!!OMD-full: Allegro molto moderato
 !!!OMD: [Allegro molto moderato]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -130,6 +131,11 @@
 !!!excerpt-end-measure: 36
 !!!excerpt-start-time: 1:23
 !!!excerpt-end-time: 1:36
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [84]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = editorial accidental

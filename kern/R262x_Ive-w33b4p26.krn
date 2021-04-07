@@ -5,6 +5,7 @@
 !!!work: Ive-33
 !!!Xfilter: transpose -t P8 -s 9
 !!!Xfilter: transpose -t P8 -s 10
+!!!OMD-full: Adagio maestoso
 !!!OMD: [Poco agitando (but slower)]
 **kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -148,6 +149,11 @@
 !!!excerpt-end-measure: 124
 !!!excerpt-start-time: 6:35
 !!!excerpt-end-time: 7:08
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [53-56]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: N = linked

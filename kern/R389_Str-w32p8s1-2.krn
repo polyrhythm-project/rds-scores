@@ -3,6 +3,7 @@
 !!!OMV: Eglogue I (Part II)
 !!!example: 389
 !!!work: Str-32
+!!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
@@ -124,5 +125,10 @@
 !!!excerpt-end-measure: 5
 !!!excerpt-start-time: 0:25
 !!!excerpt-end-time: 0:37
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [76-80]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

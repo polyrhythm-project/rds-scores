@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 258
 !!!work: Ive-30
+!!!OMD-full: Adagio maestoso-Largo
 !!!OMD: Meno (poco mosso)
 **kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -112,5 +113,10 @@
 !!!excerpt-end-measure: 57
 !!!excerpt-start-time: 4:03
 !!!excerpt-end-time: 4:11
+!!!excerpt-tempo-beat: triplet-quarter
+!!!excerpt-tempo-rate: 132
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/10/05

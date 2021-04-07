@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 420
 !!!work: Var-8
+!!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B
@@ -142,5 +143,10 @@
 !!!excerpt-end-measure: 97
 !!!excerpt-start-time: 4:37
 !!!excerpt-end-time: 4:51
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

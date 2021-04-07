@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 409
 !!!work: Web-3
+!!!OMD-full: Langsam, mit bewegtem Ausdruok
 !!!OMD: [Schneller werdend]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
@@ -139,5 +140,10 @@
 !!!excerpt-end-measure: 49
 !!!excerpt-start-time: 4:14
 !!!excerpt-end-time: 4:29
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {64}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

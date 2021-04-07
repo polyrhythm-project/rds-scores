@@ -46,8 +46,8 @@ $RECORD{"Work Title"}                        = "OTL";
 $RECORD{"Source Work Full Unit"}             = "OMV";  # run through cleanOMV();
 $RECORD{"Example No."}                       = "example";
 $RECORD{"Work ID"}                           = "work";
+$RECORD{"Full Unit Start Tempo Expression"}	= "OMD-full";
 $RECORD{"Example Start Tempo Expression"}		= "OMD";
-
 
 
 # Reference records to display after end of data:
@@ -70,6 +70,15 @@ $RECORD{"Example Start Measure"}             = "excerpt-start-measure"; # run th
 $RECORD{"Example End Measure"}               = "excerpt-end-measure";  # run through cleanMeasureNumber();
 $RECORD{"Example Start Time"}                = "excerpt-start-time";
 $RECORD{"Example End Time"}                  = "excerpt-end-time";
+$RECORD{"Example End Time"}                  = "excerpt-end-time";
+$RECORD{"Example Start Notated Beat"}        = "excerpt-tempo-beat";
+$RECORD{"Example Start Notated Beat Rate"}   = "excerpt-tempo-rate";
+$RECORD{"Example Start Tsig Type"}           = "excerpt-meter-type";
+$RECORD{"Example Start Tsig Beat Group Type"} = "excerpt-beat-group";
+$RECORD{"Example Start Tsig Subdivision Group Type"} = "excerpt-beat-subgroup";
+
+
+
 
 # Interpretation metadata:
 $RECORD{"Example Start Tsig Beat"}           = "*MM1";  # Used for *MM tempos (tempo in terms of quarter notes)

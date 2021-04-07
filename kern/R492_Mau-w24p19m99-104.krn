@@ -3,6 +3,7 @@
 !!!OMV: Movement 5
 !!!example: 492
 !!!work: Mau-24
+!!!OMD-full: Allegro con brio
 !!!OMD: [Allegro con brio]
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
@@ -77,5 +78,10 @@
 !!!excerpt-end-measure: 104
 !!!excerpt-start-time: 1:34
 !!!excerpt-end-time: 1:40
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

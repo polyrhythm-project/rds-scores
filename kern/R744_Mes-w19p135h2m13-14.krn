@@ -3,6 +3,7 @@
 !!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
 !!!example: 744
 !!!work: Mes-19
+!!!OMD-full: Modéré, presque vif, énergique
 !!!OMD: [Énergique]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -99,5 +100,10 @@
 !!!excerpt-end-measure: 48
 !!!excerpt-start-time: 1:49
 !!!excerpt-end-time: 1:54
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

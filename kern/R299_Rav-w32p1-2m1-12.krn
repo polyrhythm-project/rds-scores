@@ -3,6 +3,7 @@
 !!!OMV: I: Nahandove
 !!!example: 299
 !!!work: Rav-32
+!!!OMD-full: Andante quasi allegretto
 !!!OMD: Andante quasi allegretto
 **kern	**text	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -164,5 +165,10 @@
 !!!excerpt-end-measure: 12
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:56
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 100
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

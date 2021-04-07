@@ -3,6 +3,7 @@
 !!!OMV: Part II: Royal March
 !!!example: 371
 !!!work: Str-15
+!!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
@@ -97,5 +98,10 @@
 !!!excerpt-end-measure: 14
 !!!excerpt-start-time: 0:07
 !!!excerpt-end-time: 0:14
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [112]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

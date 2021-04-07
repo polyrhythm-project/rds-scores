@@ -3,6 +3,7 @@
 !!!OMV: Movement 4
 !!!example: 161
 !!!work: Deb-13
+!!!OMD-full: Très modéré
 !!!OMD: [En animant peu à peu]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
@@ -71,5 +72,10 @@
 !!!excerpt-end-measure: 26
 !!!excerpt-start-time: 1:34
 !!!excerpt-end-time: 1:38
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 72
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

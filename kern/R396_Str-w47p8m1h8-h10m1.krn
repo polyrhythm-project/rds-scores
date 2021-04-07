@@ -3,6 +3,7 @@
 !!!OMV: Movement 1
 !!!example: 396
 !!!work: Str-47
+!!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -186,5 +187,10 @@
 !!!excerpt-end-measure: 43
 !!!excerpt-start-time: 0:45
 !!!excerpt-end-time: 0:56
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

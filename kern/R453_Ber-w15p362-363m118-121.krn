@@ -3,6 +3,7 @@
 !!!OMV: Act II, Scene 1
 !!!example: 453
 !!!work: Ber-15
+!!!OMD-full: none
 !!!OMD: [Langsame]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -122,5 +123,10 @@
 !!!excerpt-end-measure: 121
 !!!excerpt-start-time: 0:54
 !!!excerpt-end-time: 1:04
+!!!excerpt-tempo-beat: [dotted-half]
+!!!excerpt-tempo-rate: [56]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

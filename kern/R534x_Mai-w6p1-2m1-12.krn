@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 534x
 !!!work: Mai-0
+!!!OMD-full: Allegretto tranquillo
 !!!OMD: Allegretto tranquillo
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -115,6 +116,11 @@
 !!!excerpt-end-measure: 12
 !!!excerpt-start-time: 0:00
 !!!excerpt-end-time: 0:19
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 108
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

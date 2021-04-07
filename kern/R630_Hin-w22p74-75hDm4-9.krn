@@ -3,6 +3,7 @@
 !!!OMV: Movement 4: Finale
 !!!example: 630
 !!!work: Hin-22
+!!!OMD-full: Schnelle viertel
 !!!OMD: [Schnelle Viertel]
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -123,6 +124,11 @@
 !!!excerpt-end-measure: 58
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:39
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {131}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

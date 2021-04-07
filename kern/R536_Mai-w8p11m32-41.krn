@@ -3,6 +3,7 @@
 !!!OMV: No. 3
 !!!example: 536
 !!!work: Mai-8
+!!!OMD-full: Vif et léger
 !!!OMD: [Léger et mordant]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
@@ -122,5 +123,10 @@
 !!!excerpt-end-measure: 41
 !!!excerpt-start-time: 1:02
 !!!excerpt-end-time: 1:23
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [120]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

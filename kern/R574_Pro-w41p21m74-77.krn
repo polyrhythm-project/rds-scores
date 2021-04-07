@@ -3,6 +3,7 @@
 !!!OMV: Movement 3
 !!!example: 574
 !!!work: Pro-41
+!!!OMD-full: Allegro tranquillo
 !!!OMD: [Allegro sostenuto]
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -140,5 +141,10 @@
 !!!excerpt-end-measure: 77
 !!!excerpt-start-time: 4:54
 !!!excerpt-end-time: 5:04
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {96}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -3,6 +3,7 @@
 !!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
 !!!example: 187
 !!!work: Deb-42
+!!!OMD-full: Modéré
 !!!OMD: Mouvement de Marche modéré
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
@@ -157,5 +158,10 @@
 !!!excerpt-end-measure: 137(191)
 !!!excerpt-start-time: 3:41
 !!!excerpt-end-time: 4:04
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {80}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

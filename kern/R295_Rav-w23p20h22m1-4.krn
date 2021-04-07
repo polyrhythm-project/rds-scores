@@ -3,6 +3,7 @@
 !!!OMV: II: Pantoum: Assez vif (Lively enough)
 !!!example: 295
 !!!work: Rav-23
+!!!OMD-full: Assez vif
 !!!OMD: Assez vif
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
@@ -91,5 +92,10 @@
 !!!excerpt-end-measure: 237
 !!!excerpt-start-time: 4:07
 !!!excerpt-end-time: 4:12
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [192]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

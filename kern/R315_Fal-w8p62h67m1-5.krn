@@ -3,6 +3,7 @@
 !!!OMV: Cuadro V: La Fuga (The Escape)
 !!!example: 315
 !!!work: Fal-8
+!!!OMD-full: Andante molto sostenuto
 !!!OMD: Allegretto vivace
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -99,6 +100,11 @@
 !!!excerpt-end-measure: 40(637)
 !!!excerpt-start-time: 4:13
 !!!excerpt-end-time: 4:18
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 152
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

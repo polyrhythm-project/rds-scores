@@ -3,6 +3,7 @@
 !!!OMV: Movement 3: Subway Jam
 !!!example: 724
 !!!work: Cop-42
+!!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**blank	**blank	**blank
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -163,5 +164,10 @@
 !!!excerpt-end-measure: 36
 !!!excerpt-start-time: 0:51
 !!!excerpt-end-time: 1:03
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

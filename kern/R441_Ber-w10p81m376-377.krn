@@ -3,6 +3,7 @@
 !!!OMV: Act I, Scene 3
 !!!example: 441
 !!!work: Ber-10
+!!!OMD-full: Marschtempo
 !!!OMD: [Langsame aber nicht schleppen (Tempo I dieses Liedes)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -54,5 +55,10 @@
 !!!excerpt-end-measure: 48(377)
 !!!excerpt-start-time: 5:25
 !!!excerpt-end-time: 5:30
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [56-60]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

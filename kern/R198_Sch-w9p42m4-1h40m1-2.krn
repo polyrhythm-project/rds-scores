@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 198
 !!!work: Sch-9
+!!!OMD-full: Langsam
 !!!OMD: [Sehr rasch (rascher als die "half " von früher)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
@@ -99,5 +100,10 @@
 !!!excerpt-end-measure: 171
 !!!excerpt-start-time: 6:17
 !!!excerpt-end-time: 6:19
+!!!excerpt-tempo-beat: [dotted-half]
+!!!excerpt-tempo-rate: [92-96]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

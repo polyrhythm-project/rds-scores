@@ -3,6 +3,7 @@
 !!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 426
 !!!work: Var-4
+!!!OMD-full: Grave
 !!!OMD: [Animé et jubilatoire]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
@@ -121,5 +122,10 @@
 !!!excerpt-end-measure: 18
 !!!excerpt-start-time: 0:35
 !!!excerpt-end-time: 0:49
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

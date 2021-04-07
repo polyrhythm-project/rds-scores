@@ -3,6 +3,7 @@
 !!!OMV: Movement 3: Allegro
 !!!example: 599
 !!!work: Hon-38
+!!!OMD-full: Allegro
 !!!OMD: [Allegro]
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -160,5 +161,10 @@
 !!!excerpt-end-measure: 108
 !!!excerpt-start-time: 2:17
 !!!excerpt-end-time: 2:35
+!!!excerpt-tempo-beat: [dotted-quarter];[quarter]
+!!!excerpt-tempo-rate: [126];[126]
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3;G2
 !!!EEV: 2021/03/24
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -3,6 +3,7 @@
 !!!OMV: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
 !!!example: 731
 !!!work: Mes-16
+!!!OMD-full: Vif et gai
 !!!OMD: Plus lent
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
@@ -108,6 +109,11 @@
 !!!excerpt-end-measure: 28
 !!!excerpt-start-time: 1:12
 !!!excerpt-end-time: 1:38
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {82}
+!!!excerpt-meter-type: [odd]
+!!!excerpt-beat-group: Gx
+!!!excerpt-beat-subgroup: Gx
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: > = above

@@ -3,6 +3,7 @@
 !!!OMV: Act I, Prelude
 !!!example: 144
 !!!work: Jan-47
+!!!OMD-full: Andante
 !!!OMD: Più mosso
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
@@ -80,5 +81,10 @@
 !!!excerpt-end-measure: 41
 !!!excerpt-start-time: 1:08
 !!!excerpt-end-time: 1:13
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 66
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28

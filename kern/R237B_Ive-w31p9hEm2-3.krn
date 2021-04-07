@@ -3,6 +3,7 @@
 !!!OMV:
 !!!example: 237B
 !!!work: Ive-31
+!!!OMD-full: Allegro moderato
 !!!OMD: [Allegro vivace]
 !!!RDF**kern: i = editorial accidental, bracket
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
@@ -121,5 +122,10 @@
 !!!excerpt-end-measure: 24
 !!!excerpt-start-time: 1:09
 !!!excerpt-end-time: 1:17
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [200]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
