@@ -18,7 +18,6 @@
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*F:	*	*F:	*	*A:	*	*A:	*	*A:	*	*A:	*
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
-!!LO:REH:t=
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
 !LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:i:t=doux	!	!LO:TX:a:i:t=léger	!	!	!	!LO:TX:t=[[quarter-dot]=72]	!
@@ -97,7 +96,7 @@
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
-8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(40%3b'LLi	p >	4.F#X)	.	4.A)	.	[4d ([4f#i	.	(24bLLi	16b)	.	8%3r	.	8%3r	.
+8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(40%3b'LL	p >	4.F#X)	.	4.A)	.	[4d ([4f#	.	(24bLL	16b)	.	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.
@@ -148,8 +147,5 @@
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
-!!!EEV: 2020/07/28
+!!!EEV: 2021/04/12
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
