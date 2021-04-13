@@ -1,5 +1,7 @@
 !!!COM: Honegger, Arthur
 !!!OTL: Rapsodie (Rhapsody) for Two Flutes, Clarinet and Piano
+!!!example: 584
+!!!work: Hon-4
 !!!OMD-full: Larghetto
 !!!OMD: [Tempo (Allegro)]
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
@@ -13,7 +15,7 @@
 *E:	*	*	*grp:B	*	*E:	*	*E:	*
 *M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
 !!LO:REH:t=6
-=1	=1	=1	=1	=1	=1	=1	=1	=1
+=46	=46	=46	=46	=46	=46	=46	=46	=46
 *MM160	*MM160	*	*MM160	*	*MM160	*	*MM160	*
 4ryy	8CC#<L	p	4r	.	4r	.	4r	.
 .	8C#<J	.	.	.	.	.	.	.
@@ -26,7 +28,7 @@
 .	8cc#J	.	.	.	.	.	.	.
 .	8cc#L	.	4r	.	4r	.	4r	.
 .	8c#J	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2
+=47	=47	=47	=47	=47	=47	=47	=47	=47
 4ryy	8CC#<L	.	12gX'L	.	12ccn'L	.	12ee'L	.
 .	.	.	12g'	.	12cc'	.	12ee'	.
 .	8C#<J	.	.	.	.	.	.	.
@@ -41,7 +43,7 @@
 .	.	.	12f#'	.	12a#'	.	12cc#'	.
 .	8c#J	.	.	.	.	.	.	.
 .	.	.	12f#'J	.	12a#'J	.	12cc#'J	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3
+=48	=48	=48	=48	=48	=48	=48	=48	=48
 4ryy	8CC#<L	.	4d'	.	4f##X'	.	4b'	.
 .	8C#<J	.	.	.	.	.	.	.
 1ryy	8c#L	.	8e-X'L	.	8e#X'L	.	8a'L	.
@@ -57,3 +59,30 @@
 !!!system-decoration: [(s1,s2,s3)]{(s4,s5)}
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1917/11/17
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1917
+!!!MPN: Roy, Manouvrier; Tournier; Vaurabourg, Andrée
+!!!ODT: 1917
+!!!PDT: 1923
+!!!excerpt-start-measure: 46
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 3:43
+!!!excerpt-end-time: 3:48
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 5/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!ONB: Converted from MusicXML on 2020/09/04
