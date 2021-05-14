@@ -187,6 +187,7 @@ if ($dataColumn !~ /^\s*$/) {
 my @filelist = @ARGV;
 
 foreach my $file (@filelist) {
+	print STDERR "Processing $file\n";
 	processFile($file, @CONTENTS);
 }
 
