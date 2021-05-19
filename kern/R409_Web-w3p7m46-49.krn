@@ -6,7 +6,7 @@
 !!!OMD-full: Langsam, mit bewegtem Ausdruok
 !!!OMD: [Schneller werdend]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -61,6 +61,7 @@
 .	.	32f	.	32a-X	.	.	.
 .	.	32fJJJ	.	32a-XJJJ	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47
+*grp:B	*grp:B	*	*	*	*	*	*
 4E-X	.	32f#XLLL	.	32anLLL	.	(12ccc#XL	.
 .	.	32f#X	.	32an	.	.	.
 .	.	32f#X	.	32an	.	.	.
@@ -110,6 +111,7 @@
 .	.	18ccJ)	.	18gg#J)	.	18eeeJ)	.
 *clefG2	*	*clefG2	*	*	*	*	*
 =49	=49	=49	=49	=49	=49	=49	=49
+*grp:A	*grp:A	*	*	*	*	*	*
 !	!	!	!	!	!	!LO:TX:a:B:t=sehr breit und ausdrucksvoll	!
 12g#X^L	fff	12gg#X^L	fff	12gg#X^L	fff	12ggg#X^L	fff
 12f#X^	.	12ff#X^	.	12ff#X^	.	12fff#X^	.
