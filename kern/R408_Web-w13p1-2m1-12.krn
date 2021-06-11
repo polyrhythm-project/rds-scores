@@ -138,7 +138,7 @@
 .	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration:	[(s1,s2)][(s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9)][(s10,s11,s12)]																					
+!!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9)][(s10,s11,s12)]
 !!!CDT: 1883/12/03-1945/09/15
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
@@ -149,7 +149,7 @@
 !!!MGN: unknown
 !!!MLC: Zürich, Switzerland
 !!!MPD: 1924
-!!!MPN:																						
+!!!MPN:
 !!!ODT: 1913
 !!!PDT: 1923
 !!!excerpt-start-measure: 0.75
@@ -164,5 +164,5 @@
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
-!!!EEV:	2020/07/28																					
-!!!ONB:	Converted from MusicXML on 2020/07/28																					
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,10 +1,10 @@
-!!!COM:	Honegger, Arthur
-!!!OTL:	Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!COM: Honegger, Arthur
+!!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
 !!!OMV:
-!!!example:	588
-!!!work:	Hon-18
-!!!OMD-full:	Modéré
-!!!OMD:	[Rythmique]
+!!!example: 588
+!!!work: Hon-18
+!!!OMD-full: Modéré
+!!!OMD: [Rythmique]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*part11	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -206,34 +206,34 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration:	[s1,s2,s3s4,s5,s6,s7,s8][s9,s10]s11[s12,s13,s14,s15,s16]
-!!!RDF**kern:	i = editorial accidental
-!!!RDF**kern:	j = editorial accidental, bracket
-!!!RDF**kern:	Z = editorial accidental, parentheses
-!!!CDT:	1892/03/10-1955/11/27
-!!!CBL:	Le Havre, France
-!!!CDL:	Paris, France
-!!!CNT:	Swiss, French
-!!!AGN:	Orchestral; Symphonic
-!!!MCN:	Koussevitzky, Serge
-!!!MDT:	1924/05/08
-!!!MGN:	Orchestre de l'Opéra
-!!!MLC:	Paris, France
-!!!MPD:	1924
+!!!system-decoration: [s1,s2,s3s4,s5,s6,s7,s8][s9,s10]s11[s12,s13,s14,s15,s16]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Koussevitzky, Serge
+!!!MDT: 1924/05/08
+!!!MGN: Orchestre de l'Opéra
+!!!MLC: Paris, France
+!!!MPD: 1924
 !!!MPN:
-!!!ODT:	1923
-!!!PDT:	1924
-!!!excerpt-start-measure:	51
-!!!excerpt-end-measure:	66
-!!!excerpt-start-time:	1:21
-!!!excerpt-end-time:	1:44
-!!!excerpt-duration-sec:	23
-!!!excerpt-time-signature:	2/2
-!!!excerpt-tempo-beat:	[half]
-!!!excerpt-tempo-rate:	[80]
-!!!excerpt-meter-type:	duple
-!!!excerpt-beat-group:	G2
-!!!excerpt-beat-subgroup:	G2
-!!!experiment:	1
-!!!EEV:	2021/04/13
-!!!ONB:	Converted from MusicXML on 2020/07/28
+!!!ODT: 1923
+!!!PDT: 1924
+!!!excerpt-start-measure: 51
+!!!excerpt-end-measure: 66
+!!!excerpt-start-time: 1:21
+!!!excerpt-end-time: 1:44
+!!!excerpt-duration-sec: 23
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/04/13
+!!!ONB: Converted from MusicXML on 2020/07/28
