@@ -39,8 +39,13 @@ utf16: utf8
 utf8:
 	(cd musicxml && ../bin/utf16toutf8 *.xml)
 
+
 index:
 	bin/makehmdindex > index.hmd
+
+
+clean-tabs:
+	(cd kern && ../bin/removeTabs *.krn)
 
 
 meta: metadata
