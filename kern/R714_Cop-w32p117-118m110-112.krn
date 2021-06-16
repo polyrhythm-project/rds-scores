@@ -18,7 +18,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd-7c-12	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*C:	*	*F:	*	*F:	*	*	*	*	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 !!LO:REH:t=110
 =110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -56,7 +56,6 @@
 *	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
 *	*	*	*	*	*	*M6/8	*	*M6/8	*	*	*	*	*	*	*	*	*	*	*	*	*	*rscale:1/2	*	*rscale:1/2	*	*	*	*	*	*	*	*	*	*	*	*	*	*M6/8	*
 *	*	*	*	*	*	*rscale:1/2	*	*rscale:1/2	*	*	*	*	*	*	*	*	*	*	*	*	*	*M6/8	*	*M6/8	*	*	*	*	*	*	*	*	*	*	*	*	*	*rscale:1/2	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rhythms are triplets, and are missing a written '3' above. These are meant to express a polymeter of 6/8.	!
 2r	.	8cL	.	8dL 8f	.	3ccc 3cccc	.	3ccc 3cccc	.	8cL 8d 8f	.	8b-L 8dd 8ff	.	8Re/L	.	4.F	4.r	.	4.f	.	3cc	3cc	.	3cc	.	8cL 8f	.	8ddL	.	8cL	.	8ddL	.	8b-L 8ff	f	8b-L 8dd	.	3cccc	ff
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
 .	.	8c	.	8d 8f	.	.	.	.	.	8c 8d 8f	.	8b- 8dd 8ff	.	8Re/	.	.	.	.	.	.	.	.	.	.	.	8c 8f	.	8dd	.	8c	.	8dd	.	8b- 8ff	.	8b- 8dd	.	.	.
@@ -139,4 +138,4 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/09/18
-!!!ONB: Converted from MusicXML on 2020/09/04
+!!!ONB: Converted from MusicXML on 2021/06/16
