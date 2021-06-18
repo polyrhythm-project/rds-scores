@@ -14,7 +14,7 @@
 *	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
 *k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
 *E:	*	*E:	*	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M7/8	*	*	*M7/8	*	*	*M7/8	*	*	*M7/8	*	*
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:a:i:t=cresc.	!	!
 2ryy	f	2ryy	f	2ryy	f	8BBL	Ho-	f	8BL	Ho-	f	8BL	Ho-	f	8BL	Ho-	f
 .	.	.	.	.	.	8C#	.	.	8c#	.	.	8c#	.	.	8c#	.	.
@@ -86,6 +86,7 @@
 .	.	.	.	.	.	8Fn	of	.	8fn	of	.	8fn	of	.	8fn	of	.
 .	.	.	.	.	.	8E-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.	8e-X	Thy	.
 =-	=-	=-	=-	=-	=-	=	=	=	=	=	=	=	=	=	=	=	=
+*	*	*	*	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*
 .	.	.	.	.	.	4Cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>	4cn	Glo-	>
 =	=	=	=	=	=	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
 .	.	16qqEn/LL	.	(16qqcccn/LL	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -122,5 +123,5 @@
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3,G2;G2
 !!!experiment: 1
-!!!EEV: 2021/06/16
+!!!EEV: 2021/06/18
 !!!ONB: Converted from MusicXML on 2020/07/28
