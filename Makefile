@@ -73,6 +73,12 @@ staff:
 range:
 	@bin/getPitchRanges experiment/*.krn
 
+mean: pitch-mean
+means: pitch-mean
+pitch-means: pitch-mean
+pitch-mean:
+	@bin/getPitchMeans experiment/*.krn
+
 register:
 	@bin/getPitchRegisters experiment/*.krn
 

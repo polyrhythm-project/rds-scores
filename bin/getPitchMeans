@@ -1,0 +1,62 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Jun 19 22:12:21 PDT 2021
+# Last Modified: Sat Jun 19 22:12:24 PDT 2021
+# Filename:      getPitchRanges
+# Syntax:        perl 5
+#
+# Description:   Return the total pitch range in music and separate groups.
+# 
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+##
+
+sub process {
+	my ($file) = @_;
+	my $all = `cat $file | prange | grep mean`;
+	my $groupA = `cat $file | composite -o A | prange | grep mean`;
+	my $groupB = `cat $file | composite -o B | prange | grep mean`;
+
+	my $allrange;
+	my $groupArange;
+	my $groupBrange;
+
+	if ($all =~ /(\d+\.?\d*)/) {
+		$allrange = $1;
+	} else {
+		$allrange = "ERROR";
+	}
+
+	if ($groupA =~ /(\d+\.?\d*)/) {
+		$groupArange = $1;
+	} else {
+		$groupArange = "ERROR";
+	}
+
+	if ($groupB =~ /(\d+\.?\d*)/) {
+		$groupBrange = $1;
+	} else {
+		$groupBrange = "ERROR";
+	}
+
+	print "$allrange\t$groupArange\t$groupBrange\n";
+}
+
+
+
