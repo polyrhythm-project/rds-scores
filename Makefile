@@ -70,6 +70,15 @@ polarity:
 staff:
 	@bin/getStaffCount experiment/*.krn
 
+range:
+	@bin/getPitchRanges experiment/*.krn
 
+register:
+	@bin/getPitchRegisters experiment/*.krn
 
+registerA:
+	@bin/getPitchRegisters -g A experiment/*.krn
+
+registerB:
+	@bin/getPitchRegisters -g B experiment/*.krn
 

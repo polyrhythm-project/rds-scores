@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sun Jun 20 11:17:29 PDT 2021
+# Last Modified: Sun Jun 20 11:17:32 PDT 2021
+# Filename:      getPitchRegisters
+# Syntax:        perl 5
+#
+# Description:   Output three columns showing the relative amount of notes
+#                in each pitch range:
+#                    low: below C3
+#                    mid: between C3 and C5
+#                    high: above C5
+# 
+
+use strict;
+use Getopt::Long;
+
+# $COLUMNSPACE is the text which separates each column of parameters.
+my $group = "";
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'g|group=s' => \$group
+);
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+##
+
+sub process {
+	my ($file) = @_;
+	my @contents;
+	if ($group !~ /^\s*$/) {
+		@contents = `cat $file | composite -o $group | prange`;
+	} else {
+		@contents = `prange $file`;
+	}
+	chomp @contents;
+	my $low  = 0;
+	my $mid  = 0;
+	my $high = 0;
+	foreach my $line (@contents) {
+		next if $line =~ /^[!*=]/;
+		next if $line =~ /^\s*$/;
+		my @data = split(/\t+/, $line);
+		my $pitch = $data[0];
+		my $count = $data[2];
+		if ($pitch < 48) {
+			$low++;
+		} elsif ($pitch > 72) {
+			$high++;
+		} else {
+			$mid++;
+		}
+	}
+	my $total = $low + $mid + $high;
+	if ($total > 0) {
+		$low  = $low / $total;
+		$mid  = $mid / $total;
+		$high = $high / $total;
+		$low  = int($low  * 1000.0 + 0.5) / 1000.0;
+		$mid  = int($mid  * 1000.0 + 0.5) / 1000.0;
+		$high = int($high * 1000.0 + 0.5) / 1000.0;
+		print "$low\t$mid\t$high\n";
+	} else {
+		print "0\t0\t0\n";
+	}
+}
+
+
+
