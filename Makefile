@@ -67,6 +67,8 @@ nested:
 polarity:
 	@bin/getPolarityRatio experiment/*.krn
 
+staff:
+	@bin/getStaffCount experiment/*.krn
 
 
 
