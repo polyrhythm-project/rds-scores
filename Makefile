@@ -1,5 +1,6 @@
 
 
+.PHONY: experiment
 
 check: check-sibelius check-musicxml check-pdf check-kern
 
@@ -51,5 +52,22 @@ clean-tabs:
 meta: metadata
 metadata:
 	bin/polymeta kern/*.krn
+
+
+experiment:
+	mkdir -p experiment
+	cp $$(grep -l "experiment: 1" kern/*.krn) experiment
+
+
+##### ANALYSES #####
+
+nested:
+	@bin/getNestedRatio experiment/*.krn
+
+polarity:
+	@bin/getPolarityRatio experiment/*.krn
+
+
+
 
 

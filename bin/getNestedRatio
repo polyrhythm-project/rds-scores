@@ -1,0 +1,65 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Jun 19 20:12:51 PDT 2021
+# Last Modified: Sat Jun 19 20:12:54 PDT 2021
+# Filename:      getNestedRatio
+# Syntax:        perl 5
+#
+# Description:   Calculate group nested score.
+#                Equation: composite-coincide-notes divided by composite-total-notes
+#                lower ratio = less integration; 
+#                higher ratio = more integration; 
+#                less integrated = more complex; 
+#                more integrated = less complex
+#
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+## !!!group-A-total-notes: 24
+## !!!group-A-coincide-notes: 6
+## !!!group-B-total-notes: 24
+## !!!group-B-coincide-notes: 6
+## !!!composite-total-notes: 42
+## !!!composite-coincide-notes: 6
+##
+
+sub process {
+	my ($file) = @_;
+	my @contents = `cat $file | composite -M | composite -GM`;
+	chomp @contents;
+	my $coincideNotes = -1;
+	my $compositeNotes = -1;
+	foreach my $line (@contents) {
+		if ($line =~ /composite-total-notes:\s*(\d+)/) {
+			$compositeNotes = $1;
+		} elsif ($line =~ /group-A-coincide-notes:\s*(\d+)/) {
+			$coincideNotes = $1;
+		}
+	}
+	if ($compositeNotes <= 0) {
+		print "ERROR\n";
+	} elsif ($coincideNotes < 0) {
+		print "ERROR\n";
+	} else {
+		my $value = $coincideNotes / $compositeNotes;
+		my $value = int($value * 1000.0 + 0.5) / 1000.0;
+		print "$value\n";
+	}
+}
+
+
+

@@ -1,0 +1,87 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Jun 19 20:27:11 PDT 2021
+# Last Modified: Sat Jun 19 20:27:13 PDT 2021
+# Filename:      getPoliarityRatio
+# Syntax:        perl 5
+#
+# Description:   Calculate Polarity ratio:
+# 
+#                abs [(group-A-coincide-notes divided by group-A-total-notes) - (group-B-coincide-notes divided by group-B-total-notes) ] / composite-total-notes
+#
+#                INTERPRETATION: higher = more polarity; lower = more balanced/less polarity
+#                NOTE: In theory, polarity (i.e., salience of one group in comparison
+#                to the other) has a direction toward one or the other group; here,
+#                absolute values are used because grp A vs. grp B is arbitrary except
+#                for the fact that A will always include the lowest part.
+#
+#                Polarity may interact with nestedness, but I am not sure  if it
+#                relates directly to complexity. It is more about whether one stream
+#                will be heard as more salient, and to what degree.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+## !!!group-A-total-notes: 24
+## !!!group-A-coincide-notes: 6
+## !!!group-B-total-notes: 24
+## !!!group-B-coincide-notes: 6
+## !!!composite-total-notes: 42
+## !!!composite-coincide-notes: 6
+##
+
+sub process {
+	my ($file) = @_;
+	my @contents = `cat $file | composite -M | composite -GM`;
+	chomp @contents;
+	my $groupAcoincide = -1;
+	my $groupBcoincide = -1;
+	my $groupAtotal = -1;
+	my $groupBtotal = -1;
+	my $compositeTotal = -1;
+	foreach my $line (@contents) {
+		if ($line =~ /composite-total-notes:\s*(\d+)/) {
+			$compositeTotal = $1;
+		} elsif ($line =~ /group-A-coincide-notes:\s*(\d+)/) {
+			$groupAcoincide = $1;
+		} elsif ($line =~ /group-B-coincide-notes:\s*(\d+)/) {
+			$groupBcoincide = $1;
+		} elsif ($line =~ /group-A-total-notes:\s*(\d+)/) {
+			$groupAtotal = $1;
+		} elsif ($line =~ /group-B-total-notes:\s*(\d+)/) {
+			$groupBtotal = $1;
+		}
+	}
+	if ($groupAcoincide < 0) {
+		print "ERROR\n";
+	} elsif ($groupBcoincide < 0) {
+		print "ERROR\n";
+	} elsif ($groupAtotal <= 0) {
+		print "ERROR\n";
+	} elsif ($groupBtotal <= 0) {
+		print "ERROR\n";
+	} elsif ($compositeTotal <= 0) {
+		print "ERROR\n";
+	} else {
+		my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
+		my $value = int($value * 1000.0 + 0.5) / 1000.0;
+		print "$value\n";
+	}
+}
+
+
+
