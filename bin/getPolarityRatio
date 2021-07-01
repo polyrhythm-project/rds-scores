@@ -77,8 +77,9 @@ sub process {
 	} elsif ($compositeTotal <= 0) {
 		print "ERROR\n";
 	} else {
-		my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
-		my $value = int($value * 1000.0 + 0.5) / 1000.0;
+		# my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
+		my $value = abs($groupAtotal - $groupBtotal) * 1.0 / $compositeTotal;
+		$value = int($value * 1000.0 + 0.5) / 1000.0;
 		print "$value\n";
 	}
 }

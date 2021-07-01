@@ -1,0 +1,145 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Jun 30 22:20:13 PDT 2021
+# Last Modified: Wed Jun 30 22:20:16 PDT 2021
+# Filename:      getSonorityDissonance
+# Syntax:        perl 5
+#
+# Description:   Return the average sonority dissonance, weighted by duration
+# 
+
+use strict;
+
+my %scores = ("P8" => 0, "P1" => 0, "P4" => 1, "P5" => 1, "m3" =>
+2, "M3" => 2, "M6" => 2, "M2" => 3, "m6" => 2, "m7" => 3, "P15" =>
+0, "m10" => 2, "P12" => 1, "M9" => 3, "P11" => 1, "M10" => 2, "d5"
+=> 4, "A4" => 4, "M13" => 2, "m14" => 3, "M7" => 4, "m13" => 2,
+"m2" => 5, "M16" => 3, "m9" => 4, "P19" => 1, "M17" => 2, "m17" =>
+2, "A5" => 2, "d4" => 2, "A11" => 4, "P22" => 0, "P18" => 1, "A1"
+=> 5, "d12" => 4, "A8" => 4, "M14" => 3, "M20" => 2, "d2" => 2,
+"A2" => 2, "m16" => 3, "d8" => 4, "m20" => 2, "m21" => 3, "d7" =>
+2, "A9" => 2, "A12" => 2, "d19" => 3, "d11" => 2, "M23" => 3, "M24"
+=> 2, "A18" => 4, "m24" => 2, "A15" => 4, "P25" => 1, "P26" => 1,
+"d9" => 0, "A6" => 3, "A3" => 1, "A16" => 2, "M21" => 3, "d18" =>
+3, "d15" => 4, "m28" => 2, "d3" => 3, "d22" => 3, "d6" => 1, "m23"
+=> 3, "A22" => 3, "M27" => 2, "d10" => 3, "A19" => 2, "d26" => 3,
+"M30" => 2, "A13" => 3, "d14" => 2, "d16" => 1, "A25" => 3, "m27"
+=> 2, "AA4" => 1, "d13" => 2, "P29" => 1, "A20" => 3, "dd5" => 1,
+"A7" => 0, "d25" => 2, "A26" => 3, "m31" => 2, "P33" => 1, "A23"
+=> 2, "d21" => 2, "M28" => 3, "d17" => 3, "A10" => 1, "m35" => 3,
+"dd12" => 1, "d20" => 1, "d24" => 3, "P32" => 1, "M31" => 3, "AA1"
+=> 4, "AA11" => 1, "dd8" => 3, "A14" => 0, "m38" => 3, "A29" => 3,
+"A21" => 0, "r" => 0, "-" => 0, "A17" => 1, "m34" => 3, "m30" =>
+3, "d23" => 0, "P36" => 1, "AA22" => 3, "d29" => 3, "A32" => 3,
+"dd22" => 3, "d31" => 3, "d28" => 2, "d27" => 1, "M37" => 3, "dd15"
+=> 3, "AA8" => 3, "dd4" => 2, "M38" => 3, "M34" => 3, "AA18" => 1,
+"A30" => 2, "d36" => 3, "d34" => 3, "AA15" => 3, "m41" => 3, "dd19"
+=> 1, "AA6" => 4, "d33" => 2, "A27" => 3, "A24" => 1, "dd6" => 1,
+"dd26" => 1, "M35" => 3, "A28" => 1, "dd13" => 1, "dd10" => 3, "P39"
+=> 1, "AA3" => 4, "dd18" => 2, "dd11" => 2, "AA5" => 2, "AA25" =>
+1, "AA2" => 2, "AA13" => 3, "dd7" => 2, "dd3" => 4, "dd29" => 3,
+"dd21" => 2, "d35" => 2, "d32" => 2, "d30" => 3, "P40" => 1, "AA9"
+=> 2, "AA31" => 3, "AA24" => 3, "A33" => 2, "ddd5" => 2, "ddd12"
+=> 2, "dd17" => 3, "dd14" => 2, "d37" => 2, "P47" => 1, "AA12" =>
+2, "A36" => 3);
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+##
+
+sub process {
+	my ($file) = @_;
+	my @durations = getDurations($file);
+	my @harmonies = getHarmonies($file);
+	my $duration = 0;
+	my $summation = 0;
+	for (my $i=0; $i<@harmonies; $i++) {
+		next if $harmonies[$i] =~ /^\s*$/;
+		my $dur = $durations[$i];
+		next if $dur == 0;
+		my $diss = getMaxDissonance($harmonies[$i]);
+		$duration += $dur;
+		$summation += $dur * $diss;
+		# print "$dur\t$diss\t$harmonies[$i]\n";
+	}
+	my $value = $summation / $duration;
+	$value = int($value * 1000 + 0.5) / 1000.0;
+
+	print "$value\n";
+
+}
+
+
+
+##############################
+##
+## getMaxDissonance --
+##
+
+sub getMaxDissonance {
+	my ($line) = @_;
+	my @data = split(/\s+/, $line);
+	my $max = 0;
+	foreach my $interval (@data) {
+		next if $interval =~ /^\s*$/;
+		my $diss = $scores{$interval};
+		next if $diss =~ /^\*$/;
+		$max = $diss if $max < $diss;
+	}
+	return $max;
+}
+
+
+
+##############################
+##
+## getHarmonies --
+##
+
+sub getHarmonies {
+	my ($file) = @_;
+	my @contents = `cat $file | ditto | hint -a`;
+	chomp @contents;
+	my @output;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^[*!=]/;
+		$output[$i] = $line;
+	}
+	return @output;
+}
+
+
+
+##############################
+##
+## getDurations --
+##
+
+sub getDurations {
+	my ($file) = @_;
+	my @contents = `beat -d $file`;
+	die "Problem with file duratins in $file" if @contents <= 2;
+	chomp @contents;
+	my @output;
+	for (my $i=0; $i<@contents; $i++) {
+		$output[$i] = 0 + $contents[$i];
+	}
+	return @output;
+}
+
+
+
