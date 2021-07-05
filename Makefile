@@ -107,4 +107,11 @@ dissonance:
 	@bin/getSonorityDissonance experiment/*.krn
 
 
+dur: duration
+durs: duration
+durations: duration
+duration:
+	@bin/getExampleDurations experiment/*.krn
+
+
 

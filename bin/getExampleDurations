@@ -1,0 +1,44 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Jun 19 20:53:01 PDT 2021
+# Last Modified: Sat Jun 19 20:53:05 PDT 2021
+# Filename:      getStaffCount
+# Syntax:        perl 5
+#
+# Description:   Return the number of **kern spines in the file.
+# 
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+##
+
+sub process {
+	my ($file) = @_;
+	my @contents = `cat $file | grep "excerpt-duration-sec"`;
+
+	foreach my $line (@contents) {
+		if ($line =~ /(\d+\.?\d*)/) {
+			print "$1\n";
+		} else {
+			print "ERROR\n";
+		}
+	}
+}
+
+
+
