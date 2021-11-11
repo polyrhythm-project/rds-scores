@@ -5,39 +5,41 @@
 !!!work: Jan-30
 !!!OMD-full: Con moto
 !!!OMD: [Andante, un poco più mosso]
-**kern	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
-*part2	*part2	*part2	*part1	*part1
-*staff3	*staff2	*	*staff1	*
-*ICklav	*ICklav	*	*ICstr	*
-*Ipiano	*Ipiano	*	*Icello	*
-*I"Piano	*	*	*I"Violoncello	*
-*I'Pno.	*	*	*I'Vc.	*
-*clefF4	*clefG2	*	*clefF4	*
-*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*
-*A:	*A:	*	*A:	*
-*M2/8	*M2/8	*	*M2/8	*
-=124	=124	=124	=124	=124
-*grp:A	*	*	*	*
-!	!	!	!	!
-*	*	*	*Xtuplet	*
-24EE	8.Gn<L	.	24r	.
-*	*	*	*Xtuplet	*
-!	!	!	!	!LO:DY:ed=brack
-24ELL	.	.	(24BB'LL	mf
-24EJJ 24G	.	.	24BB'JJ 24E	.
-8r	.	.	24BB'LL 24E	.
-.	.	.	24BB'JJ 24E)	.
-!	!	!	!	!
-.	16B<Jk)	.	.	.
-!	!	!	!	!LO:DY:t=espress. %s
-.	.	.	(24gn	f
-=125	=125	=125	=125	=125
-*^	*	*	*	*
+**kern		**kern	**dynam	**kern	**dynam
+*grp:A		*grp:B	*grp:B	*grp:A	*grp:A
+*part2		*part2	*part2	*part1	*part1
+*staff3		*staff2	*	*staff1	*
+*ICklav		*ICklav	*	*ICstr	*
+*Ipiano		*Ipiano	*	*Icello	*
+*I"Piano		*	*	*I"Violoncello	*
+*I'Pno.		*	*	*I'Vc.	*
+*clefF4		*clefG2	*	*clefF4	*
+*k[f#c#g#]		*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:		*A:	*	*A:	*
+*M2/8		*M2/8	*	*M2/8	*
+=124		=124	=124	=124	=124
+*grp:A		*	*	*	*
+*		*	*	*Xtuplet	*
+*^		*	*	*	*
+24EE\	8.Gn<L	4ryy	.	24r	.
+*	*	*	*	*Xtuplet	*
+!	!	!	!	!	!LO:DY:ed=brack
+24ELL\	.	.	.	(24BB'LL	mf
+24EJJ 24G	.	.	.	24BB'JJ 24E	.
+8r	.	.	.	24BB'LL 24E	.
+.	.	.	.	24BB'JJ 24E)	.
+.	16B<Jk)j	.	.	.	.
+!	!	!	!	!	!LO:DY:t=espress. %s
+.	.	.	.	(24gn	f
+*v	*v	*	*	*	*
+=125		=125	=125	=125	=125
+*^		*	*	*	*
 *	*ped	*	*	*	*
 *	*	*	*	*grp:B	*grp:B
-8ryy	24EE	(64ff#XLLLL	.f	16aLL	.
+!	!	!	!LO:DY:a	!	!
+8ryy	24EE	(64ff#XLLLL	f	16aLL	.
 .	.	64ee	.	.	.
+!	!	!	!	!	!
 !	!	!	!	!LO:TX:b:i:t=cresc.	!
 .	.	64b	.	.	.
 .	24E'LL	.	.	.	.
@@ -76,8 +78,8 @@
 .	.	.	.	16BJJ)	.
 .	24E'JJ 24G	.	.	.	.
 *v	*v	*	*	*	*
-=	=	=	=	=
-*-	*-	*-	*-	*-
+=		=	=	=	=
+*-		*-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!system-decoration: s1[({(s2,s3)})]
@@ -108,3 +110,5 @@
 !!!experiment: 1
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
