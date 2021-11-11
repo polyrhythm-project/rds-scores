@@ -4,7 +4,7 @@
 !!!example: 131
 !!!work: Jan-43
 !!!OMD-full: Presto
-!!!OMD: Presto
+!!!OMD: Presto ([half-dot] = 84)
 **kern	**text	**text	**dynam	**kern	**text	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
@@ -14,12 +14,12 @@
 *I"BASSI I	*	*	*	*I"TENORI I	*	*	*
 *I'B.	*	*	*	*I'T.	*	*	*
 *clefF4	*	*	*	*clefGv2	*	*	*
-*	*	*	*	*Trd0c0	*	*	*
+*	*	*	*	*	*	*	*
 *k[]	*	*	*	*k[]	*	*	*
 *C:	*	*	*	*C:	*	*	*
 *M3/4	*	*	*	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Baryton solo	!	!	!	!LO:TX:t=Presto ([half-dot]=84)	!	!	!
+!LO:TX:a:t=Baryton solo	!	!	!	!	!	!	!
 4B-X	Po-	Ir-	f	4r	.	.	.
 4B-	-tul-	-rend	.	6E-X 6A-X	Ší-	Seht,	pp
 .	.	.	.	6G	-le-	ein	.
