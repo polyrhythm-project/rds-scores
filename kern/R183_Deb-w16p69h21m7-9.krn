@@ -3,7 +3,6 @@
 !!!OMV: II: Fêtes (Festivals)
 !!!example: 183
 !!!work: Deb-16
-!!!Xfilter: transpose -t -P8 -s 1
 !!!OMD-full: Animé et très rythmé
 !!!OMD: A Tempo [Animé et très rhythmé]
 **kern	**dynam	**kern	**dynam	**kern	**dynam
@@ -21,12 +20,12 @@
 *M3/4	*	*M3/4	*	*M3/4	*
 !!LO:REH:t=
 =266	=266	=266	=266	=266	=266
-!	!	!	!	!	!
-!LO:TX:a:t=du bout de l'archet	!LO:DY:t=%s et toujours en s'éloignant davantage	!LO:TX:a:t=du bout de l'archet	!LO:DY:t=%s et toujours en s'éloignant davantage	!LO:TX:t=[quarter]=135	!
+!LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
+!LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!LO:TX:t=[[quarter]=135]	!
 12AAAL	pp	12AAL	pp	8Rcc^\	ppp
 12AAA	.	12AA	.	.	.
 .	.	.	.	8r	.
-!	!	!	!	!	!
+!	!	!LO:TX:a:i:t=et toujours en s'éloignant davantage	!	!	!
 12AAAJ	.	12AAJ	.	.	.
 12AAA-XL	.	12AA-XL	.	12Rcc\L	.
 12AAA-	.	12AA-	.	12Rcc\	.
