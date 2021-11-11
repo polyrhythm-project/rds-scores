@@ -11,22 +11,20 @@
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Ifag_c	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horns in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*
 *clefC4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd0c0	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd0c0	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=40
 =170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
 *	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half-dot]=94	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(womöglich)	!
-!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem immer noch col legno	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:TX:b:t=[pp]	!	!	!LO:DY:ed=brack
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:rehearsal mark 40 needs to be added to beginning	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:this first oboe pitch needs parentheses around it	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:system brackets need to be fixed to match original	!	!	!	!	!	!	!
-4B-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GG	p	4B-X	pp	2.d-XTT	pp	4B-X	sf	4B-X	fff
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half-dot]=94]	!
+!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem. immer noch col legno	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:a:t=(womöglich)	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[m.D.]	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:missing parentheses for oboe tone	!
+4BB-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GGG	p	4B-X	pp	2.d-XTT	pp	4B-Xz	pp	4B-X	fff
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -45,7 +43,7 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4GG	.	[4GG	.	4a-	.	32d-X	.	8cc-X'	.	4r	.	4r	.	4r	.	.	.	4r	.	4r	.
+4GGG	.	[4GG	.	4a-	.	32d-X	.	8cc-X'	.	4r	.	4r	.	4r	.	.	.	4r	.	4r	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -63,7 +61,7 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-4GG	<	4.GG	.	8f'	.	32d-X	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+4GGB	<	4.GG	.	8f'	.	32d-X	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
