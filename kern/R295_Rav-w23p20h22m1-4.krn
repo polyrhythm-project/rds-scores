@@ -5,76 +5,82 @@
 !!!work: Rav-23
 !!!OMD-full: Assez vif
 !!!OMD: Assez vif
-**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part3	*part3	*part3	*part2	*part2	*part1	*part1
-*staff4	*staff3	*	*staff2	*	*staff1	*
-*ICklav	*ICklav	*	*ICstr	*	*ICstr	*
-*piano	*piano	*	*Icello	*	*Ivioln	*
-*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
-*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
-*clefF4	*clefF4	*	*clefC4	*	*clefG2	*
-*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
-*A:	*A:	*	*A:	*	*A:	*
-*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
-*	*	*	*	*	*8va	*
+**kern			**kern		**dynam	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A			*grp:A		*	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3			*part3		*	*part3	*part2	*part2	*part1	*part1
+*staff4			*staff3		*	*	*staff2	*	*staff1	*
+*ICklav			*ICklav		*	*	*ICstr	*	*ICstr	*
+*piano			*piano		*	*	*Icello	*	*Ivioln	*
+*I"Piano			*		*	*	*I"Violoncello	*	*I"Violin	*
+*I'Pno.			*		*	*	*I'Vc.	*	*I'Vln.	*
+*clefF4			*clefF4		*	*	*clefC4	*	*clefG2	*
+*k[f#c#g#]			*k[f#c#g#]		*	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:			*A:		*	*	*A:	*	*A:	*
+*M3/4			*M3/4		*	*	*M3/4	*	*M3/4	*
+*			*		*	*	*	*	*8va	*
 !!LO:REH:t=22
-=234	=234	=234	=234	=234	=234	=234
-*^	*^	*	*	*	*	*
-*	*^	*	*	*	*	*	*	*
-!	!	!	!LO:TX:b:t=[pp]	!	!	!LO:TX:a:t=arco	!	!	!
-*	*8ba	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:over the barline beaming needs to be added in VLN and CLO
-4r	]2.AAAA 2.AAA	4ryy	4r	4ryy	.	8ee'`L	pp	8eeee'`L	pp
-!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=192	!
-.	.	.	.	.	.	8ee'`	.	8eeee'`	.
-!	!	!	!LO:TX:b:i:t=cresc. poco a poco	!	!	!LO:TX:b:i:t=cresc. poco a poco	!	!LO:TX:b:i:t=cresc. poco a poco	!
-(2AA	.	4EE\	(4E	2C#	<[	8dd'	.	8dddd'	.
-.	.	.	.	.	.	8ee'`J	.	8eeee'`J	.
-.	.	4FFn\	4Fn	.	.	8a'`L	.	8aaa'`L	.
-.	.	.	.	.	.	8a'`	.	8aaa'`	.
-*	*v	*v	*	*	*	*	*	*	*
-=235	=235	=235	=235	=235	=235	=235	=235	=235
-[2AA	12AAL	12AL	4Cn	>	8ccn'	.	8ccccn'	.
-.	12GGn	12Gn	.	.	.	.	.	.
-.	.	.	.	.	8dd'J	.	8dddd'J	.
-.	12FFnJ	12FnJ	.	.	.	.	.	.
-.	4EE	4E	4C#X	.	8ee'L	.	8eeee'L	.
-.	.	.	.	.	8ee'J	.	8eeee'J	.
-*v	*v	*	*	*	*	*	*	*
-*	*v	*v	*	*	*	*	*
-*	*	*	*	*	*	*
-*^	*^	*	*	*	*	*
-4AA])	4GG	4E-X 4G)	4Cn	]	8a'L	.	8aaa'L	.
-*	*X8ba	*	*	*	*	*	*	*
-.	.	.	.	.	8a'	.	8aaa'	.
-*	*	*v	*v	*	*	*	*	*
-=236	=236	=236	=236	=236	=236	=236	=236
-*	*^	*	*	*	*	*	*
-4r	2.AAA 2.AA	4ryy	4r	.	8gn'	.	8gggn'	.
-.	.	.	.	.	8a'J	.	8aaa'J	.
-(2F#	.	4Cn\	(4A 4cn	<	8d'L	.	8ddd'L	.
-.	.	.	.	.	8d'	.	8ddd'	.
-.	.	4D\	4d	[	8fn'	.	8fffn'	.
-.	.	.	.	.	8g'J	.	8ggg'J	.
-*	*v	*v	*	*	*	*	*	*
-=237	=237	=237	=237	=237	=237	=237	=237
-*	*	*^	*	*	*	*	*
-2F#X	12FnL	12fnL	2A	>	8a'L	.	8aaa'L	.
-.	12E-X	12e-X	.	.	.	.	.	.
-*	*	*	*	*	*	*	*X8va	*
-.	.	.	.	.	8a'J	.	8aaa'J	.
-.	12DJ	12dJ	.	.	.	.	.	.
-*	*	*	*	*	*clefF4	*	*	*
-.	4Cn	4cn	.	.	8d'L	.	8ddd'L	.
-.	.	.	.	.	8d'J	.	8ddd'J	.
-4F#X)	4D	4d)	4A	]	8cn'L	.	8cccn'L	.
-.	.	.	.	.	8d'J	.	8ddd'J	.
-*v	*v	*	*	*	*	*	*	*
-*	*v	*v	*	*	*	*	*
-=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-
+=234			=234		=234	=234	=234	=234	=234	=234
+*^			*^		*	*	*	*	*	*
+*	*^		*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!
+*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!LO:DY:ed=brack	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+2.AAAA] 2.AAA\	4rC	4ryy	4r	4ryy	pp	.	8ee'L	pp	8eeee'L	pp
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
+!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+.	.	.	.	.	.	.	8ee'	.	8eeee'	.
+!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!LO:TX:b:i:t=Cresc. poco a poco	!
+.	(4EE	2AA	(4E	2C#	.	<	8dd'	.	8dddd'	.
+!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+.	.	.	.	.	.	.	8ee'J	.	8eeee'J	.
+!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+.	4FF	.	4Fn	.	.	.	8a'L	.	8aaa'L	.
+!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+.	.	.	.	.	.	[[	8a'	.	8aaa'	.
+*	*v	*v	*	*	*	*	*	*	*	*
+=235	=235		=235	=235	=235	=235	=235	=235	=235	=235
+2AA	12AAL		12AL	4Cn	.	>	8ccn'	.	8ccccn'	.
+.	12GGn		12Gn	.	.	.	.	.	.	.
+.	.		.	.	.	.	8dd'J	.	8dddd'J	.
+.	12FFnJ		12FnJ	.	.	.	.	.	.	.
+.	4EE		4E	4C#X	.	.	8ee'L	.	8eeee'L	.
+.	.		.	.	.	.	8ee'J	.	8eeee'J	.
+*v	*v		*	*	*	*	*	*	*	*
+*			*	*	*	*	*	*	*	*
+*			*	*	*	*	*	*	*	*
+*^			*	*	*	*	*	*	*	*
+4AA	4GG)		4E-X 4G)	4Cn	.	]	8a'L	.	8aaa'L	.
+*X8va	*		*	*	*	*	*	*	*	*
+.	.		.	.	.	.	8a'	.	8aaa'	.
+*	*		*	*	*	*	*	*	*	*
+=236	=236		=236	=236	=236	=236	=236	=236	=236	=236
+*	*^		*	*	*	*	*	*	*	*
+4rc	4ryy	2.AAA AA\	4r	4r	.	.	8gn'	.	8gggn'	.
+.	.	.	.	.	.	.	8a'J	.	8aaa'J	.
+!	!	!	!LO:S:a	!LO:S:a	!	!	!	!	!	!
+2F#	(4Cn\	.	(4cn/	2A	.	<	8d'L	.	8ddd'L	.
+.	.	.	.	.	.	.	8d'	.	8ddd'	.
+.	4D\	.	4d/	.	.	.	8fn'	.	8fffn'	.
+.	.	.	.	.	.	[[	8g'J	.	8ggg'J	.
+*	*v	*v	*	*	*	*	*	*	*	*
+=237	=237		=237	=237	=237	=237	=237	=237	=237	=237
+*	*		*	*	*	*	*	*	*	*
+2F#Xi	12FnL		12fnL	2A	.	>	8a'L	.	8aaa'L	.
+.	12E-X		12e-X	.	.	.	.	.	.	.
+*	*		*	*	*	*	*	*	*	*
+.	.		.	.	.	.	8a'J	.	8aaa'J	.
+.	12DJ		12dJ	.	.	.	.	.	.	.
+*	*		*	*	*	*	*clefF4	*	*X8va	*
+.	4Cn		4cn	.	.	.	8d'L	.	8ddd'L	.
+.	.		.	.	.	.	8d'J	.	8ddd'J	.
+4F#X	4D)		4d)	4A	.	]	8cn'L	.	8cccn'L	.
+.	.		.	.	.	.	8d'J	.	8ddd'J	.
+*v	*v		*	*	*	*	*	*	*	*
+*			*v	*v	*	*	*	*	*	*
+=			=		=	=	=	=	=	=
+*-			*-		*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[({(s3,s4)})]
+!!!RDF**kern: i = editorial accidental, paren
 !!!CDT: 1875/03/07-1937/12/28
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
