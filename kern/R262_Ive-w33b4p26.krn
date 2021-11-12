@@ -1,3 +1,10 @@
+!!!COM: Ives, Charles
+!!!OTL: A Symphony: New England Holidays
+!!!OMV: IV: Thanksgiving and Forefather's Day
+!!!example: 262
+!!!work: Ive-33
+!!!OMD-full: Adagio maestoso
+!!!OMD: [Poco agitando (but slower)]
 !!!COM: Charles Ives
 !!!OTL: [R262_Ive-w33b4p26]
 **kern		**dynam	**kern		**dynam	**kern		**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
@@ -66,8 +73,34 @@
 =		=	=		=	=		=	=	=	=	=		=	=	=	=	=
 *-		*-	*-		*-	*-		*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
-!!!Xfilter: slurcheck
 !!!RDF**kern: N = linked
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!RDF**kern: Z = editorial accidental, brack
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Dorati, Antal
+!!!MDT: 1954/04/09
+!!!MGN: Minneapolis Symphony Orchestra
+!!!MLC: Minneapolis, Minnesota, United States of America
+!!!MPD: 1954
+!!!MPN:
+!!!ODT: 1919
+!!!PDT: 1936
+!!!excerpt-start-measure: 121
+!!!excerpt-end-measure: 124
+!!!excerpt-start-time:
+!!!excerpt-end-time:
+!!!excerpt-duration-sec:
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [53-56]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
