@@ -7,71 +7,71 @@
 !!!OMD: [Poco agitando (but slower)]
 !!!COM: Charles Ives
 !!!OTL: [R262_Ive-w33b4p26]
-**kern		**dynam	**kern		**dynam	**kern		**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
-*part9		*part9	*part8		*part8	*part6		*part5	*	*part4	*	*part3		*	*part2	*part2	*part1	*part1
-*staff9		*	*staff8		*	*staff6		*staff5	*	*staff4	*	*staff3		*	*staff2	*	*staff1	*
-*I"Contrabass		*	*I"Violoncello		*	*I"Violin II		*I"Violin I	*	*I"Bells	*	*I"Bells		*	*I"Oboe	*	*I"Flute	*
-*I'Cb.		*	*I'Vc.		*	*I'Vln. II		*I'Vln. I	*	*I'Bells	*	*I'Bells		*	*I'Ob.	*	*I'Fl.	*
-*clefF4		*	*clefF4		*	*clefG2		*clefG2	*	*clefF4	*	*clefG2		*	*clefG2	*	*clefG2	*
-*ITrd7c12		*	*		*	*		*	*	*	*	*		*	*	*	*	*
-*k[]		*	*k[]		*	*k[]		*k[]	*	*k[]	*	*k[]		*	*k[]	*	*k[]	*
-*C:		*	*C:		*	*C:		*C:	*	*C:	*	*C:		*	*C:	*	*C:	*
-*M6/8		*	*M6/8		*	*M6/8		*M6/8	*	*M6/8	*	*M6/8		*	*M6/8	*	*M6/8	*
-=1		=1	=1		=1	=1		=1	=1	=1	=1	=1		=1	=1	=1	=1	=1
-*^		*	*^		*	*^		*	*	*	*	*^		*	*	*	*	*
-!LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=36]	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:a:t=[pizz.]	!LO:T:b	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!LO:DY:ed=brack
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!LO:T:b	!	!	!	!	!
-!	!	!	!LO:TX:a:t=[non div.]	!	!LO:DY:ed=brack	!LO:T:a	!LO:T:b	!LO:T:n=2:a	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:T:a	!	!LO:DY:ed=brack	!	!	!	!
-8GGL	2.AAA]	pp	((8C^L	4.CC	pp >	8ee-X]	8.BL])j	8.f#X])j 8.a#XL]	ppp	8.GL	pp	8dd#X]	8.dnZXL]	pp	4%3r	.	8dd#XL\]	p
-16r	.	.	8D-X)	.	.	4cc	.	.	.	.	.	4ff#X	.	.	.	.	8b#X	.
-16EEJ	.	.	.	.	.	.	8.BJ	8.f# 8.a#Ju	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.
-8r	.	.	8C'J)	.	]]	.	.	.	.	.	.	.	.	.	.	.	8a#X	.
-8r	.	.	((8C^L	4.CC	>	16ddLL	4B	4f# 4a#v	.	8E]	.	[8dd#X	16fLL]	.	.	.	8g#XJ)j	.
-.	.	.	.	.	.	[16ee-XJ	.	.	.	.	.	.	[16dnJJ	.	.	.	.	.
-8AAA	.	.	8D-)	.	.	8ee-]	.	.	.	4AA	.	16dd#kL]	4d_	.	.	.	(4e#X)	>
-.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.
-8r	.	.	8C'J)	.	]]	[8aJ	[8B	[8f# [8a#u	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!
-8EEL	[2.AAA	.	((8C^L	4.CC	>	16aLL]	8.BL]	8.f#] 8.a#L]	.	4E	.	[4dd#X	16dKL]	.	4r	.	N(4.g#X)	.
-.	.	.	.	.	.	16ddJ	.	.	.	.	.	.	[8.dnJ	.	.	.	.	.
-8r	.	.	8D-X)	.	.	[8ee-XJ	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	(8.B'	(8.f#'X 8.a#XJv	.	.	.	.	.	.	.	.	.	.
-8GGJ	.	.	8C'J)	.	.	16ee-KL]	.	.	.	4G	.	16dd#KL]	16dkL]	.	8r	.	.	]
-.	.	.	.	.	]]	[8.ccJ	.	.	.	.	.	[8.ff#XJ	[8.fnJ	.	.	.	.	.
-8r	.	.	((8C^L	4.CC	>	.	8.B'	8.f#' 8.a#L	.	.	.	.	.	.	8fnN)	pp >	4r	.
-8EEL	.	.	8D-)	.	.	8ccL]	.	.	.	8.EL	.	8ff#L]	16fkL]	.	(8e-XL	.	.	.
-.	.	.	.	.	.	.	[8.B'J	[8.f#' [8.a#J	.	.	.	.	[8.dnJ	.	.	.	.	.
-16r	.	.	8C'J)	.	.	16ddL	.	.	.	.	.	[8dd#XJ	.	.	8a-'X)J	.	8r	.
-16AAAJ	.	.	.	.	]]	[16ee-XJJ	.	.	.	[16AAJk	.	.	.	.	.	]]	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4r	2.AAA]	.	((8C^L	4.CC	>	4ee-]	8.BL])	8.f#] 8.a#]L)	.	4AA]	.	4dd#]	8.dL]	.	(4.a-X	.	4r	.
-.	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	(8.B'	(8.f#'X 8.a#XJu	.	.	.	.	[16fnkJ	.	.	.	.	.
-8GGL	.	.	8C'J)	.	]]	8.ccL	.	.	.	4G	.	8.ff#XL	8.fL]	.	.	.	8r	.
-8r	.	.	((8C^L	4.CC	>	.	8.B'	8.f#' 8.a#L	.	.	.	.	.	.	4r	.	(8b-X	pp
-.	.	.	.	.	.	16ddJk	.	.	.	.	.	[16dd#XkJ	[16dnkJ	.	.	.	.	.
-8EEJ	.	.	8D-)	.	.	8ee-XL	.	.	.	[4E	.	8dd#L]	8.dL]	.	.	.	8ccL	.
-.	.	.	.	.	.	.	[8.B'J	[8.f#' [8.a#J	.	.	.	.	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	[8ccJ	.	.	.	.	.	[8ff#XJ	.	.	8r	.	8a-XJ)	.
-.	.	.	.	.	]]	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4r	[2.AAA	.	((8C^L	4.CC	>	8ccL]	8.BL])	8.f#] 8.a#]L)	.	4E]	.	8ff#L]	16fKL]	.	4%3r	.	(8b-XL	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	8dn	.	.	.	.	.
-.	.	.	8D-X)	.	.	16ddL	.	.	.	.	.	[8dd#XJ	.	.	.	.	8cc)J	.
-.	.	.	.	.	.	[16ee-XJJ	(8.B'i	(8.f#'X 8.a#XJvi	.	.	.	.	[16enJk	.	.	.	.	.
-8AAAL	.	.	8C'J)	.	]]	4ee-_	.	.	.	4AA	.	4dd#_	4e]	.	.	.	(8ee-Xi	.
-8r	.	.	((8C^L	4.CC	>	.	8.B'	8.f#' 8.a#L	.	.	.	.	.	.	.	.	4.ff	.
-8GGJ	.	.	8D-)	.	.	16ee-KL]	.	.	.	[4G	.	16dd#KL]	8.dnL	.	.	.	.	.
-.	.	.	.	.	.	[8.ccJ	[8.B'J	[8.f#' [8.a#J	.	.	.	[8.ff#XJ	.	.	.	.	.	.
-8r	.	.	8C'J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	]]	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
-*v	*v	*	*	*	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*
-*		*	*v	*v	*	*		*	*	*	*	*		*	*	*	*	*
-=		=	=		=	=		=	=	=	=	=		=	=	=	=	=
-*-		*-	*-		*-	*-		*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
+**kern		**dynam	**kern		**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
+*part9		*part9	*part8		*part8	*part6		*	*part5	*	*part4	*	*part3		*	*part2	*part2	*part1	*part1
+*staff9		*	*staff8		*	*staff6		*	*staff5	*	*staff4	*	*staff3		*	*staff2	*	*staff1	*
+*I"Contrabass		*	*I"Violoncello		*	*I"Violin II		*	*I"Violin I	*	*I"Bells	*	*I"Bells		*	*I"Oboe	*	*I"Flute	*
+*I'Cb.		*	*I'Vc.		*	*I'Vln. II		*	*I'Vln. I	*	*I'Bells	*	*I'Bells		*	*I'Ob.	*	*I'Fl.	*
+*clefF4		*	*clefF4		*	*clefG2		*	*clefG2	*	*clefF4	*	*clefG2		*	*clefG2	*	*clefG2	*
+*ITrd7c12		*	*		*	*		*	*	*	*	*	*		*	*	*	*	*
+*k[]		*	*k[]		*	*k[]		*	*k[]	*	*k[]	*	*k[]		*	*k[]	*	*k[]	*
+*C:		*	*C:		*	*C:		*	*C:	*	*C:	*	*C:		*	*C:	*	*C:	*
+*M6/8		*	*M6/8		*	*M6/8		*	*M6/8	*	*M6/8	*	*M6/8		*	*M6/8	*	*M6/8	*
+=1		=1	=1		=1	=1		=1	=1	=1	=1	=1	=1		=1	=1	=1	=1	=1
+*^		*	*^		*	*^		*	*	*	*	*	*^		*	*	*	*	*
+!LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=36]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=[pizz.]	!LO:T:b	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!LO:T:b	!	!	!	!	!
+!	!	!	!LO:TX:a:t=[non div.]	!	!LO:DY:ed=brack	!LO:T:a	!LO:T:b	!LO:DY:ed=brack	!LO:T:n=2:a	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:T:a	!	!LO:DY:ed=brack	!	!	!	!
+8GGL	2.AAA]	pp	((8C^L	4.CC	pp >	8ee-X]	8.BL])j	pp	8.f#X])j 8.a#XL]	ppp	8.GL	pp	8dd#X]	8.dnZXL]	pp	4%3r	.	8dd#XL\]	p
+16r	.	.	8D-X)	.	.	4cc	.	.	.	.	.	.	4ff#X	.	.	.	.	8b#X	.
+16EEJ	.	.	.	.	.	.	8.BJ	.	8.f# 8.a#Ju	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.
+8r	.	.	8C'J)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	8a#X	.
+8r	.	.	((8C^L	4.CC	>	16ddLL	4B	.	4f# 4a#v	.	8E]	.	[8dd#X	16fLL]	.	.	.	8g#XJ)j	.
+.	.	.	.	.	.	[16ee-XJ	.	.	.	.	.	.	.	[16dnJJ	.	.	.	.	.
+8AAA	.	.	8D-)	.	.	8ee-]	.	.	.	.	4AA	.	16dd#kL]	4d_	.	.	.	(4e#X)	>
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.
+8r	.	.	8C'J)	.	]]	[8aJ	[8B	.	[8f# [8a#u	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!
+8EEL	[2.AAA	.	((8C^L	4.CC	>	16aLL]	8.BL]	.	8.f#] 8.a#L]	.	4E	.	[4dd#X	16dKL]	.	4r	.	N(4.g#X)	.
+.	.	.	.	.	.	16ddJ	.	.	.	.	.	.	.	[8.dnJ	.	.	.	.	.
+8r	.	.	8D-X)	.	.	[8ee-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	(8.B'	.	(8.f#'X 8.a#XJv	.	.	.	.	.	.	.	.	.	.
+8GGJ	.	.	8C'J)	.	.	16ee-KL]	.	.	.	.	4G	.	16dd#KL]	16dkL]	.	8r	.	.	]
+.	.	.	.	.	]]	[8.ccJ	.	.	.	.	.	.	[8.ff#XJ	[8.fnJ	.	.	.	.	.
+8r	.	.	((8C^L	4.CC	>	.	8.B'	.	8.f#' 8.a#L	.	.	.	.	.	.	8fnN)	pp >	4r	.
+8EEL	.	.	8D-)	.	.	8ccL]	.	.	.	.	8.EL	.	8ff#L]	16fkL]	.	(8e-XL	.	.	.
+.	.	.	.	.	.	.	[8.B'J	.	[8.f#' [8.a#J	.	.	.	.	[8.dnJ	.	.	.	.	.
+16r	.	.	8C'J)	.	.	16ddL	.	.	.	.	.	.	[8dd#XJ	.	.	8a-'X)J	.	8r	.
+16AAAJ	.	.	.	.	]]	[16ee-XJJ	.	.	.	.	[16AAJk	.	.	.	.	.	]]	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4r	2.AAA]	.	((8C^L	4.CC	>	4ee-]	8.BL])	.	8.f#] 8.a#]L)	.	4AA]	.	4dd#]	8.dL]	.	(4.a-X	.	4r	.
+.	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	(8.B'	.	(8.f#'X 8.a#XJu	.	.	.	.	[16fnkJ	.	.	.	.	.
+8GGL	.	.	8C'J)	.	]]	8.ccL	.	.	.	.	4G	.	8.ff#XL	8.fL]	.	.	.	8r	.
+8r	.	.	((8C^L	4.CC	>	.	8.B'	.	8.f#' 8.a#L	.	.	.	.	.	.	4r	.	(8b-X	pp
+.	.	.	.	.	.	16ddJk	.	.	.	.	.	.	[16dd#XkJ	[16dnkJ	.	.	.	.	.
+8EEJ	.	.	8D-)	.	.	8ee-XL	.	.	.	.	[4E	.	8dd#L]	8.dL]	.	.	.	8ccL	.
+.	.	.	.	.	.	.	[8.B'J	.	[8.f#' [8.a#J	.	.	.	.	.	.	.	.	.	.
+8r	.	.	8C'J)	.	.	[8ccJ	.	.	.	.	.	.	[8ff#XJ	.	.	8r	.	8a-XJ)	.
+.	.	.	.	.	]]	.	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	[2.AAA	.	((8C^L	4.CC	>	8ccL]	8.BL])	.	8.f#] 8.a#]L)	.	4E]	.	8ff#L]	16fKL]	.	4%3r	.	(8b-XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dn	.	.	.	.	.
+.	.	.	8D-X)	.	.	16ddL	.	.	.	.	.	.	[8dd#XJ	.	.	.	.	8cc)J	.
+.	.	.	.	.	.	[16ee-XJJ	(8.B'i	.	(8.f#'X 8.a#XJvi	.	.	.	.	[16enJk	.	.	.	.	.
+8AAAL	.	.	8C'J)	.	]]	4ee-_	.	.	.	.	4AA	.	4dd#_	4e]	.	.	.	(8ee-Xi	.
+8r	.	.	((8C^L	4.CC	>	.	8.B'	.	8.f#' 8.a#L	.	.	.	.	.	.	.	.	4.ff	.
+8GGJ	.	.	8D-)	.	.	16ee-KL]	.	.	.	.	[4G	.	16dd#KL]	8.dnL	.	.	.	.	.
+.	.	.	.	.	.	[8.ccJ	[8.B'J	.	[8.f#' [8.a#J	.	.	.	[8.ff#XJ	.	.	.	.	.	.
+8r	.	.	8C'J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	]]	.	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
+*v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*
+*		*	*v	*v	*	*		*	*	*	*	*	*		*	*	*	*	*
+=		=	=		=	=		=	=	=	=	=	=		=	=	=	=	=
+*-		*-	*-		*-	*-		*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!RDF**kern: N = linked
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
