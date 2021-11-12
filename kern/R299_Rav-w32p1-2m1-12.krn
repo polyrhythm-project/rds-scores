@@ -19,9 +19,9 @@
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
 !	!	!LO:TX:t=[[eighth]=100]	!
-!	!	!LO:TX:a:B:t=Andante quasi allegretto	!
+!	!	!LO:TX:a:t=Sordina	!LO:DY:t=%s espressivo
 4r	.	(16gLL	p
-!	!	!LO:TX:b:i:t=espressivo	!
+!	!	!	!
 .	.	16fJ	.
 .	.	8d	.
 8r	.	8AJ)	.
@@ -137,17 +137,18 @@
 8r	.	(16GLL	.
 .	.	16cJ	.
 16r	.	8d	.
-(16g	Le	.	.
+(16gi	Le	.	.
 16a	lit	8eJ)	.
 16a	de	.	.
 8cc	feuil-	(4g	.
 16cc	-les	.	.
 16dd	est	.	.
 16b	pré-	8e)	.
-16b)	-pa-	.	.
+16b	-pa-	.	.
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: s1,s2
+!!!Xfilter: slurcheck
 !!!CDT: 1875/03/07-1937/12/28
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
@@ -175,3 +176,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
