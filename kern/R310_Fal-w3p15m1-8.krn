@@ -4,7 +4,7 @@
 !!!example: 310
 !!!work: Fal-3
 !!!OMD-full: Allegro vivo
-!!!OMD: Allegro vivo
+!!!OMD: Allegro vivo ([quarter-dot] = 92)
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -15,15 +15,15 @@
 *F#:	*F#:	*
 *M3/8	*M3/8	*
 *	*clefF4	*
-!!LO:TX:t=Allegro vivo ([quarter-dot]=92)
+!!LO:TX:t=
 !	!	!LO:DY:rj
-8ryy	(>24c#L	pp
+8ryy	N(>24c#L	pp
 .	24F#	.
 .	24C#J	.
 =1	=1	=1
 *	*^	*
 !	!LO:TX:t=P:problem:need beamspan	!	!
-8C#')	8ryy	8ryy	.
+8C#'N)	8ryy	8ryy	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
 8c#' 8d#	8e#'J	16e#	.
@@ -57,29 +57,29 @@
 *	*^	*
 8ryy	8C#<'	8r	.
 8r	8f#'L	16f#LL	.
-.	.	16A#	.
-8d#' 8e#	8e#'J	16e#	<
-.	.	16A#JJ	.
+.	.	16B	.
+8c#' 8d#	8e#'J	16e#	<
+.	.	16BJJ	.
 =6	=6	=6	=6
 *grp:A	*	*grp:B	*grp:B
 8r'	8f#'L	16f#LL	.
-.	.	16A#	.
+.	.	16B	.
 8c#' 8d#	8d#'	16d#	.
-.	.	16A#	.
+.	.	16B	.
 8r'	8c#'J	16c#	.
-.	.	16BJJ	[
+.	.	16BJJ	[[
 =7	=7	=7	=7
 8c#' 8d#	8f#'L	16f#LL	>
-.	.	16A#	.
+.	.	16B	.
 8r	8d#'	16d#	.
-.	.	16A#	.
+.	.	16B	.
 8r	8c#'J	16c#	.
-.	.	16BJJ	]
+.	.	16BJJ	]]
 =8	=8	=8	=8
 4.ryy	8f#'L	16f#LL\	.
-.	.	16A#J\	.
+.	.	16BJ\	.
 .	8d#'	16d#L\	.
-.	.	16A#J\	.
+.	.	16BJ\	.
 .	8c#'J	24c#L\	.
 .	.	24c<#/	.
 .	.	24F<#JJ/	.
@@ -88,6 +88,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**kern: N = linked
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1876/11/23-1946/11/14
 !!!CBL: Cádiz, Spain
