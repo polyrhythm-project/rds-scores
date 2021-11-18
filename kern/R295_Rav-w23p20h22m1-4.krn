@@ -26,7 +26,7 @@
 *	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!
 !	!	!	!	!	!LO:DY:ed=brack	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
-2.AAAA] 2.AAA\	4rC	4ryy	4r	4ryy	pp	.	8ee'L	pp	8eeee'L	pp
+2.AAAA 2.AAA\	4rc	4ryy	4r	4ryy	pp	.	8ee'L	pp	8eeee'L	pp
 !	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
 !	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
 .	.	.	.	.	.	.	8ee'	.	8eeee'	.
@@ -56,7 +56,7 @@
 *	*		*	*	*	*	*	*	*	*
 =236	=236		=236	=236	=236	=236	=236	=236	=236	=236
 *	*^		*	*	*	*	*	*	*	*
-4rc	4ryy	2.AAA AA\	4r	4r	.	.	8gn'	.	8gggn'	.
+4rc	4ryy	2.AAA AA\	4ryy	4r	.	.	8gn'	.	8gggn'	.
 .	.	.	.	.	.	.	8a'J	.	8aaa'J	.
 !	!	!	!LO:S:a	!LO:S:a	!	!	!	!	!	!
 2F#	(4Cn\	.	(4cn/	2A	.	<	8d'L	.	8ddd'L	.
