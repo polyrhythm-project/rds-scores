@@ -18,28 +18,34 @@
 *C:	*C:	*
 *M3/4	*M3/4	*
 =3	=3	=3
-!	!LO:TX:t=[quarter]=74	!
+!	!LO:TX:t=Moderato. ([quarter]=74.)	!
 !	!LO:TX:b:i:t=molto espr.	!
-!	!	!LO:DY:ed=brack
-!LO:TX:t=P:problem:hanging slurs and ties need to be added to 1st mm BASS stave	!	!
-4e 4cc#X	2ee~	p
-!LO:TX:t=P:problem: ped markings need to be added throughout	!	!
+!LO:TX:b:B:i:t=[Ped.]	!	!LO:DY:ed=brack
+!LO:T:n=2:a	!	!
+4e] 4cc#XZ])j	2ee~	p
+!	!	!
 4A(	.	.
-4e 4cc#	4ee~	.
+4e 4cc#X	4ee~	.
 =4	=4	=4
 4A	(12ggL	.
 .	12ff	.
+*Xped	*	*
 .	12eeJ	.
+*	*	*
+*ped	*	*
 4d 4b	8.ddL	.
+*	*	*
 .	16cc#XK	.
 4A	8.dd	.
 .	16eeJk	.
 =5	=5	=5
+*ped	*	*
 4d 4b-X	12ffL	.
 .	12ee	.
 .	12ddJ	.
 4A	8.cc#XL	.
 .	16aK	.
+*ped	*	*
 4d 4f	8.b-X	.
 .	16ddJk)	.
 =6	=6	=6
@@ -47,26 +53,32 @@
 .	16a)	.
 .	(16b-X	.
 .	16ddJJ)	.
+*ped	*	*
 4c#X 4e	2a	.
 4A)	.	.
 =7	=7	=7
+*ped	*	*
 (4g 4ccn	2ee~	.
 4A	.	.
+*ped	*	*
 4f#X 4cc	4ee~	.
 =8	=8	=8
 4A	(12ggL	.
 .	12ffn	.
 .	12eeJ	.
+*ped	*	*
 4fn 4b-X	8.ddL	.
 .	16cc#XK	.
 4A	8.dd	.
 .	16eeJk	.
 =9	=9	=9
+*ped	*	*
 4e 4a	12ffL	.
 .	12ee	.
 .	12ddJ	.
 4A	8.cc#XL	.
 .	16aK	.
+*ped	*	*
 4d 4g	8.b-X	.
 .	16ddJk)	.
 =10	=10	=10
@@ -74,10 +86,13 @@
 .	16a)	.
 .	(16b-X	.
 .	16ddJJ)	.
+*ped	*	*
 4cn 4f	2a	.
 4c)	.	.
 =	=	=
 *-	*-	*-
+!!!Xfilter: slurcheck
+!!!RDF**kern: Z = editorial accidental, brack
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1881/03/25-1945/09/26
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
@@ -106,3 +121,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
