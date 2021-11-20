@@ -25,18 +25,14 @@
 !	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!
 *	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!
-!	!	!	!	!	!LO:DY:ed=brack	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!
 2.AAAA 2.AAA\	4rc	4ryy	4r	4ryy	pp	.	8ee'L	pp	8eeee'L	pp
 !	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
-!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
 .	.	.	.	.	.	.	8ee'	.	8eeee'	.
 !	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!LO:TX:b:i:t=Cresc. poco a poco	!
 .	(4EE	2AA	(4E	2C#	.	<	8dd'	.	8dddd'	.
-!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
 .	.	.	.	.	.	.	8ee'J	.	8eeee'J	.
-!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
 .	4FF	.	4Fn	.	.	.	8a'L	.	8aaa'L	.
-!	!	!	!	!	!	!	!LO:TX:a:t=0	!	!LO:TX:a:t=0	!
 .	.	.	.	.	.	[[	8a'	.	8aaa'	.
 *	*v	*v	*	*	*	*	*	*	*	*
 =235	=235		=235	=235	=235	=235	=235	=235	=235	=235
