@@ -11,7 +11,7 @@
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
 *Ivioln	*	*Ivioln	*	*Ixylo	*	*Iflt	*	*Iflt	*	*Iflt	*
-*I"Violin I	*	*I"Solo Violin	*	*I"Xylophone [as written]	*	*I"Flute 3.	*	*I"Flute 2.	*	*I"Flute 1.	*
+*I"Violin I	*	*I"Solo Violin	*	*I"Xylophone	*	*I"Flute 3.	*	*I"Flute 2.	*	*I"Flute 1.	*
 *I'Vln. I	*	*I'Vln.	*	*I'Xyl.	*	*I'Fl.	*	*I'Fl.	*	*I'Fl.	*
 *clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*Trd0c0	*	*	*	*	*	*	*
@@ -23,6 +23,7 @@
 !	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 !	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!
 *	*	*	*	*8va	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=[sounds as written]	!	!	!	!	!	!	!
 4r	.	4r	.	4r	.	8bn'	p	8aa-X'	p	8dddn'	p
 .	.	.	.	.	.	8r	.	8r	.	8r	.
 !	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:t=nimmt kl. Fl.	!	!	!	!	!
