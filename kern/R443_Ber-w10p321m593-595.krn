@@ -5,73 +5,77 @@
 !!!work: Ber-10
 !!!OMD-full: Langsamer Ländler
 !!!OMD: [Ländler]
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*	*	*part7	*	*	*part6	*part6	*part5	*	*part4	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*	*staff8	*	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Baritone Solo	*	*	*I"Tenor Solo	*	*	*I"Tuba in F	*	*I"Guitar	*	*I"Accordion	*	*	*	*I"Clarinet in C	*	*I"Fiddle II	*	*I"Fiddle I	*
-*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B. Solo	*	*	*I'Tr. Solo	*	*	*I'Tba.	*	*I'A. Gtr.	*	*I'Kbd.	*	*	*	*I'Cl.	*	*I'Fid. II	*	*I'Fid. I	*
-*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
-*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*	*MM100	*	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*
+!!!Xfilter: transpose -t -P5 -s 15
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B		*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*	*	*part7	*	*	*part6	*part6	*part5		*	*part4	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*	*staff8	*	*	*staff7	*	*staff6		*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Baritone Solo	*	*	*I"Tenor Solo	*	*	*I"Bombardon in F	*	*I"Guitar		*	*I"Accordion	*	*	*	*I"Clarinet in C	*	*I"Fiddle II	*	*I"Fiddle I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B. Solo	*	*	*I'Tr. Solo	*	*	*I'Tba.	*	*I'A. Gtr.		*	*I'Kbd.	*	*	*	*I'Cl.	*	*I'Fid. II	*	*I'Fid. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*	*clefG2		*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[0]	*	*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*		*	*	*	*	*	*	*	*	*	*	*
+*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*	*MM100	*	*	*MM100	*	*MM100		*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*
 !!LO:REH:t=593
-=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)
-!	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: this is a hanging tie so the first word is sustained from the previous measure: not a new articulation here	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-[2.BB-X	p	(2c#X	p<	(8fnL	p<	(4.ddn	p < >	8A-X	meint',	.	2.r	.	.	2.r	.	4g	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
-.	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	8ddn	.	8e-X	.	8an	.	.	.
-.	.	.	.	(2g	.	.	.	8GnL	es	.	.	.	.	.	.	4b-X 4dd	.	.	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
-.	.	.	.	.	.	4bn	]	8G	müßt	.	.	.	.	.	.	.	.	.	.	(8ee-XJ	.	(8f-XJ	.	(8b-XJ	.	.	.
-.	.	[4dn	.	.	.	.	.	8Bn	spä-	.	.	.	.	.	.	4b- 4dd	.	4r	.	4ddn)	>	4e-X)	<[	4a-X)	<[	.	.
-.	.	.	[[	.	[[	8cc#X	[[	8c#XJ	ter	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*
-=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)		=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)
+!	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:TX:a:t=Das übrige Orchester 	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!		!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=[[quarter]=100]	!
+!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!LO:TX:a:t=BÜHNENMUSIK	!
+[2.BB-X	p	(2c#X	p<	(8fnL	p<	(4.ddn	p < >	8A-X)j	.	.	2.r	.	.	2.r	.	4gn		f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
+.	.	.	.	8gnJ)	.	.	.	8r	.	.	.	.	.	.	.	.		.	.	.	8ddn	.	8e-X	.	8an	.	.	.
+.	.	.	.	(2g	.	.	.	8GnL	es	.	.	.	.	.	.	4b-X 4ddn		.	.	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
+.	.	.	.	.	.	4bn	]	8G	müßt	.	.	.	.	.	.	.		.	.	.	(8ee-XJ	.	(8f-XJ	.	(8b-XJ	.	.	.
+.	.	[4dn	.	.	.	.	.	8Bn	spä-	.	.	.	.	.	.	4b- 4dd		.	4r	.	4ddn)	>	4e-X)	<[	4a-X)	<[	.	.
+.	.	.	[[	.	[[	8cc#X	[[	8c#XJ	ter	.	.	.	.	.	.	.		.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*clefG2	*	*	*	*	*	*	*	*	*
+=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152		=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=e.v.	!	!LO:TX:b:i:t=begleitend	!	!	!	!LO:TX:i:t=hervor	!	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all haupstimmes and nebenstimmes need to be added throughout	!	!	!
-8BB-L]	.	2d])	>	2fn)	>	2bn)	>	4Bn	sein!	.	2.r	.	.	2Cn	mp	4c	2ryy	.	(4ddn	.	4ee-X 4gg	]	(4f#X	mf	(4ddn	f	2.r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:i:t=hervor	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*col	*	*	*	*	*	*	*	*	*
+8BB-L])j	.	2d])	>	2fn)	>	2bn)	>	4Bn	sein!	.	2.r	.	.	2FFn	mp	4cn	2ryy	.	(4ddn	.	4ee-X 4ggn	]	(4f#X	mf	(4ddn	f	2.r	.
 (8AAnJ	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8EE-XL	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	4g 4ee-X	.	.	8ccnL	.	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
+8EE-XL	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	4gn 4ee-X	.	.	8ccnL	.	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
 [8DDnJ	[	.	.	.	.	.	.	8Gn	Die	.	.	.	.	.	.	.	.	.	8b-X	.	8ee-' 8gg	.	8dn	.	8b-X	.	.	.
-4DD_	>	([4e-X	]	([4g-X	]	([4b-X	] p	8G-XL	Zeit	.	.	.	.	4C#X	.	4eee-X	8ggL	.	8gn)	.	8ee-' 8gg	.	8Bn)	<	8gn)	<	.	.
-.	.	.	.	.	.	.	.	8E-XJ	wird	.	.	.	.	.	.	.	8aa-XJ	.	(8f-XJ	.	8ee-'J 8gg	.	(8A-XJ	.	(8f-XJ	.	.	.
+4DD_	>	([4e-X	]	([4g-X	]	([4b-X	] p	8G-XL	Zeit	.	.	.	.	4FF#X	.	4eee-X	8ggnL	.	8gn)	.	8ee-' 8gg	.	8Bn)	<	8gn)	<	.	.
+.	.	.	.	.	.	.	.	8E-X	wird	.	.	.	.	.	.	.	8aa-J	.	(8f-XJ	.	8ee-'J 8gg	.	(8A-XJ	.	(8f-XJ	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all polymetric measures need barlines fixed, strings need dotted barlines added in	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2DD]	.	2e-_	.	2g-_	.	2b-_	.	8DnL	Ei-	.	4r	.	.	2.Dn	.	4aa 4ddd 4ggg	.	4e-X)	.	8ddn 8ggn	.	4Gn')	[	4e-X')	[	8r	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
-.	.	.	.	.	.	.	.	8AAnJ	nem	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8aaL	mf
-.	.	.	.	.	.	.	.	4Gn	lang	.	8r	.	.	.	.	4ff#X 4aa 4ddd	.	2e-	.	4r	.	2G~	.	2e-~	.	8dddn	.
-.	.	.	.	.	.	.	.	.	.	.	8ggn	Was	.	.	.	.	.	.	.	.	.	.	.	.	.	8gggnJ	.
-8DDL)	]	8e-L]	.	8g-L]	<	8b-L]	<	8B-XL	bei	.	8ddnL	sit-	.	.	.	4ff# 4aa 4ddd	.	.	.	4r	.	.	.	.	.	4ddd	.
-([8BB-XJ	.	8dnJ)	<	8fnJ)	.	8bnJ)	.	8BnJ	der	.	8anJ	zest	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*
-=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=führend	!	!	!	!LO:TX:b:i:t=wieder	!	!	!
-8BB-L]	<	(8dnL	.	(8fnL	.	(8bnL	.	8BnL	Kurz-	.	8b-XL	Du	.	8DDn	.	4d	.	2Dn	.	(8b-XL	f	(8cnL	.	(8dnL	p	8r	.
-8AAnJ	[	8c#XJ)	.	8f#XJ)	.	8ddnJ)	[	8dnJ	weil	.	8anJ	da	.	8r	.	.	.	.	.	8an)	.	8Bn)	.	8c#X)	.	8aanL	p
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=595	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-8EE-XL	>	(4.c#X	[ <	(4.f#X	[ <	(4.ddn	<	4r	.	.	8e-XL	vor	.	4r	.	4aa 4ddd 4fff#X	.	.	.	(8e-X	.	(8En	.	(8B-X	.	8dddn	.
-8DDnJ)	]	.	.	.	.	.	.	.	.	.	8dnJ	der	.	.	.	.	.	.	.	8dn)	.	8Fn)	.	8An)	.	8gggnJ	.
-(8BB-XL	<	.	.	.	.	.	.	4r	.	.	(8b-XL	Tür?	.	4r	.	4aa 4ddd 4fff#	.	4r	.	(8b-X	.	(8cn	.	(8dn	.	4ddd	.
-[8AAnJ	.	8dn)	[ >	8gn)	[ >	([8bn	[ >	.	.	.	8anJ)	.	.	.	.	.	.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
-=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: this top pitch should be in parentheses	!	!	!	!	!	!	!	!	!
-2.AA])	[>]]	([4d	.	(4gn	.	8bnL]	.	8BnL	Ich	.	2.r	.	.	4r	.	4G	.	2.GGn 2.Gn	.	(4e-XTT	.	4GnTT	.	4B-XTT	.	8aanL	.
-.	.	.	.	.	.	8cc#XJ))	]	8c#XJ	sitz'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dddn	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*^	*	*	*
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8qqfn/	.	.	8qqAn/	.	.	8qqcn/	.	.	.
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*v	*v	*	*	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
-.	.	8dL]	] <	8fnL	] <	(8bnL	<	(8B^L	gut	.	.	.	.	8r	.	4bb-X 4ddd 4ggg	.	.	.	2dn)	.	2G	.	2B-X	.	8gggn	.
-.	.	8e-XJ)	.	8g-XJ)	.	8b-XJ)	.	8B-XJ)	.	.	.	.	.	(8B-XL	pp	.	.	.	.	.	.	.	.	.	.	8dddnJ	.
-.	.	(8e-L	.	(8g-L	.	(8b-L	.	4B-X	da.	.	.	.	.	8Dn	.	4bb- 4ddd 4ggg	.	.	.	.	.	.	.	.	.	4aa	.
-.	.	8d-XJ)	[	8fnJ)	[	8ddnJ)	[	.	.	.	.	.	.	8B-J)	.	.	.	.	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153		=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*	*	*	*	*neben	*
+2DD]	.	2e-_	.	2g-_	.	2b-_	.	8Dn	Ei-	.	4r	.	.	2.GGn	.	4aan 4dddn 4gggn		.	4e-X)	.	8ddn 8ggn	.	4Gn')	[	4e-X')	[	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*Xcol	*	*	*	*	*	*Xhaupt	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	.	.	.	.	8AAnJ	nem	.	.	.	.	.	.	.		.	.	.	8r	.	.	.	.	.	8aanL	mf
+.	.	.	.	.	.	.	.	4Gn	lang	.	8r	.	.	.	.	4ff#X 4aan 4dddn		.	2e-	.	4r	.	2G~	.	2e-~	.	8dddn	.
+.	.	.	.	.	.	.	.	.	.	.	8ggn	Was	.	.	.	.		.	.	.	.	.	.	.	.	.	8gggnJ	.
+8DDL)	]	8e-L]	.	8g-L]	<	8b-L]	<	8B-XL	bei	.	8ddnL	sit-	.	.	.	4ff# 4aa 4ddd		.	.	.	4r	.	.	.	.	.	4ddd	.
+([8BB-XJ	.	8dnJ)	<	8fnJ)	.	8bnJ)	.	8Bn	der	.	8an	zest	.	.	.	.		.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*clefF4	*	*	*	*	*	*	*	*	*
+=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154		=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!LO:DY:t=%s führend	!	!LO:DY:t=	!	!LO:DY:t=wieder %s	!	!
+8BB-L]	<	(8dnL	.	(8fnL	.	(8bnL	.	8Bn	Kurz-	.	8b-X	Du	.	8GGGn	.	4dn		.	2Dn	.	(8b-XL	f	(8cnL	.	(8dnL	p	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
+8AAnJ	[	8c#XJ)	.	8f#XJ)	.	8ddnJ)	[	8dnJ	weil	.	8anJ	da	.	8r	.	.		.	.	.	8an)	.	8Bn)	.	8c#X)	.	8aanL	p
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
+8EE-XL	>	(4.c#X	[ <	(4.f#X	[ <	(4.ddn	<	4r	.	.	8e-XL	vor	.	4r	.	4aan 4dddn 4fff#X		.	.	.	(8e-X	.	(8En	.	(8B-X	.	8dddn	.
+8DDnJ)	]	.	.	.	.	.	.	.	.	.	8dn	der	.	.	.	.		.	.	.	8dn)	.	8Fn)	.	8An)	.	8gggnJ	.
+(8BB-XL	<	.	.	.	.	.	.	4r	.	.	(8b-X	Tür?	.	4r	.	4aa 4ddd 4fff#		.	4r	.	(8b-X	.	(8cn	.	(8dn	.	4ddd	.
+[8AAnJ	.	8dn)	[ >	8gn)	[ >	([8bn	[ >	.	.	.	8anJ)	.	.	.	.	.		.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
+=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155		=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
+2.AA])	[>]]	([4d	.	(4gn	.	8bnL]	.	8BnL	Ich	.	2.r	.	.	4r	.	4Gn		.	2.GGn 2.Gn	.	(4e-XTT	.	4GnTT	.	4B-XTT	.	8aanL	.
+.	.	.	.	.	.	8cc#XJ))	]	8c#X	sitz'	.	.	.	.	.	.	.		.	.	.	.	.	.	.	.	.	8dddn	.
+.	.	8dL]	] <	8fnL	] <	(8bnL	<	(8B^	gut	.	.	.	.	8r	.	4bb-X 4dddn 4gggn		.	.	.	2dn)	.	2G	.	2B-X	.	8gggn	.
+.	.	8e-XJ)	.	8g-XJ)	.	8b-XJ)	.	8B-XJ)	.	.	.	.	.	(8E-XL	pp	.		.	.	.	.	.	.	.	.	.	8dddnJ	.
+.	.	(8e-L	.	(8g-L	.	(8b-L	.	4B-X	da.	.	.	.	.	8GG	.	4bb- 4ddd 4ggg		.	.	.	.	.	.	.	.	.	4aa	.
+.	.	8d-XJ)	[	8fnJ)	[	8ddnJ)	[	.	.	.	.	.	.	8E-J)	.	.		.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)]s3{(s4,s5)}s6,s7[(s8,s9)][(s10,s11,s12,s13)]
+!!!Xfilter: slurcheck
 !!!CDT: 1885/02/09-1935/12/24
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
@@ -99,3 +103,4 @@
 !!!experiment: 0
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
