@@ -5,175 +5,175 @@
 !!!work: Str-47
 !!!OMD-full: none
 !!!OMD: none
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*staff1
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav
-*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano
-*I"Contrabass	*	*I"Violincello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.
-*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2
-*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]
-*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
-=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:t=[quarter]=160	!	!	!LO:TX:t=[quarter]=160
-!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TX:b:t=[mf]
-4CC	p	4C	p	12G'L	sfp	12e-X'L	sfp	12g'L	sfp	1r	1r
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.	.
-4AA	.	4A	.	8r	.	8r	.	8r	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
-4CC	.	4C	.	12G'L	sfp	12e-'L	sfp	12g'L	sfp	.	.
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.	.
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*
+*I"Contrabass	*	*I"Violincello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!	!
+4CC	p	4C	p	12G'L	sfp	12e-X'L	sfp	12g'L	sfp	1r	1r	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.	.
+4AA	.	4A	.	8r	.	8r	.	8r	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.	.
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!
+4CC	.	4C	.	12G'L	sfp	12e-'L	sfp	12g'L	sfp	.	.	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.	.
 !!LO:REH:t=8
-=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-4AA	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r	1r
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.	.
-4AAA	.	4AA	.	12G'L	.	12e-'L	.	12g'L	.	.	.
-.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.
-.	.	.	.	12r	.	12r	.	12r	.	.	.
-4CC	.	4C	.	8r	.	8r	.	8r	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.
-4AA	.	4A	.	4r	.	4r	.	4r	.	.	.
-=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing cross-staff beams
-!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ggL 12bb-X 12ddd-X 12eee-X 12ggg
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-XL 12ee-X 12gg 12bb-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!	!	!	!
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	sf	8G 8g 8b-X	sf	8G 8g 8b-	sf	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen 8ggg
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
-=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-X< 12ee-X< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!	!	!	!
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc	8een 8gg 8bb- 8ccc
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	2ryy	4r
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-L 12ee-X 12gg 12bb-
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12eenL 12gg 12bb-X 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12een< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!	!	!	!
-4AAA	.	4AA	.	8r	.	8r	.	8r	.	.	8r
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8dd-X	8ee-X 8gg 8bb- 8ddd-X
-4CC	.	4C	.	4r	.	4r	.	4r	.	4r	4r
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4AA	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r	1r	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.	.
+4AAA	.	4AA	.	12G'L	.	12e-'L	.	12g'L	.	.	.	.
+.	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
+.	.	.	.	12r	.	12r	.	12r	.	.	.	.
+4CC	.	4C	.	8r	.	8r	.	8r	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G	sf	8e-	sf	8g	sf	.	.	.
+4AA	.	4A	.	4r	.	4r	.	4r	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing cross-staff beams	!
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!LO:DY:ed=brack
+4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ggL 12bb-X 12ddd-X 12eee-X 12ggg	mf
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-XL 12ee-X 12gg 12bb-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	sf	8G 8g 8b-X	sf	8G 8g 8b-	sf	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen 8ggg	sf
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-X< 12ee-X< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc	8een 8gg 8bb- 8ccc	.
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	2ryy	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-L 12ee-X 12gg 12bb-	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12eenL 12gg 12bb-X 12ccc	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12een< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+4AAA	.	4AA	.	8r	.	8r	.	8r	.	.	8r	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8dd-X	8ee-X 8gg 8bb- 8ddd-X	.
+4CC	.	4C	.	4r	.	4r	.	4r	.	4r	4r	.
 !!LO:REH:t=9
-=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!	!	!	!
-4AAA	.	4AA	.	8r	.	8r	.	8r	.	.	8r
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
-4CC	.	4C	.	4r	.	4r	.	4r	.	4r	4r
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12eenL 12gg 12bb- 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12ee< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ee-XL 12gg 12bb-X 12ddd-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-L 12gg 12bb- 12ddd- 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een 8gg	8bb- 8ccc 8eeen
-=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	1ryy	4r
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	.	12dd-XL 12ee-X 12gg 12bb-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	.	12eenL 12gg 12bb- 12ccc
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12een< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-XL 12gg 12bb- 12ddd-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
-*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-4AA	.	4A	.	8r	.	8r	.	8r	.	.	8r
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+4AA	.	4A	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+4AAA	.	4AA	.	8r	.	8r	.	8r	.	.	8r	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen	.
+4CC	.	4C	.	4r	.	4r	.	4r	.	4r	4r	.
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12eenL 12gg 12bb- 12ccc	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12ee< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ee-XL 12gg 12bb-X 12ddd-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-L 12gg 12bb- 12ddd- 12eee-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een 8gg	8bb- 8ccc 8eeen	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	1ryy	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	.	12dd-XL 12ee-X 12gg 12bb-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4AA	.	4A	.	12G'L	.	12g'L	.	12b-'L	.	.	12eenL 12gg 12bb- 12ccc	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12cc< 12een< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-'L	.	.	12ee-XL 12gg 12bb- 12ddd-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+4AA	.	4A	.	8r	.	8r	.	8r	.	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen	.
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r	.
 !!LO:REH:t=10
-=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4
-!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-!	!	!	!	!	!	!	!	!	!	!	!
-4AA	.	4A	.	8r	.	8r	.	8r	.	.	8r
-!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
-!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!
-.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen
-4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r
-!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=arco	!	!	!
-!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TUP:a	!	!	!LO:TUP:a
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-X< 12ee-X< 12gg<
-.	.	.	.	12r	.	12r	.	12r	.	.	12r
-=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-X'L	.	4.ryy	12ee-XL 12gg 12bb-X 12ddd-X 12eee-X	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+4AA	.	4A	.	8r	.	8r	.	8r	.	.	8r	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
+.	.	.	.	8G 8g 8b-X	.	8G 8g 8b-X	.	8G 8g 8b-	.	8g 8b 8cc 8een	8gg 8bb- 8ccc 8eeen	.
+4AAA	.	4AA	.	4r	.	4r	.	4r	.	4r	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=arco	!	!	!	!
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	4ryy	12dd-XL 12ee-X 12gg 12bb-	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-X< 12ee-X< 12gg<	.
+.	.	.	.	12r	.	12r	.	12r	.	.	12r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})][(s3,s4,s5,s6,s7)]
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
