@@ -21,7 +21,8 @@
 !	!	!LO:TX:t=[ [eighth-dot]=132 ]	!
 16FF#X'LL	mf	8r	.
 16A'	.	.	.
-!	!	!LO:TX:a:i:t=  molto marc.	!
+!	!	!	!LO:DY:a
+!	!	!	!LO:DY:t=%s molto marc.
 16D#X'J	.	16aa'^KL	f
 16Cn'L	.	[8.ddn^J	.
 16dn'	.	.	.
@@ -32,14 +33,14 @@
 16C'L	.	8dd]	.
 16dn'	.	.	.
 16G#'JJ	.	[16cc#X^Jk	.
-16FF#'LL	.	8.cc#L_	.
+16FF#'LL	.	8.cc#L_\	.
 16A'	.	.	.
 16D#X'J	.	.	.
 16C'L	.	8cc#]	.
 16dn'	.	.	.
 16G#X'JJ	.	[16e#X^Jk	.
 =11	=11	=11	=11
-!	!	!LO:TX:b:i:t=sempre stacc.	!
+!LO:TX:b:i:t=sempre stacc.	!	!	!
 16FFLL	.	8e#L]	.
 16A	.	.	.
 16D#XJ	.	[16g#X^k	.
@@ -59,7 +60,7 @@
 16d	.	.	.
 16G#JJ	.	.	.
 =12	=12	=12	=12
-16FF#XLL	.	16g#XiLL<]	.
+16FF#XLL	.	16g#XLL]	.
 16A	.	16f#X'^^	.
 16D#XJ	.	[16b^J	.
 16CnL	.	8b]	.
