@@ -17,9 +17,9 @@
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !!LO:REH:t=19
 =195	=195	=195	=195	=195	=195	=195	=195
-!	!	!LO:TX:t=[quarter]=120	!	!	!	!LO:TX:t=[quarter]=120	!
+!	!	!LO:TX:t=[quarter]=120	!LO:DY:t=%s legato	!	!	!LO:TX:t=[quarter]=120	!
 !	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
-(16FFLL	.	(16cLL	p	4c~	mf	4ccc~	mf
+16FFLL	.	16cLL	p	4c~	mf	4ccc~	mf
 16C	.	16f	.	.	.	.	.
 16F	.	16a-X	.	.	.	.	.
 16CJJ	.	16cJJ	.	.	.	.	.
@@ -53,11 +53,12 @@
 16CJJ	.	16cJJ	.	.	.	16aJJ	.
 16FLL	.	16fLL	.	8gL)	.	16gggLL	.
 16G	.	16an	.	.	.	16a	.
-16FF	.	16c	.	(8cJ_	.	16ccc	.
-16CJJ)	.	16fJJ)	[	.	.	16aJJ	.
+16FF	.	16c	.	(8cJi	.	16ccc	.
+16CJJ	.	16fJJ	[[	.	.	16aJJ	.
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
+!!!Xfilter: slurcheck
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -85,3 +86,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
