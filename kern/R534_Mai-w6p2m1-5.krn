@@ -12,15 +12,16 @@
 *I"Contrabass (4)	*	*I"Violoncello 2nd/3rd Stands	*	*I"Violoncello 1st Stand	*	*I"Viola (8)	*	*I"Violin 2 5th/6th Stands	*	*I"Violin 2 4th Stand	*	*I"Violin 2 3rd Stand	*	*I"Violin 2 1st/2nd Stands	*	*I"Violin 1 5th/6th Stands	*	*I"Violin 1 3rd/4th Stands	*	*I"Violin 1 1st/2nd Stands	*	*I"Piano	*	*I"Harp	*	*
 *I'Cb.	*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. 2	*	*I'Vln. 2	*	*I'Vln. 2	*	*I'Vln. 2	*	*I'Vln. 1	*	*I'Vln. 1	*	*I'Vln. 1	*	*I'Pno.	*	*I'Hp.	*	*
 *clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
-*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
 *G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*C-:	*C-:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[eighth]=108	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!LO:TX:t=[eighth]=108	!
+!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!LO:TX:t=[[eighth]=108]	!
 8r	.	8r	.	8r	.	8ee	pp	8r	.	8ee	pp	8gg	pp	8bb	pp	8ee	pp	8gg	pp	8bb	pp	8r	.	8r	8r	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Andante con moto	!
+!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 1r	.	[1GG [1C	pp	[1A [1e	pp	((8ddL	.	[1G [1c	pp	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	pp	1r	1r	.
 .	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
@@ -30,8 +31,8 @@
 .	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
 .	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=laisse sonner	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=laisse sonner	!
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
 1r	.	1GG_ 1C_	.	1A_ 1e_	.	((8ddL	.	1G_ 1c_	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	2r	8r	.
 .	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.B- 4.b-	mf
 .	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
@@ -41,6 +42,7 @@
 .	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	4C- 4c-	.	.
 .	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 1r	.	1GG_ 1C_	.	1A_ 1e_	.	((8ddL	.	1G_ 1c_	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	2r	1r	.
 .	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
@@ -51,12 +53,12 @@
 .	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 !LO:TX:a:t=1st Stand Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:t=P:problem: this pitch needs a harmonic marking above	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-[2E	pp	8GG] 8C]	.	8A] 8e]	.	((8ddL	.	8G] 8c]	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	1FFF- 1FF-	1r	.
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2EEo	pp	8GG] 8C]	.	8A] 8e]	.	((8ddL	.	8G] 8c]	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	1FFF- 1FF-	1r	.
 .	.	8r	.	8r	.	8cc	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	4r	.	4r	.	8b')	.	4r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
 .	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
-8E]	.	2r	.	2r	.	((8ddL	.	2r	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	.	.	.
+8EE]	.	2r	.	2r	.	((8ddL	.	2r	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	.	.	.
 8r	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
 .	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
