@@ -20,9 +20,9 @@
 *met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =99	=99	=99	=99	=99	=99	=99
 !	!	!	!	!	!LO:TX:t=[half]=132	!
-!	!	!LO:DY:ed=brack	!LO:TX:b:i:t=espr.	!	!LO:TX:b:i:t=espr.	!
-!	!LO:TX:t=P:problem: hanging slurs need to be added to pno mm 1 to match original	!	!	!	!	!
-8d')	8ddd)	f	(4F#X	f <	(4ddd	f <
+!	!	!LO:DY:ed=brack	!	!	!	!
+!	!	!	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.
+8d')j	8ddd')j	f	(4F#X	f <	(4ddd	f <
 8r	8r	.	.	.	.	.
 *clefG2	*	*	*	*	*	*
 *	*8va	*	*	*	*	*
@@ -30,10 +30,11 @@
 4B-X'	4gg' 4bbn 4ggg	.	.	.	.	.
 4e-X' 4gn	4een' 4gg#X 4eeen	.	(4Fn	<	(4ccc#X	<
 *clefF4	*	*	*	*	*	*
+!!LO:REH:t=100
 =100	=100	=100	=100	=100	=100	=100
 4G'	4aa' 4ccc#X 4aaa	.	2d-X)	[	2aaa-X)	[
 4c#X' 4e	4ff#X' 4aa#X 4fff#X	.	.	.	.	.
-4E'	4ddn' 4ffn 4aan 4dddn	.	(4E	<	(4cccn	<
+4E'	4ddn' 4ff#Xn 4aan 4dddn	.	(4E	<	(4cccn	<
 4B-X' 4d	4aa-X' 4cccn 4aaa-X	.	4c)	[	4aaa-X)	[
 =101	=101	=101	=101	=101	=101	=101
 4C#X'	4een' 4gg#X 4eeen	.	(4B	<	(4een	<
@@ -56,11 +57,12 @@
 =104	=104	=104	=104	=104	=104	=104
 4c' 4e	4b' 4gg 4bb	.	2b)	.	2d)	.
 4d-X' 4f	4g' 4ee-X 4gg	.	.	.	.	.
-4d-' 4f#X	4en' 4cc 4een	.	(4c#X	.	(4e	.
-4e-X' 4g	4c#X' 4a 4cc#X	.	[4a)	.	[4c#X	.
+4d-' 4f#X	4en' 4cc 4een	.	(4c#Xi	.	(4ei	.
+4e-X' 4g	4c#X' 4a 4cc#X	.	[4a	.	[4c#X	.
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
+!!!Xfilter: slurcheck
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -88,3 +90,5 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
