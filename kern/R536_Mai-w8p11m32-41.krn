@@ -9,18 +9,19 @@
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*	*staff3	*	*staff2	*	*staff1	*staff1
-*I"Violoncello	*	*I"Viola	*	*I"Flute	*	*I"Soprano Solo	*
-*I'Vc.	*	*I'Vla.	*	*I'Fl.	*	*I'S. Solo	*
+*I"Violoncello	*	*I"Viola	*	*I"Flute	*	*I"Soprano	*
+*I'Vc.	*	*I'Vla.	*	*I'Fl.	*	*I'S.	*
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =32	=32	=32	=32	=32	=32	=32	=32
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
-[1G [1d	f >	8r	f	8r	f	1g	cieux.
-!	!	!	!	!LO:TX:t=P:problem: system decorations need to fixed to match original	!	!	!
-.	.	8g'	>	8gg'	>	.	.
-.	.	8an'L	.	8ff'L	.	.	.
+!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!
+[1G [1do	f >	8r	f	8r	f	1g	cieux.
+!	!	!	!	!	!	!	!
+.	.	8g'L	>	8gg'L	>	.	.
+.	.	8an'	.	8ff'	.	.	.
 .	.	8b-'J	.	8ee-'J	.	.	.
 .	.	8cc'L	.	8dd'L	.	.	.
 .	.	8b-'	.	8ee-'	.	.	.
@@ -30,33 +31,39 @@
 2.G_ 2.d_	.	8an'L	.	8ff'L	.	1r	.
 .	.	8cc'J	.	8dd'J	.	.	.
 .	.	[4cc	.	[4dd	.	.	.
+!	!	!	!	!	!	!	!
 .	.	8cc]	.	8dd]	.	.	.
+!	!	!	!	!	!	!	!
 .	.	8r	.	8r	.	.	.
-8G] 8d]	.	(8a-XL	.	(8ffL	.	.	.
-8r	]	8ccJ)	.	8ddJ)	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:i:t=Retenu	!
+8G] 8d]	.	(8a-XL	>	(8ffL	>	.	.
+8r	.	8ccJ)	.	8ddJ)	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
 *grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*	*
 2r	.	[2cc	.	[2dd	.	1r	.
-8r;	.	8cc]	]	8dd]	]	.	.
-(8D	.	8r	.	8r	.	.	.
-8CL)	.	4r;	.	4r;	.	.	.
+8r;	.	8cc]	]]	8dd]	]]	.	.
+!LO:TX:a:i:t=très tranquille 	!	!	!	!	!	!	!
+!LO:TX:b:B:i:t=dolce	!	!	!	!	!	!LO:TX:a:B:i:t=Très modéré	!
+(8DLv	.	8r	.	8r	.	.	.
+8C)	.	4r;	.	4r;	.	.	.
 8C'J	.	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35
 4.GG	.	1r	.	1r	.	1r	.
-(8BB-	.	.	.	.	.	.	.
+(8BB-u	.	.	.	.	.	.	.
 8AA-'L)	.	.	.	.	.	.	.
-8AA-'	.	.	.	.	.	.	.
-8EE-'	.	.	.	.	.	.	.
+8AA-'J	.	.	.	.	.	.	.
+8EE-'L	.	.	.	.	.	.	.
 8FF'J	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
 *grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*	*
 [1CC [1GG	>	2r	.	8r	.	1r	.
-.	.	.	.	(8dd	mf	.	.
-.	.	.	.	8cc'L)	.	.	.
+.	.	.	.	(8ddL	mf	.	.
+.	.	.	.	8cc')	.	.	.
 .	.	.	.	8cc'J	.	.	.
 .	.	8r	.	4.g	.	.	.
-.	.	(8d	mf	.	.	.	.
-.	.	8c'L)	.	.	.	.	.
+.	.	(8dL	mf	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:i:t=Pressez peu à peu	!
+.	.	8c')	.	.	.	.	.
 .	]]	8c'J	.	(8dd	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
 1CC_ 1GG_	p	4.G	>	8ccL	>	1r	.
@@ -66,11 +73,11 @@
 .	.	8cL	.	8gL	.	.	.
 .	.	8G	.	8dd	.	.	.
 .	.	8d	.	8cc	.	.	.
-.	.	8cJ)	]	8gJ	]	.	.
+.	.	8cJ)	]]	8gJ	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
 1CC_ 1GG_	.	(8GL	p	8ddL	p	4r	.
 .	.	8d	.	8cc	.	.	.
-.	.	8c	.	8g	.	4c	Ain
+.	.	8c	.	8g	.	4c	Ain-
 .	.	8GJ)	.	8ddJ	.	.	.
 .	.	(8dL	.	8ccL	.	4d	si
 .	.	8c	.	8g	.	.	.
@@ -78,34 +85,38 @@
 .	.	8dJ)	.	8ccJ)	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39
 1CC_ 1GG_	.	(8cL	.	8r	.	2.e-	-sait
-.	.	8G	.	(8dd	.	.	.
-.	.	8d	.	8ccL	.	.	.
+.	.	8G	.	(8ddL	.	.	.
+.	.	8d	.	8cc	.	.	.
 .	.	8cJ)	.	8gJ	.	.	.
-.	.	8r	.	8ddL	<	.	.
-.	.	(8d	<	8cc	.	.	.
+.	.	8r	.	8ddL	.	.	.
+!	!LO:HP:t=poco a poco %s	!	!LO:HP:t=poco a poco %s	!	!LO:HP:t=poco a poco %s	!	!
+.	<	(8d	<	8cc	<	.	.
 .	.	8cL	.	8g	.	4e-	la
 .	.	8GJ)	.	8ddJ	.	.	.
+!!LO:REH:t=40
 =40	=40	=40	=40	=40	=40	=40	=40
 1CC] 1GG]	.	(8dL	.	8ccL	.	4f	nym-
 .	.	8c	.	8g	.	.	.
 .	.	8G	.	8dd	.	4f	-phe
 .	.	8dJ)	.	8ccJ)	.	.	.
 .	.	(8cL	.	8r	.	4c	qui
-.	.	8G	.	(8dd	.	.	.
-.	.	8d	.	8ccL	.	4g	m'af-
+.	.	8G	.	(8ddL	.	.	.
+.	.	8d	.	8cc	.	4g	m'af-
 .	.	8cJ)	.	8gJ	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
-[1FF [1C	.	8r	.	8ddL	.	2.a-	-fo-
-.	.	(8d	.	8cc	.	.	.
-.	.	8cL	.	8g	.	.	.
+[1FF [1C	.	8r	.	8ddL	.	2.a-	-ol-
+.	.	(8dL	.	8cc	.	.	.
+.	.	8c	.	8g	.	.	.
 .	.	8GJ)	.	8ddJ	.	.	.
 .	.	(8dL	.	8ccL	.	.	.
 .	.	8c	.	8g)	.	.	.
-.	.	8G	.	(8gg	.	4a-	-le
-.	.	8gJ)	[	8ffJ)	[	.	.
-=||	=||	=||	=||	=||	=||	=||	=||
+.	.	8G	.	(8ggi	.	4a-	-le
+.	.	8gJ)	.	8ffJ	.	.	.
+=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[(s3,s4)]
+!!!RDF**dynam: > = dimin.
+!!!Xfilter:slurcheck
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
@@ -133,3 +144,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
