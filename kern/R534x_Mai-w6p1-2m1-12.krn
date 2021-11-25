@@ -4,7 +4,7 @@
 !!!example: 534x
 !!!work: Mai-0
 !!!OMD-full: Allegretto tranquillo
-!!!OMD: Allegretto tranquillo
+!!!OMD: Allegretto tranquillo  [eighth]=108
 **kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:B	*grp:B
 *part1	*	*part1	*part1
@@ -17,16 +17,16 @@
 *k[]	*	*k[]	*
 *C:	*	*C:	*
 *M3/8	*	*M3/8	*
-!	!	!LO:TX:t=Allegretto tranquillo [eighth]=108	!LO:DY:t=cantabile ( %s )
+!	!	!	!LO:DY:t=cantabile ( %s )
 8r	.	8g'~L	mp
 8e'	p	(32f#XKL 32cc#X	.
 .	.	[16.ff#XJJ	.
 =1	=1	=1	=1
-(8e-X~L 8ccni	.	8.ff#L]	.
+(8e-X~L 8ccn	.	8.ff#L]	.
 8d'J 8a)	.	.	.
 .	.	16ee-XL	.
-!LO:TX:t=P:problem:all over the barline beaming needs to be added throughout	!	!	!
-(8e-~L 8bni	.	16f#X	.
+!LO:TX:t=P:problem:	!	!	!
+(8e-~L 8bn	.	16f#X	.
 .	.	16ddJJ	.
 =2	=2	=2	=2
 8d'J 8a)	.	8.ff#XL	.
@@ -48,14 +48,15 @@
 .	.	16a-JJ	.
 =5	=5	=5	=5
 8e'J 8bn)	.	8b-X'L>)	.
-(8f~L 8dd	.	(<16a-X^k	.
+!	!	!LO:S:a	!
+(8f~L 8dd	.	(16a-X^k	.
 .	.	[8.b-J	.
 8e'J 8b)	.	.	.
 =6	=6	=6	=6
 (8f~L> 8cc#X	.	8.b-L]	>
 8e' 8b	.	.	.
 .	.	[8.a-XJ	.
-8f'J 8dd)	.	.	]
+8f'J 8dd)	.	.	]]
 =7	=7	=7	=7
 8%3r	.	16a-])	.
 .	.	16r	.
@@ -66,8 +67,8 @@
 .	.	16dd#XJJ	.
 =8	=8	=8	=8
 !	!LO:DY:ed=paren	!	!
-8gni~L 8ee	p	8.aa#XL	.
-8f#X'J 8cc#X	.	.	.
+(8gn~L 8ee/	p	8.aa#XL	.
+8f#X'J 8cc#X)	.	.	.
 .	.	16ggL	.
 (8g~/L 8dd#X/	.	16a#X	.
 .	.	16ff#XJJ	.
@@ -87,7 +88,7 @@
 (8a~L 8ff#X	.	16ddnKL	.
 .	.	8ccn)	.
 8g#X'J 8dd#X)	.	.	.
-.	.	(16aaL	.
+.	.	(16aaLi	.
 (8a~L 8ffn	.	16ccc	.
 .	.	16gg#XJJ	.
 =12	=12	=12	=12
@@ -98,6 +99,7 @@
 .	.	16dddnJk	.
 =	=	=	=
 *-	*-	*-	*-
+!!!Xfilter: slurcheck
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
@@ -129,3 +131,4 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental, paren
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
