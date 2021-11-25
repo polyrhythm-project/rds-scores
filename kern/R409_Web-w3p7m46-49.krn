@@ -11,6 +11,8 @@
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
 *I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
@@ -104,7 +106,7 @@
 *	*	*	*	*rscale:2	*	*	*
 !	!	!LO:TUP:n=3	!	!LO:TUP:n=3	!	!LO:TUP:n=3	!
 *	*	*rscale:2	*	*	*	*	*
-!	!	!	!	!	!	!LO:TX:t=P:problem:tuplet number should be 3/missing brackets for triplets	!
+!	!	!	!	!	!	!LO:TX:t=P:problem:tuplet number should be 3/missing brackets and numbers for triplets	!
 (6GG-X	.	(18g-XL	.	(18ddL	.	(18bb-XL	.
 .	.	18f	.	18cc#X	.	18aa	.
 .	.	18g-J)	.	18ddJ)	.	18bb-J)	.
