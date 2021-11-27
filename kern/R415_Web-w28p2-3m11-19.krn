@@ -9,24 +9,24 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part9	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Piano	*	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
+*I"Piano	*	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Clarinet [C]	*	*I"Oboe	*	*I"Flute	*
 *I'Pno.	*	*	*	*I'Vla.	*	*I'Vln. I	*	*I'Tbn.	*	*I'Tpt.	*	*I'Hn.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
 *clefF4	*	*clefG2	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*	*k[]	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-!	!	!LO:TX:t=[quarter]=80	!	!LO:TX:t=mit Dmpf.	!	!LO:TX:t=mit Dmpf.	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=[quarter]=80	!
-!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: this slur needs to be changed to a hanging slur	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:t=[quarter]=80	!	!LO:TX:t=mit Dmpf.	!	!LO:TX:t=mit Dmpf.	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=[[quarter]=80]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4r	.	2r	.	2r	.	2r	.	2r	.	(8ff#XL	.f	2r	.	8r	.	2r	.	2r	.
 .	.	.	.	.	.	.	.	.	.	8ddJ)	.	.	.	8ccc#X~	f	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	(4an	>]	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	(4an	>	.	.	.	.
 !	!	!	!LO:DY:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-8EE-X	fp	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EE-X	fp	.	.	.	.	.	.	.	.	.	.	.	.	.	.]]	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-!	!	!LO:TX:a:B:t=rit. - - - - - - - - -	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit. - - - - - - - - -	!
+!	!	!	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
 *clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!LO:TX:t=P:problem: spacing for piano staves is too wide	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4	.	(4Gn 4f#X	.	4r	.	8aa-X~	p	2r	.	2r	.	2r	.	8B-X)	p	2r	.	2r	.
 !	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	(4cn	>	.	.	.	.	.	.	8r	.	.	.	.	.
@@ -34,16 +34,16 @@
 8r	.	8r	.	8een~	p	8bn)	]	.	.	.	.	.	.	.	.	.	.	.	.
 *clefF4	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-!	!	!LO:TX:B:t=sehr mäßig [quarter]= 50	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:B:t=sehr mäßig [quarter]= 50	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:B:t=sehr mäßig [quarter]= 50	!
 (8D>L 8B-X>	.	8	pp	(4e-X	>	2r	.	2r	.	2r	.	2r	.	2r	.	4r	.	2r	.
 8C#X 8cn	<	8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8an> 8gg#X>	[>	8	.	8Gn)	]	.	.	.	.	.	.	.	.	.	.	(8enL	p	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all over the bar line beaming needs to be added	!	!	!
-8Fn 8enJ)	]	8	.	8r	.	.	.	.	.	.	.	.	.	.	.	8gg#X'J)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Fn 8enJ)	]	8	.	8r	.	.	.	.	.	.	.	.	.	.	.	8gg#X')	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 *clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-8r	.	4r	.	2r	.	4r	.	2r	.	2r	.	(4ccn	p	2r	.	8gn~	.	2r	.
+8r	.	4r	.	2r	.	4r	.	2r	.	2r	.	(4ccn	p	2r	.	8gn~J	.	2r	.
 (8d#XL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
 8G>) 8e>-XJ	.	8	.	.	.	8r	.	.	.	.	.	8BnL	>	.	.	4r	.	.	.
 8r	.	8r	.	.	.	8ccc#X~	fp	.	.	.	.	8e-XJ)	]]	.	.	.	.	.	.
@@ -61,12 +61,12 @@
 *	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8gg#>XJ~	.	8	.	4r	.	.	.	.	.	4r	.	(8ccnL	p	.	.	8gn~J	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-8r	.	8r	.	.	.	.	.	.	.	.	.	8BnJ)	.	.	.	8r	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	8Bn)	.	.	.	8r	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 *	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:a:t=immer mit Dmpf.	!	!	!	!	!	!	!	!	!	!	!
-8	.	8FF#<LX~	.	2r	.	2r	.	2r	.	4r	.	8e-X~	.	2r	.	2r	.	2r	.
+8	.	8FF#<LX~	.	2r	.	2r	.	2r	.	4r	.	8e-X~J	.	2r	.	2r	.	2r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8	.	(8Gn 8e-X	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
