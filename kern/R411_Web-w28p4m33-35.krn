@@ -9,7 +9,7 @@
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Piano	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Clarinet in Bb	*
+*I"Piano	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Clarinet [C]	*
 *I'Pno.	*	*	*I'Vla.	*	*I'Vln. I	*	*I'Tbn.	*	*I'Cl.	*
 *clefF4	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
@@ -17,26 +17,26 @@
 *MM45	*MM45	*	*MM45	*	*MM45	*	*MM45	*	*MM45	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 !	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!
-!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: rit and tempo markings need to be added to top	!
-2r	8r	p	2r	.	]8.gg#X	p	2r	.	4r	.
+!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!	!
+2r	8r	p	2r	.	8.gg#X)	p	2r	.	4r	.
 .	8E-X~ 8dn	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	[16gn~kL	>	.	.	.	.
-.	4r	.	.	.	16g]J	]	.	.	8r	.
+.	4r	.	.	.	16g]J	]]	.	.	8r	.
 .	.	.	.	.	16r	.	.	.	.	.
 .	.	.	.	.	8r	.	.	.	8An~	f
 *	*clefG2	*	*	*	*	*	*	*	*	*
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-2ryy	(8BB<-XL<	f	2r	.	2r	.	2r	.	16r	.
+2ryy	(8BB-<XL\	f	2r	.	2r	.	2r	.	16r	.
 .	.	.	.	.	.	.	.	.	(8qfn/	.
 .	.	.	.	.	.	.	.	.	8.ff#X)	.
-.	8BnJ) 8gn	.	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	(8qcc#X/	>
-.	(8An<L<	>	.	.	.	.	.	.	8.dnL)	.
-.	8cnJ) 8a-X	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:over the barline beaming needs to be added in 	!
-.	.	.	.	.	.	.	.	.	[16b-XJk	] p
+.	8BnJ) 8gn/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	(8qcc#X/	.
+.	(8An<L\	>	.	.	.	.	.	.	8.dn)	>
+.	8cnJ) 8a-X/	.	.	.	.	.	.	.	.	]]
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented 	!
+.	.	]]	.	.	.	.	.	.	[16b-XL	p
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-8r	8r	] ff	4r	.	2r	.	4r	.	8b-]	.
+8r	8r	ff	4r	.	2r	.	4r	.	8b-J]	.
 8ryy	(8CC#<XL	.	.	.	.	.	.	.	8r	.
 4ryy	8Fn 8enJ)	.	8r	.	.	.	(16BKnL	ff	4r	.
 .	.	.	.	.	.	.	8b-X)	.	.	.
