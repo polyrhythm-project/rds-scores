@@ -5,19 +5,21 @@
 !!!work: Ger-3
 !!!OMD-full: Molto moderato
 !!!OMD: [Tempo giusto]
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*I"Piano	*I"Piano	*	*I"Drum Set	*	*I"Trumpet in Bb	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb I	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Ban.	*	*	*	*	*I'Dr.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*
-*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*
-*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*	*C:	*	*C:	*	*	*	*C:	*	*C:	*
-*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*
-=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
-*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B		*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part7	*part6		*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6		*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*I"Piano	*I"Piano	*	*I"Drum Set		*	*I"Trumpet in Bb	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb I	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Ban.	*	*	*	*	*I'Dr.		*	*I'Tpt.	*	*I'Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4		*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*		*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*		*	*C:	*	*C:	*	*	*	*C:	*	*C:	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4		*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*MM133	*	*MM133		*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*
+!!LO:REH:t=9
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91		=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:A	*grp:B	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=Let strings snap	!	!	!	!	!LO:TX:b:t=B. D.	!LO:TX:a:t=Brush	!LO:DY:rj	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
@@ -61,10 +63,11 @@
 .	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR	.	.	.	.	.	.	.	.	12A	.	12aa	.
 .	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	12ggJ)	.
 =94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!
 4AAA-X'	.	4AA-X' 4E-X	.	(8Bn^L	.	4.c^ 4.eX	.	4e-X' 4a-X	.	1ryy	(8bbb-XL\ 8cccc 8eeee-	.	(8eeR^L	4fR	.	1c]	.	1c] 1cc]	.	4.c^ 4.e-X	.	(8Bn^L	.	(8b	.
 .	.	.	.	8A	.	.	.	.	.	.	8aaa-\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	4ccc)	.
 4AAA-'	.	4AA-' 4E-	.	8G)	.	.	.	4e-' 4a-	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!
 .	.	.	.	(8B^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ 8ccc 8eee-	.	(8eeR^J	.	.	.	.	.	.	[8c^ [8e-	.	(8B^J	.	(8cc	.
 4AAA-'	.	4AA-' 4E-	.	8AL	.	4c] 4e-]	.	4e-' 4a-	.	.	8aa-\L	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e-]	.	8AL	.	4aa-X)	.
 .	.	.	.	8GJ)	.	.	.	.	.	.	8gg-</J)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
@@ -84,8 +87,8 @@
 .	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!system-decoration: [(s1,s2)][(s3,s4,s5)]s6{(s7,s8)}s9[(s10,s11,s12,s13)]
