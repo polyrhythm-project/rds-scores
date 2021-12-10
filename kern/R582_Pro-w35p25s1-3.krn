@@ -16,12 +16,12 @@
 *B-:	*B-:	*
 *M7/8	*M7/8	*
 =1	=1	=1
-!	!LO:TX:t=[eighth]=368	!
-!	!LO:TX:a:B:t=Precipitato ([quarter]_[quarter]_[eighth])	!
+!	!LO:TX:t=[[eighth]=368]	!
+!	!	!
 8r	4D 4F 4B-	mp
 8BBB- 8BB-	.	.
 4CC#X^ 4C#X	8r	.
-!	!LO:TX:t=P:problem: should be ties instead of underscores in "Precipitato" tempo marking	!
+!	!	!
 .	4D 4F 4B-	.
 8BBB- 8BB-	.	.
 4r	8BB-L 8D 8F	.
@@ -98,15 +98,15 @@
 8AA 8A	.	.
 8r	8c-X 8e- 8g	.
 4r	8B-L 8e- 8g	.
-.	8B-XJ 8e- 8a-X	.
+.	8A-J 8e- 8a-X	.
 =11	=11	=11
-!	!LO:TX:t=P:problem: cautionary A naturals need parenthese around them	!
+!	!	!
 8r	4G 4An 4e- 4an	mf
 8BBB- 8BB-	.	.
 4CC#X^ 4C#X	8r	.
 .	4G 4A 4e- 4a	.
 8BBB- 8BB-	.	.
-4r	8GL 8An 8e- 8a-X	.
+4r	8GL 8Ani 8e- 8a-X	.
 .	8GJ 8A 8e- 8g	.
 =12	=12	=12
 8r	4G 4A 4d#X 4f#X	.
@@ -115,7 +115,7 @@
 8FF#X 8F#X	.	.
 8r	8G 8A 8d 8f#	.
 4r	8GL 8A 8d 8g	.
-.	8GJ 8An 8d 8g#X	.
+.	8GniJ 8A 8d 8g#X	.
 =13	=13	=13
 8r	4G 4A 4e- 4a	.
 8BBB-X 8BB-X	.	.
@@ -130,11 +130,12 @@
 8r	4G 4A 4dn 4f#	.
 8FF#X 8F#X	.	.
 8r	8G 8A 8d 8f#	.
-4r	8GL 8An 8d 8g	.
-.	8GJ 8A 8d 8g#X	.
+4r	8GL 8A 8d 8g	.
+.	8GnJi 8A 8d 8g#X	.
 =	=	=
 *-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: i = editorial accidental, paren
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
