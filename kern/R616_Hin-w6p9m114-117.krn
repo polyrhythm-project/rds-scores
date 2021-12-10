@@ -16,9 +16,9 @@
 *A-:	*	*A-:	*	*A-:	*	*A-:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =114	=114	=114	=114	=114	=114	=114	=114
-!	!	!	!	!	!	!LO:TX:t=[quarter]=103	!
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=103]	!
 !	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=Mit Schwung	!
-4r	.	16DnLL	f>	4%3r	f	4r	.
+4r	.	16DnLL	f>	4%3r	.	4r	.
 .	.	(16dn	.	.	.	.	.
 .	.	16B-	.	.	.	.	.
 .	.	16GJJ	.	.	.	.	.
@@ -54,7 +54,7 @@
 .	]]	16GJJ	.	.	.	.	]]
 =116	=116	=116	=116	=116	=116	=116	=116
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
-(6FF	.	16FLL)	.	[2.a- 2.cc	f	(6ff	.
+(6FF	.	16FLL)	.	[2.a- 2.cc/	f	(6ff	.
 .	.	(16c	.	.	.	.	.
 .	.	16A-	.	.	.	.	.
 12GG)	.	.	.	.	.	12gg)	.
@@ -90,12 +90,13 @@
 [4E-	.	12E-L	.	16e-LL	.	12ee-L]	.
 .	.	.	.	16B-)	.	.	.
 .	.	12F	.	.	.	12ff	.
-.	.	.	.	(16b-	.	.	.
+.	.	.	.	(16b-i	.	.	.
 .	.	12GJ	.	.	.	12ggJ	.
 .	.	.	.	16gJJ	.	.	.
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)]
+!!!Xfilter: slurcheck
 !!!CDT: 1895/11/16-1963/12/28
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
@@ -123,3 +124,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
