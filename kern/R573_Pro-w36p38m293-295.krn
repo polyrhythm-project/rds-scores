@@ -16,13 +16,13 @@
 *D-:	*	*D-:	*
 *M3/4	*	*M3/4	*
 =293	=293	=293	=293
-!!LO:TX:t=[quarter]=180
+!!LO:TX:t=[[quarter]=180]
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack
-!	!	!LO:TX:t=P:problem:first pitches in both staves need to be switched and lines added to match original visually	!
-4dd-	p	(4.ddd-	p
-4a/-'	.	.	.
+!LO:TX:t=P:problem:missing lines between staves that show voice exchanges	!	!LO:TX:i:t=[legato]	!
+4dd->	p	4.ddd-<	p
+4a-	.	.	.
 .	.	4.fff-X	.
-4gn/	.	.	.
+4gn\	.	.	.
 =294	=294	=294	=294
 *^	*	*	*
 4b-- 4ff-X	[2.a-	.	4.eee-	.
@@ -32,12 +32,13 @@
 =295	=295	=295	=295	=295
 4bn 4ffn	2.a-_	.	4.eee-	.
 4cc 4gg-	.	.	.	.
-.	.	.	4.ddd-)	.
+.	.	.	4.ddd-	.
 4dd- 4ggn	.	.	.	.
 *v	*v	*	*	*
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below, > = above
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
