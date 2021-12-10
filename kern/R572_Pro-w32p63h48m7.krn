@@ -28,7 +28,7 @@
 !	!	!LO:TX:a:t=(pizz.)	!	!	!	!	!	!	!	!	!	!	!
 8C#^	.	12C#^L	mf	4g#X 4ee	.	4b 4ee	.	4b 4ee	.	12C#^L	.	8eL]	.
 .	.	12C##X^	.	.	.	.	.	.	.	12C##X^	.	.	.
-8r	.	.	.	.	.	.	.	.	.	.	.	(8d#	.
+8r	.	.	.	.	.	.	.	.	.	.	.	(8d#i	.
 .	.	12D#X^J	.	.	.	.	.	.	.	12D#X^J	.	.	.
 4r	.	12D#^L	.	4B	.	4B	.	4G#X 4f#	.	12D#^L	.	8f#	.
 .	.	12E^	.	.	.	.	.	.	.	12E^	.	.	.
@@ -37,6 +37,7 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
+!!!Xfilter: slurcheck
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
@@ -64,3 +65,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
