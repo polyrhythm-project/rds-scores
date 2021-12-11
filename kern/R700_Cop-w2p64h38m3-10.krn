@@ -20,12 +20,13 @@
 *	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 !	!	!LO:TX:a:t=unis.	!	!	!	!LO:TX:t=[[quarter-dot]=100]	!	!	!	!	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:a:t=[a2]	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:t=[[quarter-dot]=100]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!
 8r	.	8r	.	8r	.	8r	.	16r	16r	fff	]8ggg^	.f	8c#X' 8f#X	.f	]8f 8b-X	.f	8c#X' 8f#X	.p	8f ]8b-y	.p	16r	ff	16r	ff	16r	ff	16r	ff	16r	ff
 .	.	.	.	.	.	.	.	8bb-X^L	8bbb-X^L 8bbbb-X	.	.	.	.	.	.	.	.	.	.	.	8aa#^L	.	8bb-X^L	.	8bb-X^L	.	8bb-X^L	.	8bbb-XL	.
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8dL	f	8dL	f	8eL	f	8g#XL	f	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	16bb-'Jk	16bbb-Jk 16bbbb-'	.	.	.	.	.	.	.	.	.	.	.	16aa#'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bbb-'Jk	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: all over the barline beaming needs to be added	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8d#XJ	.	8d#XJ	.	8cc#XJ	.	8eeJ	.	8gg~	8ggg~ 8gggg	.	8r	.	8r	.	8r	.	8r	.	8r	.	8ff##X^	.	8ggX^	.	8gg^	.	8gg^	.	8ggg^	.
 =133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
 8e^L	.	8e^L	.	8gL	.	8b-XL	.	16gg'k	16ggg'k 16gggg	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##X'k	.	16ggX'k	.	16gg'k	.	16gg'k	.	16ggg'k	.
