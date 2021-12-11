@@ -18,7 +18,7 @@
 *M4/4	*M4/4	*
 *	*8va	*
 =91	=91	=91
-!	!LO:TX:t=[quarter]=171	!
+!	!LO:TX:t=[[quarter]=171]	!
 !	!LO:TX:b:i:t=  marc.	!LO:DY:
 (8qC/ 8qG	(8qbbn/	mf
 !LO:TX:t=P:problem:some slur and rest clashing throughout (visually)	!	!
@@ -54,9 +54,9 @@
 8AL	8aL	2ryy	.
 8GJ)	8gJ)	.	.
 !	!LO:TX:b:i:t=R.H.	!	!
-4r	12B-< 12c< 12e<^L	.	.
+4r	(12B-< 12c< 12e<^L	.	.
 .	12A<	.	.
-.	12G<J	.	.
+.	12G<J)	.	.
 *	*v	*v	*
 =94	=94	=94
 *^	*	*
@@ -73,8 +73,9 @@
 *v	*v	*	*
 =95	=95	=95
 *	*grp:B	*grp:B
-(8qC	(8qbbn/	.
 *	*8va	*
+(8qC	(8qbbn/	.
+*	*	*
 8B-X^L) 8c (8en	8ccL) (8ccc	.
 8An	8eeJ 8eee	.
 8Gn)	4gg'^ 4ggg)	.
