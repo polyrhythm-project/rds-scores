@@ -18,8 +18,9 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
+!!LO:REH:t=66
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=132	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!
 4r	mf	16r	mf	8.r	mf	16Re/LL	mf	4r	mf	.	4r	mf	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
@@ -27,14 +28,14 @@
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8r	.	.	8r	.	.	.	.
 .	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t= [con sord]	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord]	!	!	!LO:TX:a:t=[con sord]	!	!	!	!
 8Re/J	.	.	.	16r	.	16Re/	.	([8AA~	.<	.	([8D-~ [8E-~	.<	.	.	.
 .	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 4r	.	16r	.	16Re/LL	.	4r	.	4AA]	.	.	4D-] 4E-]	.	.	.	.
 .	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	8FF#'^)	[f	.	8C'^ 8D'^)	[f	.	.	.
 .	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	8r	.	.	8r	.	.	.	.
@@ -57,8 +58,8 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
-4r	.	16r	.	8.r	.	16Re/LL	.	8FF#'^)	.[[	.	8C'^ 8Dn)	.[[	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8FF#'^)	[	.	8C'^ 8Dn)	[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
@@ -75,7 +76,7 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-4r	.	16r	.	8.r	.	16Re/LL	.	8F'^)	.[[	.	8G-'^ 8e-X)	.[[	.	.	.
+4r	.	16r	.	8.r	.	16Re/LL	.	8F'^)	[	.	8G-'^ 8e-X)	[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
@@ -92,8 +93,8 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: accent and staccato are colliding, due to a bug in VHV.	!	!	!	!	!	!	!
-4r	.	16r	.	8.r	.	16Re/LL	.	8FFn'^)	[[	.	8C-'^ 8D-X)	.[[	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8FFn'^)	[	.	8C-'^ 8D-X)	[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
@@ -127,7 +128,7 @@
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-4r	.	16r	.	8.r	.	16Re/LL	.	8D'^)	[[	.	8E-X'^ 8B-X)	[[	.	.	.
+4r	.	16r	.	8.r	.	16Re/LL	.	8D'^)	[	.	8E-X'^ 8B-X)	[	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
@@ -139,14 +140,15 @@
 .	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
 .	.	16Rd\JJ	.	16r	.	.	.	8r	.	.	8r	.	.	.	.
 .	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: notes should have ties, as the score continutes on past excerpt.	!	!	!LO:TX:t=P:problem: notes should have ties, as the score continutes on past excerpt.	!	!	!	!
-8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	(4AA~i	<	.	(4D-~ 4E-Xi	<	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	(4AA~ii	<	.	(4D-~ 4E-Xii	<	.	.	.
 .	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
 8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
 .	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	[[	.	.	[[	.	.	.
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
+!!!Xfilter:slurcheck
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
@@ -174,3 +176,4 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
