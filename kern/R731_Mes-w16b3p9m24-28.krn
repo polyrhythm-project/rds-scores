@@ -14,12 +14,14 @@
 *clefG2	*	*clefG2	*
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*
-*M7/8	*	*M7/8	*
+*M	*	*M	*
 =24	=24	=24	=24
-!	!	!LO:TX:t=[eighth]=82	!
-!	!	!LO:TX:a:B:t=Plus lent	!
-4d- 4g- 4a-	mf	4r	.
-[4.A- [4.d- [4.e-	.	16r	.
+!	!	!LO:TX:t=[[eighth]=82]	!
+!LO:TX:a:t=G (diapason 8)	!LO:DY:t=%s louré	!LO:TX:a:B:t=Plus lent	!
+!	!	!LO:TX:a:t=Pos (cromorne, bourdon 16, 3ee.)	!
+4d-~ 4g-~ 4a-~	mf	4r	.
+[4.A-~ [4.d-~ [4.e-~	.	16r	.
+!	!	!	!LO:DY:t=%s legato (caressant)
 .	.	(16a-LL	f
 .	.	16b-JJ	.
 .	.	16dd-LL	.
@@ -30,11 +32,12 @@
 .	.	16gg-	.
 .	.	16dddnJJ	.
 =25	=25	=25	=25
-*M8/8	*	*M8/8	*
+*M	*	*M	*
 8r	.	[4aa-X)	.
-8d-~ 8g- 8a-	.	.	.
-16B-~ 16e- 16f	.	16aa-X]	.
+8d-~ 8g- 8a-L	.	.	.
+16B-~ 16e- 16fJ	.	16aa-X]	.
 [4.A-~ [4.d- [4.e-	.	16r	.
+!	!	!LO:TX:a:t= R (hautbois, quintaton 16, 3ee. et piccolo)	!
 .	.	(16gg-LL	mf
 .	.	16aa-JJ	.
 .	.	16gg-LL	.
@@ -46,10 +49,11 @@
 .	.	16an	.
 16A-] 16d-] 16e-]	.	16ddnJJ	.
 =26	=26	=26	=26
-*M7/8	*	*M7/8	*
+*M	*	*	*
 8r	.	4a-X)	.
 8d-~ 8g- 8a-	.	.	.
 [4.A-~ [4.d- [4.e-	.	16r	.
+!	!	!LO:TX:a:t=Pos.	!
 .	.	(>16a-LL	f
 .	.	16b-JJ	.
 .	.	16dd-XLL	.
@@ -60,10 +64,12 @@
 .	.	16gg-	.
 .	.	16dddnJJ	.
 =27	=27	=27	=27
-*M8/8	*	*M8/8	*
-8r	.	[8aa-XL)	.
-8.d-~L 8.g- 8.a-	.	8.aa-XJ]	.
-8A-~ 8d- 8e-	.	16r	.
+*M	*	*M	*
+8r	.	[8aa-L	.
+!LO:TX:b:i:t=louré	!	!	!
+8.d-~ 8.g- 8.a-	.	8.aa-J])	.
+8A-~ 8d- 8e-L	.	16r	.
+!	!	!LO:TX:a:t=R	!LO:DY:t=%s legato
 .	.	(16gg-LL	mf
 8d-~ 8g- 8a-	.	16aa-	.
 .	.	16gg-	.
@@ -75,9 +81,10 @@
 .	.	16an	.
 .	.	16ddnJJ	.
 =28	=28	=28	=28
-*M11/16	*	*M11/16	*
-[8.d-~ [8.g- [8.a-	.	16a-XLL)	.
-.	.	(32anL	.
+*M	*	*M	*
+[8.d-~ [8.g- [8.a-	.	16a-'XLL)	.
+!	!	!LO:TX:a:t=Pos.	!
+.	.	(32anLi	.
 .	.	32bn	.
 .	.	32ddn	.
 .	.	32ggnJJJ	.
@@ -86,12 +93,13 @@
 .	.	16gg-XJJ	.
 8d-~L 8g- 8a-	.	16ee-LL	.
 .	.	16dd-	.
-16B-~Jk 16e- 16f	.	16b-XJJ	.
-8A-X~ 8d-X 8e-	.	16anLL	.
-.	.	16ddnJJ)	.
+16B-~k 16e- 16f	.	16b-X	.
+8A-X~ 8d-X 8e-J	.	16an	.
+.	.	16ddnJJ	.
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
+!!!Xfilter: slurcheck
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
@@ -121,3 +129,4 @@
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
