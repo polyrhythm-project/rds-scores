@@ -19,7 +19,7 @@
 *	*8va	*	*	*	*
 =154	=154	=154	=154	=154	=154
 !	!	!	!	!LO:TX:t=[half]=120	!
-!	!LO:TX:t=[half]=120	!	!	!	!LO:DY:ed=brack
+!	!LO:TX:t=[[half]=120]	!	!	!	!LO:DY:ed=brack
 2r	(4ddd	p	1r	8B 8f#X\	pp
 .	.	.	.	8B 8b	.
 .	8ggg)	.	.	4r	.
