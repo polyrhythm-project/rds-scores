@@ -20,14 +20,14 @@
 =53	=53	=53	=53	=53	=53	=53	=53	=53
 !LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
 *Xtuplet	*	*Xtuplet	*	*	*	*	*	*
-!LO:TX:t=P:problem: editorial dynamic is clashing with beams	!	!	!	!	!	!	!	!
+!	!LO:DY:a	!	!	!	!	!	!	!
 12cc>^L	p	4ryy	1r	.	1r	.	1r	.
 12a>n	.	.	.	.	.	.	.	.
-12enJ	.	.	.	.	.	.	.	.
+12enJ/	.	.	.	.	.	.	.	.
 12gnL	.	4ryy	.	.	.	.	.	.
-12b>	.	.	.	.	.	.	.	.
+12b>/	.	.	.	.	.	.	.	.
 12g>#XJ	.	.	.	.	.	.	.	.
-12e#XL	.	4ryy	.	.	.	.	.	.
+12e#XL/	.	4ryy	.	.	.	.	.	.
 12g#X	.	.	.	.	.	.	.	.
 !	!	!LO:TX:t=(Triolen)	!	!	!	!	!	!
 12cc>nJ	.	.	.	.	.	.	.	.
@@ -35,17 +35,17 @@
 12dL	.	12aJ	.	.	.	.	.	.
 12enJ	.	12ryy	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54
-12f#XL	.	1ryy	1EE	p<	1r	.	1r	.
+12f#XL/	.	1ryy	1EE	p<	1r	.	1r	.
 12g	.	.	.	.	.	.	.	.
-12dd>-X^J	.	.	.	.	.	.	.	.
+12dd>-X^>J	.	.	.	.	.	.	.	.
 12b>-XL	.	.	.	.	.	.	.	.
-12e-X	.	.	.	.	.	.	.	.
+12e-X/	.	.	.	.	.	.	.	.
 12g-XJ	.	.	.	[	.	.	.	.
 12cc>L	.	.	.	>	.	.	.	.
-!LO:TX:t=P:problem: piano is missing "sempre cresc." text, needs to be added??	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!
 12a>-X	.	.	.	.	.	.	.	.
-12f-XJ	.	.	.	.	.	.	.	.
-12a-L	.	.	.	.	.	.	.	.
+12f-XJ/	.	.	.	.	.	.	.	.
+12a-L/	.	.	.	.	.	.	.	.
 12dd>-	.	.	.	.	.	.	.	.
 12cc>J	.	.	.	]	.	.	.	.
 *	*	*	*	*	*clefF4	*	*	*
@@ -53,14 +53,14 @@
 12d-XL	.	12b-X	1r	.	1FF	p<	1r	.
 12e-X	.	12ryy	.	.	.	.	.	.
 12fJ	.	12ryy	.	.	.	.	.	.
-12g-XL	.	4ryy	.	.	.	.	.	.
+12g-XL/	.	4ryy	.	.	.	.	.	.
 12dd>n^	.	.	.	.	.	.	.	.
 12b>nJ	.	.	.	.	.	[	.	.
-12dnL	.	4ryy	.	.	.	>	.	.
+12dnL/	.	4ryy	.	.	.	>	.	.
 12f	.	.	.	.	.	.	.	.
 12dd>-XJ	.	.	.	.	.	.	.	.
 12a>-XL	.	4ryy	.	.	.	.	.	.
-12e-X	.	.	.	.	.	.	.	.
+12e-X/	.	.	.	.	.	.	.	.
 12a-XJ	.	.	.	.	.	]	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56
 12ryy	.	12ddnL	1EE	p<	1r	.	1r	.
@@ -71,37 +71,37 @@
 12fJ	.	.	.	[	.	.	.	.
 12ee>-X^L	.	4ryy	.	>	.	.	.	.
 12cc>n	.	.	.	.	.	.	.	.
-12c#XJ	.	.	.	.	.	.	.	.
-12eL	.	4ryy	.	.	.	.	.	.
+12c#XJ/	.	.	.	.	.	.	.	.
+12eL/	.	4ryy	.	.	.	.	.	.
 12dd>	.	.	.	.	.	.	.	.
 12g>#XJ	.	.	.	]	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57
-12eL	.	4ryy	1r	.	1FF	p<	1r	.
+12eL/	.	4ryy	1r	.	1FF	p<	1r	.
 12g#X	.	.	.	.	.	.	.	.
-!LO:TX:t=P:problem: too wide spacing for piano staves	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!
 12ee>-XJ	.	.	.	.	.	.	.	.
 12ryy	.	12ddL	.	.	.	.	.	.
 12BL	.	12ccJ	.	.	.	.	.	.
 12c#XJ	.	12ryy	.	.	.	[	.	.
-12d#XL	.	4ryy	.	.	.	>	.	.
+12d#XL/	.	4ryy	.	.	.	>	.	.
 12e	.	.	.	.	.	.	.	.
 12ee>n^J	.	.	.	.	.	.	.	.
 12cc>#XL	.	4ryy	.	.	.	.	.	.
-12cn	.	.	.	.	.	.	.	.
+12cn/	.	.	.	.	.	.	.	.
 12e-XJ	.	.	.	.	.	]	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58
-!	!	!	!LO:TX:i:b:t=cresc.	!	!	!	!	!LO:DY:t=%s cresc.
-12dd>#XL	.	4ryy	2.EE	mf<	2r	.	[1D	p
+!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!LO:DY:t=%s cresc.
+12dd>#XL	.	4ryy	2.EE	mf <	2r	.	[1D	p
 12g>#X	.	.	.	.	.	.	.	.
-12c#XJ	.	.	.	.	.	.	.	.
-12g#XL	.	4ryy	.	.	.	.	.	.
+12c#XJ/	.	.	.	.	.	.	.	.
+12g#XL/	.	4ryy	.	.	.	.	.	.
 12ee>	.	.	.	[	.	.	.	.
 12dd>#XJ	.	.	.	>	.	.	.	.
 12B-XL	.	12cc#X	.	.	4r	.	.	.
 12cn	.	12ryy	.	.	.	.	.	.
 12dJ	.	12ryy	.	.	.	.	.	.
 !	!	!	!	!	!LO:TX:i:b:t=cresc.	!	!	!
-12e-XL	.	4ryy	4r	]	4FF[	mf<[	.	.
+12e-XL/	.	4ryy	4r	]	4FF[	mf<[	.	.
 12b>-X 12bb>-^X	.	.	.	.	.	.	.	.
 12g>J#	.	.	.	.	.	.	.	.
 =	=	=	=	=	=	=	=	=
