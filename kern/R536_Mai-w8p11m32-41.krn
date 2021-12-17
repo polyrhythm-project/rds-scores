@@ -1,5 +1,5 @@
 !!!COM: Martin, Frank
-!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
+!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violoncello
 !!!OMV: No. 3
 !!!example: 536
 !!!work: Mai-8
@@ -11,6 +11,8 @@
 *staff4	*	*staff3	*	*staff2	*	*staff1	*staff1
 *I"Violoncello	*	*I"Viola	*	*I"Flute	*	*I"Soprano	*
 *I'Vc.	*	*I'Vla.	*	*I'Fl.	*	*I'S.	*
+*ICstr	*	*ICstr	*	*ICww	*	*ICvox	*
+*Icello	*	*Iviola	*	*Iflt	*	*	*
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*
@@ -116,7 +118,7 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[(s3,s4)]
 !!!RDF**dynam: > = dimin.
-!!!Xfilter:slurcheck
+!!!Xfilter: slurcheck
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
