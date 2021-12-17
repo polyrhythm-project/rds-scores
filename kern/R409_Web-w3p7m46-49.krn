@@ -106,7 +106,7 @@
 *	*	*	*	*rscale:2	*	*	*
 !	!	!LO:TUP:n=3	!	!LO:TUP:n=3	!	!LO:TUP:n=3	!
 *	*	*rscale:2	*	*	*	*	*
-!	!	!	!	!	!	!LO:TX:t=P:problem:tuplet number should be 3/missing brackets and numbers for triplets	!
+!	!	!	!	!	!	!LO:TX:t=P:problem:nested tuplet	!
 (6GG-X	.	(18g-XL	.	(18ddL	.	(18bb-XL	.
 .	.	18f	.	18cc#X	.	18aa	.
 .	.	18g-J)	.	18ddJ)	.	18bb-J)	.
