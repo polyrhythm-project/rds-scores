@@ -11,14 +11,14 @@
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*staff7	*staff7	*	*staff6	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Viola senza sord.	*	*I"Solo Viola II con sord.	*	*I"Solo Viola I con sord.	*	*I"Violin I senza sord.	*	*I"Solo Violin I con sord.	*	*I"Marie	*	*	*	*I"Harp	*	*I"Horn in F II senza sord.	*	*I"Horn in F I senza sord.	*	*I"Bassoon I	*	*I"Bass Clarinet in Bb	*
 *I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln.	*	*I'Vln.	*	*I'Tr. Solo	*	*	*	*I'Hp.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*	*	*Iarpa	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclarb	*
 *clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*
 *M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 =47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=arco	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=arco	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=58]	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
