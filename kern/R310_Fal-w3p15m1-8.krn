@@ -10,8 +10,8 @@
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
-*ICklav	*	*
-*Ipiano	*	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
@@ -24,7 +24,7 @@
 .	24C#J	.
 =1	=1	=1
 *	*^	*
-!	!LO:TX:t=P:problem:need beamspan	!	!
+!	!	!	!
 8C#'N)	8ryy	8ryy	.
 8r	8f#'L	16f#LL	.
 .	.	16A#	.
