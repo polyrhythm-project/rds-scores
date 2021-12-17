@@ -11,6 +11,8 @@
 *staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Piano	*	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Clarinet [C]	*
 *I'Pno.	*	*	*I'Vla.	*	*I'Vln. I	*	*I'Tbn.	*	*I'Cl.	*
+*ICklav	*ICklav	*	*ICstr	*	*ICstr	*	*ICbra	*	*ICww	*
+*Ipiano	*Ipiano	*	*Iviola	*	*Ivioln	*	*Itromt	*	*Iclars	*
 *clefF4	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
@@ -38,7 +40,7 @@
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 8r	8r	ff	4r	.	2r	.	4r	.	8b-J]	.
 8ryy	(8CC#<XL	.	.	.	.	.	.	.	8r	.
-4ryy	8Fn 8enJ)	.	8r	.	.	.	(16BKnL	ff	4r	.
+4ryy	8Fn 8enJ)\	.	8r	.	.	.	(16BKnL	ff	4r	.
 .	.	.	.	.	.	.	8b-X)	.	.	.
 !	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!
 .	8r	.	16r	.	.	.	.	.	.	.
