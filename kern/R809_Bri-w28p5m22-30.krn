@@ -5,7 +5,6 @@
 !!!work: Bri-28
 !!!OMD-full: Andante con moto
 !!!OMD: [Andante con moto]
-!!!Xfilter: transpose -t -P8 -s 10
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *I"Pedals	*	*I"	*	*I"Organ	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Sopranos	*	*
