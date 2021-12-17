@@ -5,7 +5,6 @@
 !!!work: Deb-42
 !!!OMD-full: Modéré
 !!!OMD: Mouvement de Marche modéré
-!!!Xfilter: transpose -t -P8 -s 1
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A		*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
 *part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part5		*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
