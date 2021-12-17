@@ -11,6 +11,8 @@
 *staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*staff13	*	*staff12	*staff12	*	*staff11	*staff11	*	*staff10		*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Athlet	*	*	*I"Schigolch	*	*	*I"Gymnasiast	*	*	*I"		*I"Piano	*	*I"Triangle	*	*I"Horn in F IV	*	*I"Horn in F III	*	*I"Horn in F II	*	*I"Horn in F I	*	*I"Alto Saxophone	*	*I"English Horn	*	*I"Oboe I	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Athl.	*	*	*I'Schig.	*	*	*I'Gymn.	*	*	*I'		*I'Pno.	*	*I'Trg.	*	*I'F Hn. IV	*	*I'F Hn.	*	*I'F Hn. HH	*	*I'F Hn. I	*	*I'Alto Sax.	*	*I'E. H.	*	*I'Ob. I	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICklav		*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*	*	*	*	*	*	*	*	*	*Ipiano		*Ipiano	*	*Itrngl	*	*Icor	*	*Icor	*	*Icor	*	*Icor	*	*IsaxA	*	*Icangl	*	*Ioboe	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefF4	*	*	*clefF4	*	*	*clefG2	*	*	*clefF4		*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*stria1	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd5c9	*	*ITrd4c7	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]		*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[]	*
@@ -23,10 +25,10 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*col	*
 !LO:TX:a:t=[arco]	!	!	!	!	!	!LO:TX:t=[half] = [half-dot]	!	!	!	!	!	!	!	!LO:TX:t=immer wie eine Fanfare	!	!	!		!	!	!	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!	!LO:DY:ed=brack	!	!	!	!
 !	!	!	!	!	!	!LO:TX:t=[div.]	!	!	!	!	!LO:TX:t=holt im folgenden zwei Likörflaschen aus einem Kästchen und stellt sie mit Gläsern auf den Tisch, auf den er sich	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4AAAn	p	4AAn	mp	8En'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r		2r	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	8d-X'L)jj	mp	4.E',	p >	12r	.
+4AAAn	p	4AAn	mp	8En'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r		2r	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	8d-X'L)j	mp	4.E',	p >	12r	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:B:i:t=f	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	12f#X	ich	.	.		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g-X'L	.
-.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.		.	.	.	.	.	.	.	.	.	.	.	.	(8cn)Jjj	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.		.	.	.	.	.	.	.	.	.	.	.	.	(8cn)J	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-XJ	nur	.	.		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-X'J	.
 !	!	!	!	!	!	!LO:TX:a:t=spring. Bogen	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4.GGGn)jj	.	4.GGn)jj	.	4r	.	8r	.	.	.	.	.	.	.	4.ddn	wüß-	.	.		.	.	.	.	.	.	.	.	.	.	.	.	8B-X')L	.	.	]]	8ddn'	.
