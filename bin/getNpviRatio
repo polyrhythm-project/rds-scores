@@ -35,7 +35,8 @@ sub process {
 	chomp $groupB;
 	my $value = $groupA - $groupB;
 	$value = $value * -1 if $value < 0;
-	print "$value\t$groupA\t$groupB\n";
+	#print "$value\t$groupA\t$groupB\n";
+	print "$value\n";
 }
 
 

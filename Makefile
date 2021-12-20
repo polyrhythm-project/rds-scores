@@ -127,7 +127,11 @@ event-density:
 
 edr: event-density-ratio
 event-density-ratio:
-	@bin/getEventDensityRatio  experiment/*.krn
+	@bin/getEventDensityRatio experiment/*.krn
+
+nr: npvi-ratio
+npvi-ratio:
+	@bin/getNpviRatio experiment/*.krn
 
 
 
