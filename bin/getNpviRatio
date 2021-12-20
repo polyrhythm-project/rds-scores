@@ -1,0 +1,41 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Mon Dec 20 14:39:03 PST 2021
+# Last Modified: Mon Dec 20 14:39:12 PST 2021
+# Filename:      getNpviRatio
+# Syntax:        perl 5
+#
+# Description:   Number of composite events divided by duration of example in seconds.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+## !!!excerpt-duration-sec: 5
+##
+
+sub process {
+	my ($file) = @_;
+	my $groupA = `composite $file | extractx -s 1 | rid -d | sed s/kern-[a-z]*/kern/g | less | npvi`;
+	chomp $groupA;
+	my $groupB = `composite $file | extractx -s 2 | rid -d | sed s/kern-[a-z]*/kern/g | less | npvi`;
+	chomp $groupB;
+	my $value = $groupA - $groupB;
+	$value = $value * -1 if $value < 0;
+	print "$value\t$groupA\t$groupB\n";
+}
+
+

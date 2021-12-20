@@ -121,6 +121,9 @@ durations: duration
 duration:
 	@bin/getExampleDurations experiment/*.krn
 
+ed: event-density
+event-density:
+	@bin/getEventDensity experiment/*.krn
 
 edr: event-density-ratio
 event-density-ratio:

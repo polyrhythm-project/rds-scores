@@ -25,7 +25,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:t=%s doux	!LO:S:a	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s léger	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	(32a'LLL	p	(32b'LLL	p	(32dd'LLL	p	(32ee#'XLLL	p	(32ee#'LLL	p	40%3bLL]	p	8%3r	.	8%3r)jj	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
+8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	(32a'LLL	p	(32b'LLL	p	(32dd'LLL	p	(32ee#'XLLL	p	(32ee#'LLL	p	40%3bLL]	p	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a'	.	32b'	.	32dd'	.	32ee#'	.	32ee#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a/	.	.	.	.	.
 .	.	.	.	.	.	32a'JJ)	.	32b'JJ)	.	32dd'JJ)	.	32ee#'JJ)	.	32ee#'JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -45,7 +45,7 @@
 .	.	.	.	.	.	32f#'JJ)	.	32a'JJ)	.	32dd'JJ)	.	32gg#'JJ)	.	32gg#'JJ)	.	.	.	.	.	.	.	16.dLL] 16.f#]	.	24aL	.	.	.	.	.
 .	.	.	.	.	.	(32a'LL	.	(32dd'LL	.	(32ff#'LL	.	(32aa'LL	.	(32bb'LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#XJJ)jj	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32a'	.	32dd'	.	32ff#'	.	32aa'	.	32'bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.
 .	.	.	.	.	.	32a'JJJ)	.	32dd'JJJ)	.	32ff#'JJJ)	.	32aa'JJJ)	.	32bb'JJJ)	.	.	]]	.	.	.	.	32AJJk 32e#X	.	.	.	.	.	.	.
@@ -97,7 +97,7 @@
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
-8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(40%3b'LL	p >	4.F#X\)	.	4.A\)	.	[4d ([4f#i	.	(24bLLi	16b')	.	8%3r	.	8%3r	.
+8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(40%3b'LL	p >	4.F#X\)	.	4.A\)	.	[4d ([4f#	.	(24bLL	16b')	.	8%3r	.	8%3r	.
 .	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.	.
 .	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	16rc	.	.	.	.	.
@@ -150,6 +150,3 @@
 !!!experiment: 1
 !!!EEV: 2021/04/12
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"

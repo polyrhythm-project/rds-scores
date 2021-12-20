@@ -1,0 +1,46 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Mon Aug 30 20:54:32 CEST 2021
+# Last Modified: Mon Aug 30 20:54:35 CEST 2021
+# Filename:      getEventDensity
+# Syntax:        perl 5
+#
+# Description:   Number of composite events divided by duration of example in seconds.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+## !!!excerpt-duration-sec: 5
+##
+
+sub process {
+	my ($file) = @_;
+	my $compositeNotes = `composite -G $file | extractx -s 1 | ridx -H | grep -v r | wc -l`;
+	chomp $compositeNotes;
+	my $excerptDuration = `grep "excerpt-duration-sec:" $file`;
+	chomp $excerptDuration;
+	if ($excerptDuration !~ /excerpt-duration-sec:\s*(.+)\s*$/) {
+		die "problem on line $excerptDuration\n";
+	}
+	my $seconds = $1;
+	my $value = $compositeNotes / $seconds;
+	$value = int($value * 100.0 + 0.5) / 100.0;
+	print "$value\n";
+}
+
+
+

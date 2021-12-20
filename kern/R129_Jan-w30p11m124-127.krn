@@ -20,19 +20,17 @@
 =124	=124	=124	=124	=124
 *grp:A	*	*	*	*
 *	*	*	*Xtuplet	*
-*^	*	*	*	*
-!	!	!	!	!LO:TX:a:b:t=[[eighth]=84]	!
-24EE\	8.Gn<L	4ryy	.	24r	.
-*	*	*	*	*Xtuplet	*
-!	!	!	!	!	!LO:DY:ed=brack
-24ELL\	.	.	.	(24BB'LL	mf
-24EJJ 24G	.	.	.	24BB'JJ 24E	.
-8r	.	.	.	24BB'LL 24E	.
-.	.	.	.	24BB'JJ 24E)	.
-.	16B<Jk)j	.	.	.	.
-!	!	!	!	!	!LO:DY:t=espress. %s
-.	.	.	.	(24gn	f
-*v	*v	*	*	*	*
+!	!	!	!LO:TX:a:b:t=[[eighth]=84]	!
+24EE\	8.Gn<L	.	24r	.
+*	*	*	*Xtuplet	*
+!	!	!	!	!LO:DY:ed=brack
+24ELL\	.	.	(24BB'LL	mf
+24EJJ 24G	.	.	24BB'JJ 24E	.
+8r	.	.	24BB'LL 24E	.
+.	.	.	24BB'JJ 24E)	.
+.	16B<Jk)	.	.	.
+!	!	!	!	!LO:DY:t=espress. %s
+.	.	.	(24gn	f
 =125	=125	=125	=125	=125
 *^	*	*	*	*
 *	*ped	*	*	*	*
@@ -111,5 +109,3 @@
 !!!experiment: 1
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
-!!!Xfilter: slurcheck
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
