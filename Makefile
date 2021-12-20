@@ -62,7 +62,7 @@ experiment:
 	@-rm experiment/R215_*
 	@-rm experiment/R262_*
 	@-rm experiment/R319_*
-	@-rm experiment/R350_*
+	#@-rm experiment/R350_*
 	@-rm experiment/R415_*
 	@-rm experiment/R432_*
 	@-rm experiment/R443_*
@@ -71,21 +71,25 @@ experiment:
 	@-rm experiment/R686_*
 	@-rm experiment/R688_*
 	@-rm experiment/R730_*
-	@-rm experiment/R770_*
+	#@-rm experiment/R770_*
 
 ##### ANALYSES #####
 
 nested:
 	@bin/getNestedRatio experiment/*.krn
 
+
 polarity:
 	@bin/getPolarityRatio experiment/*.krn
+
 
 staff:
 	@bin/getStaffCount experiment/*.krn
 
+
 range:
 	@bin/getPitchRanges experiment/*.krn
+
 
 mean: pitch-mean
 means: pitch-mean
@@ -93,14 +97,18 @@ pitch-means: pitch-mean
 pitch-mean:
 	@bin/getPitchMeans experiment/*.krn
 
+
 register:
 	@bin/getPitchRegisters experiment/*.krn
+
 
 registerA:
 	@bin/getPitchRegisters -g A experiment/*.krn
 
+
 registerB:
 	@bin/getPitchRegisters -g B experiment/*.krn
+
 
 dissonant: dissonance
 dissonance:
@@ -112,6 +120,11 @@ durs: duration
 durations: duration
 duration:
 	@bin/getExampleDurations experiment/*.krn
+
+
+edr: event-density-ratio
+event-density-ratio:
+	@bin/getEventDensityRatio  experiment/*.krn
 
 
 

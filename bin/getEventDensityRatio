@@ -1,0 +1,63 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Mon Aug 30 20:54:32 CEST 2021
+# Last Modified: Mon Aug 30 20:54:35 CEST 2021
+# Filename:      getEventDensityRatio
+# Syntax:        perl 5
+#
+# Description:   Calculate the ratio between the number of notes in Group A and Group B.
+#                Place the larger count below so that the value is 1.0 or less.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+die "Type 'make experiment' first." if @files == 0;
+
+for my $file (@files) {
+	process($file);
+}
+
+
+##############################
+##
+## process -- extract data and calculate score
+## 
+## !!!group-A-total-notes: 24
+## !!!group-B-total-notes: 24
+##
+
+sub process {
+	my ($file) = @_;
+	my @contents = `cat $file | composite`;
+	chomp @contents;
+	my $groupA = -1;
+	my $groupB = -1;
+	foreach my $line (@contents) {
+		if ($line =~ /group-A-total-notes:\s*(\d+)/) {
+			$groupA = $1;
+		} elsif ($line =~ /group-B-total-notes:\s*(\d+)/) {
+			$groupB = $1;
+		}
+	}
+	if ($groupA <= 0) {
+		print "ERROR Group A note count: $groupA \n";
+	} elsif ($groupB < 0) {
+		print "ERROR Group B note count: $groupB \n";
+	} else {
+		my $value = -1;
+		if ($groupA > $groupB) {
+			$value = $groupB / $groupA;
+		} else {
+			$value = $groupA / $groupB;
+		}
+		$value = int($value * 1000.0 + 0.5) / 1000.0;
+		print "$value\n";
+		
+	}
+}
+
+
+
