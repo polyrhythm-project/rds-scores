@@ -5,23 +5,23 @@
 !!!work: Deb-42
 !!!OMD-full: Modéré
 !!!OMD: Mouvement de Marche modéré
-**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A		*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part5		*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff6		*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav		*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ipiano		*	*Ipiano	*	*Isdrum	*	*Ifagot	*	*Iflt	*	*Ipicco	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Piano		*	*	*	*I"Snare Drum	*	*I"Bassoon	*	*I"Flute	*	*I"Piccolo	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Pno.		*	*	*	*I'S. D.	*	*I'Bsn.	*	*I'Fl.	*	*I'Picc.	*
-*	*	*	*	*	*	*	*	*		*	*	*	*stria1	*	*	*	*	*	*	*
-*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4		*	*clefG2	*	*clefX	*	*clefF4	*	*clefG2	*	*clefG2	*
-*ITrd7c12	*	*	*	*	*	*	*	*		*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
-*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]		*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*F:	*	*F:	*	*F:	*	*F:	*	*F:		*	*F:	*	*C:	*	*F:	*	*F:	*	*F:	*
-*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
-*	*	*	*	*	*	*	*	*8ba		*	*	*	*	*	*	*	*	*	*	*
-=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)		=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)
-*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part5	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Ifagot	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Piano	*	*	*	*I"Snare Drum	*	*I"Bassoon	*	*I"Flute	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Pno.	*	*	*	*I'S. D.	*	*I'Bsn.	*	*I'Fl.	*	*I'Picc.	*
+*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefX	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*C:	*	*F:	*	*F:	*	*F:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*	*	*	*8ba	*	*	*	*	*	*	*	*	*	*	*
+=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=LE SOLDAT ANGLAIS	!
 !LO:TX:a:t=avec le bois de l'archet	!	!	!	!	!	!	!LO:TX:a:B:t=Mouv't de Marche modéré	!	!	!LO:DY:t=%s lointain et raide	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Mouv't de Marche modéré	!
 !	!LO:DY:t=%s lointain	!	!	!	!	!	!	!LO:TX:t=P:problem:missing 8vb line	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!
@@ -45,9 +45,9 @@
 8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
 8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=126	=126	=126	=126	=126	=126	=126	=126	=126		=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
-*	*	*	*	*	*	*	*	*		*	*8va	*	*	*	*	*	*	*	*	*
-*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s très exactement rythmé	!	!	!	!	!	!	!	!LO:DY:t=sempre %s très exactement rythmé
 8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16aaaKL	ppp	8Re'\	.	2r	.	2r	.	(16aaaKL	ppp
 .	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.	.	.	.	.	8cccc)	.
@@ -71,8 +71,8 @@
 8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	(16dddL	.	8r	.	.	.	.	.	(16dddL	.
 .	.	.	.	.	.	.	.	.	.	.	16fffJJ	.	.	.	.	.	.	.	16fffJJ	.
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=129	=129	=129	=129	=129	=129	=129	=129	=129		=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
-*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2ddd)	.	8Re'\	.	2r	.	2r	.	2ddd)	.
 8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
 8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
@@ -105,42 +105,42 @@
 8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
 8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=134	=134	=134	=134	=134	=134	=134	=134	=134		=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
-!	!	!LO:TX:a:t=pizz.	!	!	!LO:DY:t=%s en augmentant peu à peu	!	!	!		!	!	!	!	!	!LO:TX:a:t=1o	!LO:DY:t=%s en augmentant peu à peu	!	!	!	!
-2r	.	8F	p	(16AKL>	pp	8r'	.	2r		.	2r	.	2r	.	(16AKL	pp	2r	.	2r	.
-.	.	.	.	8c)	.	.	.	.		.	.	.	.	.	8c)	.	.	.	.	.
-!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!		!	!	!	!	!	!	!	!	!	!	!
-.	.	8r'	.	.	.	8f'	pp	.		.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16AJk	.	.	.	.		.	.	.	.	.	(16AJk	.	.	.	.	.
-.	.	8E	.	8c'L)	.	8r'	.	.		.	.	.	.	.	8c'L)	.	.	.	.	.
-.	.	8r'	.	8A'J	.	8e'	.	.		.	.	.	.	.	8A'J	.	.	.	.	.
-=135	=135	=135	=135	=135	=135	=135	=135	=135		=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
-2r	.	8D	.	(16FKL>	.	8r'	.	2r		.	2r	.	2r	.	(16FKL	.	2r	.	2r	.
-.	.	.	.	8A)	.	.	.	.		.	.	.	.	.	8A)	.	.	.	.	.
-.	.	8r'	.	.	.	8d'	.	.		.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16FJk	.	.	.	.		.	.	.	.	.	(16FJk	.	.	.	.	.
-.	.	8C	.	8A'L)	.	8r'	.	.		.	.	.	.	.	8A'L)	.	.	.	.	.
-.	.	8r'	.	8F'J	.	8c'	.	.		.	.	.	.	.	8F'J	.	.	.	.	.
-=136	=136	=136	=136	=136	=136	=136	=136	=136		=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
-!LO:TX:a:t=pizz.	!	!	!LO:HP:t=%s poco a poco	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!
-8BB-	p	8BB-	<	(16DKL	.	8r'	.	2r		.	2r	.	2r	.	(16DKL	.	2r	.	2r	.
-.	.	.	.	8F)	.	.	.	.		.	.	.	.	.	8F)	.	.	.	.	.
-8r'	.	8r'	.	.	.	8B-'	.	.		.	.	.	.	.	.	.	.	.	.	.
-.	.	.	.	(16DJk	.	.	.	.		.	.	.	.	.	(16DJk	.	.	.	.	.
-8AA	.	8AA	.	8F'L)	.	8r'	.	.		.	.	.	.	.	8F'L)	.	.	.	.	.
-8r'	.	8r'	.	((16DL	.	8A'	.	.		.	.	.	.	.	(16DL	.	.	.	.	.
-.	.	.	.	16FJJ)	.	.	.	.		.	.	.	.	.	16FJJ	.	.	.	.	.
-=137	=137	=137	=137	=137	=137	=137	=137	=137		=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
-8GG	.	8GG	.	2D)	.	8r'	.	2r		.	2r	.	2r	.	2D)	.	2r	.	2r	.
-8r'	.	8r'	.	.	.	8G'	.	.		.	.	.	.	.	.	.	.	.	.	.
-8BB-	.	8BB-	.	.	.	8r'	.	.		.	.	.	.	.	.	.	.	.	.	.
-8r'	.	8r'	.	.	.	8B-'	.	.		.	.	.	.	.	.	.	.	.	.	.
-=	=	=	=	=	=	=	=	=		=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+!	!	!LO:TX:a:t=pizz.	!	!	!LO:DY:t=%s en augmentant peu à peu	!	!	!	!	!	!	!	!	!LO:TX:a:t=1o	!LO:DY:t=%s en augmentant peu à peu	!	!	!	!
+2r	.	8F	p	(16AKL>	pp	8r'	.	2r	.	2r	.	2r	.	(16AKL	pp	2r	.	2r	.
+.	.	.	.	8c)	.	.	.	.	.	.	.	.	.	8c)	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8r'	.	.	.	8f'	pp	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16AJk	.	.	.	.	.	.	.	.	.	(16AJk	.	.	.	.	.
+.	.	8E	.	8c'L)	.	8r'	.	.	.	.	.	.	.	8c'L)	.	.	.	.	.
+.	.	8r'	.	8A'J	.	8e'	.	.	.	.	.	.	.	8A'J	.	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+2r	.	8D	.	(16FKL>	.	8r'	.	2r	.	2r	.	2r	.	(16FKL	.	2r	.	2r	.
+.	.	.	.	8A)	.	.	.	.	.	.	.	.	.	8A)	.	.	.	.	.
+.	.	8r'	.	.	.	8d'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16FJk	.	.	.	.	.	.	.	.	.	(16FJk	.	.	.	.	.
+.	.	8C	.	8A'L)	.	8r'	.	.	.	.	.	.	.	8A'L)	.	.	.	.	.
+.	.	8r'	.	8F'J	.	8c'	.	.	.	.	.	.	.	8F'J	.	.	.	.	.
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!LO:TX:a:t=pizz.	!	!	!LO:HP:t=%s poco a poco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8BB-	p	8BB-	<	(16DKL	.	8r'	.	2r	.	2r	.	2r	.	(16DKL	.	2r	.	2r	.
+.	.	.	.	8F)	.	.	.	.	.	.	.	.	.	8F)	.	.	.	.	.
+8r'	.	8r'	.	.	.	8B-'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16DJk	.	.	.	.	.	.	.	.	.	(16DJk	.	.	.	.	.
+8AA	.	8AA	.	8F'L)	.	8r'	.	.	.	.	.	.	.	8F'L)	.	.	.	.	.
+8r'	.	8r'	.	((16DL	.	8A'	.	.	.	.	.	.	.	(16DL	.	.	.	.	.
+.	.	.	.	16FJJ)	.	.	.	.	.	.	.	.	.	16FJJ	.	.	.	.	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+8GG	.	8GG	.	2D)	.	8r'	.	2r	.	2r	.	2r	.	2D)	.	2r	.	2r	.
+8r'	.	8r'	.	.	.	8G'	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BB-	.	8BB-	.	.	.	8r'	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r'	.	8r'	.	.	.	8B-'	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)]s4[({(s5,s6)})][([(s7,s8)]s9[(s10,s11)])]
 !!!CDT: 1862/08/22-1918/03/25
 !!!CBL: St Germain-en-Laye, France

@@ -5,19 +5,19 @@
 !!!work: Bri-42
 !!!OMD-full: Broadly, but with fire
 !!!OMD: [Broadly but with fire]
-**kern	**dynam	**kern		**dynam	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text
-*grp:A	*grp:A	*grp:B		*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
-*part5	*	*part5		*	*part4	*	*part4	*part4	*part3	*	*part3	*part3	*part2	*	*part2	*part2	*part1	*	*part1	*part1
-*staff6	*	*staff5		*	*staff4	*	*staff4	*staff4	*staff3	*	*staff3	*staff3	*staff2	*	*staff2	*staff2	*staff1	*	*staff1	*staff1
-*I"Organ	*	*		*	*I"BASS	*	*	*	*I"TENOR	*	*	*	*I"ALTO	*	*	*	*I"SOPRANO	*	*	*
-*I'Org.	*	*		*	*I'B.	*	*	*	*I'T.	*	*	*	*I'A.	*	*	*	*I'S.	*	*	*
-*clefF4	*	*clefG2		*	*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
-*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*k[b-]	*	*k[b-]		*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
-*F:	*	*F:		*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*
-*M5/4	*	*M5/4		*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*
-=41	=41	=41		=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part5	*	*part5	*	*part4	*	*part4	*part4	*part3	*	*part3	*part3	*part2	*	*part2	*part2	*part1	*	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff4	*staff4	*staff3	*	*staff3	*staff3	*staff2	*	*staff2	*staff2	*staff1	*	*staff1	*staff1
+*I"Organ	*	*	*	*I"BASS	*	*	*	*I"TENOR	*	*	*	*I"ALTO	*	*	*	*I"SOPRANO	*	*	*
+*I'Org.	*	*	*	*I'B.	*	*	*	*I'T.	*	*	*	*I'A.	*	*	*	*I'S.	*	*	*
+*clefF4	*	*clefG2	*	*clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*	*clefG2	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
+*F:	*	*F:	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*
+*M5/4	*	*M5/4	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=80]	!	!	!
 !	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!
 8FF`]	.	4d~ 4f#X 4a	4ryy	f	(4A	f	do-	Lord_	8F#X	f	di-	of	(>4a	f	do-	Lord_	8f#X	f	di-	of
@@ -38,8 +38,8 @@
 16FF	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 16EEJJ)	.	.	.	]]	.	]]	.	.	.	]]	.	.	.	]]	.	.	.	]]	.	.
 *	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]
 !!!CDT: 1913/11/22-1976/12/04
 !!!CBL: Lowestoft, England

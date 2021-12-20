@@ -5,22 +5,22 @@
 !!!work: Jan-30
 !!!OMD-full: Con moto
 !!!OMD: [Andante, un poco più mosso]
-**kern		**kern	**dynam	**kern	**dynam
-*grp:A		*grp:B	*grp:B	*grp:A	*grp:A
-*part2		*part2	*part2	*part1	*part1
-*staff3		*staff2	*	*staff1	*
-*ICklav		*ICklav	*	*ICstr	*
-*Ipiano		*Ipiano	*	*Icello	*
-*I"Piano		*	*	*I"Violoncello	*
-*I'Pno.		*	*	*I'Vc.	*
-*clefF4		*clefG2	*	*clefF4	*
-*k[f#c#g#]		*k[f#c#g#]	*	*k[f#c#g#]	*
-*A:		*A:	*	*A:	*
-*M2/8		*M2/8	*	*M2/8	*
-=124		=124	=124	=124	=124
-*grp:A		*	*	*	*
-*		*	*	*Xtuplet	*
-*^		*	*	*	*
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*
+*I"Piano	*	*	*I"Violoncello	*
+*I'Pno.	*	*	*I'Vc.	*
+*clefF4	*clefG2	*	*clefF4	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*A:	*	*A:	*
+*M2/8	*M2/8	*	*M2/8	*
+=124	=124	=124	=124	=124
+*grp:A	*	*	*	*
+*	*	*	*Xtuplet	*
+*^	*	*	*	*
 !	!	!	!	!LO:TX:a:b:t=[[eighth]=84]	!
 24EE\	8.Gn<L	4ryy	.	24r	.
 *	*	*	*	*Xtuplet	*
@@ -33,8 +33,8 @@
 !	!	!	!	!	!LO:DY:t=espress. %s
 .	.	.	.	(24gn	f
 *v	*v	*	*	*	*
-=125		=125	=125	=125	=125
-*^		*	*	*	*
+=125	=125	=125	=125	=125
+*^	*	*	*	*
 *	*ped	*	*	*	*
 *	*	*	*	*grp:B	*grp:B
 !	!	!	!LO:DY:a	!	!
@@ -79,8 +79,8 @@
 .	.	.	.	16BJJ)	.
 .	24E'JJ 24G	.	.	.	.
 *v	*v	*	*	*	*
-=		=	=	=	=
-*-		*-	*-	*-	*-
+=	=	=	=	=
+*-	*-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!system-decoration: s1[({(s2,s3)})]

@@ -7,20 +7,20 @@
 !!!OMD: [Poco agitando (but slower)]
 !!!COM: Charles Ives
 !!!OTL: [R262_Ive-w33b4p26]
-**kern		**dynam	**kern		**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
-*part9		*part9	*part8		*part8	*part6		*	*part5	*	*part4	*	*part3		*	*part2	*part2	*part1	*part1
-*staff9		*	*staff8		*	*staff6		*	*staff5	*	*staff4	*	*staff3		*	*staff2	*	*staff1	*
-*I"Contrabass		*	*I"Violoncello		*	*I"Violin II		*	*I"Violin I	*	*I"Bells	*	*I"Bells		*	*I"Oboe	*	*I"Flute	*
-*I'Cb.		*	*I'Vc.		*	*I'Vln. II		*	*I'Vln. I	*	*I'Bells	*	*I'Bells		*	*I'Ob.	*	*I'Fl.	*
-*ICstr		*	*ICstr		*	*ICstr		*	*ICstr	*	*ICidio	*	*ICidio		*	*ICww	*	*ICww	*
-*Icbass		*	*Icello		*	*Iviola		*	*Ivioln	*	*Icampn	*	*Icampn		*	*Ioboe	*	*Iflt	*
-*clefF4		*	*clefF4		*	*clefG2		*	*clefG2	*	*clefF4	*	*clefG2		*	*clefG2	*	*clefG2	*
-*ITrd7c12		*	*		*	*		*	*	*	*	*	*		*	*	*	*	*
-*k[]		*	*k[]		*	*k[]		*	*k[]	*	*k[]	*	*k[]		*	*k[]	*	*k[]	*
-*C:		*	*C:		*	*C:		*	*C:	*	*C:	*	*C:		*	*C:	*	*C:	*
-*M6/8		*	*M6/8		*	*M6/8		*	*M6/8	*	*M6/8	*	*M6/8		*	*M6/8	*	*M6/8	*
-=1		=1	=1		=1	=1		=1	=1	=1	=1	=1	=1		=1	=1	=1	=1	=1
-*^		*	*^		*	*^		*	*	*	*	*	*^		*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part9	*part9	*part8	*part8	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Violin II	*	*I"Violin I	*	*I"Bells	*	*I"Bells	*	*I"Oboe	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Bells	*	*I'Bells	*	*I'Ob.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Icampn	*	*Icampn	*	*Ioboe	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^	*	*^	*	*^	*	*	*	*	*	*^	*	*	*	*	*
 !LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=36]	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=[pizz.]	!LO:T:b	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!LO:DY:ed=brack
@@ -71,9 +71,9 @@
 8r	.	.	8C'J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	]]	.	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
 *v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*
-*		*	*v	*v	*	*		*	*	*	*	*	*		*	*	*	*	*
-=		=	=		=	=		=	=	=	=	=	=		=	=	=	=	=
-*-		*-	*-		*-	*-		*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!RDF**kern: N = linked
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

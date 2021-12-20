@@ -5,17 +5,17 @@
 !!!work: Hon-38
 !!!OMD-full: Allegro
 !!!OMD: [Allegro] [quarter] = [quarter-dot] = 126
-**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:A		*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:B	*grp:A	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part12	*	*part11		*	*part10	*	*part9	*	*part8	*	*part7	*part7	*part7	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff13	*	*staff12		*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello		*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Bassoon	*	*I"Clarinet in C II	*	*I"Clarinet in C I	*	*I"Oboe	*	*I"Flute II	*	*I"Flute I	*
-*I'Cb.	*	*I'Vc.		*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Bsn.	*	*I'2.Cl.	*	*I'1.Cl.	*	*I'Ob.	*	*I'2.Fl.	*	*I'1.Fl.	*
-*clefF4	*	*clefF4		*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*ITrd7c12	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*k[]	*	*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*M3/4	*	*M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*M9/8	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
-*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:B	*grp:A	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*part7	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Bassoon	*	*I"Clarinet in C II	*	*I"Clarinet in C I	*	*I"Oboe	*	*I"Flute II	*	*I"Flute I	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Bsn.	*	*I'2.Cl.	*	*I'1.Cl.	*	*I'Ob.	*	*I'2.Fl.	*	*I'1.Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*M9/8	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!LO:TX:b:i:t=sostenuto	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!LO:DY:ed=brack	!LO:TX:a:t=[non div.]	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*Xtuplet	*	*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
@@ -28,123 +28,123 @@
 4r	.	.	.	.	4r	.	4r	.	4r	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
 .	.	.	.	.	.	.	.	.	.	.	12B 12d#	12e 12g	.	.	.	12g	.	12bn	.	12dd#X	.	12ee	.	12gg	.
 *	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=96	=96	=96		=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
-!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented 	!
-4.r	.	(2c		.	2.r	.	2.r	.	2.r	.	12AL 12c	12eL 12fn	.	2.r	.	12fnL	.	12aL	.	12ccnL	.	12eeL	.	12ffnL	.
-.	.	.		.	.	.	.	.	.	.	12cJ 12e	12fJ 12a	.	.	.	12aJ	.	12ccJ	.	12eeJ	.	12ffnJ	.	12aaJ	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12fL 12a	12ccL 12ee	.	.	.	12eeL	.	12ffL	.	12aaL	.	12cccL	.	12eeeL	.
-8r	.	.		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.		.	.	.	.	.	.	.	12eJ 12f	12aJ 12cc	.	.	.	12ccJ	.	12eeJ	.	12ffnJ	.	12aaJ	.	12cccJ	.
-4r	.	4Fn)		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12cL 12e	12fL 12a	.	.	.	12aL	.	12ccL	.	12eeL	.	12ffL	.	12aaL	.
-=97	=97	=97		=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
-2.r	.	(4.E		.	2.r	.	2.r	.	2.r	.	12eJ 12f#X	12a#XJ 12cc#X	.	2.r	.	12cc#XJ	.	12eeJ	.	12ff#XJ	.	12bb-XJ	.	12ccc#XJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	12r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.
-.	.	.		.	.	.	.	.	.	.	12c#XL 12f#	12a#L 12ee	.	.	.	12eeL	.	12cc#XL	.	12ff#L	.	12bb-L	.	12eeeL	.
-.	.	.		.	.	.	.	.	.	.	12d 12f#	12a# 12dd	.	.	.	12dd	.	12dd	.	12ff#	.	12bb-	.	12ddd	.
-.	.	8F#X		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.		.	.	.	.	.	.	.	12eJ 12f#	12a#J 12cc#	.	.	.	12cc#J	.	12eeJ	.	12ff#J	.	12bb-J	.	12ccc#J	.
-.	.	4G)		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-.	.	.		.	.	.	.	.	.	.	12c#L 12f#	12a#L 12ee	.	.	.	12eeL	.	12dd-XL	.	12ff#L	.	12bb-L	.	12eeeL	.
-=98	=98	=98		=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
-!LO:TX:a:t=pizz.	!	!		!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
-4EE-X	.	(4A-X		.	2.r	.	2.r	.	2.r	.	12fnJ 12a-X	12b-XJ 12dd-X	.	2EE-X	p	12dd-XJ	.	12ffJ	.	12aa-XJ	.	12bb-XJ	.	12ddd-XJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-4r	.	2Fn)		.	.	.	.	.	.	.	12b-XL 12dd-X	12ffL 12aa-X	.	.	.	12aa-XL	.	12bb-XL	.	12ddd-XL	.	12fffL	.	12aaa-XL	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12a-J 12b-	12dd-J 12ff	.	.	.	12ffJ	.	12aa-XJ	.	12bb-XJ	.	12ddd-XJ	.	12fffJ	.
-4r	.	.		.	.	.	.	.	.	.	12r	12r	.	4r	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12f 12a-	12b- 12dd-	.	.	.	12dd-	.	12ff	.	12aa-X	.	12bb-X	.	12ddd-	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-=99	=99	=99		=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
-2.r	.	4r		.	2.r	.	2.r	.	2.r	.	12enL 12g	12b-XL 12dd-X	.	2.r	.	12dd-XL	.	12eenL	.	12ggL	.	12bb-XL	.	12ddd-XL	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12gJ 12b-X	12dd-J 12een	.	.	.	12eenJ	.	12ggJ	.	12bb-XJ	.	12ddd-XJ	.	12eeenJ	.
-.	.	(4E		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12e 12g	12b- 12dd-	.	.	.	12dd-	.	12ee	.	12gg	.	12bb-	.	12ddd-	.
-.	.	4G)		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12g 12b-	12dd- 12ee	.	.	.	12ee	.	12gg	.	12bb-	.	12ddd-	.	12eee	.
-=100	=100	=100		=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
-!LO:TX:a:t=div.	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:a:t=arco	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2.CC 2.C	.	(2An		.	2.r	.	2.r	.	2.r	.	12eL 12f#X	12bnL 12ddn	.	2.Cn	.	12ddnL	.	12eeL	.	12ff#XL	.	12bbnL	.	12dddnL	.
-.	.	.		.	.	.	.	.	.	.	12dJ 12f#	12bJ 12ee	.	.	.	12eeJ	.	12ddJ	.	12ff#J	.	12bbJ	.	12eeeJ	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12f#L 12b	12ddL 12aa	.	.	.	12aaL	.	12ff#XL	.	12bbnL	.	12dddnL	.	12aaaL	.
-.	.	.		.	.	.	.	.	.	.	12aJ 12b	12eeJ 12ff#X	.	.	.	12ff#XJ	.	12aaJ	.	12bbJ	.	12eeeJ	.	12fff#XJ	.
-.	.	4E)		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12f#L 12b	12ddL 12aa	.	.	.	12aaL	.	12gg-XL	.	12bbL	.	12dddL	.	12aaaL	.
-=101	=101	=101		=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
-2.BBB-X 2.BB-X	.	(4D-X		.	2.r	.	2.r	.	2.r	.	12a-XJ 12cc	12dd-XJ 12ffn	.	2.BB-X	.	12ffnJ	.	12aa-XJ	.	12cccJ	.	12ddd-XJ	.	12fffnJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	4F		.	.	.	.	.	.	.	12fL 12cc	12dd-L 12aa-X	.	.	.	12aa-XL	.	12ffnL	.	12cccL	.	12ddd-L	.	12aaa-XL	.
-.	.	.		.	.	.	.	.	.	.	12g 12cc	12dd- 12gg	.	.	.	12gg	.	12ggn	.	12ccc	.	12ddd-	.	12ggg	.
-.	.	.		.	.	.	.	.	.	.	12a-J 12cc	12dd-J 12ff	.	.	.	12ffJ	.	12aa-J	.	12cccJ	.	12ddd-J	.	12fffJ	.
-.	.	4A-X)		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12fL 12a-	12ccL 12dd-	.	.	.	12dd-XL	.	12ffL	.	12gg#XL	.	12cccL	.	12ddd-XL	.
-=102	=102	=102		=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
-2.AAA 2.AA	.	(2E-X		.	2.r	.	2.r	.	2.r	.	12e-XJ 12an	12ccJ 12gg	.	2.AAn	.	12ggJ	.	12ee-XJ	.	12aaJ	.	12cccJ	.	12gggJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12gL 12a	12ccL 12ee-X	.	.	.	12ee-XL	.	12ggL	.	12aaL	.	12cccL	.	12eee-XL	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12e-J 12g	12anJ 12cc	.	.	.	12ccJ	.	12ee-J	.	12ggnJ	.	12aaJ	.	12cccJ	.
-.	.	4G)		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12g 12a	12cc 12ee-	.	.	.	12ee-	.	12gg	.	12aa	.	12ccc	.	12eee-	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-=103	=103	=103		=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
-2.GGG 2.GG	.	2.En		.	2.r	.	2.r	.	2.r	.	12bL 12dd#X	12eenL 12gg	.	2.GG	.	12ggL	.	12bbnL	.	12ddd#XL	.	12eeeL	.	12gggL	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12gJ 12b	12dd#XJ 12ee	.	.	.	12eenJ	.	12ggJ	.	12bbJ	.	12ddd#XJ	.	12eeenJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12d#X 12e	12g 12b	.	.	.	12b	.	12ee-X	.	12ee	.	12gg	.	12bb	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12B 12d#	12e 12g	.	.	.	12g	.	12bn	.	12dd#X	.	12ee	.	12gg	.
-=104	=104	=104		=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
-2.FFF 2.FF	.	(2c		.	2.r	.	2.r	.	2.r	.	12cL 12dn	12fL 12a	.	2.FF	.	12aL	.	12ccL	.	12ddnL	.	12ffL	.	12aaL	.
-.	.	.		.	.	.	.	.	.	.	12dJ 12f	12aJ 12cc	.	.	.	12ccJ	.	12ddnJ	.	12ffnJ	.	12aaJ	.	12cccJ	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12dL 12g	12ccL 12ff	.	.	.	12ffL	.	12ddL	.	12aaL	.	12cccL	.	12fffL	.
-.	.	.		.	.	.	.	.	.	.	12fJ 12a	12ccJ 12dd	.	.	.	12ddJ	.	12ffJ	.	12aaJ	.	12cccJ	.	12dddJ	.
-.	.	4F)		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12dL 12a	12ccL 12ff	.	.	.	12ffL	.	12ddL	.	12aaL	.	12cccL	.	12fffL	.
-=105	=105	=105		=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
-!LO:TX:a:t=tutti	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2.EE-X	.	(4.G		.	2.r	.	2.r	.	2.r	.	12fJ 12g	12b-XJ 12dd-X	.	2.EE-X	.	12dd-XJ	.	12ffJ	.	12ggJ	.	12bb-XJ	.	12ddd-XJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12d-XL 12g	12b-L 12ff	.	.	.	12ffL	.	12dd-XL	.	12ggL	.	12bb-L	.	12fffL	.
-.	.	.		.	.	.	.	.	.	.	12e-X 12g	12b- 12ee-X	.	.	.	12ee-X	.	12ee-X	.	12gg	.	12bb-	.	12eee-X	.
-.	.	8A-X		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	.		.	.	.	.	.	.	.	12fJ 12g	12b-J 12dd-	.	.	.	12dd-J	.	12ffJ	.	12ggJ	.	12bb-J	.	12ddd-XJ	.
-.	.	4B-X)		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12fL 12g	12b-L 12dd-	.	.	.	12dd-L	.	12ffL	.	12ggL	.	12bb-L	.	12ddd-L	.
-=106	=106	=106		=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
-[2.DD	.	(4c		.	2.r	.	2.r	.	2.r	.	12cJ 12g	12anJ 12een	.	[2.DD	.	12eenJ	.	12ccJ	.	12ggJ	.	12aanJ	.	12eeenJ	.
-.	.	.		.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	4Bn		.	.	.	.	.	.	.	12eL 12g	12aL 12cc	.	.	.	12ccL	.	12eenL	.	12ggL	.	12aaL	.	12cccL	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12gJ 12a	12ccJ 12ee	.	.	.	12eeJ	.	12ggJ	.	12aaJ	.	12cccJ	.	12eeeJ	.
-.	.	4An)		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12a 12cc	12ee 12gg	.	.	.	12gg	.	12aa	.	12ccc	.	12eee	.	12ggg	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-=107	=107	=107		=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
-4DD]	.	(4D		.	2.r	.	2.r	.	2.r	.	12f 12b-X	12dd 12aa	.	4DD]	.	12aa	.	12ff	.	12bb-X	.	12ddd	.	12aaa	.
-.	.	.		.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
-.	.	.		.	.	.	.	.	.	.	12a 12b-	12dd 12ff	.	.	.	12ff	.	12aa	.	12bb-	.	12ddd	.	12fff	.
-4r	.	4A		.	.	.	.	.	.	.	6r	6r	.	4r	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12f 12a	12b-X 12dd	.	.	.	12dd	.	12ff	.	12aa	.	12bb-X	.	12ddd	.
-4r	.	4G)		.	.	.	.	.	.	.	6r	6r	.	4r	.	6r	.	6r	.	6r	.	6r	.	6r	.
-.	.	.		.	.	.	.	.	.	.	12d 12f	12a 12b-	.	.	.	12b-X	.	12dd	.	12ff	.	12aa	.	12bb-X	.
-=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented 	!
+4.r	.	(2c	.	2.r	.	2.r	.	2.r	.	12AL 12c	12eL 12fn	.	2.r	.	12fnL	.	12aL	.	12ccnL	.	12eeL	.	12ffnL	.
+.	.	.	.	.	.	.	.	.	.	12cJ 12e	12fJ 12a	.	.	.	12aJ	.	12ccJ	.	12eeJ	.	12ffnJ	.	12aaJ	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12fL 12a	12ccL 12ee	.	.	.	12eeL	.	12ffL	.	12aaL	.	12cccL	.	12eeeL	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12eJ 12f	12aJ 12cc	.	.	.	12ccJ	.	12eeJ	.	12ffnJ	.	12aaJ	.	12cccJ	.
+4r	.	4Fn)	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12cL 12e	12fL 12a	.	.	.	12aL	.	12ccL	.	12eeL	.	12ffL	.	12aaL	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+2.r	.	(4.E	.	2.r	.	2.r	.	2.r	.	12eJ 12f#X	12a#XJ 12cc#X	.	2.r	.	12cc#XJ	.	12eeJ	.	12ff#XJ	.	12bb-XJ	.	12ccc#XJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	12r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12c#XL 12f#	12a#L 12ee	.	.	.	12eeL	.	12cc#XL	.	12ff#L	.	12bb-L	.	12eeeL	.
+.	.	.	.	.	.	.	.	.	.	12d 12f#	12a# 12dd	.	.	.	12dd	.	12dd	.	12ff#	.	12bb-	.	12ddd	.
+.	.	8F#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12eJ 12f#	12a#J 12cc#	.	.	.	12cc#J	.	12eeJ	.	12ff#J	.	12bb-J	.	12ccc#J	.
+.	.	4G)	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	12c#L 12f#	12a#L 12ee	.	.	.	12eeL	.	12dd-XL	.	12ff#L	.	12bb-L	.	12eeeL	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+4EE-X	.	(4A-X	.	2.r	.	2.r	.	2.r	.	12fnJ 12a-X	12b-XJ 12dd-X	.	2EE-X	p	12dd-XJ	.	12ffJ	.	12aa-XJ	.	12bb-XJ	.	12ddd-XJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+4r	.	2Fn)	.	.	.	.	.	.	.	12b-XL 12dd-X	12ffL 12aa-X	.	.	.	12aa-XL	.	12bb-XL	.	12ddd-XL	.	12fffL	.	12aaa-XL	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12a-J 12b-	12dd-J 12ff	.	.	.	12ffJ	.	12aa-XJ	.	12bb-XJ	.	12ddd-XJ	.	12fffJ	.
+4r	.	.	.	.	.	.	.	.	.	12r	12r	.	4r	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12f 12a-	12b- 12dd-	.	.	.	12dd-	.	12ff	.	12aa-X	.	12bb-X	.	12ddd-	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+2.r	.	4r	.	2.r	.	2.r	.	2.r	.	12enL 12g	12b-XL 12dd-X	.	2.r	.	12dd-XL	.	12eenL	.	12ggL	.	12bb-XL	.	12ddd-XL	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12gJ 12b-X	12dd-J 12een	.	.	.	12eenJ	.	12ggJ	.	12bb-XJ	.	12ddd-XJ	.	12eeenJ	.
+.	.	(4E	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12e 12g	12b- 12dd-	.	.	.	12dd-	.	12ee	.	12gg	.	12bb-	.	12ddd-	.
+.	.	4G)	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12g 12b-	12dd- 12ee	.	.	.	12ee	.	12gg	.	12bb-	.	12ddd-	.	12eee	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+!LO:TX:a:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2.CC 2.C	.	(2An	.	2.r	.	2.r	.	2.r	.	12eL 12f#X	12bnL 12ddn	.	2.Cn	.	12ddnL	.	12eeL	.	12ff#XL	.	12bbnL	.	12dddnL	.
+.	.	.	.	.	.	.	.	.	.	12dJ 12f#	12bJ 12ee	.	.	.	12eeJ	.	12ddJ	.	12ff#J	.	12bbJ	.	12eeeJ	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12f#L 12b	12ddL 12aa	.	.	.	12aaL	.	12ff#XL	.	12bbnL	.	12dddnL	.	12aaaL	.
+.	.	.	.	.	.	.	.	.	.	12aJ 12b	12eeJ 12ff#X	.	.	.	12ff#XJ	.	12aaJ	.	12bbJ	.	12eeeJ	.	12fff#XJ	.
+.	.	4E)	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12f#L 12b	12ddL 12aa	.	.	.	12aaL	.	12gg-XL	.	12bbL	.	12dddL	.	12aaaL	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+2.BBB-X 2.BB-X	.	(4D-X	.	2.r	.	2.r	.	2.r	.	12a-XJ 12cc	12dd-XJ 12ffn	.	2.BB-X	.	12ffnJ	.	12aa-XJ	.	12cccJ	.	12ddd-XJ	.	12fffnJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	4F	.	.	.	.	.	.	.	12fL 12cc	12dd-L 12aa-X	.	.	.	12aa-XL	.	12ffnL	.	12cccL	.	12ddd-L	.	12aaa-XL	.
+.	.	.	.	.	.	.	.	.	.	12g 12cc	12dd- 12gg	.	.	.	12gg	.	12ggn	.	12ccc	.	12ddd-	.	12ggg	.
+.	.	.	.	.	.	.	.	.	.	12a-J 12cc	12dd-J 12ff	.	.	.	12ffJ	.	12aa-J	.	12cccJ	.	12ddd-J	.	12fffJ	.
+.	.	4A-X)	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12fL 12a-	12ccL 12dd-	.	.	.	12dd-XL	.	12ffL	.	12gg#XL	.	12cccL	.	12ddd-XL	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+2.AAA 2.AA	.	(2E-X	.	2.r	.	2.r	.	2.r	.	12e-XJ 12an	12ccJ 12gg	.	2.AAn	.	12ggJ	.	12ee-XJ	.	12aaJ	.	12cccJ	.	12gggJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12gL 12a	12ccL 12ee-X	.	.	.	12ee-XL	.	12ggL	.	12aaL	.	12cccL	.	12eee-XL	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12e-J 12g	12anJ 12cc	.	.	.	12ccJ	.	12ee-J	.	12ggnJ	.	12aaJ	.	12cccJ	.
+.	.	4G)	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12g 12a	12cc 12ee-	.	.	.	12ee-	.	12gg	.	12aa	.	12ccc	.	12eee-	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+2.GGG 2.GG	.	2.En	.	2.r	.	2.r	.	2.r	.	12bL 12dd#X	12eenL 12gg	.	2.GG	.	12ggL	.	12bbnL	.	12ddd#XL	.	12eeeL	.	12gggL	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12gJ 12b	12dd#XJ 12ee	.	.	.	12eenJ	.	12ggJ	.	12bbJ	.	12ddd#XJ	.	12eeenJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12d#X 12e	12g 12b	.	.	.	12b	.	12ee-X	.	12ee	.	12gg	.	12bb	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12B 12d#	12e 12g	.	.	.	12g	.	12bn	.	12dd#X	.	12ee	.	12gg	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+2.FFF 2.FF	.	(2c	.	2.r	.	2.r	.	2.r	.	12cL 12dn	12fL 12a	.	2.FF	.	12aL	.	12ccL	.	12ddnL	.	12ffL	.	12aaL	.
+.	.	.	.	.	.	.	.	.	.	12dJ 12f	12aJ 12cc	.	.	.	12ccJ	.	12ddnJ	.	12ffnJ	.	12aaJ	.	12cccJ	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12dL 12g	12ccL 12ff	.	.	.	12ffL	.	12ddL	.	12aaL	.	12cccL	.	12fffL	.
+.	.	.	.	.	.	.	.	.	.	12fJ 12a	12ccJ 12dd	.	.	.	12ddJ	.	12ffJ	.	12aaJ	.	12cccJ	.	12dddJ	.
+.	.	4F)	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12dL 12a	12ccL 12ff	.	.	.	12ffL	.	12ddL	.	12aaL	.	12cccL	.	12fffL	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+!LO:TX:a:t=tutti	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2.EE-X	.	(4.G	.	2.r	.	2.r	.	2.r	.	12fJ 12g	12b-XJ 12dd-X	.	2.EE-X	.	12dd-XJ	.	12ffJ	.	12ggJ	.	12bb-XJ	.	12ddd-XJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12d-XL 12g	12b-L 12ff	.	.	.	12ffL	.	12dd-XL	.	12ggL	.	12bb-L	.	12fffL	.
+.	.	.	.	.	.	.	.	.	.	12e-X 12g	12b- 12ee-X	.	.	.	12ee-X	.	12ee-X	.	12gg	.	12bb-	.	12eee-X	.
+.	.	8A-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12fJ 12g	12b-J 12dd-	.	.	.	12dd-J	.	12ffJ	.	12ggJ	.	12bb-J	.	12ddd-XJ	.
+.	.	4B-X)	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12fL 12g	12b-L 12dd-	.	.	.	12dd-L	.	12ffL	.	12ggL	.	12bb-L	.	12ddd-L	.
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+[2.DD	.	(4c	.	2.r	.	2.r	.	2.r	.	12cJ 12g	12anJ 12een	.	[2.DD	.	12eenJ	.	12ccJ	.	12ggJ	.	12aanJ	.	12eeenJ	.
+.	.	.	.	.	.	.	.	.	.	6r	6r	.	.	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	4Bn	.	.	.	.	.	.	.	12eL 12g	12aL 12cc	.	.	.	12ccL	.	12eenL	.	12ggL	.	12aaL	.	12cccL	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12gJ 12a	12ccJ 12ee	.	.	.	12eeJ	.	12ggJ	.	12aaJ	.	12cccJ	.	12eeeJ	.
+.	.	4An)	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12a 12cc	12ee 12gg	.	.	.	12gg	.	12aa	.	12ccc	.	12eee	.	12ggg	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+4DD]	.	(4D	.	2.r	.	2.r	.	2.r	.	12f 12b-X	12dd 12aa	.	4DD]	.	12aa	.	12ff	.	12bb-X	.	12ddd	.	12aaa	.
+.	.	.	.	.	.	.	.	.	.	12r	12r	.	.	.	12r	.	12r	.	12r	.	12r	.	12r	.
+.	.	.	.	.	.	.	.	.	.	12a 12b-	12dd 12ff	.	.	.	12ff	.	12aa	.	12bb-	.	12ddd	.	12fff	.
+4r	.	4A	.	.	.	.	.	.	.	6r	6r	.	4r	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12f 12a	12b-X 12dd	.	.	.	12dd	.	12ff	.	12aa	.	12bb-X	.	12ddd	.
+4r	.	4G)	.	.	.	.	.	.	.	6r	6r	.	4r	.	6r	.	6r	.	6r	.	6r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	12d 12f	12a 12b-	.	.	.	12b-X	.	12dd	.	12ff	.	12aa	.	12bb-X	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][({(s7,s8)})][(s9,s10,s11,s12,s13)]
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France

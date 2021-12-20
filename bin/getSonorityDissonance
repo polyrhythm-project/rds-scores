@@ -63,6 +63,7 @@ for my $file (@files) {
 sub process {
 	my ($file) = @_;
 	my @durations = getDurations($file);
+	# print STDERR "DURATIONS ", join(" ", @durations), "\n";
 	my @harmonies = getHarmonies($file);
 	my $duration = 0;
 	my $summation = 0;
@@ -75,6 +76,7 @@ sub process {
 		$summation += $dur * $diss;
 		# print "$dur\t$diss\t$harmonies[$i]\n";
 	}
+	# print STDERR "PROCESSING FILE $file\n";
 	my $value = $summation / $duration;
 	$value = int($value * 1000 + 0.5) / 1000.0;
 
@@ -132,7 +134,7 @@ sub getHarmonies {
 sub getDurations {
 	my ($file) = @_;
 	my @contents = `beat -d $file`;
-	die "Problem with file duratins in $file" if @contents <= 2;
+	die "Problem with file durations in $file" if @contents <= 2;
 	chomp @contents;
 	my @output;
 	for (my $i=0; $i<@contents; $i++) {

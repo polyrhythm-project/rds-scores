@@ -5,24 +5,24 @@
 !!!work: Fal-6
 !!!OMD-full: Allegretto
 !!!OMD: [Grazioso, ma in tempo]
-**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern		**dynam	**kern		**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B		*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B		*grp:B	*grp:A		*grp:A	*grp:A	*grp:A	*grp:B		*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
-*part16	*part16	*part15		*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*part10	*part9		*part9	*part8		*part8	*part7	*part7	*part6		*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff17	*	*staff16		*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9		*	*staff8		*	*staff7	*	*staff6		*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr		*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*ICidio	*	*ICbras		*	*ICbras		*	*ICbras	*	*ICww		*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello		*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*Itimpa	*	*Itromp		*	*Icor		*	*Icor	*	*Ifagot		*	*Iclars	*	*Icangl	*	*Ioboe	*	*Ipicco	*	*Iflt	*
-*I"Contrabass	*	*I"Violoncello		*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Timpani	*	*I"Trumpet I.II. [C]		*	*I"Horn in F III.IV.		*	*I"Horn in F I.II.	*	*I"Bassoon		*	*I"Clarinet in Bb I.II.	*	*I"English Horn	*	*I"Oboe II.	*	*I"Piccolo	*	*I"Flute I.II.	*
-*I'Cb.	*	*I'Vc.		*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tpt.		*	*I'Hn.		*	*I'Hn.	*	*I'Bsn.		*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Ob.	*	*I'Picc.	*	*I'Fl.	*
-*ITrd7c12	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*		*	*ITrd4c7		*	*ITrd4c7	*	*		*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd-7c-12	*	*	*
-*clefF4	*	*clefF4		*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2		*	*clefG2		*	*clefG2	*	*clefF4		*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
-*k[f#c#]	*	*k[f#c#]		*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*	*k[0]		*	*		*	*	*	*k[f#c#]		*	*k[0]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
-*D:	*	*D:		*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*	*E:		*	*		*	*	*	*D:		*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
-*M6/8	*	*M6/8		*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*M6/8	*	*M6/8		*	*M6/8		*	*M6/8	*	*M6/8		*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
-*MM132	*	*MM132		*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*MM132	*	*MM132		*	*MM132		*	*MM132	*	*MM132		*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*
-*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*Itimpa	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Ipicco	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Timpani	*	*I"Trumpet I.II. [C]	*	*I"Horn in F III.IV.	*	*I"Horn in F I.II.	*	*I"Bassoon	*	*I"Clarinet in Bb I.II.	*	*I"English Horn	*	*I"Oboe II.	*	*I"Piccolo	*	*I"Flute I.II.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Ob.	*	*I'Picc.	*	*I'Fl.	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd-7c-12	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*	*k[0]	*	*	*	*	*	*k[f#c#]	*	*k[0]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*	*E:	*	*	*	*	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
 !!LO:REH:t=44
-=126(571)	=126(571)	=126(571)		=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)		=126(571)	=126(571)		=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)
-*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!
 !	!	!LO:TX:t=non legato	!	!	!LO:TX:t=non legato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -47,9 +47,9 @@
 .	.	16BJJ	16BJJ	.	16gJJ	.	.	.	16bbJ)	.	16B> 16g>JJ	.	.	.	.	.	.	[[	.	.	.	16Bn 16gJJ)	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127		=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
-!	!	!	!	!	!	!	!	!	!LO:TX:t=unis.	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!LO:TX:t=a2	!	!	!	!	!	!	!	!	!
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+!	!	!	!	!	!	!	!	!	!LO:TX:t=unis.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -74,8 +74,8 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128		=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A
 2.AA^	.	16ALL\	16dLL/	.	16f#LL	.	2.r	.	8r	.	16A/ 16d/ 16f#LL/	.	2.ryy	4AA	.	12cc#L	4cc#~	< f	2.d_	8AA]	.	(16An 16f#LL	ff	[2.AA	[2.AA	.	2.r	.	8d)	.	8f#)	.	2.r	.	8r	.
 .	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -96,8 +96,8 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16BJJ	16BJJ	.	16gJJ	.	.	.	16bbJ)	.	16B> 16g>JJ	.	.	.	.	.	.	[[	.	.	.	16Bn 16g)JJ	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129		=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*
 2.AAA^	.	16ALL\	16dLL/	.	16f#LL	.	8ccc#^L	ff	8ccc#^L	.	16A/ 16d/ 16f#LL/	.	2.ryy	2.r	.	4ff#~	12ff#L	.	[2.d_	[2.AA	.	(16An 16f#LL	.	2.AA]	2.AA]	.	(4ff#X	.	(16dLL	.	(16f#LL	.	8cccc#^L	ff	8ccc#^)L	.
@@ -120,8 +120,8 @@
 .	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>JJ	.	.	.	.	.	.	.	.	.	.	16Bn 16gJJ)	.	.	.	.	.	.	16BJJ	.	16gJJ	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130		=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 [4.AAA^	.	16ALL\	16dLL/	.	16f#LL	.	4r	.	8r	.	16A/ 16d/ 16f#LL/	.	2.ryy	4AA	.	12cc#L	4cc#~	<	2.d_	8AA]	.	(16An 16f#LL	.	[4.AA	[4.AA	.	4r	.	8d)	.	8f#)	.	2.r	.	2.r	.
 .	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -153,10 +153,10 @@
 .	.	.	.	.	.	.	.	.	.	.	32ff#>JJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bnJJJ 32ff#X	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	40ff#JJJ)	[[	.	.	.	[[	.	.	.	.	.	[[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*		*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
-=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=		=	=	=	=	=	=	=	=	=	=	=
-*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-		*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
 !!!Xfilter: slurcheck
 !!!RDF**kern: > = above
