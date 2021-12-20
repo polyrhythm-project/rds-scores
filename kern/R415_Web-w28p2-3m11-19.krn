@@ -21,7 +21,7 @@
 !	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=[[quarter]=80]	!
 !	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented (throughtout the excerpt)	!
 4r	.	2ryy	.	2r	.	2r	.	2r	.	8ff#XL	.f	2r	.	8r	.	2r	.	2r	.
-.	.	.	.	.	.	.	.	.	.	8ddnJ)j	.	.	.	8ccc#X~	f	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ddnJ)	.	.	.	8ccc#X~	f	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	(4an	>	.	.	.	.
 !	!	!	!LO:DY:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8EE-~X	fp	.	.	.	.	.	.	.	.	.	.	.	.	.	.]]	.	.	.	.
@@ -32,7 +32,7 @@
 (4Gn> 4f#>X/	.	2ryy	.	4r	.	8aa-X~	p	2r	.	2r	.	2r	.	8B-X)	p	2r	.	2r	.
 !	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	(4cn	>	.	.	.	.	.	.	8r	.	.	.	.	.
-8b<n')\	.	.	.	8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.
+8bn')\	.	.	.	8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.
 8r	.	.	.	8een~	p	8bn)	]]	.	.	.	.	.	.	.	.	.	.	.	.
 *clefF4	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
@@ -70,11 +70,11 @@
 *	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-8FF#<LX~	.	4ryy	.	2r	.	2r	.	2r	.	4r	.	8e-~XJ	.	2r	.	2r	.	2r	.
+8FF#LX~	.	4ryy	.	2r	.	2r	.	2r	.	4r	.	8e-~XJ	.	2r	.	2r	.	2r	.
 (8Gn> 8e->X\	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.
 *clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!LO:TUP:xbr	!	!	!	!	!	!	!	!	!
-8dd<n)	.	8ryy	.	.	.	.	.	.	.	12r	.	4r	.	.	.	.	.	.	.
+8ddn)	.	8ryy	.	.	.	.	.	.	.	12r	.	4r	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	.	.	.	.	(12e-XL	f	.	.	.	.	.	.	.	.
 *	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -111,7 +111,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)]{(s9,s10)}
-!!!Xfilter: slurcheck
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!CDT: 1883/12/03-1945/09/15
@@ -141,4 +140,3 @@
 !!!experiment: 0
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2021/01/08
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
