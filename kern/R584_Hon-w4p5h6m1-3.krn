@@ -10,6 +10,8 @@
 *staff5	*staff4	*staff4/5	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Piano	*	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*
 *I'Pno.	*	*	*I'Cl.	*	*I'Fl.	*	*I'Fl.	*
+*ICklav	*ICklav	*	*ICww	*	*ICww	*	*ICww	*
+*Ipiano	*Ipiano	*	*Iclars	*	*Iclars	*	*Iflt	*
 *	*	*	*ITrd2c3	*	*	*	*	*
 *clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
@@ -17,6 +19,7 @@
 *M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
 !!LO:REH:t=6
 =46	=46	=46	=46	=46	=46	=46	=46	=46
+!	!	!	!	!	!	!	!LO:TX:t=[[quarter] = 160]	!
 4ryy	8CC#<L	p	4r	.	4r	.	4r	.
 .	8C#<J	.	.	.	.	.	.	.
 1ryy	8c#L	.	8e'L	p	8g#'L	p	8cc#'L	p
