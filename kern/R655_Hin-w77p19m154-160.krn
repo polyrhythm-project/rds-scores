@@ -11,6 +11,8 @@
 *staff4	*staff3	*	*staff2	*staff1	*
 *I"Piano II	*	*	*I"Piano I	*	*
 *I'Pno. II	*	*	*I'Pno. I	*	*
+*ICklav	*ICklav	*	*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*	*Ipiano	*Ipiano	*
 *clefF4	*clefG2	*	*clefF4	*clefG2	*
 *k[]	*k[]	*	*k[]	*k[]	*
 *C:	*C:	*	*C:	*C:	*
@@ -18,7 +20,7 @@
 *met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*
 *	*8va	*	*	*	*
 =154	=154	=154	=154	=154	=154
-!	!	!	!	!LO:TX:t=[half]=120	!
+!	!	!	!	!LO:TX:t=[[half]=120]	!
 !	!LO:TX:t=[[half]=120]	!	!	!	!LO:DY:ed=brack
 2r	(4ddd	p	1r	8B 8f#X\	pp
 .	.	.	.	8B 8b	.
