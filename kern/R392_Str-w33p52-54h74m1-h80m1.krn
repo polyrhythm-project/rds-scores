@@ -24,10 +24,11 @@
 *	*	*	*	*	*	*	*	*cue	*	*	*	*	*	*	*
 !LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=60]	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=cantabile dolce	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing 8ba line	!	!
+!LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*8ba	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing 8ba line	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=60]	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=cantabile dolce	!	!
 [2DD	[4DDD	p	[4DD	p	4r	.	8r	8ryy	8r	8d	Sur	.	[2DD,	[2DDD	p
 !	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!LO:TX:t=P:problem:missing brackets	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
