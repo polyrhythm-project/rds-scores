@@ -36,7 +36,8 @@
 .	.	.	.	12r	.	12r	.	12r	.	.	.	.
 !!LO:REH:t=8
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-4AA	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r	1r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack
+4AA	.	4A	.	12G'L	.	12e-X'L	.	12g'L	.	1r	1r	mf
 .	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
 .	.	.	.	12r	.	12r	.	12r	.	.	.	.
 4AAA	.	4AA	.	12G'L	.	12e-'L	.	12g'L	.	.	.	.
@@ -51,13 +52,13 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing cross-staff beams	!
-!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!LO:DY:ed=brack
-4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ggL 12bb-X 12ddd-X 12eee-X 12ggg	mf
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
+4AAA	.	4AA	.	12G'L	.	12g'L	.	12b-X'L	.	2ryy	12ggL 12bb-X 12ddd-X 12eee-X 12ggg\	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<J	.
 .	.	.	.	12r	.	12r	.	12r	.	.	12r	.
 !	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!LO:TUP:a	!
-4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-XL 12ee-X 12gg 12bb-X	.
-.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<	.
+4CC	.	4C	.	12G'L	.	12g'L	.	12b-'L	.	.	12dd-XL 12ee-X 12gg 12bb-X\	.
+.	.	.	.	12G'J	.	12g'J	.	12b-'J	.	.	12g< 12b-< 12dd-< 12ee-< 12gg<J	.
 .	.	.	.	12r	.	12r	.	12r	.	.	12r	.
 !	!	!	!	!	!	!	!	!	!	!	!	!
 4AA	.	4A	.	8r	.	8r	.	8r	.	8r	8r	.
