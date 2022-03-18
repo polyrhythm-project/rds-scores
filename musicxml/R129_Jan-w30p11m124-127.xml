@@ -8,8 +8,8 @@
  <identification>
   <creator type="composer">Leoš [Leo Eugen] Janáček</creator>
   <encoding>
-   <encoding-date>2020-08-21</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -79,6 +79,11 @@
  </credit>
  <part-list>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -91,16 +96,17 @@
     <instrument-name>Violoncello (2)</instrument-name>
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
-    <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Cello ensemble</virtual-name>
-    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="start" number="1">
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P2">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -113,10 +119,6 @@
     <instrument-name>Piano (2)</instrument-name>
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
-    <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
-    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="1" />
@@ -150,6 +152,16 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <metronome default-y="52" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+      <beat-unit>eighth</beat-unit>
+      <per-minute>84</per-minute>
+     </metronome>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note default-x="118">
     <rest />
     <duration>42</duration>
