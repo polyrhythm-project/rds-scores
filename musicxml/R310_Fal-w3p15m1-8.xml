@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">Manuel de Falla (y Matheu)</creator>
   <encoding>
-   <encoding-date>2020-06-08</encoding-date>
-   <encoder>Aaron Graham</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -93,8 +93,8 @@
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -1108,7 +1108,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="197" default-y="-39">
+   <note color="#000000" default-x="197" default-y="-29">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -1123,10 +1123,9 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="243" default-y="-39">
+   <note color="#000000" default-x="243" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1138,7 +1137,7 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="288" default-y="-39">
+   <note color="#000000" default-x="288" default-y="-29">
     <pitch>
      <step>E</step>
      <alter>1</alter>
@@ -1153,10 +1152,9 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="334" default-y="-39">
+   <note color="#000000" default-x="334" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1281,7 +1279,7 @@
    <backup>
     <duration>384</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-39">
+   <note color="#000000" default-x="15" default-y="-29">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -1296,10 +1294,9 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="60" default-y="-39">
+   <note color="#000000" default-x="60" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1311,7 +1308,7 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="106" default-y="-39">
+   <note color="#000000" default-x="106" default-y="-29">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -1326,10 +1323,9 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="152" default-y="-39">
+   <note color="#000000" default-x="152" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1341,7 +1337,7 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="197" default-y="-39">
+   <note color="#000000" default-x="197" default-y="-29">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -1363,7 +1359,7 @@
     <voice>2</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="243" default-y="-39">
+   <note color="#000000" default-x="243" default-y="-29">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -1507,7 +1503,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="20" default-y="-39">
+   <note color="#000000" default-x="20" default-y="-29">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -1522,10 +1518,9 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="65" default-y="-39">
+   <note color="#000000" default-x="65" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1537,7 +1532,7 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="111" default-y="-39">
+   <note color="#000000" default-x="111" default-y="-29">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -1552,10 +1547,9 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="157" default-y="-39">
+   <note color="#000000" default-x="157" default-y="-29">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1567,7 +1561,7 @@
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="202" default-y="-39">
+   <note color="#000000" default-x="202" default-y="-29">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -1590,7 +1584,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="248" default-y="-39">
+   <note color="#000000" default-x="248" default-y="-29">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -1734,8 +1728,7 @@
    </note>
    <note color="#000000" default-x="60" default-y="-24">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
@@ -1764,8 +1757,7 @@
    </note>
    <note color="#000000" default-x="152" default-y="-24">
     <pitch>
-     <step>A</step>
-     <alter>1</alter>
+     <step>B</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>

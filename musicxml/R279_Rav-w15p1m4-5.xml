@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">(Joseph) Maurice Ravel</creator>
   <encoding>
-   <encoding-date>2020-06-08</encoding-date>
-   <encoder>Aaron Graham</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -93,8 +93,8 @@
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Flute</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -117,8 +117,8 @@
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -142,8 +142,8 @@
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Clarinet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Clarinet Bb 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -170,8 +170,8 @@
     <instrument-sound>pluck.harp</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Orchestral Harp</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Harp</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -198,8 +198,8 @@
     <instrument-sound>strings.violin</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Violin</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violin 1 solo</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -222,8 +222,8 @@
     <instrument-sound>strings.viola</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Viola</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Viola 1 solo</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -249,8 +249,8 @@
     <instrument-sound>strings.cello</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Cello</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Cello 1 solo</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -273,8 +273,8 @@
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Contrabass ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -312,7 +312,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <dynamics default-x="111" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="111" default-y="-77" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -331,7 +331,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="12" default-y="-65" color="#000000" type="diminuendo" />
+     <wedge default-x="12" default-y="-72" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -343,7 +343,6 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>quarter</type>
@@ -351,8 +350,9 @@
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="start" orientation="under" />
+     <slur color="#000000" type="start" orientation="under" />
      <articulations>
+      <staccato />
       <accent />
      </articulations>
     </notations>
@@ -365,14 +365,10 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P1-I1" />
     <type>quarter</type>
     <accidental>flat</accidental>
     <staff>1</staff>
-    <notations>
-     <tied type="start" orientation="over" />
-    </notations>
    </note>
    <note color="#000000" default-x="285" default-y="15">
     <pitch>
@@ -381,14 +377,15 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="under" />
+     <articulations>
+      <staccato />
+     </articulations>
     </notations>
    </note>
    <note color="#000000" default-x="285">
@@ -399,12 +396,11 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P1-I1" />
     <type>half</type>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="over" />
+     <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
   </measure>
@@ -416,7 +412,6 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>quarter</type>
@@ -424,8 +419,9 @@
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="start" orientation="under" />
+     <slur color="#000000" type="start" orientation="under" />
      <articulations>
+      <staccato />
       <accent />
      </articulations>
     </notations>
@@ -437,18 +433,14 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P1-I1" />
     <type>quarter</type>
     <accidental>natural</accidental>
     <staff>1</staff>
-    <notations>
-     <tied type="start" orientation="over" />
-    </notations>
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-72" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">511</offset>
     <voice>1</voice>
@@ -460,14 +452,15 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="under" />
+     <articulations>
+      <staccato />
+     </articulations>
     </notations>
    </note>
    <note color="#000000" default-x="195">
@@ -477,12 +470,11 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P1-I1" />
     <type>half</type>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="over" />
+     <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
   </measure>
@@ -758,7 +750,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <dynamics default-x="111" default-y="-89" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="111" default-y="-103" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -767,7 +759,7 @@
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="12" default-y="-84" color="#000000" type="diminuendo" />
+     <wedge default-x="12" default-y="-98" color="#000000" type="diminuendo" />
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -779,7 +771,6 @@
      <octave>3</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P3-I1" />
     <voice>1</voice>
     <type>quarter</type>
@@ -787,8 +778,9 @@
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="start" orientation="under" />
+     <slur color="#000000" type="start" orientation="under" />
      <articulations>
+      <staccato />
       <accent />
      </articulations>
     </notations>
@@ -800,14 +792,10 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P3-I1" />
     <type>quarter</type>
     <accidental>natural</accidental>
     <staff>1</staff>
-    <notations>
-     <tied type="start" orientation="over" />
-    </notations>
    </note>
    <note color="#000000" default-x="285" default-y="-15">
     <pitch>
@@ -816,14 +804,15 @@
      <octave>3</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P3-I1" />
     <voice>1</voice>
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="under" />
+     <articulations>
+      <staccato />
+     </articulations>
     </notations>
    </note>
    <note color="#000000" default-x="285">
@@ -833,12 +822,11 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P3-I1" />
     <type>half</type>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="over" />
+     <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
   </measure>
@@ -850,7 +838,6 @@
      <octave>3</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P3-I1" />
     <voice>1</voice>
     <type>quarter</type>
@@ -858,8 +845,9 @@
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="start" orientation="under" />
+     <slur color="#000000" type="start" orientation="under" />
      <articulations>
+      <staccato />
       <accent />
      </articulations>
     </notations>
@@ -872,18 +860,14 @@
      <octave>4</octave>
     </pitch>
     <duration>256</duration>
-    <tie type="start" />
     <instrument id="P3-I1" />
     <type>quarter</type>
     <accidental>sharp</accidental>
     <staff>1</staff>
-    <notations>
-     <tied type="start" orientation="over" />
-    </notations>
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-84" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-98" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">511</offset>
     <voice>1</voice>
@@ -895,14 +879,15 @@
      <octave>3</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P3-I1" />
     <voice>1</voice>
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="under" />
+     <articulations>
+      <staccato />
+     </articulations>
     </notations>
    </note>
    <note color="#000000" default-x="195">
@@ -913,12 +898,11 @@
      <octave>4</octave>
     </pitch>
     <duration>512</duration>
-    <tie type="stop" />
     <instrument id="P3-I1" />
     <type>half</type>
     <staff>1</staff>
     <notations>
-     <tied type="stop" orientation="over" />
+     <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
   </measure>

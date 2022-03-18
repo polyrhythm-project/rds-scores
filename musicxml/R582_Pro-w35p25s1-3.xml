@@ -10,7 +10,7 @@
 Sergey (Sergeyevich) Prokofiev</creator>
   <rights>Copyright © Natalie Dietterich</rights>
   <encoding>
-   <encoding-date>2020-05-25</encoding-date>
+   <encoding-date>2022-03-18</encoding-date>
    <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -80,19 +80,11 @@ Sergey (Sergeyevich) Prokofiev</creator>
   <credit-words default-x="1461" default-y="84" font-family="Didot" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">
 Sergey (Sergeyevich) Prokofiev</credit-words>
  </credit>
- <credit page="1">
-  <credit-words default-x="785" default-y="109" font-family="Didot" font-style="normal" font-size="7.9171" font-weight="normal" justify="center" valign="middle">Copyright © Natalie Dietterich</credit-words>
- </credit>
  <part-list>
   <part-group type="start" number="1">
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -2716,7 +2708,7 @@ Sergey (Sergeyevich) Prokofiev</credit-words>
    </note>
    <note color="#000000" default-x="210" default-y="9">
     <pitch>
-     <step>B</step>
+     <step>A</step>
      <alter>-1</alter>
      <octave>3</octave>
     </pitch>

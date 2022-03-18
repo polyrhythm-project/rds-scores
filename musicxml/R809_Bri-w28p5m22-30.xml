@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">(Edward) Benjamin Britten</creator>
   <encoding>
-   <encoding-date>2020-06-15</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -80,11 +80,6 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Sopranos</part-name>
    <part-name-display>
     <display-text>Sopranos</display-text>
@@ -96,8 +91,7 @@
    <score-instrument id="P1-I1">
     <instrument-name>Soprano</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Soprano Ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -118,8 +112,7 @@
    <score-instrument id="P2-I1">
     <instrument-name>Alto</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Alto Ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -140,8 +133,7 @@
    <score-instrument id="P3-I1">
     <instrument-name>Tenor</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Tenor Ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -162,8 +154,7 @@
    <score-instrument id="P4-I1">
     <instrument-name>Bass (2)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -172,6 +163,11 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P5">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Organ</part-name>
    <part-name-display>
     <display-text>Organ</display-text>
@@ -185,13 +181,17 @@
     <instrument-sound>keyboard.organ.pipe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Church Organ</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="2" />
   <score-part id="P7">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name> </part-name>
    <part-name-display>
     <display-text> </display-text>
@@ -203,12 +203,16 @@
    <score-instrument id="P7-I1">
     <instrument-name>  (6)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bright Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P8">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Pedals</part-name>
    <part-name-display>
     <display-text>Pedals</display-text>
@@ -220,7 +224,8 @@
    <score-instrument id="P8-I1">
     <instrument-name>Pedals</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Skinner Organ Pedal</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -267,6 +272,16 @@
      <dynamics default-x="119" default-y="28" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <f />
      </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="55" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+      <beat-unit>eighth</beat-unit>
+      <per-minute>144</per-minute>
+     </metronome>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -3559,6 +3574,17 @@
     <direction-type>
      <words default-x="100" default-y="-9" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
      <words justify="left" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
+    </direction-type>
+    <offset sound="no">-512</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+      <beat-unit>eighth</beat-unit>
+      <per-minute>144</per-minute>
+     </metronome>
     </direction-type>
     <offset sound="no">-512</offset>
     <voice>1</voice>

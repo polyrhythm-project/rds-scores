@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">Edgard [Edgar] (Victor Achille Charles) Varèse</creator>
   <encoding>
-   <encoding-date>2020-06-10</encoding-date>
-   <encoder>Aaron Graham</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -83,6 +83,11 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Flute</part-name>
    <part-name-display>
     <display-text>Flute</display-text>
@@ -96,8 +101,8 @@
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Flute</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -123,8 +128,8 @@
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Clarinet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Clarinet Bb 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -147,8 +152,8 @@
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -171,8 +176,8 @@
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bassoon</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -195,8 +200,8 @@
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>French Horn</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -219,8 +224,8 @@
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -243,7 +248,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -267,8 +272,8 @@
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Contrabass ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -882,7 +887,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -910,7 +915,6 @@
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -927,6 +931,7 @@
    <note color="#000000" default-x="118" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>85</duration>
@@ -950,6 +955,7 @@
    <note color="#000000" default-x="142" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>86</duration>
@@ -979,9 +985,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="5">
+   <note color="#000000" default-x="215" default-y="5">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>128</duration>
@@ -996,7 +1003,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1004,9 +1011,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="2">
+   <note color="#000000" default-x="268" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>64</duration>
@@ -1023,9 +1031,10 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="2">
+   <note color="#000000" default-x="292" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>64</duration>
@@ -1044,7 +1053,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -1059,7 +1068,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="5">
+   <note color="#000000" default-x="72" default-y="5">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1097,7 +1106,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="5">
+   <note color="#000000" default-x="166" default-y="5">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1110,7 +1119,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="5">
+   <note color="#000000" default-x="199" default-y="5">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1128,7 +1137,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="5">
+   <note color="#000000" default-x="250" default-y="5">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1150,8 +1159,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="2">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="2">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1176,9 +1185,10 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="2">
+   <note color="#000000" default-x="47" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>85</duration>
@@ -1199,9 +1209,10 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="2">
+   <note color="#000000" default-x="70" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>86</duration>
@@ -1223,7 +1234,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1231,9 +1242,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="5">
+   <note color="#000000" default-x="130" default-y="5">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>128</duration>
@@ -1248,7 +1260,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1256,9 +1268,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="2">
+   <note color="#000000" default-x="183" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>64</duration>
@@ -1275,9 +1288,10 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="2">
+   <note color="#000000" default-x="206" default-y="2">
     <pitch>
      <step>G</step>
+     <alter>1</alter>
      <octave>4</octave>
     </pitch>
     <duration>64</duration>
@@ -1294,7 +1308,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -1304,7 +1318,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -1369,7 +1383,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1379,7 +1393,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -1396,14 +1410,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <fff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="2">
+   <note color="#000000" default-x="68" default-y="2">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1424,7 +1438,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="2">
+   <note color="#000000" default-x="92" default-y="2">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -1444,7 +1458,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1452,7 +1466,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P1-I1" />
@@ -2029,7 +2043,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -2126,7 +2140,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="10">
+   <note color="#000000" default-x="215" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2143,7 +2157,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -2151,7 +2165,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="9">
+   <note color="#000000" default-x="268" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2170,7 +2184,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="9">
+   <note color="#000000" default-x="292" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2191,7 +2205,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -2206,7 +2220,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="10">
+   <note color="#000000" default-x="72" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2241,7 +2255,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="10">
+   <note color="#000000" default-x="166" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2253,7 +2267,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="10">
+   <note color="#000000" default-x="199" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2270,7 +2284,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="10">
+   <note color="#000000" default-x="250" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2291,8 +2305,8 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="9">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2315,7 +2329,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="9">
+   <note color="#000000" default-x="47" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2338,7 +2352,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="9">
+   <note color="#000000" default-x="70" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2362,7 +2376,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -2370,7 +2384,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="10">
+   <note color="#000000" default-x="130" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2387,7 +2401,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -2395,7 +2409,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="9">
+   <note color="#000000" default-x="183" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2414,7 +2428,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="9">
+   <note color="#000000" default-x="206" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2433,7 +2447,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P2-I1" />
@@ -2443,7 +2457,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -2505,7 +2519,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -2515,7 +2529,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -2532,14 +2546,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <fff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="9">
+   <note color="#000000" default-x="68" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2558,7 +2572,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="9">
+   <note color="#000000" default-x="92" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -2577,7 +2591,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -2585,7 +2599,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P2-I1" />
@@ -3154,7 +3168,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -3251,7 +3265,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="10">
+   <note color="#000000" default-x="215" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3268,7 +3282,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P3-I1" />
@@ -3276,7 +3290,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="9">
+   <note color="#000000" default-x="268" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3295,7 +3309,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="9">
+   <note color="#000000" default-x="292" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3316,7 +3330,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -3331,7 +3345,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="10">
+   <note color="#000000" default-x="72" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3366,7 +3380,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="10">
+   <note color="#000000" default-x="166" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3378,7 +3392,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="10">
+   <note color="#000000" default-x="199" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3395,7 +3409,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="10">
+   <note color="#000000" default-x="250" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3416,8 +3430,8 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="9">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3440,7 +3454,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="9">
+   <note color="#000000" default-x="47" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3463,7 +3477,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="9">
+   <note color="#000000" default-x="70" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3487,7 +3501,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P3-I1" />
@@ -3495,7 +3509,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="10">
+   <note color="#000000" default-x="130" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3512,7 +3526,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P3-I1" />
@@ -3520,7 +3534,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="9">
+   <note color="#000000" default-x="183" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3539,7 +3553,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="9">
+   <note color="#000000" default-x="206" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3558,7 +3572,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P3-I1" />
@@ -3568,7 +3582,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -3630,7 +3644,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P3-I1" />
@@ -3640,7 +3654,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -3657,14 +3671,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <fff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="9">
+   <note color="#000000" default-x="68" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3683,7 +3697,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="9">
+   <note color="#000000" default-x="92" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3702,7 +3716,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P3-I1" />
@@ -3710,7 +3724,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P3-I1" />
@@ -4299,7 +4313,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -4329,7 +4343,6 @@
     <instrument id="P4-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -4346,6 +4359,7 @@
    <note color="#000000" default-x="118" default-y="-20">
     <pitch>
      <step>C</step>
+     <alter>1</alter>
      <octave>2</octave>
     </pitch>
     <duration>85</duration>
@@ -4369,6 +4383,7 @@
    <note color="#000000" default-x="142" default-y="-20">
     <pitch>
      <step>C</step>
+     <alter>1</alter>
      <octave>2</octave>
     </pitch>
     <duration>86</duration>
@@ -4398,9 +4413,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="-20">
+   <note color="#000000" default-x="215" default-y="-20">
     <pitch>
      <step>C</step>
+     <alter>1</alter>
      <octave>2</octave>
     </pitch>
     <duration>128</duration>
@@ -4415,7 +4431,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -4423,9 +4439,10 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="-20">
+   <note color="#000000" default-x="268" default-y="-20">
     <pitch>
      <step>C</step>
+     <alter>1</alter>
      <octave>2</octave>
     </pitch>
     <duration>64</duration>
@@ -4442,9 +4459,10 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="-20">
+   <note color="#000000" default-x="292" default-y="-20">
     <pitch>
      <step>C</step>
+     <alter>1</alter>
      <octave>2</octave>
     </pitch>
     <duration>64</duration>
@@ -4463,7 +4481,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -4478,7 +4496,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="-20">
+   <note color="#000000" default-x="72" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4516,7 +4534,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="-20">
+   <note color="#000000" default-x="166" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4529,7 +4547,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="-20">
+   <note color="#000000" default-x="199" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4547,7 +4565,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="-20">
+   <note color="#000000" default-x="250" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4569,8 +4587,8 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="-20">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4581,6 +4599,7 @@
     <instrument id="P4-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -4594,7 +4613,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="-20">
+   <note color="#000000" default-x="47" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4604,7 +4623,6 @@
     <instrument id="P4-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -4619,7 +4637,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="-20">
+   <note color="#000000" default-x="70" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4644,7 +4662,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -4652,7 +4670,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="-20">
+   <note color="#000000" default-x="130" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4670,7 +4688,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -4678,7 +4696,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="-20">
+   <note color="#000000" default-x="183" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4698,7 +4716,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="-20">
+   <note color="#000000" default-x="206" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4718,7 +4736,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P4-I1" />
@@ -4728,7 +4746,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -4793,7 +4811,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -4803,7 +4821,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -4820,14 +4838,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-100" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-100" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <fff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="-20">
+   <note color="#000000" default-x="68" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4848,7 +4866,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="-20">
+   <note color="#000000" default-x="92" default-y="-20">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4868,7 +4886,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -4876,7 +4894,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P4-I1" />
@@ -5434,7 +5452,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -5531,7 +5549,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="-45">
+   <note color="#000000" default-x="215" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5548,7 +5566,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P5-I1" />
@@ -5556,7 +5574,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="-42">
+   <note color="#000000" default-x="268" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5575,7 +5593,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="-42">
+   <note color="#000000" default-x="292" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5596,7 +5614,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -5611,7 +5629,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="-45">
+   <note color="#000000" default-x="72" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5646,7 +5664,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="-45">
+   <note color="#000000" default-x="166" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5658,7 +5676,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="-45">
+   <note color="#000000" default-x="199" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5675,7 +5693,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="-45">
+   <note color="#000000" default-x="250" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5696,8 +5714,8 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="-42">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5720,7 +5738,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="-42">
+   <note color="#000000" default-x="47" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5743,7 +5761,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="-42">
+   <note color="#000000" default-x="70" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5767,7 +5785,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P5-I1" />
@@ -5775,7 +5793,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="-45">
+   <note color="#000000" default-x="130" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5792,7 +5810,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P5-I1" />
@@ -5800,7 +5818,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="-42">
+   <note color="#000000" default-x="183" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5819,7 +5837,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="-42">
+   <note color="#000000" default-x="206" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5838,7 +5856,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P5-I1" />
@@ -5848,7 +5866,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -5910,7 +5928,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P5-I1" />
@@ -5920,7 +5938,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -5937,14 +5955,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="-42">
+   <note color="#000000" default-x="68" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5963,7 +5981,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="-42">
+   <note color="#000000" default-x="92" default-y="-42">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5982,7 +6000,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P5-I1" />
@@ -5990,7 +6008,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P5-I1" />
@@ -6332,7 +6350,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -6363,50 +6381,50 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="163" default-y="-32">
+   <note color="#000000" default-x="163" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>32</duration>
     <instrument id="P6-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>32nd</type>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
+    <beam number="3">begin</beam>
     <notations>
      <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="183" default-y="-32">
+   <note color="#000000" default-x="179" default-y="-39">
     <pitch>
      <step>G</step>
      <octave>5</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>32</duration>
     <instrument id="P6-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>32nd</type>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">end</beam>
-    <notations>
-     <slur color="#000000" type="stop" orientation="over" />
-    </notations>
+    <beam number="3">end</beam>
    </note>
-   <note color="#000000" default-x="203" default-y="-32">
+   <note color="#000000" default-x="196" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <tie type="start" />
     <instrument id="P6-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <dot />
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
@@ -6417,7 +6435,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="230" default-y="-39">
+   <note color="#000000" default-x="243" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -6431,10 +6449,11 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="256" default-y="-39">
+   <note color="#000000" default-x="268" default-y="-39">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -6455,7 +6474,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -6523,8 +6542,8 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="-30">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -6540,7 +6559,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="95" default-y="-39">
+   <note color="#000000" default-x="91" default-y="-39">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -6557,7 +6576,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="115" default-y="-39">
+   <note color="#000000" default-x="110" default-y="-39">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -6579,7 +6598,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="162" default-y="-40">
+   <note color="#000000" default-x="157" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -6595,7 +6614,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="232" default-y="-40">
+   <note color="#000000" default-x="226" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -6616,7 +6635,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -6659,7 +6678,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -7253,7 +7272,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -7350,7 +7369,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="5">
+   <note color="#000000" default-x="215" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7367,7 +7386,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -7375,7 +7394,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="2">
+   <note color="#000000" default-x="268" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7394,7 +7413,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280" default-y="2">
+   <note color="#000000" default-x="292" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7415,7 +7434,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -7430,7 +7449,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="5">
+   <note color="#000000" default-x="72" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7465,7 +7484,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="5">
+   <note color="#000000" default-x="166" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7477,7 +7496,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="5">
+   <note color="#000000" default-x="199" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7494,7 +7513,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251" default-y="5">
+   <note color="#000000" default-x="250" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7515,8 +7534,8 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="2">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7539,7 +7558,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="2">
+   <note color="#000000" default-x="47" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7562,7 +7581,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74" default-y="2">
+   <note color="#000000" default-x="70" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7586,7 +7605,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -7594,7 +7613,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="5">
+   <note color="#000000" default-x="130" default-y="5">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7611,7 +7630,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -7619,7 +7638,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="2">
+   <note color="#000000" default-x="183" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7638,7 +7657,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212" default-y="2">
+   <note color="#000000" default-x="206" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7657,7 +7676,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P7-I1" />
@@ -7667,7 +7686,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -7724,7 +7743,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -7734,7 +7753,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -7751,14 +7770,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="2">
+   <note color="#000000" default-x="68" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7777,7 +7796,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93" default-y="2">
+   <note color="#000000" default-x="92" default-y="2">
     <pitch>
      <step>B</step>
      <octave>2</octave>
@@ -7796,7 +7815,7 @@
      </articulations>
     </notations>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -7804,7 +7823,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P7-I1" />
@@ -8631,7 +8650,7 @@
    </note>
   </measure>
   <!--============== Part: P8, Measure: 28 ==============-->
-  <measure number="28" width="304">
+  <measure number="28" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -8705,7 +8724,6 @@
     <instrument id="P8-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -8788,7 +8806,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="203" default-y="15">
+   <note color="#000000" default-x="215" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8806,7 +8824,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="203">
+   <note color="#000000" default-x="215">
     <chord />
     <pitch>
      <step>D</step>
@@ -8817,7 +8835,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="230">
+   <note default-x="243">
     <rest />
     <duration>128</duration>
     <instrument id="P8-I1" />
@@ -8825,7 +8843,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="256" default-y="12">
+   <note color="#000000" default-x="268" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8845,7 +8863,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="256">
+   <note color="#000000" default-x="268">
     <chord />
     <pitch>
      <step>D</step>
@@ -8856,7 +8874,7 @@
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="280" default-y="12">
+   <note color="#000000" default-x="292" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8876,7 +8894,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="280">
+   <note color="#000000" default-x="292">
     <chord />
     <pitch>
      <step>D</step>
@@ -8889,7 +8907,7 @@
    </note>
   </measure>
   <!--============== Part: P8, Measure: 29 ==============-->
-  <measure number="29" width="300">
+  <measure number="29" width="298">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -8904,7 +8922,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="15">
+   <note color="#000000" default-x="72" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8925,7 +8943,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="73">
+   <note color="#000000" default-x="72">
     <chord />
     <pitch>
      <step>D</step>
@@ -8972,7 +8990,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="168" default-y="15">
+   <note color="#000000" default-x="166" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8985,7 +9003,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="168">
+   <note color="#000000" default-x="166">
     <chord />
     <pitch>
      <step>D</step>
@@ -8996,7 +9014,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="15">
+   <note color="#000000" default-x="199" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9014,7 +9032,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="200">
+   <note color="#000000" default-x="199">
     <chord />
     <pitch>
      <step>D</step>
@@ -9025,7 +9043,7 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="251" default-y="15">
+   <note color="#000000" default-x="250" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9045,7 +9063,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="251">
+   <note color="#000000" default-x="250">
     <chord />
     <pitch>
      <step>D</step>
@@ -9062,8 +9080,8 @@
    </note>
   </measure>
   <!--============== Part: P8, Measure: 30 ==============-->
-  <measure number="30" width="268">
-   <note color="#000000" default-x="15" default-y="12">
+  <measure number="30" width="261">
+   <note color="#000000" default-x="18" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9074,6 +9092,7 @@
     <instrument id="P8-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -9087,7 +9106,7 @@
      <tied type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="18">
     <chord />
     <pitch>
      <step>D</step>
@@ -9108,7 +9127,7 @@
      <tied type="stop" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="50" default-y="12">
+   <note color="#000000" default-x="47" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9118,7 +9137,6 @@
     <instrument id="P8-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>sharp</accidental>
     <time-modification>
      <actual-notes>3</actual-notes>
      <normal-notes>2</normal-notes>
@@ -9133,7 +9151,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="50">
+   <note color="#000000" default-x="47">
     <chord />
     <pitch>
      <step>D</step>
@@ -9149,7 +9167,7 @@
     </time-modification>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="74" default-y="12">
+   <note color="#000000" default-x="70" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9174,7 +9192,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="74">
+   <note color="#000000" default-x="70">
     <chord />
     <pitch>
      <step>D</step>
@@ -9193,7 +9211,7 @@
      <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note default-x="95">
+   <note default-x="91">
     <rest />
     <duration>128</duration>
     <instrument id="P8-I1" />
@@ -9201,7 +9219,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="135" default-y="15">
+   <note color="#000000" default-x="130" default-y="15">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9219,7 +9237,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="135">
+   <note color="#000000" default-x="130">
     <chord />
     <pitch>
      <step>D</step>
@@ -9230,7 +9248,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="162">
+   <note default-x="157">
     <rest />
     <duration>128</duration>
     <instrument id="P8-I1" />
@@ -9238,7 +9256,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="188" default-y="12">
+   <note color="#000000" default-x="183" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9258,7 +9276,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="188">
+   <note color="#000000" default-x="183">
     <chord />
     <pitch>
      <step>D</step>
@@ -9269,7 +9287,7 @@
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="212" default-y="12">
+   <note color="#000000" default-x="206" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9289,7 +9307,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="212">
+   <note color="#000000" default-x="206">
     <chord />
     <pitch>
      <step>D</step>
@@ -9300,7 +9318,7 @@
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note default-x="232">
+   <note default-x="226">
     <rest />
     <duration>256</duration>
     <instrument id="P8-I1" />
@@ -9310,7 +9328,7 @@
    </note>
   </measure>
   <!--============== Part: P8, Measure: 31 ==============-->
-  <measure number="31" width="177">
+  <measure number="31" width="175">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
@@ -9392,7 +9410,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="151">
+   <note default-x="150">
     <rest />
     <duration>128</duration>
     <instrument id="P8-I1" />
@@ -9402,7 +9420,7 @@
    </note>
   </measure>
   <!--============== Part: P8, Measure: 32 ==============-->
-  <measure number="32" width="217">
+  <measure number="32" width="214">
    <attributes>
     <time color="#000000">
      <beats>4</beats>
@@ -9419,14 +9437,14 @@
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="63" default-y="-85" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
+     <dynamics default-x="62" default-y="-85" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="9.3787" font-weight="normal">
       <fff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="69" default-y="12">
+   <note color="#000000" default-x="68" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9447,7 +9465,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="69">
+   <note color="#000000" default-x="68">
     <chord />
     <pitch>
      <step>D</step>
@@ -9458,7 +9476,7 @@
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="93" default-y="12">
+   <note color="#000000" default-x="92" default-y="12">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9478,7 +9496,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="93">
+   <note color="#000000" default-x="92">
     <chord />
     <pitch>
      <step>D</step>
@@ -9489,7 +9507,7 @@
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note default-x="112">
+   <note default-x="111">
     <rest />
     <duration>128</duration>
     <instrument id="P8-I1" />
@@ -9497,7 +9515,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note default-x="156">
+   <note default-x="155">
     <rest />
     <duration>512</duration>
     <instrument id="P8-I1" />

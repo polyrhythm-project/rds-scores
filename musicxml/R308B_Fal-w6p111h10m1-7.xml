@@ -8,7 +8,7 @@
   <creator type="composer">Manuel de Falla (y Matheu)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2020-06-09</encoding-date>
+   <encoding-date>2022-03-18</encoding-date>
    <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -81,6 +81,11 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Flute 1</part-name>
    <part-name-display>
     <display-text>Flute 1</display-text>
@@ -408,6 +413,11 @@
    </score-instrument>
   </score-part>
   <score-part id="P16">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violin II</part-name>
    <part-name-display>
     <display-text>Violin II</display-text>
@@ -496,6 +506,11 @@
    </score-instrument>
   </score-part>
   <score-part id="P20">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Contrabass</part-name>
    <part-name-display>
     <display-text>Contrabass</display-text>
@@ -5084,7 +5099,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>90</staff-distance>
+     <staff-distance>104</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -5119,14 +5134,14 @@
    </direction>
    <direction>
     <direction-type>
-     <words default-x="117" default-y="6" justify="left" valign="middle" font-family="Palatino" font-style="normal" font-size="5.5032" font-weight="normal">pizz.</words>
+     <words default-x="96" default-y="20" justify="left" valign="middle" font-family="Palatino" font-style="normal" font-size="5.5032" font-weight="normal">pizz.</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="102" default-y="-32">
+   <note color="#000000" default-x="102" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5138,17 +5153,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="271" default-y="-32">
+   <note color="#000000" default-x="271" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5159,19 +5174,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 96 ==============-->
   <measure number="96" width="352">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5183,17 +5198,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="183" default-y="-32">
+   <note color="#000000" default-x="183" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5204,19 +5219,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 97 ==============-->
   <measure number="97" width="352">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5228,17 +5243,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="183" default-y="-32">
+   <note color="#000000" default-x="183" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5249,19 +5264,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 98 ==============-->
   <measure number="98" width="352">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5273,17 +5288,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="183" default-y="-32">
+   <note color="#000000" default-x="183" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5294,19 +5309,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 99 ==============-->
   <measure number="99" width="352">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5318,17 +5333,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="184" default-y="-32">
+   <note color="#000000" default-x="184" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5339,19 +5354,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 100 ==============-->
   <measure number="100" width="352">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5363,17 +5378,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="184" default-y="-32">
+   <note color="#000000" default-x="184" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5384,19 +5399,19 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 101 ==============-->
   <measure number="101" width="364">
-   <note color="#000000" default-x="15" default-y="-32">
+   <note color="#000000" default-x="15" default-y="12">
     <pitch>
-     <step>A</step>
+     <step>D</step>
      <octave>3</octave>
     </pitch>
     <duration>192</duration>
@@ -5408,17 +5423,17 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
-   <note color="#000000" default-x="184" default-y="-32">
+   <note color="#000000" default-x="184" default-y="12">
     <pitch>
-     <step>D</step>
-     <octave>4</octave>
+     <step>A</step>
+     <octave>2</octave>
     </pitch>
     <duration>192</duration>
     <instrument id="P20-I1" />
@@ -5429,11 +5444,11 @@
      <normal-notes>3</normal-notes>
      <normal-type>eighth</normal-type>
     </time-modification>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
     </notations>
    </note>
    <barline>

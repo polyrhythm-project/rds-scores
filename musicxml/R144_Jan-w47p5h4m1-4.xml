@@ -8,7 +8,7 @@
   <creator type="composer">Leoš [Leo Eugen] Janáček</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2020-06-09</encoding-date>
+   <encoding-date>2022-03-18</encoding-date>
    <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -96,6 +96,10 @@
     <instrument-name>Flute (2)</instrument-name>
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P2">
@@ -116,6 +120,10 @@
     <instrument-name>Oboe</instrument-name>
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P3">
@@ -137,6 +145,10 @@
     <instrument-name>Clarinet in B^b</instrument-name>
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Clarinet Bb 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P4">
@@ -159,6 +171,10 @@
     <instrument-name>Bass Clarinet\n\in B^b (2)</instrument-name>
     <instrument-sound>wind.reed.clarinet.bass</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bass Clarinet</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P5">
@@ -179,6 +195,10 @@
     <instrument-name>Bassoon</instrument-name>
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P6">
@@ -199,14 +219,13 @@
     <instrument-name>Bassoon</instrument-name>
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P7">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Contrabassoon</part-name>
    <part-name-display>
     <display-text>Contrabassoon</display-text>
@@ -219,6 +238,10 @@
     <instrument-name>Contrabassoon</instrument-name>
     <instrument-sound>wind.reed.contrabassoon</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Contra Bassoon</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="1" />
@@ -243,6 +266,10 @@
     <instrument-name>Timpani (2)</instrument-name>
     <instrument-sound>drum.timpani</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Timpani hit</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="2" />
@@ -267,6 +294,10 @@
     <instrument-name>Horn in F</instrument-name>
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P10">
@@ -287,6 +318,10 @@
     <instrument-name>Horn in F</instrument-name>
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P11">
@@ -302,6 +337,10 @@
     <instrument-name>Trumpet in F [no key]</instrument-name>
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P12">
@@ -322,6 +361,10 @@
     <instrument-name>Trumpet in F [no key]</instrument-name>
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="3" />
@@ -346,6 +389,10 @@
     <instrument-name>Timpani (2)</instrument-name>
     <instrument-sound>drum.timpani</instrument-sound>
     <solo />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Timpani hit</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="4" />
@@ -370,6 +417,10 @@
     <instrument-name>Violin I</instrument-name>
     <instrument-sound>strings.violin</instrument-sound>
     <ensemble />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violins</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P15">
@@ -388,6 +439,9 @@
    </part-abbreviation-display>
    <score-instrument id="P15-I1">
     <instrument-name>Violin II</instrument-name>
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P16">
@@ -408,6 +462,10 @@
     <instrument-name>Viola (2)</instrument-name>
     <instrument-sound>strings.viola</instrument-sound>
     <ensemble />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violas</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P17">
@@ -428,6 +486,10 @@
     <instrument-name>Violoncello (2)</instrument-name>
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Celli</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P18">
@@ -448,6 +510,10 @@
     <instrument-name>Contrabass (2)</instrument-name>
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
+    <virtual-instrument>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
+    </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="5" />
@@ -3132,7 +3198,7 @@
    </note>
    <note color="#000000" default-x="155" default-y="2">
     <pitch>
-     <step>F</step>
+     <step>C</step>
      <octave>4</octave>
     </pitch>
     <duration>43</duration>
@@ -3436,7 +3502,7 @@
    </note>
    <note color="#000000" default-x="67" default-y="2">
     <pitch>
-     <step>F</step>
+     <step>C</step>
      <octave>4</octave>
     </pitch>
     <duration>43</duration>

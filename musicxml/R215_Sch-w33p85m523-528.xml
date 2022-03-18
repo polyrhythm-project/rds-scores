@@ -8,8 +8,8 @@
   <creator type="composer">Arnold (Franz Walter) Schoenberg [Schönberg]</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2020-06-16</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -97,8 +97,8 @@
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Flute</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -108,9 +108,9 @@
      <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
     </miscellaneous>
    </identification>
-   <part-name>English Horn</part-name>
+   <part-name>English Horn [C]</part-name>
    <part-name-display>
-    <display-text>English Horn</display-text>
+    <display-text>English Horn [C]</display-text>
    </part-name-display>
    <part-abbreviation>Eng. Hn.</part-abbreviation>
    <part-abbreviation-display>
@@ -121,7 +121,7 @@
     <instrument-sound>wind.reed.english-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>English Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -132,10 +132,11 @@
      <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
     </miscellaneous>
    </identification>
-   <part-name>Clarinet in Bb II</part-name>
+   <part-name>Clarinet II [C]</part-name>
    <part-name-display>
-    <display-text>Clarinet in B</display-text>
-    <display-text>b II</display-text>
+    <display-text>Clarinet </display-text>
+    <display-text>II </display-text>
+    <display-text>[C]</display-text>
    </part-name-display>
    <part-abbreviation>Cl.</part-abbreviation>
    <part-abbreviation-display>
@@ -146,12 +147,17 @@
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Clarinet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Clarinet Bb 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P4">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Bassoon I</part-name>
    <part-name-display>
     <display-text>Bassoon I</display-text>
@@ -165,8 +171,8 @@
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bassoon</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -175,9 +181,14 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P5">
-   <part-name>Horn in F II</part-name>
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
+   <part-name>Horn II [C]</part-name>
    <part-name-display>
-    <display-text>Horn in F II</display-text>
+    <display-text>Horn II [C]</display-text>
    </part-name-display>
    <part-abbreviation>Hn.</part-abbreviation>
    <part-abbreviation-display>
@@ -188,12 +199,17 @@
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>French Horn</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P6">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Tuba</part-name>
    <part-name-display>
     <display-text>Tuba</display-text>
@@ -207,13 +223,18 @@
     <instrument-sound>brass.tuba</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Tuba</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Tuba Bb</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="2" />
   <score-part id="P7">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Tenor Solo</part-name>
    <part-name-display>
     <display-text>Tenor Solo</display-text>
@@ -225,19 +246,18 @@
    <score-instrument id="P7-I1">
     <instrument-name>Solo Tenor</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Solo Tenor</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
      <top-system-distance>218</top-system-distance>
@@ -280,7 +300,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -291,7 +311,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -410,11 +430,11 @@
  </part>
  <part id="P2">
   <!--============== Part: P2, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -460,14 +480,14 @@
    </direction>
    <direction>
     <direction-type>
-     <dynamics default-x="157" default-y="-93" color="#000000" font-family="Helsinki Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
+     <dynamics default-x="156" default-y="-93" color="#000000" font-family="Helsinki Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="163" default-y="-55">
+   <note color="#000000" default-x="162" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -489,7 +509,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="241" default-y="10">
+   <note color="#000000" default-x="238" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -504,7 +524,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <direction>
     <direction-type>
      <other-direction default-y="-60" print-object="no">Tenuto below</other-direction>
@@ -534,7 +554,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="98" default-y="10">
+   <note color="#000000" default-x="96" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -554,7 +574,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="206" default-y="-55">
+   <note color="#000000" default-x="202" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -569,7 +589,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -578,7 +598,7 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="73" default-y="-35">
+   <note color="#000000" default-x="71" default-y="-35">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -597,7 +617,7 @@
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="151" default-y="-30">
+   <note color="#000000" default-x="148" default-y="-30">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -831,11 +851,11 @@
  </part>
  <part id="P3">
   <!--============== Part: P3, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -901,7 +921,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="215" default-y="-20">
+   <note color="#000000" default-x="213" default-y="-20">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -916,7 +936,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <direction>
     <direction-type>
      <other-direction default-y="-86" print-object="no">Tenuto below</other-direction>
@@ -943,7 +963,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="148" default-y="-20">
+   <note color="#000000" default-x="145" default-y="-20">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -959,7 +979,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <direction>
     <direction-type>
      <other-direction default-y="-82" print-object="no">Tenuto below</other-direction>
@@ -987,7 +1007,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="125" default-y="-20">
+   <note color="#000000" default-x="122" default-y="-20">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -1170,11 +1190,11 @@
  </part>
  <part id="P4">
   <!--============== Part: P4, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -1212,7 +1232,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -1223,7 +1243,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -1324,11 +1344,11 @@
  </part>
  <part id="P5">
   <!--============== Part: P5, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -1392,7 +1412,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="215" default-y="-50">
+   <note color="#000000" default-x="213" default-y="-50">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -1408,7 +1428,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <direction>
     <direction-type>
      <other-direction default-y="-47" print-object="no">Tenuto below</other-direction>
@@ -1435,7 +1455,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="148" default-y="-35">
+   <note color="#000000" default-x="145" default-y="-35">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -1451,7 +1471,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <direction>
     <direction-type>
      <other-direction default-y="-54" print-object="no">Tenuto below</other-direction>
@@ -1480,7 +1500,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="125" default-y="-20">
+   <note color="#000000" default-x="122" default-y="-20">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -1648,11 +1668,11 @@
  </part>
  <part id="P6">
   <!--============== Part: P6, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -1712,7 +1732,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="215" default-y="-20">
+   <note color="#000000" default-x="213" default-y="-20">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -1728,7 +1748,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <direction>
     <direction-type>
      <other-direction default-y="-53" print-object="no">Tenuto below</other-direction>
@@ -1757,7 +1777,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="148" default-y="-5">
+   <note color="#000000" default-x="145" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -1772,7 +1792,7 @@
    </note>
   </measure>
   <!--============== Part: P6, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <direction>
     <direction-type>
      <other-direction default-y="-65" print-object="no">Tenuto below</other-direction>
@@ -1800,7 +1820,7 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="125" default-y="-10">
+   <note color="#000000" default-x="122" default-y="-10">
     <pitch>
      <step>F</step>
      <octave>2</octave>
@@ -1937,11 +1957,11 @@
  </part>
  <part id="P7">
   <!--============== Part: P7, Measure: 523 ==============-->
-  <measure number="523" width="335">
+  <measure number="523" width="330">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>186</left-margin>
+      <left-margin>202</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -2009,7 +2029,7 @@
      <text>Schlie</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="215" default-y="-55">
+   <note color="#000000" default-x="213" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -2027,7 +2047,7 @@
      <text>ßet</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="293" default-y="-55">
+   <note color="#000000" default-x="289" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -2045,7 +2065,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 524 ==============-->
-  <measure number="524" width="296">
+  <measure number="524" width="290">
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>B</step>
@@ -2063,7 +2083,7 @@
      <text>Au</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="148" default-y="10">
+   <note color="#000000" default-x="145" default-y="10">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -2080,7 +2100,7 @@
      <text>gen,</text>
     </lyric>
    </note>
-   <note default-x="206">
+   <note default-x="202">
     <rest />
     <duration>128</duration>
     <instrument id="P7-I1" />
@@ -2088,7 +2108,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="247" default-y="-40">
+   <note color="#000000" default-x="243" default-y="-40">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -2108,7 +2128,7 @@
    </note>
   </measure>
   <!--============== Part: P7, Measure: 525 ==============-->
-  <measure number="525" width="244">
+  <measure number="525" width="239">
    <note color="#000000" default-x="15" default-y="-40">
     <pitch>
      <step>E</step>
@@ -2127,7 +2147,7 @@
      <text>stop</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="125" default-y="-50">
+   <note color="#000000" default-x="122" default-y="-50">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -2146,7 +2166,7 @@
      <text>fet</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="202" default-y="-50">
+   <note color="#000000" default-x="198" default-y="-50">
     <pitch>
      <step>C</step>
      <alter>1</alter>

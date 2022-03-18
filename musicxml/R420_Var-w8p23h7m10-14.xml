@@ -7,8 +7,8 @@
  <identification>
   <creator type="composer">Edgard [Edgar] (Victor Achille Charles) Varèse</creator>
   <encoding>
-   <encoding-date>2020-06-08</encoding-date>
-   <encoder>Aaron Graham</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -92,7 +92,7 @@
    <score-instrument id="P1-I1">
     <instrument-name>Theremin</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -114,7 +114,7 @@
    <score-instrument id="P2-I1">
     <instrument-name>Theremin</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -144,8 +144,7 @@
     <instrument-sound>keyboard.organ.pipe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Church Organ</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -175,8 +174,8 @@
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -201,8 +200,8 @@
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -227,8 +226,8 @@
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -253,8 +252,8 @@
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -282,7 +281,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -307,7 +306,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -332,7 +331,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -357,7 +356,7 @@
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -380,8 +379,7 @@
    <score-instrument id="P12-I1">
     <instrument-name>Bass (2)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -389,11 +387,6 @@
    <group-symbol>brace</group-symbol>
   </part-group>
   <score-part id="P13">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piano</part-name>
    <part-name-display>
     <display-text>Piano</display-text>
@@ -407,8 +400,8 @@
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -436,8 +429,8 @@
     <instrument-sound>drum.timpani</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Timpani</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Timpani hit</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -459,8 +452,8 @@
    <score-instrument id="P16-I1">
     <instrument-name>Percussion (8)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -477,8 +470,8 @@
    <score-instrument id="P17-I1">
     <instrument-name>Percussion (8)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -500,8 +493,8 @@
    <score-instrument id="P18-I1">
     <instrument-name>Percussion (8)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -524,8 +517,8 @@
    <score-instrument id="P19-I1">
     <instrument-name>Percussion (8)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>

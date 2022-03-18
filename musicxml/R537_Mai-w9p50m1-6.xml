@@ -7,7 +7,7 @@
  <identification>
   <creator type="composer">Frank Martin</creator>
   <encoding>
-   <encoding-date>2020-05-22</encoding-date>
+   <encoding-date>2022-03-18</encoding-date>
    <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -83,11 +83,6 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>SOPRANO</part-name>
    <part-name-display>
     <display-text>SOPRANO</display-text>
@@ -622,10 +617,10 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="231" default-y="-15">
+   <note color="#000000" default-x="231" default-y="-20">
     <pitch>
-     <step>C</step>
-     <octave>4</octave>
+     <step>B</step>
+     <octave>3</octave>
     </pitch>
     <duration>512</duration>
     <instrument id="P1-I1" />
@@ -633,7 +628,7 @@
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part1verse1" color="#000000">
+    <lyric default-y="-82" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>di:</text>
     </lyric>
@@ -676,7 +671,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-88" number="part1verse1" color="#000000">
+    <lyric default-y="-90" number="part1verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>mi</text>
     </lyric>
@@ -693,7 +688,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-88" number="part1verse1" color="#000000">
+    <lyric default-y="-90" number="part1verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
@@ -742,7 +737,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-88" number="part1verse1" color="#000000">
+    <lyric default-y="-90" number="part1verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>re</text>
     </lyric>
@@ -882,7 +877,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-80" number="part1verse1" color="#000000">
+    <lyric default-y="-82" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>re</text>
      <extend />
@@ -1278,10 +1273,10 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="231" default-y="-15">
+   <note color="#000000" default-x="231" default-y="-20">
     <pitch>
-     <step>C</step>
-     <octave>4</octave>
+     <step>B</step>
+     <octave>3</octave>
     </pitch>
     <duration>512</duration>
     <instrument id="P2-I1" />
@@ -1289,7 +1284,7 @@
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part2verse1" color="#000000">
+    <lyric default-y="-82" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>di:</text>
     </lyric>
@@ -1332,7 +1327,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-87" number="part2verse1" color="#000000">
+    <lyric default-y="-90" number="part2verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>mi</text>
     </lyric>
@@ -1349,7 +1344,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-87" number="part2verse1" color="#000000">
+    <lyric default-y="-90" number="part2verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
@@ -1398,7 +1393,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-87" number="part2verse1" color="#000000">
+    <lyric default-y="-90" number="part2verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>re</text>
     </lyric>
@@ -1538,7 +1533,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-80" number="part2verse1" color="#000000">
+    <lyric default-y="-82" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>re</text>
      <extend />
@@ -1939,10 +1934,10 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="231" default-y="-15">
+   <note color="#000000" default-x="231" default-y="-20">
     <pitch>
-     <step>C</step>
-     <octave>3</octave>
+     <step>B</step>
+     <octave>2</octave>
     </pitch>
     <duration>512</duration>
     <instrument id="P3-I1" />
@@ -1950,7 +1945,7 @@
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part3verse1" color="#000000">
+    <lyric default-y="-82" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>di:</text>
     </lyric>
@@ -1993,7 +1988,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
-    <lyric default-y="-88" number="part3verse1" color="#000000">
+    <lyric default-y="-90" number="part3verse1" color="#000000">
      <syllabic>begin</syllabic>
      <text>mi</text>
     </lyric>
@@ -2010,7 +2005,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-88" number="part3verse1" color="#000000">
+    <lyric default-y="-90" number="part3verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
@@ -2059,7 +2054,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-88" number="part3verse1" color="#000000">
+    <lyric default-y="-90" number="part3verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>re</text>
     </lyric>
@@ -2199,7 +2194,7 @@
     <notations>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
-    <lyric default-y="-80" number="part3verse1" color="#000000">
+    <lyric default-y="-82" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
      <text>re</text>
      <extend />
@@ -2594,10 +2589,10 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="231" default-y="10">
+   <note color="#000000" default-x="231" default-y="5">
     <pitch>
-     <step>C</step>
-     <octave>3</octave>
+     <step>B</step>
+     <octave>2</octave>
     </pitch>
     <duration>512</duration>
     <instrument id="P4-I1" />

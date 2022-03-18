@@ -8,8 +8,8 @@
   <creator type="composer">Olivier (Eugène Prosper Charles)
 Messiaen</creator>
   <encoding>
-   <encoding-date>2020-06-15</encoding-date>
-   <encoder>Kelsey Lussier</encoder>
+   <encoding-date>2022-03-18</encoding-date>
+   <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
@@ -82,11 +82,6 @@ Messiaen</credit-words>
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Piccolo</part-name>
    <part-name-display>
     <display-text>Piccolo</display-text>
@@ -100,7 +95,7 @@ Messiaen</credit-words>
     <instrument-sound>wind.flutes.flute.piccolo</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Piccolo</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -124,12 +119,17 @@ Messiaen</credit-words>
     <instrument-sound>wind.flutes.flute</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Flute</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Flute 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P3">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>2 Oboes</part-name>
    <part-name-display>
     <display-text>2 Oboes</display-text>
@@ -143,8 +143,8 @@ Messiaen</credit-words>
     <instrument-sound>wind.reed.oboe</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Oboe</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Oboe 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -167,8 +167,8 @@ Messiaen</credit-words>
     <instrument-sound>wind.reed.clarinet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Clarinet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Clarinet Bb 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -192,7 +192,8 @@ Messiaen</credit-words>
     <instrument-sound>wind.reed.clarinet.bass</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bass Clarinet</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -215,8 +216,8 @@ Messiaen</credit-words>
     <instrument-sound>wind.reed.bassoon</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bassoon</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Bassoon 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -243,12 +244,17 @@ Messiaen</credit-words>
     <instrument-sound>brass.french-horn</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>French Horn</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Horn</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P8">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>3 Trumpets in C</part-name>
    <part-name-display>
     <display-text>3 Trumpets in C</display-text>
@@ -262,12 +268,17 @@ Messiaen</credit-words>
     <instrument-sound>brass.trumpet</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Trumpet</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Trumpet 1</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P9">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>3 Trombones</part-name>
    <part-name-display>
     <display-text>3 Trombones</display-text>
@@ -281,12 +292,17 @@ Messiaen</credit-words>
     <instrument-sound>brass.trombone.tenor</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Trombone</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P10">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Tuba</part-name>
    <part-name-display>
     <display-text>Tuba</display-text>
@@ -300,8 +316,8 @@ Messiaen</credit-words>
     <instrument-sound>brass.tuba</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Tuba</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Tuba Bb</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -313,6 +329,11 @@ Messiaen</credit-words>
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P11">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Triangle</part-name>
    <part-name-display>
     <display-text>Triangle</display-text>
@@ -324,12 +345,17 @@ Messiaen</credit-words>
    <score-instrument id="P11-I1">
     <instrument-name>Triangle</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P12">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>3 Temple Blocks</part-name>
    <part-name-display>
     <display-text>3 Temple Blocks</display-text>
@@ -341,8 +367,8 @@ Messiaen</credit-words>
    <score-instrument id="P12-I1">
     <instrument-name>Percussion</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -367,8 +393,8 @@ Messiaen</credit-words>
    <score-instrument id="P13-I1">
     <instrument-name>Percussion (7)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -389,8 +415,8 @@ Messiaen</credit-words>
    <score-instrument id="P14-I1">
     <instrument-name>Cymbals</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -415,12 +441,17 @@ Messiaen</credit-words>
    <score-instrument id="P15-I1">
     <instrument-name>Cymbals</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P16">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Tam-tam</part-name>
    <part-name-display>
     <display-text>Tam-tam</display-text>
@@ -432,13 +463,18 @@ Messiaen</credit-words>
    <score-instrument id="P16-I1">
     <instrument-name>Tam-tam</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <part-group type="stop" number="6" />
   <score-part id="P17">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Maracas</part-name>
    <part-name-display>
     <display-text>Maracas</display-text>
@@ -450,8 +486,8 @@ Messiaen</credit-words>
    <score-instrument id="P17-I1">
     <instrument-name>Maracas</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -472,8 +508,8 @@ Messiaen</credit-words>
    <score-instrument id="P18-I1">
     <instrument-name>Snare Drum (2)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -494,8 +530,8 @@ Messiaen</credit-words>
    <score-instrument id="P19-I1">
     <instrument-name>Bass Drum (2)</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Standard Set</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Woodblocks</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -522,7 +558,7 @@ Messiaen</credit-words>
     <instrument-sound>pitched-percussion.glockenspiel</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Glockenspiel</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -546,7 +582,7 @@ Messiaen</credit-words>
     <instrument-sound>keyboard.celesta</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Celesta</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -570,7 +606,7 @@ Messiaen</credit-words>
     <instrument-sound>pitched-percussion.vibraphone</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
      <virtual-name>Vibraphone</virtual-name>
     </virtual-instrument>
    </score-instrument>
@@ -598,8 +634,8 @@ Messiaen</credit-words>
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -608,6 +644,11 @@ Messiaen</credit-words>
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P25">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Ondes Martenot</part-name>
    <part-name-display>
     <display-text>Ondes Martenot</display-text>
@@ -621,8 +662,8 @@ Messiaen</credit-words>
     <instrument-sound>keyboard.piano.grand</instrument-sound>
     <solo />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Acoustic Piano</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Concert Grand Piano</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -650,8 +691,8 @@ Messiaen</credit-words>
     <instrument-sound>strings.violin</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Violin ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violins</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -673,11 +714,16 @@ Messiaen</credit-words>
    <score-instrument id="P27-I1">
     <instrument-name>Violin II</instrument-name>
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P28">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Viola Div.</part-name>
    <part-name-display>
     <display-text>Viola</display-text>
@@ -692,12 +738,17 @@ Messiaen</credit-words>
     <instrument-sound>strings.viola</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Viola ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Violas</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P29">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Violoncello</part-name>
    <part-name-display>
     <display-text>Violoncello</display-text>
@@ -711,12 +762,17 @@ Messiaen</credit-words>
     <instrument-sound>strings.cello</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Cello ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Celli</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
   <score-part id="P30">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Contrabass</part-name>
    <part-name-display>
     <display-text>Contrabass</display-text>
@@ -730,8 +786,8 @@ Messiaen</credit-words>
     <instrument-sound>strings.contrabass</instrument-sound>
     <ensemble />
     <virtual-instrument>
-     <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Contrabass ensemble</virtual-name>
+     <virtual-library>Sibelius 7 Sounds</virtual-library>
+     <virtual-name>Basses</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -1803,29 +1859,30 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>128</duration>
+    <duration>192</duration>
     <instrument id="P4-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <dot />
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <words default-x="208" default-y="20" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.1156" font-weight="normal">a 2</words>
+     <words default-x="291" default-y="20" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.1156" font-weight="normal">a 2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <dynamics default-x="208" default-y="-84" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="291" default-y="-84" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="214" default-y="-20">
+   <note color="#000000" default-x="297" default-y="-20">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -1835,14 +1892,6 @@ Messiaen</credit-words>
     <voice>1</voice>
     <type>16th</type>
     <stem>up</stem>
-    <staff>1</staff>
-   </note>
-   <note default-x="297">
-    <rest />
-    <duration>64</duration>
-    <instrument id="P4-I1" />
-    <voice>1</voice>
-    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -2247,22 +2296,23 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>128</duration>
+    <duration>192</duration>
     <instrument id="P6-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <dot />
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="208" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="291" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="214" default-y="-55">
+   <note color="#000000" default-x="297" default-y="-55">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -2276,7 +2326,7 @@ Messiaen</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="214">
+   <note color="#000000" default-x="297">
     <chord />
     <pitch>
      <step>E</step>
@@ -2287,7 +2337,7 @@ Messiaen</credit-words>
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="214">
+   <note color="#000000" default-x="297">
     <chord />
     <pitch>
      <step>A</step>
@@ -2295,14 +2345,6 @@ Messiaen</credit-words>
     </pitch>
     <duration>64</duration>
     <instrument id="P6-I1" />
-    <type>16th</type>
-    <staff>1</staff>
-   </note>
-   <note default-x="297">
-    <rest />
-    <duration>64</duration>
-    <instrument id="P6-I1" />
-    <voice>1</voice>
     <type>16th</type>
     <staff>1</staff>
    </note>
@@ -2608,15 +2650,16 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>128</duration>
+    <duration>192</duration>
     <instrument id="P7-I1" />
     <voice>1</voice>
     <type>eighth</type>
+    <dot />
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="208" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="291" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -2625,12 +2668,12 @@ Messiaen</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <words default-x="208" default-y="20" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.1156" font-weight="normal">1.3.2.</words>
+     <words default-x="291" default-y="20" justify="left" valign="middle" font-family="Didot" font-style="normal" font-size="5.1156" font-weight="normal">1.3.2.</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="214" default-y="17">
+   <note color="#000000" default-x="297" default-y="17">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -2644,7 +2687,7 @@ Messiaen</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="214">
+   <note color="#000000" default-x="297">
     <chord />
     <pitch>
      <step>G</step>
@@ -2655,7 +2698,7 @@ Messiaen</credit-words>
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="214">
+   <note color="#000000" default-x="297">
     <chord />
     <pitch>
      <step>C</step>
@@ -2663,14 +2706,6 @@ Messiaen</credit-words>
     </pitch>
     <duration>64</duration>
     <instrument id="P7-I1" />
-    <type>16th</type>
-    <staff>1</staff>
-   </note>
-   <note default-x="297">
-    <rest />
-    <duration>64</duration>
-    <instrument id="P7-I1" />
-    <voice>1</voice>
     <type>16th</type>
     <staff>1</staff>
    </note>
@@ -2847,22 +2882,22 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>64</duration>
+    <duration>128</duration>
     <instrument id="P8-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="125" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="208" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="131" default-y="-50">
+   <note color="#000000" default-x="214" default-y="-50">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -2879,12 +2914,12 @@ Messiaen</credit-words>
      </articulations>
     </notations>
    </note>
-   <note default-x="214">
+   <note default-x="297">
     <rest />
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P8-I1" />
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -8823,22 +8858,22 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>64</duration>
+    <duration>128</duration>
     <instrument id="P26-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="125" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="208" default-y="-72" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="131" default-y="-30">
+   <note color="#000000" default-x="214" default-y="-30">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -8857,7 +8892,7 @@ Messiaen</credit-words>
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="131">
+   <note color="#000000" default-x="214">
     <chord />
     <pitch>
      <step>D</step>
@@ -8870,12 +8905,12 @@ Messiaen</credit-words>
     <accidental>sharp</accidental>
     <staff>1</staff>
    </note>
-   <note default-x="214">
+   <note default-x="297">
     <rest />
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P26-I1" />
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -9086,22 +9121,22 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>64</duration>
+    <duration>128</duration>
     <instrument id="P27-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="125" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="208" default-y="-75" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="131" default-y="-35">
+   <note color="#000000" default-x="214" default-y="-35">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9120,7 +9155,7 @@ Messiaen</credit-words>
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="131">
+   <note color="#000000" default-x="214">
     <chord />
     <pitch>
      <step>C</step>
@@ -9133,12 +9168,12 @@ Messiaen</credit-words>
     <accidental>sharp</accidental>
     <staff>1</staff>
    </note>
-   <note default-x="214">
+   <note default-x="297">
     <rest />
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P27-I1" />
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -9355,24 +9390,30 @@ Messiaen</credit-words>
   </measure>
   <!--============== Part: P28, Measure: 5 ==============-->
   <measure number="5" width="710">
+   <attributes>
+    <clef number="1" color="#000000">
+     <sign>G</sign>
+     <line>2</line>
+    </clef>
+   </attributes>
    <note default-x="49">
     <rest />
-    <duration>64</duration>
+    <duration>128</duration>
     <instrument id="P28-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="125" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="208" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="131" default-y="-20">
+   <note color="#000000" default-x="214" default-y="-50">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -9390,7 +9431,7 @@ Messiaen</credit-words>
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="131">
+   <note color="#000000" default-x="214">
     <chord />
     <pitch>
      <step>G</step>
@@ -9402,12 +9443,12 @@ Messiaen</credit-words>
     <accidental>natural</accidental>
     <staff>1</staff>
    </note>
-   <note default-x="214">
+   <note default-x="297">
     <rest />
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P28-I1" />
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -9427,7 +9468,7 @@ Messiaen</credit-words>
    </attributes>
    <direction>
     <direction-type>
-     <dynamics default-x="621" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="621" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
@@ -9500,8 +9541,8 @@ Messiaen</credit-words>
     </time>
     <staves>1</staves>
     <clef number="1" color="#000000">
-     <sign>F</sign>
-     <line>4</line>
+     <sign>G</sign>
+     <line>2</line>
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -9531,8 +9572,8 @@ Messiaen</credit-words>
    </direction>
    <note color="#000000" default-x="225" default-y="-45">
     <pitch>
-     <step>F</step>
-     <octave>3</octave>
+     <step>D</step>
+     <octave>5</octave>
     </pitch>
     <duration>64</duration>
     <instrument id="P29-I1" />
@@ -9575,9 +9616,9 @@ Messiaen</credit-words>
    </direction>
    <note color="#000000" default-x="721" default-y="5">
     <pitch>
-     <step>B</step>
+     <step>G</step>
      <alter>1</alter>
-     <octave>2</octave>
+     <octave>4</octave>
     </pitch>
     <duration>64</duration>
     <instrument id="P29-I1" />
@@ -9603,25 +9644,25 @@ Messiaen</credit-words>
   <measure number="5" width="710">
    <note default-x="49">
     <rest />
-    <duration>64</duration>
+    <duration>128</duration>
     <instrument id="P29-I1" />
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="125" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
+     <dynamics default-x="208" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="5.1156" font-weight="normal">
       <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="131" default-y="-45">
+   <note color="#000000" default-x="214" default-y="-45">
     <pitch>
-     <step>F</step>
-     <octave>3</octave>
+     <step>D</step>
+     <octave>5</octave>
     </pitch>
     <duration>64</duration>
     <instrument id="P29-I1" />
@@ -9636,12 +9677,12 @@ Messiaen</credit-words>
      </articulations>
     </notations>
    </note>
-   <note default-x="214">
+   <note default-x="297">
     <rest />
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P29-I1" />
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <staff>1</staff>
    </note>
    <note default-x="380">
@@ -9664,9 +9705,9 @@ Messiaen</credit-words>
    </direction>
    <note color="#000000" default-x="627" default-y="5">
     <pitch>
-     <step>B</step>
+     <step>G</step>
      <alter>1</alter>
-     <octave>2</octave>
+     <octave>4</octave>
     </pitch>
     <duration>64</duration>
     <instrument id="P29-I1" />
