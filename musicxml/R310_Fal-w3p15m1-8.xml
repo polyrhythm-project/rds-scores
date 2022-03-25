@@ -7,7 +7,7 @@
  <identification>
   <creator type="composer">Manuel de Falla (y Matheu)</creator>
   <encoding>
-   <encoding-date>2022-03-18</encoding-date>
+   <encoding-date>2022-03-25</encoding-date>
    <encoder>Walker Williams</encoder>
    <software>Sibelius 20.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -1185,9 +1185,9 @@
     <type>eighth</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="288" default-y="-20">
+   <note color="#000000" default-x="288" default-y="-25">
     <pitch>
-     <step>D</step>
+     <step>C</step>
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
@@ -1206,7 +1206,7 @@
    <note color="#000000" default-x="288">
     <chord />
     <pitch>
-     <step>E</step>
+     <step>D</step>
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
