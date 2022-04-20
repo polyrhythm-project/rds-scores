@@ -21,11 +21,13 @@
 *^	*	*	*	*
 8yy	8DL	(16B^^LL	.	8G#X^^ 8d	16a^^LL 16ee
 .	.	16F#X	.	.	16aJ 16ee
+!LO:S:dash	!	!	!	!	!
 (16E-^^LL	8CCJ 8GG	16Fn	.	8r	8ani 8aa-X
 16DJJ)	.	16B-XJJ)	.	.	.
 8ryy	8DL\	(16An^^LL	.	8B-X 8d	8aJ 8gg
 .	.	16E	.	.	.
 =20-	=20-	=20-	=20-	=20	=20
+!LO:S:dash	!	!	!	!	!
 (16E-X^^LL	8CCJ 8GG	16E-X	.	8G#X^^ 8d	16a^^LL 16ee
 16DJJ)	.	16A-XJJ)	.	.	16aJ 16ee
 16ryy	8DL	(16G^^LL	.	8r	8a 8bb-X
@@ -36,32 +38,39 @@
 *	*	*	*	*	*^
 8ryy	8DL	16FnLL	.	8G#X^^ 8d	(16bb-X^^LL	4.a
 .	.	16C	.	.	16aa	.
+!LO:S:dash	!	!	!	!	!	!
 (16E-X^^LL	8CCJ 8GG	16B	.	8r	16ccc	.
 16DJJ)	.	16F#XJJ	.	.	16ccc#X	.
 8ryy	8DL\	16GLL	.	8B-X 8d	16eee	.
 .	.	16c	.	.	16dddJJ)	.
 *	*	*	*	*	*v	*v
 =22-	=22-	=22-	=22-	=22	=22
+!LO:S:dash	!	!	!	!	!
 (16E-^^LL	8CCJ 8GG	16c#X	.	8G#X^^ 8d	8a^^L 8ggg#X
 16DJJ)	.	16DJJ	.	.	.
 8ryy	8DL	16e-XLL	.	8r	8a^^ 8ggg#
 .	.	16B-X	.	.	.
+!LO:S:dash	!	!	!	!	!
 (16E-^^LL	8CCJ 8GG	16A	.	8B-X 8d	8a^^J 8ggg#
 16DJJ)	.	16g#XJJ	.	.	.
 =23-	=23-	=23-	=23-	=23	=23
 8ryy	8DL	16d#XLL	.	8G#X^^ 8d	8r
 .	.	16en	.	.	.
+!LO:S:dash	!	!	!	!	!
 (16E-^^LL	8CCJ 8GG	16Bn	.	8r	16ggnLL
 16DJJ)	.	16cnJJ	.	.	16ccc#XJ
 =	=	=	=	=-	=-
 *	*	*^	*	*	*
-16ryy	8DL\	8ryy	16fLL<LL	.	8B-X 8d	8ggg#XJ
+!LO:S:dash	!	!	!	!	!	!
+16ryy	8DL\	8ryy	16fLL<	.	8B-X 8d	8ggg#XJ
 16ryy	.	.	16F#X	.	.	.
 =24-	=24-	=24-	=24-	=24-	=24	=24
+!LO:S:dash	!	!	!	!	!	!
 (16E-X^^LL	8CCJ 8GG	4ryy	16B	.	8G#X^^ 8d	8a^^ 8bbb-X
 16DJJ)	.	.	16B-XJJ	.	.	.
 16ryy	8DL	.	16FnLL	.	8r	8r
 16ryy	.	.	16En	.	.	.
+!LO:S:dash	!	!	!	!	!	!
 (16E-^^LL	8CCJ 8GG	8ryy	16A	.	8B-X 8d	8ddd
 16DJJ)	.	.	16CJJ 16A-X	.	.	.
 *v	*v	*	*	*	*	*
