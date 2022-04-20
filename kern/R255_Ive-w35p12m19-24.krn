@@ -5,78 +5,76 @@
 !!!work: Ive-35
 !!!OMD-full: Allegro con spirito
 !!!OMD: [Allegro con spirito]
-**kern	**kern	**dynam	**kern	**kern
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
-*part4	*part3	*part3	*part2	*part1
-*staff4	*staff3	*	*staff2	*staff1
-*ICstr	*ICstr	*	*ICstr	*ICstr
-*Icello	*Iviola	*	*Ivioln	*Ivioln
-*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I
-*I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I
-*clefF4	*clefC3	*	*clefG2	*clefG2
-*k[]	*k[]	*	*k[]	*k[]
-*C:	*C:	*	*C:	*C:
-*M4/4	*M4/4	*	*M3/8	*M3/8
-=19	=19	=19	=19	=19
-*^	*	*	*	*
-8yy	8DL	(16B^^LL	.	8G#X^^ 8d	16a^^LL 16ee
-.	.	16F#X	.	.	16aJ 16ee
+**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part3	*part2	*part1
+*staff4	*staff3	*staff2	*staff1
+*ICstr	*ICstr	*ICstr	*ICstr
+*Icello	*Iviola	*Ivioln	*Ivioln
+*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I
+*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I
+*clefF4	*clefC3	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M3/8	*M3/8
+=19	=19	=19	=19
+*^	*	*	*
+8yy	8DL	(16B^^LL	8G#X^^ 8d	16a^^LL 16ee
+.	.	16F#X	.	16aJ 16ee
+!LO:S:dash	!	!	!	!
+(16E-^^LL	8CCJ 8GG	16Fn	8r	8ani 8aa-X
+16DJJ)	.	16B-XJJ)	.	.
+8ryy	8DL\	(16An^^LL	8B-X 8d	8aJ 8gg
+.	.	16E	.	.
+=20-	=20-	=20-	=20	=20
+!LO:S:dash	!	!	!	!
+(16E-X^^LL	8CCJ 8GG	16E-X	8G#X^^ 8d	16a^^LL 16ee
+16DJJ)	.	16A-XJJ)	.	16aJ 16ee
+8ryy	8DL	(16G^^LL	8r	8a 8bb-X
+.	.	16Dn	.	.
+(16E-X^^LL	8CCJ 8GG	16C#X	8B-X 8d	8aJ 8aa
+16DJJ)	.	16F#XJJ)	.	.
+=21	=21	=21	=21	=21
+*	*	*	*	*^
+8ryy	8DL	16FnLL	8G#X^^ 8d	(16bb-X^^LL	4.a
+.	.	16C	.	16aa	.
 !LO:S:dash	!	!	!	!	!
-(16E-^^LL	8CCJ 8GG	16Fn	.	8r	8ani 8aa-X
-16DJJ)	.	16B-XJJ)	.	.	.
-8ryy	8DL\	(16An^^LL	.	8B-X 8d	8aJ 8gg
-.	.	16E	.	.	.
-=20-	=20-	=20-	=20-	=20	=20
-!LO:S:dash	!	!	!	!	!
-(16E-X^^LL	8CCJ 8GG	16E-X	.	8G#X^^ 8d	16a^^LL 16ee
-16DJJ)	.	16A-XJJ)	.	.	16aJ 16ee
-16ryy	8DL	(16G^^LL	.	8r	8a 8bb-X
-16ryy	.	16Dn	.	.	.
-(16E-X^^LL	8CCJ 8GG	16C#X	.	8B-X 8d	8aJ 8aa
-16DJJ)	.	16F#XJJ)	.	.	.
-=21	=21	=21	=21	=21	=21
-*	*	*	*	*	*^
-8ryy	8DL	16FnLL	.	8G#X^^ 8d	(16bb-X^^LL	4.a
-.	.	16C	.	.	16aa	.
-!LO:S:dash	!	!	!	!	!	!
-(16E-X^^LL	8CCJ 8GG	16B	.	8r	16ccc	.
-16DJJ)	.	16F#XJJ	.	.	16ccc#X	.
-8ryy	8DL\	16GLL	.	8B-X 8d	16eee	.
-.	.	16c	.	.	16dddJJ)	.
-*	*	*	*	*	*v	*v
-=22-	=22-	=22-	=22-	=22	=22
-!LO:S:dash	!	!	!	!	!
-(16E-^^LL	8CCJ 8GG	16c#X	.	8G#X^^ 8d	8a^^L 8ggg#X
-16DJJ)	.	16DJJ	.	.	.
-8ryy	8DL	16e-XLL	.	8r	8a^^ 8ggg#
-.	.	16B-X	.	.	.
-!LO:S:dash	!	!	!	!	!
-(16E-^^LL	8CCJ 8GG	16A	.	8B-X 8d	8a^^J 8ggg#
-16DJJ)	.	16g#XJJ	.	.	.
-=23-	=23-	=23-	=23-	=23	=23
-8ryy	8DL	16d#XLL	.	8G#X^^ 8d	8r
-.	.	16en	.	.	.
-!LO:S:dash	!	!	!	!	!
-(16E-^^LL	8CCJ 8GG	16Bn	.	8r	16ggnLL
-16DJJ)	.	16cnJJ	.	.	16ccc#XJ
-=	=	=	=	=-	=-
-*	*	*^	*	*	*
-!LO:S:dash	!	!	!	!	!	!
-16ryy	8DL\	8ryy	16fLL<	.	8B-X 8d	8ggg#XJ
-16ryy	.	.	16F#X	.	.	.
-=24-	=24-	=24-	=24-	=24-	=24	=24
-!LO:S:dash	!	!	!	!	!	!
-(16E-X^^LL	8CCJ 8GG	4ryy	16B	.	8G#X^^ 8d	8a^^ 8bbb-X
-16DJJ)	.	.	16B-XJJ	.	.	.
-16ryy	8DL	.	16FnLL	.	8r	8r
-16ryy	.	.	16En	.	.	.
-!LO:S:dash	!	!	!	!	!	!
-(16E-^^LL	8CCJ 8GG	8ryy	16A	.	8B-X 8d	8ddd
-16DJJ)	.	.	16CJJ 16A-X	.	.	.
-*v	*v	*	*	*	*	*
-*	*v	*v	*	*	*
-=-	=-	=	=	=
-*-	*-	*-	*-	*-
+(16E-X^^LL	8CCJ 8GG	16B	8r	16ccc	.
+16DJJ)	.	16F#XJJ	.	16ccc#X	.
+8ryy	8DL\	16GLL	8B-X 8d	16eee	.
+.	.	16c	.	16dddJJ)	.
+*	*	*	*	*v	*v
+=22-	=22-	=22-	=22	=22
+!LO:S:dash	!	!	!	!
+(16E-^^LL	8CCJ 8GG	16c#X	8G#X^^ 8d	8a^^L 8ggg#X
+16DJJ)	.	16DJJ	.	.
+8ryy	8DL	16e-XLL	8r	8a^^ 8ggg#
+.	.	16B-X	.	.
+!LO:S:dash	!	!	!	!
+(16E-^^LL	8CCJ 8GG	16A	8B-X 8d	8a^^J 8ggg#
+16DJJ)	.	16g#XJJ	.	.
+=23-	=23-	=23-	=23	=23
+8ryy	8DL	16d#XLL	8G#X^^ 8d	8r
+.	.	16en	.	.
+!LO:S:dash	!	!	!	!
+(16E-^^LL	8CCJ 8GG	16Bn	8r	16ggnLL
+16DJJ)	.	16cnJJ	.	16ccc#XJ
+=	=	=	=-	=-
+!LO:S:dash	!	!	!	!
+8ryy	8DL\	16fLL<	8B-X 8d	8ggg#XJ
+.	.	16F#X	.	.
+=24-	=24-	=24-	=24	=24
+!LO:S:dash	!	!	!	!
+(16E-X^^LL	8CCJ 8GG	16B	8G#X^^ 8d	8a^^ 8bbb-X
+16DJJ)	.	16B-XJJ	.	.
+8ryy	8DL	16FnLL	8r	8r
+.	.	16En	.	.
+!LO:S:dash	!	!	!	!
+(16E-^^LL	8CCJ 8GG	16A	8B-X 8d	8ddd
+16DJJ)	.	16CJJ 16A-X	.	.
+*v	*v	*	*	*
+=-	=-	=	=
+*-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental, paren (cautionary)
