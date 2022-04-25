@@ -21,8 +21,8 @@
 =91	=91	=91
 !	!LO:TX:t=[[quarter]=171]	!
 !	!LO:TX:b:i:t=  marc.	!LO:DY:
-(8qC/ 8qG	(8qbbn/	mf
-!LO:TX:t=P:problem:some slur and rest clashing throughout (visually)	!	!
+(<8qC/ 8qG	(<8qbbn/	mf
+!	!	!
 8B-X^L) 8c (8e	8ccL) (8ccc	.
 8A	8eeJ 8eee	.
 8G)	4gg^ 4ggg)	.
@@ -35,7 +35,7 @@
 =92	=92	=92
 (8Bn^L 8d 8f	4gg^ 4ggg	.
 8A	.	.
-.	(8qggg#X/	.
+.	(<8qggg#X/	.
 8G)	8aaL) (8aaa	.
 (8B^J 8d 8f	8ggJ 8gggn	.
 8AL	8ff'L 8fff)	.
@@ -75,7 +75,8 @@
 =95	=95	=95
 *	*grp:B	*grp:B
 *	*8va	*
-(8qC	(8qbbn/	.
+!LO:TX:t=P:problem=slurs need to attach to top note not chords	!	!
+(<8qC	(<8qbbn/	.
 *	*	*
 8B-X^L) 8c (8en	8ccL) (8ccc	.
 8An	8eeJ 8eee	.
@@ -119,3 +120,5 @@
 !!!experiment: 1
 !!!EEV: 2021/04/12
 !!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
