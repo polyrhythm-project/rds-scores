@@ -23,17 +23,17 @@
 *^	*^	*	*	*	*	*	*
 *	*^	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!
-*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing natural harmonics in strings and 8a bassa in piano	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:natural harmonics are corrected in newer edition	!
 !	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!
-2.AAAA 2.AAA\	4rc	4ryy	4r	4ryy	pp	.	8ee'L	pp	8eeee'L	pp
+*8ba	*	*	*	*	*	*	*	*	*	*
+2.AAAA] 2.AAA\	4rC	4ryy	4r	4ryy	pp	.	8eeo'L	pp	8eeeeo'L	pp
 !	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
-.	.	.	.	.	.	.	8ee'	.	8eeee'	.
+.	.	.	.	.	.	.	8eeo'	.	8eeeeo'	.
 !	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!LO:TX:b:i:t=Cresc. poco a poco	!
 .	(4EE	2AA	(4E	2C#	.	<	8dd'	.	8dddd'	.
-.	.	.	.	.	.	.	8ee'J	.	8eeee'J	.
-.	4FF	.	4Fn	.	.	.	8a'L	.	8aaa'L	.
-.	.	.	.	.	.	[[	8a'	.	8aaa'	.
+.	.	.	.	.	.	.	8eeo'J	.	8eeeeo'J	.
+.	4FF	.	4Fn	.	.	.	8ao'L	.	8aaao'L	.
+.	.	.	.	.	.	[[	8ao'	.	8aaao'	.
 *	*v	*v	*	*	*	*	*	*	*	*
 =235	=235	=235	=235	=235	=235	=235	=235	=235	=235
 2AA	12AAL	12AL	4Cn	.	>	8ccn'	.	8ccccn'	.
@@ -47,7 +47,7 @@
 *	*	*	*	*	*	*	*	*
 *^	*	*	*	*	*	*	*	*
 4AA	4GG)	4E-X 4G)	4Cn	.	]	8a'L	.	8aaa'L	.
-*X8va	*	*	*	*	*	*	*	*	*
+*X8ba	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	8a'	.	8aaa'	.
 *	*	*	*	*	*	*	*	*	*
 =236	=236	=236	=236	=236	=236	=236	=236	=236	=236
