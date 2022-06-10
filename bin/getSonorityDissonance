@@ -63,16 +63,19 @@ for my $file (@files) {
 sub process {
 	my ($file) = @_;
 	my @durations = getDurations($file);
+print "DURATIONS ", join(" ", @durations), "\n";
 	# print STDERR "DURATIONS ", join(" ", @durations), "\n";
 	my @harmonies = getHarmonies($file);
 	my $duration = 0;
 	my $summation = 0;
 	for (my $i=0; $i<@harmonies; $i++) {
+print "processing $i $harmonies[$i]\n";
 		next if $harmonies[$i] =~ /^\s*$/;
 		my $dur = $durations[$i];
+print "XDUR = $dur\n";
 		next if $dur == 0;
 		my $diss = getMaxDissonance($harmonies[$i]);
-		$duration += $dur;
+		$duration += 0 + $dur;
 		$summation += $dur * $diss;
 		# print "$dur\t$diss\t$harmonies[$i]\n";
 	}
@@ -116,10 +119,14 @@ sub getHarmonies {
 	my @contents = `cat $file | ditto | hint -a`;
 	chomp @contents;
 	my @output;
+	my $adjust = 0;
 	for (my $i=0; $i<@contents; $i++) {
 		my $line = $contents[$i];
-		next if $line =~ /^[*!=]/;
-		$output[$i] = $line;
+		# next if $line =~ /^[*!=]/;
+		if ($line =~ /^\*all/) {
+			$adjust += 1;
+		}
+		$output[$i-$adjust] = $line;
 	}
 	return @output;
 }
@@ -138,6 +145,8 @@ sub getDurations {
 	chomp @contents;
 	my @output;
 	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		# next if $line =~ /^[*!=]/;
 		$output[$i] = 0 + $contents[$i];
 	}
 	return @output;
