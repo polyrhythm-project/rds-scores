@@ -28,18 +28,18 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=80]	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=a 2	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-1r	f	4An	f	4a-X	f	4A-X	f	4c#X	f	1r	f	1r	f	1r	f	4r	f	4r	f	4r	f	16A-XLL	f	16AnLL	f	4A-X	f	4c#X 4a-X	f	16c#X 16a-XLL	2ryy	f
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	16c#X 16a-X	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	16c#X 16a-X	.	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-XJJ	.	16AJJ	.	.	.	.	.	16c#X 16a-XJJ	.	.
+1r	f	4An	f	4a-X	f	4A-X	f	4c#X	f	1r	f	1r	f	1r	f	4r	f	4r	f	4r	f	16A-XLL	f	16AnLL	f	4A-X	f	4c#X 4a-X	f	4c#X 4a-XOOO	2ryy	f
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-X	.	16A	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-XJJ	.	16AJJ	.	.	.	.	.	.	.	.
 .	.	4r	.	4r	.	4r	.	4r	.	.	.	.	.	.	.	8GGG-X	.	8G-XL	.	8G-XL	.	4r	.	4r	.	4r	.	4r	.	4r	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8GG-XJ	.	8G-J	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	4r	.	4r	.	4r	.	4r	.	.	.	.	.	.	.	8DDD-X	.	8D-XL	.	8D-XL	.	4r	.	4r	.	4r	.	4r	.	4r	4ryy	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8DD-XJ	.	8D-J	.	.	.	.	.	.	.	.	.	.	.	.
-.	.	4F	.	4e-X	.	4An	.	4Bn	.	.	.	.	.	.	.	4r	.	4r	.	4r	.	16FLL	.	16AnLL	.	4F	.	4Bn 4e-X	.	16e-XLL	16e-LL	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	16A	.	.	.	.	.	16e-X	16e-	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	16A	.	.	.	.	.	16e-X	16e-	.
-.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FJJ	.	16AJJ	.	.	.	.	.	16e-XJJ	16e-JJ	.
+.	.	4F	.	4e-X	.	4An	.	4Bn	.	.	.	.	.	.	.	4r	.	4r	.	4r	.	16FLL	.	16AnLL	.	4F	.	4Bn 4e-X	.	4e-OO	4e-OO	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	16A	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	16A	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FJJ	.	16AJJ	.	.	.	.	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 1r	.	4A-X	.	4en	.	4B-X	.	4d	.	1r	.	1r	.	1r	.	4r	.	4r	.	4r	.	16B-LL	.	16A-XLL	.	4B-	.	4d 4en	.	16d 16enLL	.
@@ -210,6 +210,7 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [s1,s2,s3s4,s5,s6,s7,s8][s9,s10]s11[s12,s13,s14,s15,s16]
+!!!RDF**kern: O = tremolo
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: j = editorial accidental, bracket
 !!!RDF**kern: Z = editorial accidental, parentheses
