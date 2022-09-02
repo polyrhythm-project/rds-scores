@@ -48,18 +48,19 @@
 !LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!
 8r	.	8r	.	(8.ggL]	.	8r	.	8r	.	8r	.	8r	.	8r	.
 *tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-32FFF#X 32DDLLL	p <	[4.BB	pp <	.	.	[4.c	p <	[4.CC#X^	sf p <	[4.ee-^	sf p <	[4.a^	sf p <	[4.g#X	sf p <
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	16ffJk	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	8eeL)	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	8ee'J	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DD	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-32FFF#X 32DDJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:O=trem3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.FFF#X 4.DDOOO	p <	[4.BB	pp <	.	.	[4.c	p <	[4.CC#X^	sf p <	[4.ee-^	sf p <	[4.a^	sf p <	[4.g#X	sf p <
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ffJk	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8eeL)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ee'J	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 *Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8FFF#^ 8DD	fff [	8BB]	ff [	[8ee^	.	8c]	ff [	8CC#]	fff [	8ee-]	fff [	8a]	fff [	8g#]	fff [
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -123,6 +124,7 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: j = editorial accidental, bracket
 !!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: O = tremolo
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
