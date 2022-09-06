@@ -68,13 +68,13 @@
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 4CC#]	4rCC	.	4r	.	4F#)	.	8r	8bbJ]	8BJ] 8e]	4b	Et	.	4rEE	4CCC#]	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f#r 4br	.	.	.	.	.	.
 [2BBB	[4BBB	.	[4BB	.	4r	.	8r	.	.	8eeL	je	.	[2BBB,	[2BBBB	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8dd#XJ	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BrL [8f#r	8dd#XJ	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	4r	.	4r	.	(4E	.	8r	8ff#J]	8BJ] 8f#]	8b	n'ose	.	.	.	.
+.	4r	.	4r	.	(4E	.	8r	8ff#J]	8BrJ] 8f#r]	8b	n'ose	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8g	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 !!LO:REH:t=75
@@ -84,35 +84,35 @@
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 2BBB]	2rCC	.	2r	.	4c#	.	8r	8ryy	8gJ]	8f#	la	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	trou-	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	8e	trou-	.	.	.	.
 .	.	.	.	.	4D)	.	8r	.	.	4f#	-bler.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	.	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	[8bbL/	[8BrL [8er\	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-[2AAA	[4AAA	.	[4AA	.	4r	.	8r	8bbJ]	8BJ] 8e]	8di	En-	.	2ryy	2rEE	.
+[2AAA	[4AAA	.	[4AA	.	4r	.	8r	8bbJ]	8BrJ] 8er]	8di	En-	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8e	-core	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f#r 4br	8e	-core	.	.	.	.
 .	4r	.	4r	.	(4F#	.	8r	.	.	8f#	as-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8g	-sou-	<	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8g	-sou-	<	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =70		=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70		=70
 *M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-2AAA]	4rCC	.	4r	.	4d	.	8r	8ff#J]	8BJ] 8f#]	8aL	-pie,	[	2.ryy	2.rEE	.
+2AAA]	4rCC	.	4r	.	4d	.	8r	8ff#J]	8BrJ] 8f#r]	8aL	-pie,	[	2.ryy	2.rEE	.
 .	.	.	.	.	.	.	8gv	8ryy	4go	[8bJ	.	>	.	.	.
 .	4rCC	.	4r	.	4E)	.	8r	8ryy	.	4b]	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4bb	4B 4e	.	.	]	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4bb	4Br 4er	.	.	]	.	.	.
 [4GGG	[4GGG	.	[4GG	.	4r	.	8r	.	.	8ee	en-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8dd#X	-core	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L/	[8f#rL [8br\	8dd#X	-core	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =71		=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71		=71
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4	*	*	*M2/4		*
@@ -120,20 +120,20 @@
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 2GGG_	2rCC	.	2r	.	(4G	.	8r	8fff#J]	8f#J] 8b]	4b	as-	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	.	.	.	.	.	.
 .	.	.	.	.	4e	.	8r	.	.	8gL	-sou-	.	.	.	.
-.	.	.	.	.	.	.	8gv	8ryy	[8go	8aJ	.	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8goL	8aJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 !!LO:REH:t=76
 =72		=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72		=72
 *M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
-4GGG]	4rCC	.	4r	.	4F#)	.	8r	8ryy	8g]	4b	-pie,	.	2.ryy	2.rEE	.
+4GGG]	4rCC	.	4r	.	4F#)	.	8r	8ryy	8g]J	4b	-pie,	.	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f#r 4br	.	.	.	.	.	.
 [2AAA	[4AAA	.	[4AA	.	4r	.	8r	.	.	8ee	as-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8dd#X	-sou-	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	8dd#X	-sou-	.	.	.	.
 .	4rCC	.	4r	.	(4A	.	8r	.	.	8bL	-pie	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8gJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -142,16 +142,16 @@
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 2AAA]	2rCC	.	2r	.	4f#	.	8r	8ryy	8gJ]	8f#	à	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	4bb	4B 4e	8e	moi-	.	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4Br 4er	8e	moi-	.	.	.	.
 .	.	.	.	.	4G)	.	8r	.	.	4f#	-tié	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L/	[8f#rL [8br\	.	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 [2BBB	[4BBB	.	[4BB	.	4r	.	8r	8fff#J]	8f#J] 8b]	8dLi	El-	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	8e	.	.	.	.	.
 .	4rCC	.	4r	.	(4A	.	8r	.	.	8f#J	.	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8g	le	<	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -161,23 +161,23 @@
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
 2BBB]	4rCC	.	4r	.	4f#	.	8r	8ryy	8gJ]	8a	pres-	[	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	4.b	-se,	>	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	4.b	-se,	>	.	.	.
 .	4rCC	.	4r	.	4G)	.	8r	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	]	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4Br 4er	.	.	]	.	.	.
 [4CC	[4CC	.	[4Cn	.	4r	.	8r	.	.	8ee	pres-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8dd#X	-se	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L/	[8f#rL [8br	8dd#X	-se	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 !!LO:REH:t=77
 =76		=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76		=76
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*	*M2/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-2CC_	2rCC	.	2r	.	(4B	.	8r	8fff#J]	8f#J] 8b]	4b	sur	.	2ryy	2rEE	.
+2CC_	2rCC	.	2r	.	(4B	.	8r	8fff#J]	8f#rJ] 8br]\	4b	sur	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	.	.	.	.	.	.
 .	.	.	.	.	4e	.	8r	.	.	8gL	son	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8aJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -186,16 +186,16 @@
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 4CC]	4rCC	.	4r	.	4F#)	.	8r	8ryy	8gJ]	4b	coeur	.	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4Br 4er	.	.	.	.	.	.
 [2DD	[4DD	.	[4D	.	4r	.	8r	.	.	8ee	Le	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8dd#X	nar-	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#rL [8br	8dd#X	nar-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	4rCC	.	4r	.	(4F#	.	8r'	8fff#J]	8f#J] 8b]	8b	-cis-	.	.	.	.
+.	4rCC	.	4r	.	(4F#	.	8r'	8fff#J]	8f#rJ] 8br]	8b	-cis-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8g	-se	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8g	-se	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =78		=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78		=78
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*	*M2/4		*
@@ -206,13 +206,13 @@
 .	.	.	.	.	4E)	.	8r	8ryy	.	4f#	-deur	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L/	[8f#rL [8br\	.	.	.	.	.	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
 !	!	!	!	!	!	!	!	!	!	!LO:S:b	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-[2CC#	[4CC#	.	[4C#	.	4r	.	8r'	8fff#J]	8f#J] 8b]	(8dL	L'a	.	2ryy	2rEE	.
+[2CC#	[4CC#	.	[4C#	.	4r	.	8r'	8fff#J]	8f#rJ] 8br]	(8dL	L'a	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	8e	.	.	.	.	.
 .	4rCC	.	4r	.	(4f#	.	8r	.	.	8f#	.	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8gJ	.	<	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
@@ -223,27 +223,27 @@
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
 2CC#]	4rCC	.	4r	.	4dd	.	8r	8ryy	8gJ]	8a	.	[	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	4bb	4B 4e	4.b)	.	>	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4Br 4er	4.b)	.	>	.	.	.
 .	4rCC	.	4r	.	4e)	.	8r	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	]	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#rL [8br	.	.	]	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-[4CC	[4CC	.	[4Cn	.	4r	.	8r'	8fff#J]	8f#J] 8b]	8eeL	con-	.	.	.	.
+[4CC	[4CC	.	[4Cn	.	4r	.	8r'	8fff#J]	8f#rJ] 8br]	8eeL	con-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8dd#XJ	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8dd#XJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =81		=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81		=81
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*	*M2/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-2CC_	2rCC	.	2r	.	(4e	.	8r	8ff#J]	8BJ] 8f#]	4b	-qui-	.	2ryy	2rEE	.
+2CC_	2rCC	.	2r	.	(4e	.	8r	8ff#J]	8BrJ] 8f#r]	4b	-qui-	.	2ryy	2rEE	.
 .	.	.	.	.	.	.	8gv	8ryy	4go	.	.	.	.	.	.
 .	.	.	.	.	4cc#	.	8r	8ryy	.	8gL	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8aJ	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8aJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =82		=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82		=82
 *M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4		*
@@ -251,16 +251,16 @@
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 4CC]	4rCC	.	4r	.	4d)	.	8r'	8ff#J]	8BJ] 8f#]	4b	-se	.	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	4bb	4Br 4er	.	.	.	.	.	.
 [2BBB	[4BBB	.	[4BB	.	4r	.	8r	.	.	8ee	l'a	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8dd#X	con-	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#rL [8br	8dd#X	con-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	4rCC	.	4r	.	(4d	.	8r'	8fff#J]	8f#J] 8b]	8b	-quise	.	.	.	.
+.	4rCC	.	4r	.	(4d	.	8r'	8fff#J]	8f#rJ] 8br]	8b	-quise	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8g	à	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8g	à	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =83		=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83		=83
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*	*M2/4		*
@@ -271,58 +271,58 @@
 .	.	.	.	.	4c#)	.	8r	8ryy	.	4f#	-tié.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	.	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	[8bbL/	[8BrL [8er\	.	.	.	.	.	.
 !!LO:REH:t=79
 =84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 [2BBB	4BBB	.	[4BB	.	4r	.	8r	8bbJ]	8BJ] 8e]	8d	Sur	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8e	ce	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f#r 4br	8e	ce	.	.	.	.
 .	4rCC	.	4r	.	(4F#	.	8r'	.	.	8f#	lit	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	(8g	el-	<	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r	(8g	el-	<	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =85		=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85		=85
 *M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
-2BBB]	4rCC	.	4r	.	4d	.	8r	8ff#J]	8BJ] 8f#]	8a)	.	[	2.ryy	2.rEE	.
+2BBB]	4rCC	.	4r	.	4d	.	8r	8ff#J]	8BrJ] 8f#r]\	8a)	.	[	2.ryy	2.rEE	.
 .	.	.	.	.	.	.	8gv	8ryy	4go	4.b	-le	>	.	.	.
 .	4rCC	.	4r	.	4E)	.	8r	8ryy	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	]	.	.	.
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#rL [8br	.	.	]	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-[4BBB	[4BBB	.	[4BB	.	4r	.	8r'	8fff#J]	8f#J] 8b]	8eeL	re-	.	.	.	.
+[4BBB	[4BBB	.	[4BB	.	4r	.	8r'	8fff#J]	8f#rJ] 8br]	8eeL	re-	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8dd#XJ	.	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	[8ff#L/	[8BrL [8f#r\	8dd#XJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =86		=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86		=86
 *M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*	*M2/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-2BBB_	2rCC	.	2r	.	(4G	.	8r	8ff#J]	8BJ] 8f#]	4b	-po-	.	2ryy	2rEE	.
+2BBB_	2rCC	.	2r	.	(4G	.	8r	8ff#J]	8BrJ] 8f#r]	4b	-po-	.	2ryy	2rEE	.
 .	.	.	.	.	.	.	8gv	8ryy	4go	.	.	.	.	.	.
 .	.	.	.	.	4e	.	8r	8ryy	.	8gL	-se	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	8aJ	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	[8bbL/	[8BrL [8er\	8aJ	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 =87		=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87		=87
 *M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4		*
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-4BBB]	4rCC	.	4r	.	4F#)	.	8r	8bbJ]	8BJ] 8e]	4b	Et	.	2.ryy	2.rEE	.
+4BBB]	4rCC	.	4r	.	4F#)	.	8r	8bbJ]	8BrJ] 8er]	4b	Et	.	2.ryy	2.rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f#r 4br	.	.	.	.	.	.
 [2BBB	[4BBB	.	[4BB	.	4r	.	8r'	.	.	8eeL	je	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
 .	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8dd#XJ	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	4rCC	.	4r	.	(4E	.	8r	8ff#J]	8BJ] 8f#]	8b	n’o-	.	.	.	.
+.	4rCC	.	4r	.	(4E	.	8r	8ff#J]	8BrJ] 8f#r]	8b	n’o-	.	.	.	.
 .	.	.	.	.	.	.	8gv	8ryy	[8gLo	8g	-se	.	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
 !!LO:REH:t=80
@@ -331,11 +331,11 @@
 *^		*	*	*	*	*	*	*	*	*	*	*	*^		*
 2BBB]	2rCC	.	2r	.	4c#	.	8r	8ryy	8gJ]	8f#	la	.	2ryy	2rEE	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
-.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8e	trou-	.	.	.	.
+.	.	.	.	.	.	.	8ff#'v	4ff#	4Br 4f#r	8e	trou-	.	.	.	.
 .	.	.	.	.	4D)	.	8r	.	.	4f#	-bler.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
-.	.	.	.	.	.	.	8bbv	[8bb	[8B [8e	.	.	.	.	.	.
+.	.	.	.	.	.	.	8bbv	[8bb	[8Br [8er	.	.	.	.	.	.
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
 =		=	=	=	=	=	=	=		=	=	=	=		=
 *-		*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-		*-
