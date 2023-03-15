@@ -9,8 +9,8 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
 *part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part12	*part11	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*staff13	*	*staff12	*staff12	*	*staff11	*staff11	*	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Athlet	*	*	*I"Schigolch	*	*	*I"Gymnasiast	*	*	*I"	*I"Piano	*	*I"Triangle	*	*I"Horn in F IV	*	*I"Horn in F III	*	*I"Horn in F II	*	*I"Horn in F I	*	*I"Alto Saxophone	*	*I"English Horn	*	*I"Oboe I	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Athl.	*	*	*I'Schig.	*	*	*I'Gymn.	*	*	*I'	*I'Pno.	*	*I'Trg.	*	*I'F Hn. IV	*	*I'F Hn.	*	*I'F Hn. HH	*	*I'F Hn. I	*	*I'Alto Sax.	*	*I'E. H.	*	*I'Ob. I	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Athlet	*	*	*I"Schigolch	*	*	*I"Gymnasiast	*	*	*I"Piano	*I"Piano	*	*I"Triangle	*	*I"Horn in F IV	*	*I"Horn in F III	*	*I"Horn in F II	*	*I"Horn in F I	*	*I"Alto Saxophone	*	*I"English Horn	*	*I"Oboe I	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Athl.	*	*	*I'Schig.	*	*	*I'Gymn.	*	*	*I'Pno.	*I'Pno.	*	*I'Trg.	*	*I'F Hn. IV	*	*I'F Hn.	*	*I'F Hn. HH	*	*I'F Hn. I	*	*I'Alto Sax.	*	*I'E. H.	*	*I'Ob. I	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*	*	*	*	*	*	*	*	*	*Ipiano	*Ipiano	*	*Itrngl	*	*Icor	*	*Icor	*	*Icor	*	*Icor	*	*IsaxA	*	*Icangl	*	*Ioboe	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefF4	*	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
@@ -51,7 +51,6 @@
 .	.	.	.	12c#X'	.	.	.	.	.	.	.	.	.	12an	ich	.	.	.	.	.	.	.	.	.	.	.	.	12c#X'	.	.	.	.	.	12a'nL	.
 4AAAn	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	]	.	.	.	.
 .	.	.	.	12d#X'J	.	.	.	.	.	.	.	.	.	12cc#XJ	ihr	.	.	.	.	.	.	.	.	.	.	.	.	12e-X'J	.	.	.	.	.	12cc#'XJ	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	4r	.	12fn'	.	12r	.	.	.	.	.	.	.	[4dd#X	sa-	.	.	8r	.	.	.	.	.	.	.	.	.	12fn'	.	12r	.	[4fn	.	8dd#'X	.
 .	.	.	.	12r'	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	12r	.	.	.	.	.
 [8GGGn	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8e-X~	p <	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.
@@ -101,9 +100,7 @@
 16%3BBn~	.	16%3BBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8%3.An~	.	.	.	.	.	.	.	.	.	.	.	8%3.An'	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4F#X	-ber	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 16%3Cn~	.	16%3Cn	.	16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	8%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 .	.	.	.	.	.	.	.	(8DnL	am	<	4r	.	.	.	.	.	.	.	4ryy	.	4r	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 16%3Dn~J	mp ]	16%3DnJ	.	16%3Dn~	mf	16%3Dn~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8F#XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=2.:num=4	!	!LO:TUP:num=4	!	!	!	!	!
@@ -153,7 +150,7 @@
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6,s7)][({(s8,s9)})][(s10,s11,s12)][(s13,s14,s15,s16)]
+!!!system-decoration: [(s1,s2,s3)],{(s4,s5,s6,s7)},<s8>,[({(s9,s10)})],<s11>,<s12>,<s13>,[(s14,s15,s16,s17)]
 !!!CDT: 1885/02/09-1935/12/24
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
