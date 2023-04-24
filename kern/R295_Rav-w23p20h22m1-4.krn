@@ -6,8 +6,8 @@
 !!!OMD-full: Assez vif
 !!!OMD: Assez vif
 **kern	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part3	*part3	*	*part3	*part2	*part2	*part1	*part1
+*grp:A	*grp:A	*	*	*grp:B	*	*grp:B	*
+*part3	*part3	*	*	*part2	*	*part1	*
 *staff4	*staff3	*	*	*staff2	*	*staff1	*
 *ICklav	*ICklav	*	*	*ICstr	*	*ICstr	*
 *piano	*piano	*	*	*Icello	*	*Ivioln	*

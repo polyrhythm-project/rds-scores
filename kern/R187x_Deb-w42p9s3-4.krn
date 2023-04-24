@@ -6,8 +6,8 @@
 !!!OMD-full: Modéré
 !!!OMD: Mouvement de Marche modéré
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part5	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part10	*	*part9	*	*part8	*	*part7	*	*part5	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Ifagot	*	*Iflt	*	*Ipicco	*

@@ -6,9 +6,9 @@
 !!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B
-*part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*	*part12	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff12	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff12	*	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICklav	*	*ICvox	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICklav	*	*ICklav	*	*ICklav	*
 *	*	*Ibdrum	*	*Itdrum	*	*Isdrum	*	*Itimpa	*	*Ipiano	*	*Ibass	*	*	*Itromt	*	*Itromt	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Itromp	*	*Itromp	*	*Iorgan	*	*Iondes	*	*Iondes	*
 *I"Cymbal/Bass Drum	*	*I"Bass Drums	*	*I"Tenor Drum	*	*I"Snare Drum	*	*I"Timpani	*	*I"Piano	*	*I"Bass	*	*	*I"Trombone 4	*	*I"Trombone 3	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Trumpet 4 [C]	*	*I"Trumpet 3 [C]	*	*I"Trumpet 2 [C]	*	*I"Trumpet 1 [C]	*	*I"Organ	*	*I"Ondes Martenot 2	*	*I"Ondes Martenot 1	*

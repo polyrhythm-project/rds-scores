@@ -6,9 +6,9 @@
 !!!OMD-full: Andante quasi allegretto
 !!!OMD: Andante quasi allegretto
 **kern	**text	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B
-*part2	*part2	*part1	*part1
-*staff2	*staff2	*staff1	*
+*grp:A	*	*grp:B	*
+*part2	*	*part1	*
+*staff2	*	*staff1	*
 *ICvox	*	*ICstr	*
 *Isoprn	*	*Icello	*
 *I"Soprano Solo	*	*I"Violoncello	*

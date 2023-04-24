@@ -6,9 +6,9 @@
 !!!OMD-full: Broadly, but with fire
 !!!OMD: [Broadly but with fire]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text	**kern	**dynam	**text	**text
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
-*part5	*	*part5	*	*part4	*	*part4	*part4	*part3	*	*part3	*part3	*part2	*	*part2	*part2	*part1	*	*part1	*part1
-*staff6	*	*staff5	*	*staff4	*	*staff4	*staff4	*staff3	*	*staff3	*staff3	*staff2	*	*staff2	*staff2	*staff1	*	*staff1	*staff1
+*grp:A	*	*grp:B	*	*grp:B	*	*	*	*grp:A	*	*	*	*grp:B	*	*	*	*grp:A	*	*	*
+*part5	*	*part5	*	*part4	*	*	*	*part3	*	*	*	*part2	*	*	*	*part1	*	*	*
+*staff6	*	*staff5	*	*staff4	*	*	*	*staff3	*	*	*	*staff2	*	*	*	*staff1	*	*	*
 *ICklav	*	*ICklav	*	*ICvox	*	*	*	*ICvox	*	*	*	*ICvox	*	*	*	*ICvox	*	*	*
 *Iorgan	*	*Iorgan	*	*Ibass	*	*	*	*Itenor	*	*	*	*Ialto	*	*	*	*Isoprn	*	*	*
 *I"Organ	*	*I"Organ	*	*I"Bass	*	*	*	*I"Tenor	*	*	*	*I"Alto	*	*	*	*I"Soprano	*	*	*
@@ -25,7 +25,7 @@
 8FF`]	.	4d~ 4f#X 4a	4ryy	f	(4A	f	do-	Lord_	8F#X	f	di-	of	(>4a	f	do-	Lord_	8f#X	f	di-	of
 (16EELL	.	.	.	.	.	.	.	.	8G#X	.	-es	the	.	.	.	.	8g#X	.	-es	the
 16FFJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*grp:A	*grp:B	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*grp:A	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8EE`J)	.	(4d 4a	8gL	.	8Gn	.	.	.	(>4A	.	do-	Lord_	8gn	.	.	.	(>4a	.	do-	Lord_
 (16FFLL	.	.	[8fnJ	.	4.Fn	.	.	.	.	.	.	.	4.fn	.	.	.	.	.	.	.
 16EEJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

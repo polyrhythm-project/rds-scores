@@ -6,8 +6,8 @@
 !!!OMD-full: Molto moderato
 !!!OMD: [Tempo giusto]
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
-*part1	*part1	*part1
+*grp:A	*grp:B	*
+*part1	*part1	*
 *staff2	*staff1	*
 *ICklav	*ICklav	*
 *Ipiano	*Ipiano	*
@@ -74,7 +74,7 @@
 12G-J)	.	.	.
 *v	*v	*	*
 =95	=95	=95
-*	*grp:B	*grp:B
+*	*grp:B	*
 *	*8va	*
 !	!	!
 (<8qC	(<8qbbn/	.

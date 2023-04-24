@@ -6,8 +6,8 @@
 !!!OMD-full: Allegro
 !!!OMD: [Tempo primo (Allegro)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part3	*	*part3	*part3	*part2	*	*part1	*
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part3	*	*part3	*	*part2	*	*part1	*
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*	*ICklav	*	*ICstr	*	*ICstr	*
 *Ipiano	*	*Ipiano	*	*Icello	*	*Ivioln	*

@@ -6,8 +6,8 @@
 !!!OMD-full: Etwas lebhaft
 !!!OMD: [Etwas lebhaft]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part9	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part9	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Ipiano	*	*Ipiano	*	*Iviola	*	*Ivioln	*	*Itromt	*	*Itromp	*	*Icor	*	*Iclars	*	*Ioboe	*	*Iflt	*
@@ -67,7 +67,7 @@
 8gg#>~XJ	.	8ryy	.	4r	.	.	.	.	.	4r	.	(8ccnL	p	.	.	8gn~J	.	.	.
 8r>	.	8ryy	.	.	.	.	.	.	.	.	.	8Bn)	.	.	.	8r	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 8FF#/LX~	.	4ryy	.	2r	.	2r	.	2r	.	4r	.	8e-~XJ	.	2r	.	2r	.	2r	.
@@ -81,7 +81,7 @@
 8BBn>~ 8B->XJ	.	8ryy	.sf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	12ddn	.	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*
 *clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!LO:TUP	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!
@@ -95,7 +95,7 @@
 8GGn~ 8F#X/	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	12fn)	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*
 8b->X~>J	.	4r<	.	12cc#X~J	.	2r	.	2r	.	2r	.	2r	.	2r	.	6dddn~	f	6r	.
 .	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 8r>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

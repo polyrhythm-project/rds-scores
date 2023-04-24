@@ -6,8 +6,8 @@
 !!!OMD-full: Allegro
 !!!OMD: [Alla breve]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*	*part6	*	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Icor	*	*Icor	*	*Icangl	*	*Ioboe	*

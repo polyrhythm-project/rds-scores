@@ -6,7 +6,7 @@
 !!!OMD-full: Vivace
 !!!OMD: [Allegro ben marcato]
 **kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B
+*grp:A	*	*grp:B	*
 *part1	*	*part1	*
 *staff2	*	*staff1	*
 *ICklav	*	*ICklav	*

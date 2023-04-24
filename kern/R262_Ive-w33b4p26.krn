@@ -7,8 +7,8 @@
 !!!OMD: [Poco agitando (but slower)]
 !!!OTL: [R262_Ive-w33b4p26]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part9	*part9	*part8	*part8	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part9	*	*part8	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff9	*	*staff8	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Icampn	*	*Icampn	*	*Ioboe	*	*Iflt	*
@@ -49,7 +49,7 @@
 16r	.	.	8C'J)	.	.	16ddL	.	.	.	.	.	.	[8dd#XJ	.	.	8a-'X)J	.	8r	.
 16AAAJ	.	.	.	.	]]	[16ee-XJJ	.	.	.	.	[16AAJk	.	.	.	.	.	]]	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*
 4r	2.AAA]	.	((8C^L	4.CC	>	4ee-]	8.BL])	.	8.f#] 8.a#]L)	.	4AA]	.	4dd#]	8.dL]	.	(4.a-X	.	4r	.
 .	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	(8.B'	.	(8.f#'X 8.a#XJu	.	.	.	.	[16fnkJ	.	.	.	.	.

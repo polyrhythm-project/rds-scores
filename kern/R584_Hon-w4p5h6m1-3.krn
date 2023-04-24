@@ -6,8 +6,8 @@
 !!!OMD: [Tempo (Allegro)]
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
-*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff5	*staff4	*staff4/5	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*part4	*part4	*	*part3	*	*part2	*	*part1	*
+*staff5	*staff4	*staff4/5	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*ICklav	*	*ICww	*	*ICww	*	*ICww	*
 *Ipiano	*Ipiano	*	*Iclars	*	*Iclars	*	*Iflt	*
 *I"Piano	*I"Piano	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*

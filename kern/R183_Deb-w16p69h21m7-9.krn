@@ -6,8 +6,8 @@
 !!!OMD-full: Animé et très rythmé
 !!!OMD: A Tempo [Animé et très rhythmé]
 **kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
-*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:B	*
+*part3	*	*part2	*	*part1	*
 *staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICidio	*
 *Icbass	*	*Icello	*	*Isdrum	*

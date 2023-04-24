@@ -6,8 +6,8 @@
 !!!OMD-full: none
 !!!OMD: none
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**blank	**blank	**blank
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*	*part1	*part1	*	*	*
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*grp:B
+*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*	*part1	*	*	*	*
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*staff1	*	*	*	*
 *ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICbras	*	*	*ICbras	*	*	*	*
 *Ibdrum	*	*Itimpa	*	*	*	*	*	*Itromt	*	*	*Itromt	*	*	*	*

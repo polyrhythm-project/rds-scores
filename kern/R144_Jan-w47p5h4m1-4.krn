@@ -6,7 +6,7 @@
 !!!OMD-full: Andante
 !!!OMD: Più mosso
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
 *part13	*	*part12	*	*part11	*	*part10	*	*part9	*
 *staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*
 *ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*

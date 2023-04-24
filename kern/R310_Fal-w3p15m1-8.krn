@@ -6,8 +6,8 @@
 !!!OMD-full: Allegro vivo
 !!!OMD: Allegro vivo ([quarter-dot] = 92)
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
-*part1	*part1	*part1
+*grp:A	*grp:B	*
+*part1	*part1	*
 *staff2	*staff1	*
 *ICklav	*ICklav	*
 *Ipiano	*Ipiano	*
@@ -63,7 +63,7 @@
 8c#' 8d#	8e#'J	16e#	<
 .	.	16BJJ	.
 =6	=6	=6	=6
-*grp:A	*	*grp:B	*grp:B
+*grp:A	*	*grp:B	*
 8r'	8f#'L	16f#LL	.
 .	.	16B	.
 8c#' 8d#	8d#'	16d#	.

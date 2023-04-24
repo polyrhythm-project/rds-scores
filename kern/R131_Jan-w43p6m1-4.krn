@@ -6,9 +6,9 @@
 !!!OMD-full: Presto
 !!!OMD: Presto ([half-dot] = 84)
 **kern	**text	**text	**dynam	**kern	**text	**text	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
-*staff2	*staff2	*staff2	*	*staff1	*staff1	*staff1	*
+*grp:A	*	*	*	*grp:B	*	*	*
+*part2	*	*	*	*part1	*	*	*
+*staff2	*	*	*	*staff1	*	*	*
 *ICvox	*	*	*	*ICvox	*	*	*
 *Ibass	*	*	*	*Itenor	*	*	*
 *I"BASSI I	*	*	*	*I"TENORI I	*	*	*

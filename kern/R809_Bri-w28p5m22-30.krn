@@ -6,7 +6,7 @@
 !!!OMD-full: Andante con moto
 !!!OMD: [Andante con moto]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*
 *part6	*	*part5	*	*part5	*	*part4	*	*	*part3	*	*	*part2	*	*	*part1	*	*
 *staff7	*	*staff6	*	*staff5	*	*staff4	*	*	*staff3	*	*	*staff2	*	*	*staff1	*	*
 *ICklav	*	*ICklav	*	*ICklav	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*

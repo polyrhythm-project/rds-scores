@@ -6,8 +6,8 @@
 !!!OMD-full: Schnelle viertel
 !!!OMD: [Schnelle Viertel]
 **kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part4	*	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*	*part4	*part3	*	*part2	*	*part1	*
 *staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*	*ICklav	*ICbras	*	*ICbras	*	*ICww	*
 *Ipiano	*	*Ipiano	*Itromt	*	*Icor	*	*Ifagot	*

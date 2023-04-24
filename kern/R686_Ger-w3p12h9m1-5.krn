@@ -6,8 +6,8 @@
 !!!OMD-full: Molto moderato
 !!!OMD: [Tempo giusto]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ibanjo	*	*Ipiano	*Ipiano	*	*	*	*Itromp	*	*Itromp	*	*Icor	*	*Ifagot	*	*Iclars	*
@@ -22,7 +22,7 @@
 !!LO:REH:t=9
 =91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
 *	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
-*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:A	*grp:B	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:A	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!LO:TX:t=Let strings snap	!	!	!LO:S:a	!	!LO:TX:b:t=B. D.	!LO:TX:a:t=Brush	!LO:DY:rj	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
 4CC'	mf	4CC' 4GG	mf	(8B-X^L	mf	4.c^ 4.e	mf	4c' 4g	mf	1ryy	(8bbb-X\L 8cccc\ 8eeee\	p	(8eeR^L'	4fR	mf	1r	.	(8cL 8cc	mf	4.c^ 4.e	mf	(8B-X^L	mf	1r	.

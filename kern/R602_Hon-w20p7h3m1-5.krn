@@ -6,8 +6,8 @@
 !!!OMD-full: Allegro molto moderato
 !!!OMD: [Allegro molto moderato]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part10	*part10	*part9	*part9	*part8	*	*part7	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part10	*	*part9	*	*part8	*	*part7	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ipiano	*	*Ipiano	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Iclars	*
@@ -74,7 +74,7 @@
 .	.	.	.	.	.	8d-J	.	16d	.	8cc'J	.	.	.	.	.	16c	.	.	.	.	.
 .	.	.	.	.	.	.	.	16eJJ	.	.	.	.	.	.	.	16B-XJJ	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8GGG#X^	.	8GG#X^	.	4r	.	8AnL	.	16d-XLL	.	1r	.	4r	.	1r	.	8A-X	.	1r	.	1r	.
 .	.	.	.	.	.	.	.	16g-X	.	.	.	.	.	.	.	.	.	.	.	.	.

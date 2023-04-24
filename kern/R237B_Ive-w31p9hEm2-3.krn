@@ -6,8 +6,8 @@
 !!!OMD-full: Allegro moderato
 !!!OMD: [Allegro vivace]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part15	*	*part14	*	*part13	*	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*	*part8	*part8	*part7	*part7	*	*part6	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*part10	*	*part9	*	*part8	*	*part7	*	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*ICidio	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Itimpa	*	*Itrngl	*	*Isdrum	*	*	*Itromt	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*

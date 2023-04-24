@@ -6,8 +6,8 @@
 !!!OMD-full: Adagio maestoso
 !!!OMD: [Poco agitando (but slower)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part8	*part8	*part7	*part7	*part6	*	*part5	*	*part4	*part4	*part3	*	*part3	*part3	*part2	*part2	*part1	*part1
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part3	*	*part2	*	*part1	*
 *staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icampn	*	*Icampn	*	*Ioboe	*	*Iflt	*
@@ -43,8 +43,8 @@
 *v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*
 *	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
-*	*	*	*	*	*	*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*
-*	*	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*
+*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 *^	*	*^	*	*	*	*^	*	*	*	*	*	*^	*	*	*	*	*
 !LO:TX:a:t=pizz.	!LO:TX:b:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[eighth]=[eighth] 	!

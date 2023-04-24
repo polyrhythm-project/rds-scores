@@ -6,9 +6,9 @@
 !!!OMD-full: Lent
 !!!OMD: [Lent]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
-*part7	*	*part7	*	*part6	*	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
-*staff8	*	*staff7	*	*staff6	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part7	*	*part7	*	*part6	*	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICklav	*	*ICklav	*	*ICvox	*	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
 *Ipiano	*	*Ipiano	*	*	*	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iflt	*
 *I"Piano	*	*I"Piano	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*

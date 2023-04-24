@@ -6,9 +6,9 @@
 !!!OMD-full: none
 !!!OMD: [Langsame]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
-*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part12	*part11	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*staff13	*	*staff12	*staff12	*	*staff11	*staff11	*	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*grp:A	*	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*	*part10	*	*	*part9	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*	*	*staff11	*	*	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
 *Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*	*	*	*	*	*	*	*	*	*Ipiano	*Ipiano	*	*Itrngl	*	*Icor	*	*Icor	*	*Icor	*	*Icor	*	*IsaxA	*	*Icangl	*	*Ioboe	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Athlet	*	*	*I"Schigolch	*	*	*I"Gymnasiast	*	*	*I"Piano	*I"Piano	*	*I"Triangle	*	*I"Horn in F IV	*	*I"Horn in F III	*	*I"Horn in F II	*	*I"Horn in F I	*	*I"Alto Saxophone	*	*I"English Horn	*	*I"Oboe I	*
@@ -58,7 +58,7 @@
 *	*	*	*	*haupt	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*Xcol	*
 .	.	.	.	12e-X'	f	12e-X'	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(12e-X	f	(12e-X	f	.	.	.	.
 =119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:A	*grp:A	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:A	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!LO:TUP:num=4	!	!	!	!	!	!LO:TX:t=roh lachend	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=gestossen	!	!	!	!	!
 16%3GGGL])	.	8%3r	.	12d-X'L	.	12d-X'L	.	4r	.	.	2%3r	.	.	8dd#L]	.	.	4r	4ryy	8e-']	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	12d-XL)	.	12d-XL)	.	2f]	.	2%3r	.
@@ -92,7 +92,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !!LO:REH:t=120
 =120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
-*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*	*	*
+*	*	*	*	*grp:A	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*grp:A	*	*	*	*	*
 !	!	!	!	!LO:TUP:num=4:r=2.	!	!LO:TUP:num=4:r=2.	!	!	!	!	!LO:TX:a:t=stützt	!	!	!	!	!	!LO:TUP:num=4	!LO:TUP:num=4	!	!	!	!	!	!	!	!	!	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!	!
 !	!	!	!	!	!	!LO:TX:t=[tutti]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=freihgd m. Schwammschlgl	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 16%3AAn~L	>	16%3AAnL	.	8%3r	.	8%3r	.	4G#X	sel-	.	2r	.	.	2%3r	.	.	16%3AAn] 16%3Bn]	8%3BB]	2ryy	.	2r	.	2%3r	.	2%3r	.	2%3r	.	16%3B]	.	2r	.	2%3r	.	2%3r	.
@@ -120,7 +120,7 @@
 .	.	.	.	.	.	.	.	.	.	.	(32%3En	Rau-	mf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32%3EX	p	.	.	.	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
-*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=sein Zigarettenetui öffnend	!	!	!	!LO:TX:b:t=l.H.	!	!	!	!LO:TUP:r=2.:num=4	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!LO:TUP:r=2.:num=4	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*
 !	!	!	!	!LO:TUP:r=2.:n=4	!	!LO:TUP:r=2.:n=4	!	!	!	!	!LO:TUP:r=2.:n=4	!	!	!	!	!	!	!	!	!LO:N:O=trem3	!	!LO:TX:t=o. Dpf.	!	!LO:TX:t=o. Dpf.	!	!LO:TX:t=o. Dpf.	!	!	!	!	!	!	!	!	!

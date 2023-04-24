@@ -6,9 +6,9 @@
 !!!OMD-full: none
 !!!OMD: A Tempo [Poco meno]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam	**kern	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
-*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part2	*part2	*part1	*part7
-*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*staff2	*staff2	*	*staff1	*
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*	*	*grp:A	*
+*part7	*	*part6	*	*part5	*	*part4	*part3	*part2	*	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*staff2	*	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICstr	*ICvox	*	*	*ICklav	*
 *Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*Ivioln	*Ivox	*	*	*Ipiano	*
 *I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Soprani	*	*	*I"Piano	*

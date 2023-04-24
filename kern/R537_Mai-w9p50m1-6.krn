@@ -6,9 +6,9 @@
 !!!OMD-full: Andante
 !!!OMD: Andante
 **kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
-*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
-*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
-*staff8	*staff8	*	*staff7	*staff7	*	*staff6	*staff6	*	*staff5	*staff5	*	*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*
+*part8	*	*	*part7	*	*	*part6	*	*	*part5	*	*	*part4	*	*	*part3	*	*	*part2	*	*	*part1	*	*
+*staff8	*	*	*staff7	*	*	*staff6	*	*	*staff5	*	*	*staff4	*	*	*staff3	*	*	*staff2	*	*	*staff1	*	*
 *ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*
 *Ibass	*	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*	*Ibass	*	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*
 *I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"BASS	*	*	*I"TENOR	*	*	*I"ALTO	*	*	*I"SOPRANO	*	*

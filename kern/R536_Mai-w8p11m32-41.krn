@@ -6,9 +6,9 @@
 !!!OMD-full: Vif et léger
 !!!OMD: [Léger et mordant]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
-*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff4	*	*staff3	*	*staff2	*	*staff1	*staff1
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICww	*	*ICvox	*
 *Icello	*	*Iviola	*	*Iflt	*	*	*
 *I"Violoncello	*	*I"Viola	*	*I"Flute	*	*I"Soprano	*
@@ -41,7 +41,7 @@
 8G] 8d]	.	(8a-XL	>	(8ffL	>	.	.
 8r	.	8ccJ)	.	8ddJ)	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
-*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*	*
+*grp:B	*	*grp:A	*	*grp:A	*	*	*
 2r	.	[2cc	.	[2dd	.	1r	.
 8r;	.	8cc]	]]	8dd]	]]	.	.
 !LO:TX:a:i:t=très tranquille 	!	!	!	!	!	!	!
@@ -57,7 +57,7 @@
 8EE-'L	.	.	.	.	.	.	.
 8FF'J	.	.	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
-*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*	*
+*grp:A	*	*grp:B	*	*grp:B	*	*	*
 [1CC [1GG	>	2r	.	8r	.	1r	.
 .	.	.	.	(8ddL	mf	.	.
 .	.	.	.	8cc')	.	.	.
