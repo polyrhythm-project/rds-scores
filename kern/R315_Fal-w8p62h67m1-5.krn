@@ -9,9 +9,9 @@
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*	*part9	*part9	*	*part8	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*	*Iarpa	*Iarpa	*	*Icemba	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trujamán	*	*	*I"Harp	*I"Harp	*	*	*	*I"Harpsichord	*	*I"Timpani	*	*I"Trumpet [C]	*	*I"2 Horns in F	*	*I"Clarinet in Bb	*	*I"Cor Anglais	*	*I"2 Oboes	*	*I"Flute	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Infant	*	*	*Iarpa	*Iarpa	*	*	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icalgl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trujamán	*	*	*I"Harp	*I"Harp	*	*	*	*I"Harpsichord	*	*I"Timpani	*	*I"Trumpet [C]	*	*I"2 Horns in F	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"2 Oboes	*	*I"Flute	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Truj.	*	*	*I'Hp.	*I'Hp.	*	*	*	*I'Hpsd.	*	*I'Timp.	*	*I'Tpt.	*	*I'Hn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*

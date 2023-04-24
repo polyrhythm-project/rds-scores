@@ -9,9 +9,9 @@
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Ifag_c	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horns in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Icbass	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
 *I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*
 *clefC4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*
