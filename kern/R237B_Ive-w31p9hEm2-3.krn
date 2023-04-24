@@ -9,10 +9,10 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
 *part15	*	*part14	*	*part13	*	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*	*part8	*part8	*part7	*part7	*	*part6	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*	*ICidio	*	*ICidio	*	*ICidio	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
-*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*	*Itimpa	*	*Itrngl	*	*Isdrum	*	*	*Itromt	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*
-*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Timpani	*	*I"Triangle	*	*I"Snare Drum	*	*	*I"Trombone	*	*I"Trumpet in Bb II	*	*I"Trumpet in Bb I	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Flute	*
-*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tri.	*	*I'Perc.	*	*	*I'Tbn.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*ICidio	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Itimpa	*	*Itrngl	*	*Isdrum	*	*	*Itromt	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Timpani	*	*I"Triangle	*	*I"Snare Drum	*	*	*I"Trombone	*	*I"Trumpet in Bb II	*	*I"Trumpet in Bb I	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.	*	*I'Timp.	*	*I'Tri.	*	*I'Perc.	*	*	*I'Tbn.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefX	*	*clefF4	*	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*	*

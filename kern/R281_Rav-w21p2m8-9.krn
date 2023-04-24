@@ -9,10 +9,10 @@
 *grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
 *part7	*	*part7	*	*part6	*	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
 *staff8	*	*staff7	*	*staff6	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
-*ICklav	*	*	*	*ICvox	*	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
-*Ipiano	*	*	*	*	*	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iflt	*
-*I"Piano	*	*	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*
-*I'Pno.	*	*	*	*I'V.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'2.Fl.	*
+*ICklav	*	*ICklav	*	*ICvox	*	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Ipiano	*	*Ipiano	*	*	*	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iflt	*
+*I"Piano	*	*I"Piano	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*
+*I'Pno.	*	*I'Pno.	*	*I'V.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'2.Fl.	*
 *clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
 *G:	*	*G:	*	*G:	*	*	*G:	*	*C:	*	*G:	*	*G:	*	*G:	*

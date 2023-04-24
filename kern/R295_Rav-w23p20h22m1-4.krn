@@ -11,8 +11,8 @@
 *staff4	*staff3	*	*	*staff2	*	*staff1	*
 *ICklav	*ICklav	*	*	*ICstr	*	*ICstr	*
 *piano	*piano	*	*	*Icello	*	*Ivioln	*
-*I"Piano	*	*	*	*I"Violoncello	*	*I"Violin	*
-*I'Pno.	*	*	*	*I'Vc.	*	*I'Vln.	*
+*I"Piano	*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
+*I'Pno.	*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
 *clefF4	*clefF4	*	*	*clefC4	*	*clefG2	*
 *k[f#c#g#]	*k[f#c#g#]	*	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*A:	*	*	*A:	*	*A:	*
