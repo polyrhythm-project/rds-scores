@@ -144,10 +144,10 @@ sub processFile {
 		die "Cannot find name line in file $file\n";
 	}
 	if (($codeIndex > 0) && ($codeIndex > $nameIndex)) {
-		print STDERR "ERRORL: Code line $codeIndex is after name line $nameIndex in file $file\n";
+		print STDERR "ERRORA: Code line $codeIndex is after name line $nameIndex in file $file\n";
 	}
 	if (($classIndex > 0) && ($classIndex > $nameIndex)) {
-		print STDERR "ERRORL: Class line $classIndex is after name line $nameIndex in file $file\n";
+		print STDERR "ERRORB: Class line $classIndex is after name line $nameIndex in file $file\n";
 	}
 
 	print STDERR "$nameIndex\t$codeIndex\t$classIndex\t$file\n";
@@ -157,10 +157,10 @@ sub processFile {
 		$nameLine =~ s/\*(\t|$)//g;
 		print STDERR "\tNAMES:   $nameLine\n";
 		if ($nameLine =~ /\*IC/) {
-			print STDERR "\t\tERRORA: instrument class on name line\n";
+			print STDERR "\t\tERRORC: instrument class on name line\n";
 		}
 		if ($nameLine =~ /\*I[a-z]/) {
-			print STDERR "\t\tERRORB: instrument code on name line\n";
+			print STDERR "\t\tERRORD: instrument code on name line\n";
 		}
 	}
 
@@ -169,10 +169,10 @@ sub processFile {
 		$codeLine =~ s/\*(\t|$)//g;
 		print STDERR "\tCODES:   $codeLine\n";
 		if ($codeLine =~ /\*I"/) {
-			print STDERR "\t\tERRORC: instrument name on code line\n";
+			print STDERR "\t\tERRORE: instrument name on code line\n";
 		}
 		if ($codeLine =~ /\*IC/) {
-			print "\t\tERRORD: instrument class on code line\n";
+			print "\t\tERRORF: instrument class on code line\n";
 		}
 	}
 
@@ -181,10 +181,10 @@ sub processFile {
 		$classLine =~ s/\*(\t|$)//g;
 		print STDERR "\tCLASSES: $classLine\n";
 		if ($classLine =~ /\*I"/) {
-			print STDERR "\t\tERROR: instrument name on class line\n";
+			print STDERR "\t\tERRORG: instrument name on class line\n";
 		}
 		if ($classLine =~ /\*I'/) {
-			print "\t\tERROR: instrument abbr on class line\n";
+			print "\t\tERRORH: instrument abbr on class line\n";
 		}
 	}
 
@@ -236,8 +236,7 @@ sub updateFileContents {
 	my @oldNameData;
 	my @newNameData;
 
-print "UPDATING FILE: $file\n";
-print "SIZE OF FILE ", ($#contents+1), "\n";
+	print STDERR "UPDATING FILE: $file\n";
 
 	for (my $i=0; $i<@contents; $i++) {
 		my $line = $contents[$i];
@@ -264,19 +263,19 @@ print "NEW LINE: $newLine\n";
 	}
 
 	if (@oldNameData == 0) {
-		die "ERRORM: NO INSTRUMENT NAMES DATA IN FILE $file\n";
+		die "ERRORI: NO INSTRUMENT NAMES DATA IN FILE $file\n";
 	}
 
 	if ($codeIndex > 0) {
 		my @codeData = split(/\t+/, $contents[$codeIndex]);
-		die "ERROR: Mismatch in length of code line versus name line for file $file\n" if $#codeData != $#oldNameData;
+		die "ERRORJ: Mismatch in length of code line versus name line for file $file\n" if $#codeData != $#oldNameData;
 		for (my $i=0; $i<@codeData; $i++) {
 			if ($oldNameData[$i] eq "*") {
 				$codeData[$i] = "*";
 				next;
 			}
 			if ($newNameData[$i] !~ /^\*I"/) {
-				die "ERROR: PROBLEM WITH CODE for file $file\n";
+				die "ERRORK: PROBLEM WITH CODE for file $file\n";
 			}
 			my $newcode = $old2code{$oldNameData[$i]};
 			if ($newcode =~ /^\s*$/) {
@@ -294,14 +293,14 @@ print "NEW LINE: $newLine\n";
 
 	if ($classIndex > 0) {
 		my @classData = split(/\t+/, $contents[$classIndex]);
-		die "ERROR: Mismatch in length of class line versus name line for file $file\n" if $#classData != $#oldNameData;
+		die "ERRORL: Mismatch in length of class line versus name line for file $file\n" if $#classData != $#oldNameData;
 		for (my $i=0; $i<@classData; $i++) {
 			if ($oldNameData[$i] eq "*") {
 				$classData[$i] = "*";
 				next;
 			}
 			if ($newNameData[$i] !~ /^\*I"/) {
-				die "ERROR: PROBLEM WITH CODE for file $file\n";
+				die "ERRORM: PROBLEM WITH CODE for file $file\n";
 			}
 			my $newclass = $old2class{$oldNameData[$i]};
 			if ($newclass =~ /^\s*$/) {
@@ -360,10 +359,12 @@ sub updateNameLine {
 			}
 			my $newcode = $old2code{$data[$i]};
 			if  ($newcode =~ /^\s*$/) {
-				die "ERROR: no code for $data[$i] in file $file\n";
+				print STDERR "WARNING: no code for $data[$i] in file $file\n";
+				$newcode = $codeData[$i];
 			}
+			$newcode = "*" if $newcode =~ /^\s*$/;
 			if ($newcode !~ /^\*/) {
-				die "ERROR: code $newcode is malformed in file $file\n";
+				die "ERRORO: code $newcode is malformed in file $file\n";
 			}
 			$codeData[$i] = $newcode;
 		}
@@ -381,10 +382,12 @@ sub updateNameLine {
 			}
 			my $newclass = $old2class{$data[$i]};
 			if  ($newclass =~ /^\s*$/) {
-				die "ERROR: no class for $data[$i] in file $file\n";
+				print STDERR "WARNING: no class for $data[$i] in file $file\n";
+				$newclass = $classData[$i];
 			}
+			$newclass = "*" if $newclass =~ /^\s*$/;
 			if ($newclass !~ /^\*/) {
-				die "ERROR: class $newclass is malformed in file $file\n";
+				die "ERRORP: class $newclass is malformed in file $file\n";
 			}
 			$classData[$i] = $newclass;
 		}
