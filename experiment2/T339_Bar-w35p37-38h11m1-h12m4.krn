@@ -1,0 +1,84 @@
+!!!COM: Béla Bartók
+!!!OTL: [T339_Bar-w35p37-38mh11m1-h12m4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=154-	=154-	=154-	=154-	=154-	=154-	=154-	=154-
+!LO:TX:a:t=a 5 battute	!LO:DY:t=[ %s marcato]	!	!LO:DY:t=[ %s marcato]	!	!	!LO:TX:t=[Meno vivo [quarter]=120]	!
+!!!ONB:There should be a brace between Vla. + Vc. to show that the battute sign applies to both parts.
+!!!ONB: Downward arrows indicating order of triple-stop playingin Vc. are not available in Verovio
+!LO:TX:t=P:problem: Missing downward arrows indicating direction of triple stop	!	!	!	!	!	!	!
+!	!	!LO:TX:t=P:problem: Missing Brace between Vla. + Vc. to show that the battute sign applies to both parts.	!	!	!	!	!
+4EE^^< 4BB 4E	ff	4B 4e^^	ff	8dd#X 8ccc#X	f	8ddd#X	f
+*	*	*	*	*tremolo	*	*tremolo	*
+.	.	.	.	8r	.	16cc#X 16ddd#LL	.
+.	.	.	.	.	.	16cc#X 16ddd#	.
+[8FF#XL [8C#X [8F#X	.	[8c#XL [8f#X	.	8r	.	16cc#X 16ddd#	.
+.	.	.	.	.	.	16cc#X 16ddd#JJ	.
+=155	=155	=155	=155	=155	=155	=155	=155
+8FF#J] 8C#] 8F#]	.	8c#J] 8f#]	.	8r~^^	.	8ddn~^^ 8eee	.
+8GG#XL 8D#X	.	8d#XL 8g#X	.	16f#X 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+8AAJ 8E	.	8eJ 8a	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=156	=156	=156	=156	=156	=156	=156	=156
+8FF#X 8C#X	.	8c#X 8f#X	.	8gn~^^ 8aa	.	8r	.
+(>8DDL [<8AA	.	[4A [4d	.	16f# 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
+8AAJ] 8D	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f# 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=157	=157	=157	=157	=157	=157	=157	=157
+8D 8A)	.	8A] 8d]	.	8r~^^	.	8ddn~^^ 8eee	.
+8BBL 8E	.	8BL 8e	.	16f#X 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+8FF#XJ 8BB	.	8F#XJ 8B	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=158	=158	=158	=158	=158	=158	=158	=158
+\(8CC#XL 8GG#X	.	(8G#XL 8c#X	.	8gn~^^ 8aa	.	8r	.
+8G#XJ 8c#X)	.	8C#XJ)	.	16f#X 16gg#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16c#X 16dd#X	.
+8DD#X 8AA#X	.	8A#X 8d#X	.	16f#X 16gg#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16c#X 16dd#XJJ	.
+=159	=159	=159	=159	=159	=159	=159	=159
+(8EE^^L \8BB	.	4B~^^ 4e	.	8r~^^	.	8dn~^^< 8ee	.
+8EJ 8B)	.	.	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+(8FF#XL \8C#X	.	[8c#XL [8f#X	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+=160	=160	=160	=160	=160	=160	=160	=160
+8F#XJ 8c#X)	.	8c#J] 8f#]	.	8Gn~^^< 8a	.	8r	.
+8GG#XL 8D#X	.	8d#XL 8g#X	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+8AAJ 8E	.	8eJ 8a	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+!!linebreak:original
+=161	=161	=161	=161	=161	=161	=161	=161
+8FF#X 8C#X	.	8c#X 8f#X	.	8r~^^	.	8dn~<^^< 8ee	.
+(8DDL 8AA	.	(4A 4d	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+8DJ 8A	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+=162	=162	=162	=162	=162	=162	=162	=162
+8d 8a)	.	8D 8A)	.	8Gn~^^< 8a	.	8r	.
+8EL 8B	.	8BL 8e	.	16f#X 16g#XLL	.	16c#X 16d#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16d#X	.
+8BBJ 8F#X	.	8BJ 8f#X	.	16f#X 16g#X	.	16c#X 16d#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16d#XJJ	.
+=163	=163	=163	=163	=163	=163	=163	=163
+(8C#XL 8G#X	.	4g#X 4cc#X	.	8r~^^	.	8dn~<^^< 8e	.
+8CC#XJ 8GG#X)	.	.	.	16f#X 16g#XLL	.	16c#X 16d#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16d#X	.
+8D#X 8A#X	.	8d#X 8a#X	.	16f#X 16g#X	.	16c#X 16d#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16d#XJJ	.
+!!LO:REH:t=12
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/21
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/30
+!!!excerpt-duration-sec: 7.13

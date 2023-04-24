@@ -1,0 +1,115 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T803_Bri-w29p17hLm14-19]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=233	=233	=233	=233	=233	=233	=233	=233
+*	*	*Xtuplet	*	*	*	*	*
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=160]	!LO:DY:ed=brack
+8E'L	mf<	(12F#XL	.p	8c#X'L 8f#X	mf<	8cc#X'L	mf<
+.	.	12f#X	.	.	.	.	.
+8D'	.	.	.	8c#' 8f#	.	8dd'	.
+.	.	12aJ)	.	.	.	.	.
+8Cn'	.	(12aL	.	8c#' 8f#	.	8ee'	.
+.	.	12f#	.	.	.	.	.
+8D'J	[	.	.	8c#'J 8f#	[	8dd'J	[
+.	.	12F#J)	.	.	.	.	.
+2r	.	(12F#L	.	2r	.	2r	.
+.	.	12f#	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+.	.	(12aL	.	.	.	.	.
+.	.	12f#	.	.	.	.	.
+.	.	12F#J)	.	.	.	.	.
+=234	=234	=234	=234	=234	=234	=234	=234
+4r	.	(12F#XL	<	4r	.	4r	.
+.	.	12f#X	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+4Cn'~	<	(12aL	.	4c#X'~ 4f#X	<	4a'~ 4ee	<
+.	.	12f#	.	.	.	.	.
+.	.	12F#J)	.	.	.	.	.
+4C'~	.	(12F#L	.	4c#'~ 4f#	.	4a'~ 4ee	.
+.	.	12f#	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+8C'L	<	(12aL	.	8d'L 8f#X	<	8a'L 8ee	<
+.	.	12f#	.	.	.	.	.
+8BB-X'	.	.	.	8d' 8f#	.	8a' 8ffn	.
+.	.	12F#J)	.	.	.	.	.
+=235	=235	=235	=235	=235	=235	=235	=235
+8AA-X'	.	(12F#XL	.	8d' 8f#X	.	8a' 8gg	.
+.	.	12f#X	.	.	.	.	.
+8BB-X'J	[	.	.	8d'J 8f#	[	8a'J 8ff	[
+.	.	12aJ)	.	.	.	.	.
+4r	.	(12aL	.	4r	.	4r	.
+.	.	12f#	.	.	.	.	.
+.	.	12F#J)	.	.	.	.	.
+!	!LO:HP:i:t=sempre %s	!	!LO:HP:i:t=sempre %s	!	!LO:HP:i:t=sempre %s	!	!LO:HP:i:t=sempre %s
+4r	<	(12F#L	<	4r	<	4r	<
+.	.	12f#	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+8AA-X^>u	.	(12aL	.	8Gu 8f#	.	8a^u 8gg	.
+.	.	12f#	.	.	.	.	.
+8r	.	.	.	8r	.	8r	.
+.	.	12F#J)	.	.	.	.	.
+!!linebreak:original
+=236	=236	=236	=236	=236	=236	=236	=236
+4r	.	(12F#XL	.	4r	.	4r	.
+.	.	12f#X	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+8GG-X^>u	.	(12aL	.	8Au 8f#X^>	.	8a^u 8aa	.
+.	.	12f#	.	.	.	.	.
+8r	.	.	.	8r	.	8r	.
+.	.	12F#J)	.	.	.	.	.
+4r	.	(12F#L	.	4r	.	4r	.
+.	.	12f#	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+8FF^>u	.	(12aL	.	8A#Xu 8f#^>	.	8a^u 8bb-X	.
+.	.	12f#	.	.	.	.	.
+8r	.	.	.	8r	.	8r	.
+.	.	12F#J)	.	.	.	.	.
+=237	=237	=237	=237	=237	=237	=237	=237
+4r	.	(12F#XL	.	4r	.	4r	.
+.	.	12f#X	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+(4EE-Xu	.	(12aL	.	((4Bu 4f#X	.	((4au 4ccc-X	.
+.	.	12f#	.	.	.	.	.
+.	.	12F#J)	.	.	.	.	.
+8FF-X'L)	<	(12F#L	.	8A#X'L 8f#))	<	8a'L 8bb-X))	<
+.	.	12f#	.	.	.	.	.
+8EE-'	.	.	.	8B' 8f#	.	8a' 8ccc-	.
+.	.	12aJ)	.	.	.	.	.
+8DD-X'	.	(12aL	.	8c#X' 8f#	.	8a' 8ddd-X	.
+.	.	12f#	.	.	.	.	.
+8EE-'J	[	.	.	8B'J 8f#	[	8a'J 8ccc-	[
+.	.	12F#J)	.	.	.	.	.
+=238	=238	=238	=238	=238	=238	=238	=238
+4r	.	(12F#XL	.	4r	.	4r	.
+.	.	12f#X	.	.	.	.	.
+.	.	12aJ)	.	.	.	.	.
+8FF-X'L	<	(12aL	.	8A#X'L 8f#X	<	8a'L 8bb-X	<
+.	.	12f#	.	.	.	.	.
+8EE-X'	.	.	.	8B' 8f#	.	8a' 8ccc-X	.
+.	.	12F#J)	.	.	.	.	.
+8DD-X'	.	(12F#L	.	8c#X' 8f#	.	8a' 8ddd-X	.
+.	.	12f#	.	.	.	.	.
+8EE-'J	.	.	.	8B'J 8f#	[	8a'J 8ccc-	[
+.	.	12aJ)	.	.	.	.	.
+4r	[	(12aL	.	4r	.	4r	.
+.	.	12f#	.	.	.	.	.
+.	.	12F#J)	.	.	.	.	.
+*clefC4	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!EED: Gabriella Vici
+!!!EEV: 2021/09/30
+!!!EED2: Jason Lee
+!!!EEV2: 2022/03/09
+!!!excerpt-duration-sec: 8.56

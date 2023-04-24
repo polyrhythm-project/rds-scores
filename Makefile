@@ -1,17 +1,29 @@
 
 
-.PHONY: experiment
+.PHONY: experiment experiment2
+
+KERN_RDS = kern
+KERN = $(KERN_RDS)
+KERN_TDS = ../tds-scores/kern
+
+# Choose which experimental data to extract:
+EXP = experiment2
+# Location of experimental data:
+EXPERIMENT1 = experiment1
+EXPERIMENT2 = experiment2
+
+BINDIR = bin;
 
 check: check-sibelius check-musicxml check-pdf check-kern
 
 check-sibelius:
-	(cd sibelius; ../bin/renamefile -c *.sib)
+	(cd sibelius; ../$(BINDIR)/renamefile -c *.sib)
 check-musicxml:
-	(cd musicxml; ../bin/renamefile -c *.xml)
+	(cd musicxml; ../$(BINDIR)/renamefile -c *.xml)
 check-pdf:
-	(cd pdf; ../bin/renamefile -c *.pdf)
+	(cd pdf; ../$(BINDIR)/renamefile -c *.pdf)
 check-kern:
-	(cd kern; ../bin/renamefile -c *.krn)
+	(cd $(KERN_RDS); ../$(BINDIR)/renamefile -c *.krn)
 
 kern:	humdrum
 krn:	humdrum
@@ -22,41 +34,41 @@ humdrum: utf8
 #	do \
 #		echo Converting $$i; \
 #		musicxml2hum $$i | extractxx --no-rest | \
-#		   bin/adddummymetadata | bin/removedoublebarline | \
+#		   $(BINDIR)/adddummymetadata | $(BINDIR)/removedoublebarline | \
 #		   grep -v "break:original" | \
 #		   egrep -v "^\!\!\!(YEM|YEC)" > \
-#		   kern/$$(basename $$i .xml).krn; \
+#		   $(KERN_RDS)/$$(basename $$i .xml).krn; \
 #	done
 #	echo "ADDING GROUPING INFORMATION TO SCORES"
 #	(cd processing/groupings; make doit)
 #	echo "ADDING *MM LINES (BEFORE RUNNING POLYMETA)"
-#	(cd kern; ../bin/addmmline *.krn)
+#	(cd $(KERN_RDS); ../$(BINDIR)/addmmline *.krn)
 #	echo "ADDING METADATA INFORMATION TO SCORES"
-#	(cd kern; ../bin/polymeta *.krn >& /dev/null)
+#	(cd $(KERN_RDS); ../$(BINDIR)/polymeta *.krn >& /dev/null)
 	
 
 xml: utf8
 utf16: utf8
 utf8:
-	(cd musicxml && ../bin/utf16toutf8 *.xml)
+	(cd musicxml && ../$(BINDIR)/utf16toutf8 *.xml)
 
 
 index:
-	bin/makehmdindex > index.hmd
+	$(BINDIR)/makehmdindex > index.hmd
 
 
 clean-tabs:
-	(cd kern && ../bin/removeTabs *.krn)
+	(cd $(KERN_RDS) && ../$(BINDIR)/removeTabs *.krn)
 
 
 meta: metadata
 metadata:
-	bin/polymeta kern/*.krn
+	$(BINDIR)/polymeta $(KERN_RDS)/*.krn
 
 
-experiment:
+experiment1-data:
 	mkdir -p experiment
-	cp $$(grep -l "experiment: 1" kern/*.krn) experiment
+	cp $$(grep -l "experiment: 1" $(KERN_RDS)/*.krn) experiment
 	# remove any that should not be there:
 	@-rm experiment/R187_*
 	@-rm experiment/R215_*
@@ -73,65 +85,93 @@ experiment:
 	@-rm experiment/R730_*
 	#@-rm experiment/R770_*
 
+experiment2-data:
+	#@mkdir -p experiment2
+	#@-rm experiment2/*.krn
+
+	# RDS files:
+	cat $(KERN_RDS)/R310*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 5.49/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R310*.krn))
+	myank -m 3-6 $$(ls $(KERN_RDS)/R324*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.83/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R324*.krn))
+	myank -m 22-28 $$(ls $(KERN_RDS)/R350*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.19/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R350*.krn))
+	myank -m 0-6 $$(ls $(KERN_RDS)/R534x*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 9.03/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R534x*.krn))
+	myank -m 10-12 $$(ls $(KERN_RDS)/R560*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 8.24/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R560*.krn))
+	myank -m 74-76 $$(ls $(KERN_RDS)/R574*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.13/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R574*.krn))
+	myank -m 1-6 $$(ls $(KERN_RDS)/R582*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.14/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R582*.krn))
+	cat $(KERN_RDS)/R616*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 6.95/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R616*.krn))
+	myank -m 91-94 $$(ls $(KERN_RDS)/R686x*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec:6.16/' > experiment2/$$(basename $$(ls $(KERN_RDS)/R686x*.krn))
+
+	# TDS files:
+	myank -m 77-85 $$(ls $(KERN_TDS)/T169*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 8.8/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T169*.krn))
+	cat $(KERN_TDS)/T232A*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 5.62/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T232A*.krn))
+	cat $(KERN_TDS)/T271*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 5.92/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T271*.krn))
+	myank -m 154-163 $$(ls $(KERN_TDS)/T339*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.13/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T339*.krn))
+	cat $(KERN_TDS)/T448*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 6.25/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T448*.krn))
+
+	# The following example was hand edited to include the first quarter note of m181:
+	myank -m 177-180 $$(ls $(KERN_TDS)/T502*.krn) | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 7.1/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T502*.krn))
+
+	cat $(KERN_TDS)/T803*.krn | sed 's/excerpt-duration-sec:.*/excerpt-duration-sec: 8.56/' > experiment2/$$(basename $$(ls $(KERN_TDS)/T803*.krn))
+
+
 ##### ANALYSES #####
 
 nested:
-	@bin/getNestedRatio experiment/*.krn
+	@$(BINDIR)/getNestedRatio $(EXP)/*.krn
 
 
 polarity:
-	@bin/getPolarityRatio experiment/*.krn
+	@$(BINDIR)/getPolarityRatio $(EXP)/*.krn
 
 
 staff:
-	@bin/getStaffCount experiment/*.krn
+	@$(BINDIR)/getStaffCount $(EXP)/*.krn
 
 
 range:
-	@bin/getPitchRanges experiment/*.krn
+	@$(BINDIR)/getPitchRanges $(EXP)/*.krn
 
 
 mean: pitch-mean
 means: pitch-mean
 pitch-means: pitch-mean
 pitch-mean:
-	@bin/getPitchMeans experiment/*.krn
+	@$(BINDIR)/getPitchMeans $(EXP)/*.krn
 
 
 register:
-	@bin/getPitchRegisters experiment/*.krn
+	@$(BINDIR)/getPitchRegisters $(EXP)/*.krn
 
 
 registerA:
-	@bin/getPitchRegisters -g A experiment/*.krn
+	@$(BINDIR)/getPitchRegisters -g A $(EXP)/*.krn
 
 
 registerB:
-	@bin/getPitchRegisters -g B experiment/*.krn
+	@$(BINDIR)/getPitchRegisters -g B $(EXP)/*.krn
 
 
 dissonant: dissonance
 dissonance:
-	@bin/getSonorityDissonance experiment/*.krn
+	@$(BINDIR)/getSonorityDissonance $(EXP)/*.krn
 
 
 dur: duration
 durs: duration
 durations: duration
 duration:
-	@bin/getExampleDurations experiment/*.krn
+	@$(BINDIR)/getExampleDurations $(EXP)/*.krn
 
 ed: event-density
 event-density:
-	@bin/getEventDensity experiment/*.krn
+	@$(BINDIR)/getEventDensity $(EXP)/*.krn
 
 edr: event-density-ratio
 event-density-ratio:
-	@bin/getEventDensityRatio experiment/*.krn
+	@$(BINDIR)/getEventDensityRatio $(EXP)/*.krn
 
 nr: npvi-ratio
 npvi-ratio:
-	@bin/getNpviRatio experiment/*.krn
+	@$(BINDIR)/getNpviRatio $(EXP)/*.krn
 
 
 

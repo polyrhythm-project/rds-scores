@@ -1,0 +1,124 @@
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Piano Sonata No. 9 in C Major, op. 103
+!!!OMV: Movement 3
+!!!example: 574
+!!!work: Pro-41
+!!!OMD-full: Allegro tranquillo
+!!!OMD: [Allegro sostenuto]
+**kern	**dynam	**kern	**dynam
+*clefF4	*	*clefF4	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
+*A-:	*	*A-:	*
+*M4/4	*	*M4/4	*
+=74-	=74-	=74-	=74-
+!	!	!LO:TX:t=[[quarter]=96]	!
+!	!	!	!LO:DY:ed=brack
+!	!	!	!
+*Xtuplet	*	*	*
+20AAA-LL	.	8.AA-~L	p
+20CC-X	.	.	.
+20AAA-	.	.	.
+20FFF#X	.	.	.
+.	.	16BB-Jk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.BB-~L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16C-XJk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.C-L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16D-Jk	.
+20GGGJJ	.	.	.
+20AAA-LL	.	8.D-L	.
+20CC-	.	.	.
+20AAA-	.	.	.
+20FFF#	.	.	.
+.	.	16BBnJk	.
+20GGGJJ	.	.	.
+=75||	=75||	=75||	=75||
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+20BBBLL	.	8.E~L	<
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#X	.	.	.
+.	.	16F#XJk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.F#~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16BBJk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.E~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16F#Jk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.B~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16c#XJk	.
+20GGGJJ	.	.	.
+=76	=76	=76	=76
+*	*	*clefG2	*
+20BBBLL	.	8.c#X~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#X	.	.	.
+.	.	16d#XJk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.d#~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16BJk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.e~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16f#XJk	.
+20GGGJJ	.	.	.
+20BBBLL	.	8.f#~L	.
+20EE	.	.	.
+20BBB	.	.	.
+20FFF#	.	.	.
+.	.	16dnJk	.
+20GGGJJ	.	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1951/04/21
+!!!MGN:
+!!!MLC: Moscow, Russia
+!!!MPD: 1951
+!!!MPN: Richter, Sviatoslav
+!!!ODT: 1947
+!!!PDT: 1955
+!!!excerpt-start-measure: 74
+!!!excerpt-end-measure: 77
+!!!excerpt-start-time: 4:54
+!!!excerpt-end-time: 5:04
+!!!excerpt-duration-sec: 7.13
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {96}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

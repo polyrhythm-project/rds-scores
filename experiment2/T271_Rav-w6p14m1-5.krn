@@ -1,0 +1,64 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T271_Rav-w6p14m1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M6/8	*	*M6/8	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=92]	!
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!
+!!!ONB: In the original, the time signature for all parts is 6/8, followed immediately by 3/4 in parentheses.
+4%3r	.	8A"^L>	f	8e"^L	f	4a"	f
+.	.	8e"	.	8cc"	.	.	.
+.	.	8A"J	.	8e"J	.	8ee"	.
+.	.	8G"^L	.	8e"^L	.	8r	.
+.	.	8e"	.	8cc"	.	8cc"L	.
+.	.	8G"J	.	8e"J	.	8dd"J	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	8F"^L	.	8c"^L	.	4ee"	.
+.	.	8c"	.	8a"	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+4D"	f	8F"^J	.	8c"^J	.	4a"	.
+.	.	8c"L	.	8f"L	.	.	.
+4E"	.	8E"^	.	8B"^	.	4g"	.
+.	.	8B"J	.	8e"J	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4AA"	.	8A"^L	.	8e"^L	.	4a"	.
+.	.	8e"	.	8cc"	.	.	.
+8r	.	8A"J	.	8e"J	.	8ee"	.
+4r	.	8G"^L	.	8e"^L	.	8r	.
+.	.	8e"	.	8cc"	.	8cc"L	.
+8r	.	8G"J	.	8e"J	.	8dd"J	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	8F"^L	.	8c"^L	.	4ee"	.
+.	.	8c"	.	8a"	.	.	.
+4D"	.	8F"^J	.	8c"^J	.	4a"	.
+.	.	8c"L	.	8f"L	.	.	.
+4E"	.	8E"^	.	8B"^	.	4g"	.
+.	.	8B"J	.	8e"J	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4AA"	.	8A"^L	.	8e"^L	.	4f"	.
+.	.	8e"	.	8cc"	.	.	.
+8r	.	8A"J	.	8e"J	.	8cc"	.
+4r	.	8G"^L	.	8e"^L	.	8r	.
+.	.	8e"	.	8cc"	.	8a"L	.
+8r	.	8G"J	.	8e"J	.	8b"J	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/10/26
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/04/06
+!!!excerpt-duration-sec: 5.92

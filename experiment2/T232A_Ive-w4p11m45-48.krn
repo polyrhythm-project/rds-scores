@@ -1,0 +1,45 @@
+!!!COM: Charles Ives
+!!!OTL: [T232A_Ive-w4p11m45-48]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=45	=45	=45	=45	=45	=45	=45	=45
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=120]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+2DD	f	2F#	mp	4d)	f	4d	p
+.	.	.	.	4r	.	4cc#X^	f
+[4C#X^	f	[4c#X^	f	4r	.	4b	.
+=46	=46	=46	=46	=46	=46	=46	=46
+4C#]	.	4c#]	.	2B 2e	.	4a	.
+4.BB^	.	4.B^	.	.	.	4g	.
+.	.	.	.	4d	.	4f#	.
+[8AA^	.	[8A^	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+4.AA]	.	4.A]	.	8.c#XL	.	8.eL	.
+.	.	.	.	16BJk	.	16dJk	.
+.	.	.	.	4A	.	4c#X	.
+[8GG^	.	[8G^	.	.	.	.	.
+4GG]	.	4G]	.	4B	.	8BL	.
+.	.	.	.	.	.	[>8eeJ	.
+=48	=48	=48	=48	=48	=48	=48	=48
+4FF#	.	4F#	.	[2.A [2.d	.	8.eeL]	.
+.	.	.	.	.	.	16ddJk	.
+[2FFn^	.	[2Fn^	.	.	.	4cc#X	.
+.	.	.	.	.	.	4b	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2022/01/04
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/05/05
+!!!excerpt-duration-sec: 5.62

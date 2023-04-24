@@ -1,0 +1,91 @@
+!!!COM: Martin, Frank
+!!!OTL: Esquisse pour Piano
+!!!OMV:
+!!!example: 534x
+!!!work: Mai-0
+!!!OMD-full: Allegretto tranquillo
+!!!OMD: Allegretto tranquillo  [eighth]=108
+**kern	**dynam	**kern	**dynam
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*I"Piano	*	*I"Piano	*
+*I'Pno.	*	*I'Pno.	*
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M3/8	*	*M3/8	*
+!	!	!	!LO:DY:t=cantabile ( %s )
+8r	.	8g'~L	mp
+8e'	p	(32f#XKL 32cc#X	.
+.	.	[16.ff#XJJ	.
+=1	=1	=1	=1
+(8e-X~L 8ccn	.	8.ff#L]	.
+8d'J 8a)	.	.	.
+.	.	16ee-XL	.
+(8e-~L 8bn	.	16f#X	.
+.	.	16ddJJ	.
+=2	=2	=2	=2
+8d'J 8a)	.	8.ff#XL	.
+(8e-X~L 8cc	.	.	.
+.	.	16ddL	.
+8d'J 8a)	.	16f#X	.
+.	.	16ee-XJJ	.
+=3	=3	=3	=3
+8e-X' 8b	.	16ff#XLL	.
+.	.	16aaJ	.
+(8d~L> 8cc	.	8.aa-X	.
+8e-'J 8b)	.	.	.
+.	.	16ffnJk	.
+=4	=4	=4	=4
+(8f~L 8dd	.	8.b-XL	.
+8en'J 8bn)	.	.	.
+.	.	16a-XL	.
+(8f~L 8cc#X	.	16b-	.
+.	.	16a-JJ	.
+=5	=5	=5	=5
+8e'J 8bn)	.	8b-X'L>)	.
+!	!	!LO:S:a	!
+(8f~L 8dd	.	(16a-X^k	.
+.	.	[8.b-J	.
+8e'J 8b)	.	.	.
+=6	=6	=6	=6
+(8f~L> 8cc#X	.	8.b-L]	>
+8e' 8b	.	.	.
+.	.	[8.a-XJ	.
+8f'J 8dd)	.	.	]]
+=	=	=	=
+*-	*-	*-	*-
+!!!Xfilter: slurcheck
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Instrumental; Keyboard
+!!!MCN: unknown
+!!!MDT: ?
+!!!MGN:
+!!!MLC: unknown
+!!!MPD: 1966
+!!!MPN: unknown
+!!!ODT: 1965
+!!!PDT: unknown
+!!!excerpt-start-measure: 0.333
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:19
+!!!excerpt-duration-sec: 9.03
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 108
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

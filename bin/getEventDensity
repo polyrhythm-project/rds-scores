@@ -10,6 +10,14 @@
 #
 
 use strict;
+use Getopt::Long;
+
+my $audioDuration;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'd|s|audio-duration|seconds=s' => \$audioDuration
+);
 
 my @files = @ARGV;
 
@@ -29,14 +37,18 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my $compositeNotes = `composite -G $file | extractx -s 1 | ridx -H | grep -v r | wc -l`;
+	my $compositeNotes = `composite $file | extractx -s 1 | ridx -H | grep -v r | wc -l`;
 	chomp $compositeNotes;
-	my $excerptDuration = `grep "excerpt-duration-sec:" $file`;
-	chomp $excerptDuration;
-	if ($excerptDuration !~ /excerpt-duration-sec:\s*(.+)\s*$/) {
-		die "problem on line $excerptDuration\n";
+	my $excerptDuration = $audioDuration;
+	my $seconds = $audioDuration;
+	if ($excerptDuration =~ s/^\s*$//) {
+		$excerptDuration = `grep "excerpt-duration-sec:" $file`;
+		chomp $excerptDuration;
+		if ($excerptDuration !~ /excerpt-duration-sec:\s*(.+)\s*$/) {
+			die "problem on line $excerptDuration\n";
+		}
+		$seconds = $1;
 	}
-	my $seconds = $1;
 	my $value = $compositeNotes / $seconds;
 	$value = int($value * 100.0 + 0.5) / 100.0;
 	print "$value\n";

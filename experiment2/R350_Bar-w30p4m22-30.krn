@@ -1,0 +1,109 @@
+!!!COM: Bartók, Béla
+!!!OTL: Piano Sonata
+!!!OMV: I: Allegro moderato
+!!!example: 350
+!!!work: Bar-30
+!!!OMD-full: Allegro moderato
+!!!OMD: [Allegro moderato]
+**kern	**kern	**dynam	**dynam
+*clefF4	*clefG2	*	*
+*k[]	*k[]	*	*
+*C:	*C:	*	*
+*M2/4	*M2/4	*	*
+=22-	=22-	=22-	=22-
+*^	*^	*	*
+*	*	*	*grp:A	*	*
+!	!	!LO:TX:t=[[quarter]=123]	!	!	!
+!	!	!LO:TX:b:t=	!	!	!
+!	!	!LO:T:n=2:a	!	!LO:DY:ed=brack	!LO:DY:t=
+8DL	8GG#X 8C#X	4G] [4g]	8ryy	f	f
+8D	8r	.	8B 8c#X	.	.
+8D	8EE#X 8AA#X	16g]LL	8r	.	.
+.	.	(16a	.	.	.
+8DJ	8r	16g	8B 8c#	.	.
+.	.	16f#XJJ	.	.	.
+=23	=23	=23	=23	=23	=23
+8DL	8GG#X 8C#X	16gLL	8r	.	.
+.	.	16f#XJJ)	.	.	.
+8D	8r	16ree	8B 8c#X	.	.
+.	.	(16aLL	.	.	.
+8D	8EE#X 8AA#X	16g	8r	.	.
+.	.	16f#J	.	.	.
+8DJ	8r	16gL	8B 8c#	.	.
+.	.	16f#JJ)	.	.	.
+=24	=24	=24	=24	=24	=24
+8DL	8GG#X 8C#X	16ree	8rc	.	.
+.	.	(16gLL	.	.	.
+8D	8r	16f#JJ)	8B 8c#X	.	.
+.	.	16ree	.	.	.
+8D	8EE#X 8AA#X	(16gLL	8r	.	.
+.	.	16f#JJ)	.	.	.
+8DJ	8r	16ree	8B 8c#	.	.
+.	.	(>16gKL	.	.	.
+=25	=25	=25	=25	=25	=25
+8DL	8GG#X 8C#X	16f#XJk)	8r	.	.
+.	.	16ree	.	.	.
+8D	8r	(16gLL	8B 8c#X	.	.
+.	.	16f#JJ)	.	.	.
+*	*	*v	*v	*	*
+8D	8EE#X 8AA#X	16ree	.	.
+!	!	!LO:S:a	!	!
+.	.	(16f#L	<	.
+8DJ	8r	16g	.	.
+.	.	16aJ	.	.
+=26	=26	=26	=26	=26
+*	*	*^	*	*
+8F#XL 8Gn	8C#X	16BL 16b	8r	[	.
+.	.	16cJ 16cc)	.	.	.
+8F# 8G	8r	8ree	8e 8f#X	.	.
+8r	8AAA#X 8FF#X 8GGz	8ree	8rc	.	.
+8F#J 8G	8r	(16bLL 16bb	8ee 8ff#X	.	.
+.	.	16ccJJ 16ccc)	.	.	.
+=27	=27	=27	=27	=27	=27
+8F#XL 8G	8C#X	4ree	8rc	.	.
+8F# 8G	8r	.	8e 8f#X	.	.
+8F# 8G	8AA#X	(16BLL 16b	8r	.	.
+.	.	16cJJ 16cc)	.	.	.
+8F#J 8G	8r	8ree	8e 8f#	.	.
+=28	=28	=28	=28	=28	=28
+8F#XL 8G	8C#X	8r	8ryy	.	.
+8F# 8G	8r	(16bLL 16bb	8ee 8ff#X	.	.
+.	.	16ccJJ 16ccc)	.	.	.
+8r	8AAA#X 8FF#X 8GGz	16r	8ryy	.	.
+!	!	!LO:S:a	!	!	!
+.	.	(16BLL 16b	.	.	.
+8F#J 8G	8r	16cJJ 16cc)	8e 8f#X	.	.
+.	.	16r	.	.	.
+*	*	*v	*v	*	*
+=	=	=	=	=
+*v	*v	*	*	*
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1926/12/08
+!!!MGN:
+!!!MLC: Budapest, Hungary
+!!!MPD: 1926
+!!!MPN: Bartók, Béla
+!!!ODT: 1926
+!!!PDT: 1927
+!!!excerpt-start-measure: 22
+!!!excerpt-end-measure: 30
+!!!excerpt-start-time: 0:23
+!!!excerpt-end-time: 0:32
+!!!excerpt-duration-sec: 7.19
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [120-126]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

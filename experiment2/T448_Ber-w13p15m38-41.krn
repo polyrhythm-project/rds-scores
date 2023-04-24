@@ -1,0 +1,72 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T448_Ber-w13p15m38-41]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=38
+=38	=38	=38	=38	=38	=38	=38	=38
+!!LO:TX:t=[a tempo, ma più mosso [quarter-dot]=50 (Tempo II)]
+!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]
+(8G-X'J)i	<	(16BnLL	<	(8aa-XL	<	8dn`^^L 8ddn	<
+.	.	.	.	.	<	.	.
+.	.	16B-X`)	.	.	[	.	.
+(16E-XLL	.	(16B-	.	8.ggn'~)	>	(16dL 16dd	<
+16CnJ	.	16An 16c#X	.	.	.	16d#X 16dd#X	.
+8A-X'J)	.	16cn	.	.	]	16en 16een	.
+.	.	16GnJJ 16Bn)	.	16bb-XJk	<	16fnJJ 16ffn)	[
+*	*	*Xneben	*	*Xhaupt	*	*	*
+!!LO:REH:t=39
+=39	=39	=39	=39	=39	=39	=39	=39
+*	*	*	*	*	*	*haupt	*
+!	!	!	!	!	!	!LO:TX:a:B:t=viel Bogen	!
+!	!	!	!	!LO:TX:a:B:t=viel Bogen	!	!LO:TX:a:t=poco allargando [al Tempo I]	!
+(16E-XLL	.	8F#X 8A#X 8f#X	.	(8aa-XL	.	(8cccnL	<
+16BBnJ	.	.	.	.	[ >	.	[ >
+!!!ONB: grey note should be in parentheses
+8An'J)	.	(16AnNLL 16f#X	.	8.ggn'~)	.	8.bbn'~)	.
+.	.	16ccnJ	.	.	.	.	.
+(16E-XL	.	8dnJ)	.	.	]	.	]
+16AAn	.	.	.	16ff#XJk	<	16dddnJk	<
+!!LO:REH:t=40
+=40	=40	=40	=40	=40	=40	=40	=40
+8B-X'J)	.	(16f#XLL	.	(8aa-XL	.	(8cccnL	.
+.	.	16ddnJ	.	.	[ >	.	[ >
+(16E-XL	.	8cn)	.	8.ggn'~)	.	8.bbn'~)	.
+16AA-X	.	.	.	.	.	.	.
+16B-X')J	.	(16f#XL	.	.	]	.	]
+(16E-XL	.	16a#XJJ	.	16ff#XJk	< [	16dddnJk	< [
+*	*	*clefG2	*	*	*	*	*
+!!LO:REH:t=41
+=41	=41	=41	=41	=41	=41	=41	=41
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+16GGn	f	8ffnL	f	(8aa-XL	f <	(8cccnL	f <
+16Bn'J)	.	.	.	.	.	.	.
+(16E-XLLi	.	16eenL)	.	8ggn	.	8bbn	.
+16FF#X	.	(16ee-XJ	.	.	.	.	.
+16Dn	.	16b-XL	.	8ee-XJ)	.	8ff#XJ	[ >
+[16cnJJ	.	16an'JJ)	.	.	[	.	.
+*	*	*	*	*neben	*	*	*
+!	!	!	!	!LO:TX:a:t=G Saite	!	!	!
+4.c]	.	(8.anLi	.	(16a-XLL	.	8.ddnL)	.
+.	.	.	.	16g'J)	.	.	]
+.	.	.	.	(8gni	<	.	.
+.	.	16b-XL	<	.	.	(16ee-Xki	.
+.	.	16gn	.	8dnJ	[	[8ffnJ	.
+.	.	16AJJ	[	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: N = cue size, color="grey"
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/11/12
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/03/24
+!!!excerpt-duration-sec: 6.25
