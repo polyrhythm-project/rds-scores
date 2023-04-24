@@ -1,0 +1,452 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Sun Apr 23 11:09:26 PDT 2023
+# Last Modified: Sun Apr 23 15:37:54 PDT 2023
+# Filename:      updateInstruments
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:
+#     copy-and-pasting the contents of this spreadsheet 
+#     https://docs.google.com/spreadsheets/d/1p6yLeyN_5T34wkrNQ0Mrq8lZDOt6LKfbBzzTEd_OOT8/edit#gid=0
+#     to insert updated instrument names as well as instrument
+#     codes and classes into Humdrum files.
+#
+# Usage: 
+#     To check files:
+#         updateInstrument -i spreadsheet-file.txt humdrum-files(s)
+#     To update files (write):
+#         updateInstruments -w -i spreadsheet-file.txt humdrum-file(s)
+#
+
+use strict;
+use Getopt::Long;
+
+my $inputFile;
+my $writeQ = 0;
+my $checkIndexQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'i|input|input-file=s' => \$inputFile,
+   'I|index' => \$checkIndexQ,
+   'w|write' => \$writeQ
+);
+
+die "Usage: $0 -i input.txt file(s)\n" if $inputFile =~ /^\s*$/;
+
+open (FILE, $inputFile) or die "Cannot read spreadsheet info $inputFile\n";
+my @contents = <FILE>;
+chomp @contents;
+close FILE;
+
+my @headings = getHeadings(shift @contents);
+my ($oldNameIndex, $newNameIndex, $codeIndex, $classIndex) = getHeadingIndexes(@headings);
+
+#print "oldNameIndex: $oldNameIndex\n";
+#print "newNameIndex: $newNameIndex\n";
+#print "codeIndex: $codeIndex\n";
+#print "classIndex: $classIndex\n";
+
+my %old2new;
+my %old2code;
+my %old2class;
+
+# Build the lookup indexes:
+foreach my $line (@contents) {
+	my @data = split("\t", $line);
+	next if @data < 5;
+	my $oldName = $data[$oldNameIndex];
+	my $newName = $data[$newNameIndex];
+	next if $oldName =~ /^\s*$/;
+	next if $oldName =~ /^\*I"$/; # empty name (ignore)
+	$newName = $oldName if $newName =~ /^\s*$/;
+
+	my $code = $data[$codeIndex];
+	my $class = $data[$classIndex];
+
+	$oldName =~ s/\s+$//;
+	$newName =~ s/\s+$//;
+	$code    =~ s/\s+$//;
+	$class   =~ s/\s+$//;
+
+	$oldName =~ s/^\s+//;
+	$newName =~ s/^\s+//;
+	$code    =~ s/^\s+//;
+	$class   =~ s/^\s+//;
+
+	#die "BAD OLD NAME IS $oldName\n" if $oldName !~ /^\*I"/;
+	die "BAD NEW NAME IS $newName\n" if $newName !~ /^\*I"/;
+
+	$code = "" if $code eq "variable";
+
+	# empty code means do not replace (or add blank)
+	if ($code !~ /^\s*$/) {
+		die "BAD CODE IS $code for $oldName\n" if $code !~ /^\*I/;
+	}
+
+	# empty class means do not replace (or add blank)
+	if ($class !~ /^\s*$/) {
+		die "BAD CLASS IS $class for $oldName\n" if $class !~ /^\*IC/;
+	}
+
+	$old2new{$oldName} = $newName;
+	$old2code{$oldName} = $code;
+	$old2class{$oldName} = $class;
+}
+
+# printList();
+
+foreach my $file (@ARGV) {
+	print STDERR "PROCESSING $file ===========================\n";
+	processFile($file);
+}
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open(FILE, $file) or die "Cannot read $file for adding instrument info.\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+
+	my $nameIndex = -1;
+	my $codeIndex = -1;
+	my $classIndex = -1;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		last if $line =~ /^=/;
+		next if $line !~ /^\*/;
+		if ($line =~ /\*I"/) {
+			print STDERR "WARNING: duplicate nameIndex $nameIndex and $i for file $file\n" if $nameIndex >= 0;
+			$nameIndex = $i;
+		} elsif ($line =~ /\*IC/) {
+			print STDERR "WARNING: duplicate classIndex $classIndex and $i for file $file\n" if $classIndex >= 0;
+			$classIndex = $i;
+		} elsif ($line =~ /\*I[a-z]/) {
+			print STDERR "WARNING: duplicate codeIndex $codeIndex and $i for file $file\n" if $codeIndex >= 0;
+			$codeIndex = $i;
+		}
+	}
+
+	if ($nameIndex < 0) {
+		die "Cannot find name line in file $file\n";
+	}
+	if (($codeIndex > 0) && ($codeIndex > $nameIndex)) {
+		print STDERR "ERRORL: Code line $codeIndex is after name line $nameIndex in file $file\n";
+	}
+	if (($classIndex > 0) && ($classIndex > $nameIndex)) {
+		print STDERR "ERRORL: Class line $classIndex is after name line $nameIndex in file $file\n";
+	}
+
+	print STDERR "$nameIndex\t$codeIndex\t$classIndex\t$file\n";
+
+	if ($nameIndex >= 0) {
+		my $nameLine = $contents[$nameIndex];
+		$nameLine =~ s/\*(\t|$)//g;
+		print STDERR "\tNAMES:   $nameLine\n";
+		if ($nameLine =~ /\*IC/) {
+			print STDERR "\t\tERRORA: instrument class on name line\n";
+		}
+		if ($nameLine =~ /\*I[a-z]/) {
+			print STDERR "\t\tERRORB: instrument code on name line\n";
+		}
+	}
+
+	if ($codeIndex >= 0) {
+		my $codeLine = $contents[$codeIndex];
+		$codeLine =~ s/\*(\t|$)//g;
+		print STDERR "\tCODES:   $codeLine\n";
+		if ($codeLine =~ /\*I"/) {
+			print STDERR "\t\tERRORC: instrument name on code line\n";
+		}
+		if ($codeLine =~ /\*IC/) {
+			print "\t\tERRORD: instrument class on code line\n";
+		}
+	}
+
+	if ($classIndex >= 0) {
+		my $classLine = $contents[$classIndex];
+		$classLine =~ s/\*(\t|$)//g;
+		print STDERR "\tCLASSES: $classLine\n";
+		if ($classLine =~ /\*I"/) {
+			print STDERR "\t\tERROR: instrument name on class line\n";
+		}
+		if ($classLine =~ /\*I'/) {
+			print "\t\tERROR: instrument abbr on class line\n";
+		}
+	}
+
+	return if $checkIndexQ;
+
+	if ($nameIndex < 0) {
+		die "Cannot find instrument name index in file $file\n";
+	}
+
+	my $changed = 0;
+	my @newcontents;
+	($changed, @newcontents) = updateFileContents($file, $nameIndex, $codeIndex, $classIndex, @contents);
+
+	if ($changed) {
+		print STDERR "UPDATING FILE: $file\n";
+		if ($writeQ) {
+			open (FILE, ">$file") or die "Cannot write to $file\n";
+			for (my $i=0; $i<@newcontents; $i++) {
+				print FILE "$newcontents[$i]\n";
+			}
+			close FILE;
+		} else{
+			# Print changes that will happen (try before -w option is used).
+			for (my $i=0; $i<@newcontents; $i++) {
+				my $line = $contents[$i];
+				my $newLine = $newcontents[$i];
+				if ($line ne $newLine) {
+					print STDERR "CHANGING LINE ", ($i+1), " FROM:\n";
+					print STDERR "\t$line\n";
+					print STDERR "TO\n";
+					print STDERR "\t$newLine\n";
+				}
+			}
+		}
+	}
+	print STDERR "\n";
+}
+
+
+##############################
+##
+## updateFileContents --
+##
+
+sub updateFileContents {
+	my ($file, $nameIndex, $codeIndex, $classIndex, @contents) = @_;
+	my $changed = 0;
+	my @output;
+	my @oldNameData;
+	my @newNameData;
+
+print "UPDATING FILE: $file\n";
+print "SIZE OF FILE ", ($#contents+1), "\n";
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line !~ /^\*/) {
+			$output[$i] = $line;
+			next;
+		}
+		if ($nameIndex == $i) {
+			# update the name line (and add code/class lines if not present in file).
+			@oldNameData = split(/\t+/, $line);
+			my $newLine = updateNameLine($line, $nameIndex, $codeIndex, $classIndex, $file);
+			$newLine =~ s/.*\n//;  # Remove any added code or class line.
+print "OLD LINE: $line\n";
+print "NEW LINE: $newLine\n";
+			@newNameData = split(/\t+/, $newLine);
+			if ($line ne $newLine) {
+				$changed = 1;
+			}
+			$output[$i] = $newLine;
+		} else {
+			$output[$i] = $line;
+			next;
+		}
+	}
+
+	if (@oldNameData == 0) {
+		die "ERRORM: NO INSTRUMENT NAMES DATA IN FILE $file\n";
+	}
+
+	if ($codeIndex > 0) {
+		my @codeData = split(/\t+/, $contents[$codeIndex]);
+		die "ERROR: Mismatch in length of code line versus name line for file $file\n" if $#codeData != $#oldNameData;
+		for (my $i=0; $i<@codeData; $i++) {
+			if ($oldNameData[$i] eq "*") {
+				$codeData[$i] = "*";
+				next;
+			}
+			if ($newNameData[$i] !~ /^\*I"/) {
+				die "ERROR: PROBLEM WITH CODE for file $file\n";
+			}
+			my $newcode = $old2code{$oldNameData[$i]};
+			if ($newcode =~ /^\s*$/) {
+				print STDERR "WARNING: EMPTY CODE FOR NAME $oldNameData[$i] for $codeData[$i] in file $file\n";
+				$newcode = $codeData[$i]
+			}
+			$codeData[$i] = $newcode;
+		}
+		my $replace = join("\t", @codeData);
+		if ($replace ne $contents[$codeIndex]) {
+			$output[$codeIndex] = $replace;
+			$changed = 1;
+		}
+	}
+
+	if ($classIndex > 0) {
+		my @classData = split(/\t+/, $contents[$classIndex]);
+		die "ERROR: Mismatch in length of class line versus name line for file $file\n" if $#classData != $#oldNameData;
+		for (my $i=0; $i<@classData; $i++) {
+			if ($oldNameData[$i] eq "*") {
+				$classData[$i] = "*";
+				next;
+			}
+			if ($newNameData[$i] !~ /^\*I"/) {
+				die "ERROR: PROBLEM WITH CODE for file $file\n";
+			}
+			my $newclass = $old2class{$oldNameData[$i]};
+			if ($newclass =~ /^\s*$/) {
+				print "WARNING: EMPTY CLASS for name $oldNameData[$i] for $classData[$i] in file $file\n";
+				$newclass = $classData[$i];
+			}
+			$classData[$i] = $newclass;
+		}
+		my $replace = join("\t", @classData);
+		if ($replace ne $contents[$classIndex]) {
+			$output[$classIndex] = $replace;
+			$changed = 1;
+		}
+	}
+
+	return ($changed, @output);
+}
+
+
+##############################
+##
+## updateNameLine -- Convert to new instrument names.
+##   Also prefix code and class to instrument name if they are not
+##   in the score already.
+##
+
+sub updateNameLine {
+	my ($line, $nameIndex, $codeIndex, $classIndex, $file) = @_;
+	my @data = split(/\t+/, $line);
+	my @outdata;
+	for (my $i=0; $i<@data; $i++) {
+		if ($data[$i] eq "*") {
+			$outdata[$i] = "*";
+			next;
+		}
+		my $value = $old2new{$data[$i]};
+		if ($value =~ /^\s*$/) {
+			$value = $data[$i];
+		}
+		if ($value =~ /^\s*$/) {
+			die "ERRORN: PROBLEM WITH NAME $data[$i] in file $file\n";
+		}
+		$data[$i] = $value;
+	}
+
+	my $newLine = join("\t", @data);
+
+	my $codeLine = "";
+	if ($codeIndex < 0) {
+		# prepend a code line to the name line (separated by \n):
+		my @codeData;
+		for (my $i=0; $i<@data; $i++) {
+			if ($data[$i] eq "*") {
+				$codeData[$i] = "*";
+				next;
+			}
+			my $newcode = $old2code{$data[$i]};
+			if  ($newcode =~ /^\s*$/) {
+				die "ERROR: no code for $data[$i] in file $file\n";
+			}
+			if ($newcode !~ /^\*/) {
+				die "ERROR: code $newcode is malformed in file $file\n";
+			}
+			$codeData[$i] = $newcode;
+		}
+		$codeLine = join("\t", @codeData);
+	}
+
+	my $classLine = "";
+	if ($classIndex < 0) {
+		# prepend a class line to the name line (separated by \n):
+		my @classData;
+		for (my $i=0; $i<@data; $i++) {
+			if ($data[$i] eq "*") {
+				$classData[$i] = "*";
+				next;
+			}
+			my $newclass = $old2class{$data[$i]};
+			if  ($newclass =~ /^\s*$/) {
+				die "ERROR: no class for $data[$i] in file $file\n";
+			}
+			if ($newclass !~ /^\*/) {
+				die "ERROR: class $newclass is malformed in file $file\n";
+			}
+			$classData[$i] = $newclass;
+		}
+		$classLine = join("\t", @classData);
+	}
+
+	if ($codeLine !~ /^\s*$/) {
+		$newLine = "$codeLine\n$newLine";
+	}
+	if ($classLine !~ /^\s*$/) {
+		$newLine = "$classLine\n$newLine";
+	}
+
+	return $newLine;
+}
+
+
+##############################
+##
+## printList --
+##
+
+sub printList {
+	my @keys = sort keys %old2new;
+	foreach my $key (@keys) {
+		print "$old2code{$key}\t$old2class{$key}\t$key\t$old2new{$key}\n";
+	}
+}
+
+
+
+##############################
+##
+## getHeadingIndexes --
+##
+
+sub getHeadingIndexes {
+	my @headings = @_;
+   my ($oldnameIndex, $newnameIndex, $codeIndex, $classIndex);
+	for (my $i=0; $i<@headings; $i++) {
+		my $heading= $headings[$i];
+		$oldnameIndex = $i if $heading =~ /Instrument\s*name/i;
+		$newnameIndex = $i if $heading =~ /Rename/i;
+		$codeIndex    = $i if $heading =~ /Instrument\s*code/i;
+		$classIndex   = $i if $heading =~ /Instrument\s*class/i;
+	}
+
+	return ($oldnameIndex, $newnameIndex, $codeIndex, $classIndex);
+}
+
+
+
+##############################
+##
+## getHeadings --
+##
+
+sub getHeadings {
+	my ($input) = @_;
+	my @output = split("\t", $input);
+
+}
+
+
+
