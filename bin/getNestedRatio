@@ -2,8 +2,8 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Sat Jun 19 20:12:51 PDT 2021
-# Last Modified: Sat Jun 19 20:12:54 PDT 2021
-# Filename:      getNestedRatio
+# Last Modified: Fri Apr 28 14:51:20 PDT 2023
+# Filename:      bin/getNestedRatio
 # Syntax:        perl 5
 #
 # Description:   Calculate group nested score.
@@ -39,7 +39,7 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my @contents = `cat $file | composite -M | composite -GM`;
+	my @contents = `cat $file | compositeold -M | compositeold -GM`;
 	chomp @contents;
 	my $coincideNotes = -1;
 	my $compositeNotes = -1;

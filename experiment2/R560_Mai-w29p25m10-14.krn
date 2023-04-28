@@ -6,6 +6,7 @@
 !!!OMD-full: Vivace
 !!!OMD: [Vivace]
 **kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
 *clefF4	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*

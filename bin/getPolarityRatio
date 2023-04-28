@@ -22,6 +22,15 @@
 #
 
 use strict;
+use Getopt::Long;
+
+my $verboseQ = 0;
+my $outputQ  = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'v|verbose' => \$verboseQ,
+   'o|output' => \$outputQ
+);
 
 my @files = @ARGV;
 
@@ -46,41 +55,55 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my @contents = `cat $file | composite -M | composite -GM`;
+	my @contents = `cat $file | compositeold -M | compositeold -GM`;
+	if ($outputQ) {
+		print "\nOUTPUT DATA:\n";
+		print "====================================\n";
+		print @contents;
+		print "====================================\n\n";
+	}
 	chomp @contents;
 	my $groupAcoincide = -1;
 	my $groupBcoincide = -1;
-	my $groupAtotal = -1;
-	my $groupBtotal = -1;
+	my $groupAtotal    = -1;
+	my $groupBtotal    = -1;
 	my $compositeTotal = -1;
 	foreach my $line (@contents) {
-		if ($line =~ /composite-total-notes:\s*(\d+)/) {
+		if ($line =~ /^!!!composite-total-notes:\s*(\d+)/) {
+			print "FOUND $line\n" if $verboseQ;
 			$compositeTotal = $1;
-		} elsif ($line =~ /group-A-coincide-notes:\s*(\d+)/) {
+		} elsif ($line =~ /^!!!group-A-coincide-notes:\s*(\d+)/) {
+			print "FOUND $line\n" if $verboseQ;
 			$groupAcoincide = $1;
-		} elsif ($line =~ /group-B-coincide-notes:\s*(\d+)/) {
+		} elsif ($line =~ /^!!!group-B-coincide-notes:\s*(\d+)/) {
+			print "FOUND $line\n" if $verboseQ;
 			$groupBcoincide = $1;
-		} elsif ($line =~ /group-A-total-notes:\s*(\d+)/) {
+		} elsif ($line =~ /^!!!group-A-total-notes:\s*(\d+)/) {
+			print "FOUND $line\n" if $verboseQ;
 			$groupAtotal = $1;
-		} elsif ($line =~ /group-B-total-notes:\s*(\d+)/) {
+		} elsif ($line =~ /^!!!group-B-total-notes:\s*(\d+)/) {
+			print "FOUND $line\n" if $verboseQ;
 			$groupBtotal = $1;
 		}
 	}
+
 	if ($groupAcoincide < 0) {
-		print "ERROR\n";
+		print "ERROR NO !!!composite-total-notes: reference record for $file\n";
 	} elsif ($groupBcoincide < 0) {
-		print "ERROR\n";
+		print "ERROR NO !!!group-A-coincide-notes: reference record for $file\n";
 	} elsif ($groupAtotal <= 0) {
-		print "ERROR\n";
+		print "ERROR NO !!!group-B-coincide-notes: reference record for $file\n";
 	} elsif ($groupBtotal <= 0) {
-		print "ERROR\n";
+		print "ERROR NO !!!group-A-total-notes: reference record for $file\n";
 	} elsif ($compositeTotal <= 0) {
-		print "ERROR\n";
+		print "ERROR NO !!!group-B-total-notes: reference record for $file\n";
 	} else {
 		# my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
 		my $value = abs($groupAtotal - $groupBtotal) * 1.0 / $compositeTotal;
 		$value = int($value * 1000.0 + 0.5) / 1000.0;
-		print "$value\n";
+		print "$value";
+		print " for $file" if $verboseQ;
+		print "\n";
 	}
 }
 

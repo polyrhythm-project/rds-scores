@@ -6,6 +6,7 @@
 !!!OMD-full: Allegretto tranquillo
 !!!OMD: Allegretto tranquillo  [eighth]=108
 **kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
 *staff2	*	*staff1	*
 *ICklav	*	*ICklav	*
 *Ipiano	*	*Ipiano	*

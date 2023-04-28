@@ -63,16 +63,16 @@ for my $file (@files) {
 sub process {
 	my ($file) = @_;
 	my @durations = getDurations($file);
-print "DURATIONS ", join(" ", @durations), "\n";
+#print "DURATIONS ", join(" ", @durations), "\n";
 	# print STDERR "DURATIONS ", join(" ", @durations), "\n";
 	my @harmonies = getHarmonies($file);
 	my $duration = 0;
 	my $summation = 0;
 	for (my $i=0; $i<@harmonies; $i++) {
-print "processing $i $harmonies[$i]\n";
+#print "processing $i $harmonies[$i]\n";
 		next if $harmonies[$i] =~ /^\s*$/;
 		my $dur = $durations[$i];
-print "XDUR = $dur\n";
+#print "XDUR = $dur\n";
 		next if $dur == 0;
 		my $diss = getMaxDissonance($harmonies[$i]);
 		$duration += 0 + $dur;

@@ -31,7 +31,7 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my @contents = `cat $file | composite`;
+	my @contents = `cat $file | compositeold -G `;
 	chomp @contents;
 	my $groupA = -1;
 	my $groupB = -1;
