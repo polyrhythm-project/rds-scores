@@ -37,7 +37,7 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my $compositeNotes = `composite $file | extractx -s 1 | ridx -H | grep -v r | wc -l`;
+	my $compositeNotes = `composite $file | extractx -s 1 | ridx -H | grep -v r | grep -v '[]_]' | wc -l`;
 	chomp $compositeNotes;
 	my $excerptDuration = $audioDuration;
 	my $seconds = $audioDuration;
@@ -52,6 +52,7 @@ sub process {
 	my $value = $compositeNotes / $seconds;
 	$value = int($value * 100.0 + 0.5) / 100.0;
 	print "$value\n";
+	print "compositeNotes: $compositeNotes\n";
 }
 
 

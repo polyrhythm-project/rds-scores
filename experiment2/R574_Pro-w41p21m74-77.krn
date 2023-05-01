@@ -7,6 +7,12 @@
 !!!OMD: [Allegro sostenuto]
 **kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*
+*part1	*	*part1	*
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*I"Piano	*	*I"Piano	*
+*I'Pno.	*	*I'Pno.	*
 *clefF4	*	*clefF4	*
 *k[b-e-a-d-]	*	*k[b-e-a-d-]	*
 *A-:	*	*A-:	*
