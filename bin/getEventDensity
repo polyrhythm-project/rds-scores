@@ -12,16 +12,30 @@
 use strict;
 use Getopt::Long;
 
-my $audioDuration;
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
+
+my $extract = `which extractx`;
+chomp $extract;
+die "Cannot find extractx tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $extract =~ /^\s*$/;
+
+my $rid = `which ridx`;
+chomp $rid;
+die "Cannot find ridx tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $rid =~ /^\s*$/;
+
+my $audioDuration;  # duration in seconds if not extracting from file.
+my $verboseQ = 0;   # -v will list the composite event counts and the durations in seconds used for calculations
 
 Getopt::Long::Configure("bundling");
 GetOptions (
+   'v|verbose' => \$verboseQ,
    'd|s|audio-duration|seconds=s' => \$audioDuration
 );
 
-my @files = @ARGV;
+my @files = sort @ARGV;
 
-die "Type 'make experiment' first." if @files == 0;
+die "No input files.\n" if @files == 0;
 
 for my $file (@files) {
 	process($file);
@@ -37,22 +51,32 @@ for my $file (@files) {
 
 sub process {
 	my ($file) = @_;
-	my $compositeNotes = `composite $file | extractx -s 1 | ridx -H | grep -v r | grep -v '[]_]' | wc -l`;
+	my $compositeNotes = `$composite $file | $extract -i kern-comp | $extract -s 1 | $rid -H | grep -v r | grep -v '[]_]' | wc -l`;
+	# grep -v r removes rests
+	# grep -v '[[]_]' removes secondary tied notes (keeping note attacks of tied notes).
 	chomp $compositeNotes;
+	$compositeNotes =~ s/^\s+//;
+	$compositeNotes =~ s/\s+$//;
 	my $excerptDuration = $audioDuration;
 	my $seconds = $audioDuration;
 	if ($excerptDuration =~ s/^\s*$//) {
-		$excerptDuration = `grep "excerpt-duration-sec:" $file`;
+		$excerptDuration = `grep "^!!!excerpt-duration-sec:" $file`;
 		chomp $excerptDuration;
-		if ($excerptDuration !~ /excerpt-duration-sec:\s*(.+)\s*$/) {
-			die "problem on line $excerptDuration\n";
+		if ($excerptDuration !~ /^!!!excerpt-duration-sec:\s*(.+)\s*$/) {
+			die "problem on line $excerptDuration in file $file\n";
 		}
 		$seconds = $1;
+		$seconds =~ s/^\s+//;
+		$seconds =~ s/\s+$//;
 	}
 	my $value = $compositeNotes / $seconds;
+	# Round the value to one decimal digit:
 	$value = int($value * 100.0 + 0.5) / 100.0;
 	print "$value\n";
-	print "compositeNotes: $compositeNotes\n";
+	if ($verboseQ) {
+		print "\tcompositeNotes:\t$compositeNotes\n";
+		print "\tseconds:\t$seconds\n";
+	}
 }
 
 
