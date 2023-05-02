@@ -29,12 +29,13 @@
 .	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
 =156	=156	=156	=156	=156	=156	=156	=156
 8FF#X 8C#X	.	8c#X 8f#X	.	8gn~^^ 8aa	.	8r	.
-(>8DDL [<8AA	.	[4A [4d	.	16f# 16gg#XLL	.	16cc#X 16ddd#XLL	.
+!	!	!	!ONB: removed ties	!	!	!	!
+(>8DDL [<8AA	.	4A 4d	.	16f# 16gg#XLL	.	16cc#X 16ddd#XLL	.
 .	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
 8AAJ] 8D	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
 .	.	.	.	16f# 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
 =157	=157	=157	=157	=157	=157	=157	=157
-8D 8A)	.	8A] 8d]	.	8r~^^	.	8ddn~^^ 8eee	.
+8D 8A)	.	8A 8d	.	8r~^^	.	8ddn~^^ 8eee	.
 8BBL 8E	.	8BL 8e	.	16f#X 16gg#XLL	.	16cc#X 16ddd#XLL	.
 .	.	.	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
 8FF#XJ 8BB	.	8F#XJ 8B	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
@@ -49,10 +50,11 @@
 (8EE^^L \8BB	.	4B~^^ 4e	.	8r~^^	.	8dn~^^< 8ee	.
 8EJ 8B)	.	.	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
 .	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
-(8FF#XL \8C#X	.	[8c#XL [8f#X	.	16f#X 16g#X	.	16c#X 16dd#X	.
+!	!	!	!ONB: removed ties	!	!	!	!
+(8FF#XL \8C#X	.	8c#XL 8f#X	.	16f#X 16g#X	.	16c#X 16dd#X	.
 .	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
 =160	=160	=160	=160	=160	=160	=160	=160
-8F#XJ 8c#X)	.	8c#J] 8f#]	.	8Gn~^^< 8a	.	8r	.
+8F#XJ 8c#X)	.	8c#J 8f#	.	8Gn~^^< 8a	.	8r	.
 8GG#XL 8D#X	.	8d#XL 8g#X	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
 .	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
 8AAJ 8E	.	8eJ 8a	.	16f#X 16g#X	.	16c#X 16dd#X	.
@@ -86,4 +88,5 @@
 !!!EEV: 2021/07/21
 !!!EED2: Jason Lee
 !!!EEV2: 2022/01/30
+!!!COM: Béla Bartók
 !!!excerpt-duration-sec: 7.13
