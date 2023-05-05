@@ -1,7 +1,7 @@
 !!!COM: Alban (Maria Johannes) Berg
 !!!OTL: [T448_Ber-w13p15m38-41]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
 *part4	*	*part3	*	*part2	*	*part1	*
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
@@ -24,6 +24,7 @@
 *	*	*Xneben	*	*Xhaupt	*	*	*
 !!LO:REH:t=39
 =39	=39	=39	=39	=39	=39	=39	=39
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
 *	*	*	*	*	*	*haupt	*
 !	!	!	!	!	!	!LO:TX:a:B:t=viel Bogen	!
 !	!	!	!	!LO:TX:a:B:t=viel Bogen	!	!LO:TX:a:t=poco allargando [al Tempo I]	!
