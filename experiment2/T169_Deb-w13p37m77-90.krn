@@ -1,7 +1,7 @@
 !!!COM: (Achille-) Claude Debussy
 !!!OTL: [T169_Deb-w13p37m77-90]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
 *part4	*	*part3	*	*part2	*	*part1	*
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
@@ -51,6 +51,7 @@
 6AA-)	.	.	.	.	.	.	.
 !!linebreak:original
 =81	=81	=81	=81	=81	=81	=81	=81
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
 !	!LO:HP:t=poco a poco cresc.	!	!LO:HP:t=poco a poco cresc.	!	!LO:HP:t=poco a poco %s	!	!LO:HP:t=poco a poco %s
 (6GG-X	<	(2C	<	(4.B-	<	1e- 1g-X	<
 6AA-X	.	.	.	.	.	.	.
