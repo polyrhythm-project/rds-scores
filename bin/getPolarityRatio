@@ -24,11 +24,17 @@
 use strict;
 use Getopt::Long;
 
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
+
 my $verboseQ = 0;
+my $fileQ = 0;
 my $outputQ  = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
    'v|verbose' => \$verboseQ,
+   'f|file' => \$fileQ,
    'o|output' => \$outputQ
 );
 
@@ -45,17 +51,15 @@ for my $file (@files) {
 ##
 ## process -- extract data and calculate score
 ## 
-## !!!group-A-total-notes: 24
-## !!!group-A-coincide-notes: 6
-## !!!group-B-total-notes: 24
-## !!!group-B-coincide-notes: 6
-## !!!composite-total-notes: 42
-## !!!composite-coincide-notes: 6
+##   !!!group-b-event-count: 31         # number of events in group B
+##   !!!group-a-event-count: 28         # number of events in group A
+##   !!!composite-event-count: 47       # number of events in full composite rhythm
+##   !!!coincidence-event-count: 14     # number of events in concidence 
 ##
 
 sub process {
 	my ($file) = @_;
-	my @contents = `cat $file | compositeold -M | compositeold -GM`;
+	my @contents = `cat $file | $composite -eg | $composite -eg`;
 	if ($outputQ) {
 		print "\nOUTPUT DATA:\n";
 		print "====================================\n";
@@ -63,47 +67,39 @@ sub process {
 		print "====================================\n\n";
 	}
 	chomp @contents;
-	my $groupAcoincide = -1;
-	my $groupBcoincide = -1;
 	my $groupAtotal    = -1;
 	my $groupBtotal    = -1;
 	my $compositeTotal = -1;
 	foreach my $line (@contents) {
-		if ($line =~ /^!!!composite-total-notes:\s*(\d+)/) {
-			print "FOUND $line\n" if $verboseQ;
-			$compositeTotal = $1;
-		} elsif ($line =~ /^!!!group-A-coincide-notes:\s*(\d+)/) {
-			print "FOUND $line\n" if $verboseQ;
-			$groupAcoincide = $1;
-		} elsif ($line =~ /^!!!group-B-coincide-notes:\s*(\d+)/) {
-			print "FOUND $line\n" if $verboseQ;
-			$groupBcoincide = $1;
-		} elsif ($line =~ /^!!!group-A-total-notes:\s*(\d+)/) {
-			print "FOUND $line\n" if $verboseQ;
+		if ($line =~ /^!!!group-a-event-count:\s*(\d+)/) {
 			$groupAtotal = $1;
-		} elsif ($line =~ /^!!!group-B-total-notes:\s*(\d+)/) {
-			print "FOUND $line\n" if $verboseQ;
+		} elsif ($line =~ /^!!!group-b-event-count:\s*(\d+)/) {
 			$groupBtotal = $1;
+		} elsif ($line =~ /^!!!composite-event-count:\s*(\d+)/) {
+			$compositeTotal = $1;
 		}
 	}
 
-	if ($groupAcoincide < 0) {
-		print "ERROR NO !!!composite-total-notes: reference record for $file\n";
-	} elsif ($groupBcoincide < 0) {
-		print "ERROR NO !!!group-A-coincide-notes: reference record for $file\n";
-	} elsif ($groupAtotal <= 0) {
-		print "ERROR NO !!!group-B-coincide-notes: reference record for $file\n";
+	if ($groupAtotal <= 0) {
+		print "ERROR NO !!!group-a-event-count: reference record for $file\n";
 	} elsif ($groupBtotal <= 0) {
-		print "ERROR NO !!!group-A-total-notes: reference record for $file\n";
+		print "ERROR NO !!!group-b-event-count: reference record for $file\n";
 	} elsif ($compositeTotal <= 0) {
-		print "ERROR NO !!!group-B-total-notes: reference record for $file\n";
+		print "ERROR NO !!!composite-event-count: reference record for $file\n";
 	} else {
-		# my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
+		# old calculation: my $value = abs($groupAcoincide / $groupAtotal - $groupBcoincide / $groupBtotal) / $compositeTotal;
 		my $value = abs($groupAtotal - $groupBtotal) * 1.0 / $compositeTotal;
 		$value = int($value * 1000.0 + 0.5) / 1000.0;
-		print "$value";
-		print " for $file" if $verboseQ;
-		print "\n";
+		if ($fileQ) {
+			print "$value\t$file\n";
+		} else {
+			print "$value\n";
+		}
+		if ($verboseQ) {
+			print "\tcomposite notes: $compositeTotal\n";
+			print "\tgroup A notes: $groupAtotal\n";
+			print "\tgroup B notes: $groupBtotal\n";
+		}
 	}
 }
 

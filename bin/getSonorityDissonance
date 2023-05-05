@@ -2,7 +2,7 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Wed Jun 30 22:20:13 PDT 2021
-# Last Modified: Wed Jun 30 22:20:16 PDT 2021
+# Last Modified: Wed May  3 03:50:38 PDT 2023
 # Filename:      getSonorityDissonance
 # Syntax:        perl 5
 #
@@ -10,6 +10,7 @@
 # 
 
 use strict;
+use Getopt::Long;
 
 my %scores = ("P8" => 0, "P1" => 0, "P4" => 1, "P5" => 1, "m3" =>
 2, "M3" => 2, "M6" => 2, "M2" => 3, "m6" => 2, "m7" => 3, "P15" =>
@@ -44,35 +45,41 @@ my %scores = ("P8" => 0, "P1" => 0, "P4" => 1, "P5" => 1, "m3" =>
 => 2, "dd17" => 3, "dd14" => 2, "d37" => 2, "P47" => 1, "AA12" =>
 2, "A36" => 3);
 
+my $fileQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'f|file' => \$fileQ
+);
+
 my @files = @ARGV;
 
 die "Type 'make experiment' first." if @files == 0;
 
 for my $file (@files) {
-	process($file);
+	processFile($file);
 }
 
 
 
 ##############################
 ##
-## process -- extract data and calculate score
+## processFile -- extract data and calculate score
 ## 
 ##
 
-sub process {
+sub processFile {
 	my ($file) = @_;
 	my @durations = getDurations($file);
-#print "DURATIONS ", join(" ", @durations), "\n";
 	# print STDERR "DURATIONS ", join(" ", @durations), "\n";
 	my @harmonies = getHarmonies($file);
 	my $duration = 0;
 	my $summation = 0;
 	for (my $i=0; $i<@harmonies; $i++) {
-#print "processing $i $harmonies[$i]\n";
+		#print "processing $i $harmonies[$i]\n";
 		next if $harmonies[$i] =~ /^\s*$/;
 		my $dur = $durations[$i];
-#print "XDUR = $dur\n";
+		#print "XDUR = $dur\n";
 		next if $dur == 0;
 		my $diss = getMaxDissonance($harmonies[$i]);
 		$duration += 0 + $dur;
@@ -83,7 +90,11 @@ sub process {
 	my $value = $summation / $duration;
 	$value = int($value * 1000 + 0.5) / 1000.0;
 
-	print "$value\n";
+	if ($fileQ) {
+		print "$value\t$file\n";
+	} else {
+		print "$value\n";
+	}
 
 }
 

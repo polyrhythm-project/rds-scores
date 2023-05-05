@@ -2,43 +2,71 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Mon Aug 30 20:54:32 CEST 2021
-# Last Modified: Mon Aug 30 20:54:35 CEST 2021
+# Last Modified: Wed May  3 01:46:36 PDT 2023
 # Filename:      getEventDensityRatio
 # Syntax:        perl 5
 #
 # Description:   Calculate the ratio between the number of notes in Group A and Group B.
 #                Place the larger count below so that the value is 1.0 or less.
 #
+# Options        -v == verbose mode, print the group event counts used for calculations.
+#
+# Data is extracted using the -e and -g commands
+#     composite -eg experiment2/R350*
+# which generates these lines of the group event counts:
+#     !!!group-b-event-count: 31
+#     !!!group-a-event-count: 28
+#     !!!composite-event-count: 47
+##
 
 use strict;
+use Getopt::Long;
 
-my @files = @ARGV;
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
 
-die "Type 'make experiment' first." if @files == 0;
+my $verboseQ = 0;
+my $fileQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'f|file' => \$fileQ,
+   'v|verbose' => \$verboseQ
+);
+
+my @files = sort @ARGV;
+
+die "Error: no input files\n" if @files == 0;
 
 for my $file (@files) {
-	process($file);
+	processFile($file);
 }
+
 
 
 ##############################
 ##
-## process -- extract data and calculate score
+## processFile -- extract data and calculate score
 ## 
-## !!!group-A-total-notes: 24
-## !!!group-B-total-notes: 24
+## Extract event counts for each group:
+##  composite -ge
+##
+## Generates these reference records:
+## !!!group-a-event-count: 24
+## !!!group-b-event-count: 24
 ##
 
-sub process {
+sub processFile {
 	my ($file) = @_;
-	my @contents = `cat $file | compositeold -G `;
+	my @contents = `cat $file | $composite -eg `;
 	chomp @contents;
 	my $groupA = -1;
 	my $groupB = -1;
 	foreach my $line (@contents) {
-		if ($line =~ /group-A-total-notes:\s*(\d+)/) {
+		if ($line =~ /group-b-event-count:\s*(\d+)/) {
 			$groupA = $1;
-		} elsif ($line =~ /group-B-total-notes:\s*(\d+)/) {
+		} elsif ($line =~ /group-a-event-count:\s*(\d+)/) {
 			$groupB = $1;
 		}
 	}
@@ -54,7 +82,15 @@ sub process {
 			$value = $groupA / $groupB;
 		}
 		$value = int($value * 1000.0 + 0.5) / 1000.0;
-		print "$value\n";
+		if ($fileQ) {
+			print "$value\t$file\n";
+		} else {
+			print "$value\n";
+		}
+		if ($verboseQ) {
+			print "\tgroup-a-event-count: $groupA\n";
+			print "\tgroup-b-event-count: $groupB\n";
+		}
 		
 	}
 }

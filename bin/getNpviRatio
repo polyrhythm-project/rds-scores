@@ -2,41 +2,73 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Mon Dec 20 14:39:03 PST 2021
-# Last Modified: Mon Dec 20 14:39:12 PST 2021
+# Last Modified: Wed May  3 02:05:27 PDT 2023
 # Filename:      getNpviRatio
 # Syntax:        perl 5
 #
-# Description:   Number of composite events divided by duration of example in seconds.
+# Description:   Difference between NPVI scores for each polyrhythmic group.
 #
 
 use strict;
+use Getopt::Long;
+
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
+
+my $extractx = `which extractx`;
+chomp $extractx;
+die "Cannot find extractx tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $extractx =~ /^\s*$/;
+
+my $ridx = `which ridx`;
+chomp $ridx;
+die "Cannot find rid tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $ridx =~ /^\s*$/;
+
+my $npvi = `which npvi`;
+chomp $npvi;
+die "Cannot find npvi tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $npvi =~ /^\s*$/;
+
+my $verboseQ = 0;
+my $fileQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'f|file' => \$fileQ,
+   'v|verbose' => \$verboseQ
+);
 
 my @files = @ARGV;
 
-die "Type 'make experiment' first." if @files == 0;
+die "No input files." if @files == 0;
 
 for my $file (@files) {
-	process($file);
+	processFile($file);
 }
 
 
 ##############################
 ##
-## process -- extract data and calculate score
-## 
-## !!!excerpt-duration-sec: 5
+## processFile -- extract data and calculate score
 ##
 
-sub process {
+sub processFile {
 	my ($file) = @_;
-	my $groupA = `compositeold $file | extractx -s 1 | rid -d | sed s/kern-[a-z]*/kern/g | less | npvi`;
+	my $groupA = `$composite -gF $file | $extractx -i kern-grpA | $extractx -s 1 | $ridx -glid | sed s/kern-grpA/kern/g | $npvi`;
 	chomp $groupA;
-	my $groupB = `compositeold $file | extractx -s 2 | rid -d | sed s/kern-[a-z]*/kern/g | less | npvi`;
+	my $groupB = `$composite -gF $file | $extractx -i kern-grpB | $extractx -s 1 | $ridx -glid | sed s/kern-grpB/kern/g | $npvi`;
 	chomp $groupB;
 	my $value = $groupA - $groupB;
 	$value = $value * -1 if $value < 0;
-	#print "$value\t$groupA\t$groupB\n";
-	print "$value\n";
+	$value = int($value * 100.0 + 0.5) / 100.0;
+	if ($fileQ) {
+		print "$value\t$file\n";
+	} else {
+		print "$value\n";
+	}
+	if ($verboseQ) {
+		print "\tGroup A npvi: $groupA\n";
+		print "\tGroup B npvi: $groupB\n";
+	}
 }
 
 
