@@ -6,7 +6,7 @@
 !!!OMD-full: Langsam
 !!!OMD: [Sehr rasch (rascher als die "half " von früher)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
@@ -51,7 +51,7 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
-*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*
+*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-XTTT	.	4%3r	.	4%3r	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
