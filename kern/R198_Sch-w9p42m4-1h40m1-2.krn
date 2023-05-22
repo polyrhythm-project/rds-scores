@@ -6,7 +6,6 @@
 !!!OMD-full: Langsam
 !!!OMD: [Sehr rasch (rascher als die "half " von früher)]
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
 *staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
@@ -18,12 +17,41 @@
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=m. D.	!	!	!	!	!	!	!	!	!	!	!
+4du	.	(4.EE	.	4a-X	.	4d 4dd	.	4%3r	.	2B- 2a-	.	2EEn	.	4a-X	.	4%3r	.	4a-X	.	4dd	.
+2C#^	.	.	.	8r	.	4c#	.	.	.	.	.	.	.	8r	.	.	.	8r	.	2c#^	.
+.	.	8F)	.	8BL	.	.	.	.	.	.	.	.	.	8BL	.	.	.	8BL	.	.	.
+.	.	([4FF	.	8c#	.	4r	.	.	.	[4B [4a	.	[4FF	.	8c#	.	.	.	8c#	.	.	.
+.	.	.	.	8BJ	.	.	.	.	.	.	.	.	.	8BJ	.	.	.	8BJ	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167
+4r	.	8FFL]	.	4an	.	4r	.	4%3r	.	4B] 4a]	.	4FF]	.	4an	.	4%3r	.	4an	.	4r	.
+.	.	8GJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2D	sf	(4.GG	.	8r	.	4d	.	.	.	2cn 2b-X	.	2GGn	.	8r	.	.	.	8r	.	(2d	sf
+.	.	.	.	8cnL	.	.	.	.	.	.	.	.	.	8cnL	.	.	.	8cnL	.	.	.
+.	.	.	.	8dn	.	4r	.	.	.	.	.	.	.	8dn	.	.	.	8dn	.	.	.
+.	.	8A-)	.	8cJ	.	.	.	.	.	.	.	.	.	8cnJ	.	.	.	8cJ	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168
+4C#u	.	(4.EE-X	.	4f#X	.	4c#	.	4%3r	.	2f# 2an	.	2EE-X	.	4f#X	.	4%3r	.	4f#X	.	4c#	.
+2cn^	.	.	.	8r	.	4ccn	.	.	.	.	.	.	.	8r	.	.	.	8r	.	2ccn^	.
+.	.	8F)	.	8B-XL	.	.	.	.	.	.	.	.	.	8B-XL	.	.	.	8B-XL	.	.	.
+.	.	([4EEn	.	8cn	.	4r	.	.	.	[4B-X [4a-	.	[4EE	.	8cn	.	.	.	8cn	.	.	.
+.	.	.	.	8B-J	.	.	.	.	.	.	.	.	.	8B-J	.	.	.	8B-J	.	.	.
+=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169
+4r	.	8EEL]	.	4en	.	4r	.	4%3r	.	4B-X] 4a-]	.	4EE]	.	4en	.	4%3r	.	4en	.	4r	.
+.	.	8FJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2BBn	.	(4.FF#	.	8r	.	4Bn	.	.	.	2dn 2f#	.	4.FF#	.	8r	.	.	.	8r	.	2Bn	.
+.	.	.	.	8F#L	.	.	.	.	.	.	.	.	.	8F#L	.	.	.	8F#L	.	.	.
+.	.	.	.	8An	.	4r	.	.	.	.	.	.	.	8An	.	.	.	8An	.	.	.
+.	.	8G)	.	8GJ	.	.	.	.	.	.	.	8GG	.	8GJ	.	.	.	8GnJ	.	.	.
 !!LO:REH:t=40
 =170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
+*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*	*grp:A	*	*grp:A	*
 *	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*cue	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half-dot]=94]	!
-!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem. immer noch col legno	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!LO:TX:a:t=(womöglich)	!LO:DY:ed=brack
-4BB-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GGG	p	4B-X	pp	2.d-XTT	pp	4B-Xz	pp	4B-X	fff
+!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem. immer noch col legno	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:a:t=(womöglich)	!LO:DY:ed=brack
+4BB-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GGG	p	4B-X	pp	2.d-XTT	pp	4B-Xz	.	4B-X	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -51,7 +79,6 @@
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 =171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
-*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-XTTT	.	4%3r	.	4%3r	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
