@@ -1,10 +1,14 @@
+!!!!SEGMENT: R315_Fal-w8p62h67m1-5.krn
 !!!COM: Falla (y Matheu), Manuel de
-!!!OTL: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!OTL: Cuadro V: La Fuga (The Escape)
 !!!OMV: Cuadro V: La Fuga (The Escape)
 !!!example: 315
 !!!work: Fal-8
 !!!OMD-full: Andante molto sostenuto
 !!!OMD: Allegretto vivace
+!!!AGN-sub: Theatrical
+!!!OPR: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!filename: R315_Fal-w8p62h67m1-5.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*	*part9	*part9	*	*part8	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -101,7 +105,7 @@
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
 !!!CNT: Spanish
-!!!AGN: Stage; Theatrical
+!!!AGN: Stage
 !!!MCN: Falla, Manuel de
 !!!MDT: 1923/03/23
 !!!MGN: Orquesta Bétia de Cámara
@@ -128,4 +132,36 @@
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental, paren
 !!!Xfilter: slurcheck
+!!!Suter_Work_ID: Fal-8
+!!!Suter_Example_Number: 315
+!!!Suter_Example_ID: Fal-8/62/[67]1-5
+!!!Premiere_Location: Seville,Spain
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:25
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1923
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 4:13
+!!!Example_Start_Tempo_Expression: Allegretto vivace
+!!!Example_Start_Notated_Beat_Rate: 152
+!!!Example_Start_Notated_Beat: eighth
+!!!Example_Start_Measure: 36
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:18
+!!!Example_End_Measure: 40
+!!!Example_Dataset: R
+!!!Editorial_Comments: E1 full score and Naxos recording do not indicate a scene change after scene 4; however, the vocal score on IMSLP indicates that scene 5 starts at rehearsal 62. Full Unit Duration calculated from Track 22 (Scene 4: Los Pirineos [The Pyreness]) (2:05-6:30) of Naxos recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=HMG505213). Example Start and End Time based on Track 22 (Scene 4: Los Pirineos [The Pyreness]) of Naxos recording.
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo: 95
+!!!Audio_Example_Duration: 4.752
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

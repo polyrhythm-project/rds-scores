@@ -1,10 +1,14 @@
+!!!!SEGMENT: R488_Mau-w56p9m35-37.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: Concertino for Piano and Orchestra
+!!!OTL: I: Allegro moderato (Comodo)
 !!!OMV: Movement 1
 !!!example: 488
 !!!work: Mau-56
 !!!OMD-full: Allegro moderto (Comodo)
 !!!OMD: [Allegro moderato (Comodo)]
+!!!AGN-sub: Concerto
+!!!OPR: Concertino for Piano and Orchestra
+!!!filename: R488_Mau-w56p9m35-37.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -77,7 +81,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Orchestral; Concerto
+!!!AGN: Orchestral
 !!!MCN: Pařík, Otakar
 !!!MDT: 1947/03/30
 !!!MGN: Symphony Orchestra of the Slovak Radio
@@ -99,4 +103,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Mau-56
+!!!Suter_Example_Number: 488
+!!!Suter_Example_ID: Mau-56/9/35-37
+!!!Premiere_Location: Bratislava,Slovakia
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:10
+!!!First_Publication_Year: 1956
+!!!First_Public_Performance_Year: 1947
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 1:16
+!!!Example_Start_Tempo_Expression: [Allegro moderato (Comodo)]
+!!!Example_Start_Notated_Beat_Rate: {90}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 35
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:22
+!!!Example_End_Measure: 37
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=90} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=8.572206); tempo for audio synthesis {quarter=77} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Allegro moderato (Comodo)] based on most recent notated tempo expression (SWFU, m. 1). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {quarter =84} calculated based on recorded Full Unit Duration (6:13).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo: 87
+!!!Audio_Example_Duration: 6.238
 !!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,10 +1,14 @@
+!!!!SEGMENT: R392_Str-w33p52-54h74m1-h80m1.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!OTL: II: Perséphone aux enfers (Persephone in the Underworld)
 !!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
 !!!example: 392
 !!!work: Str-33
 !!!OMD-full: none
 !!!OMD: A Tempo [Poco meno]
+!!!AGN-sub: Theatrical
+!!!OPR: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!filename: R392_Str-w33p52-54h74m1-h80m1.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*	*	*grp:A	*
 *part7	*	*part6	*	*part5	*	*part4	*part3	*part2	*	*	*part1	*
@@ -344,8 +348,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian, French, American
-!!!AGN: Stage; Theatrical
+!!!CNT: Russian,French,American
+!!!AGN: Stage
 !!!MCN: Stravinsky, Igor
 !!!MDT: 1934/04/30
 !!!MGN: Orchestre de l'Opéra
@@ -367,4 +371,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Str-33
+!!!Suter_Example_Number: 392
+!!!Suter_Example_ID: Str-33/52-54/[74]1-[80]1
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: 3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4,3/4,2/4
+!!!Full_Unit_Duration: 23:19
+!!!First_Publication_Year: 1934
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 25
+!!!Example_Timestamp_Duration: 61
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 3:47
+!!!Example_Start_Tempo_Expression: Tempo I°
+!!!Example_Start_Notated_Beat_Rate: 60
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 64
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:48
+!!!Example_End_Measure: 88
+!!!Example_Dataset: R
+!!!Editorial_Comments: Suter's example did not include the piano part, possiby due to a technical limitation in reproduction. As a result, the bass staff was not counted in Experiment 1, resulting in a data error included in the final analysis. The treble staff has no been included in the transcription to facilitate future data extraction involving staff count. Suter's example start tempo markings show \"Tempo Primo, quarter = 60\"; there is no specified meaning for Tempo Primo at the begining of the full unit.
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: yes
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo: 59
+!!!Audio_Example_Duration: 60.825
 !!!ONB: Converted from MusicXML on 2020/07/28

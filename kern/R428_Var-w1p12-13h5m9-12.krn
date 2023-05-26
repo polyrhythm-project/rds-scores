@@ -1,10 +1,14 @@
+!!!!SEGMENT: R428_Var-w1p12-13h5m9-12.krn
 !!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
-!!!OTL: Amériques (America) for Orchestra
+!!!OTL: single movement work
 !!!OMV:
 !!!example: 428
 !!!work: Var-1
 !!!OMD-full: Moderato poco lento
 !!!OMD: Subito molto mosso
+!!!AGN-sub: Symphonic
+!!!OPR: Amériques (America) for Orchestra
+!!!filename: R428_Var-w1p12-13h5m9-12.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part27	*	*part26	*	*part25	*	*part24	*	*part23	*	*part22	*	*part21	*	*part20	*	*part19	*	*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -194,8 +198,8 @@
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
-!!!CNT: French, American
-!!!AGN: Orchestral; Symphonic
+!!!CNT: French,American
+!!!AGN: Orchestral
 !!!MCN: Stokowski, Leopold
 !!!MDT: 1926/04/09
 !!!MGN: Philadelphia Orchestra
@@ -220,4 +224,36 @@
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = editorial accidental, brack
 !!!RDF**kern: > = above
+!!!Suter_Work_ID: Var-1
+!!!Suter_Example_Number: 428
+!!!Suter_Example_ID: Var-1/12-13/[5]9-12
+!!!Premiere_Location: Philadelphia,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 28:05
+!!!First_Publication_Year: 1925
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 92
+!!!Example_Start_Tsig_Beat_Rate: 92
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 3:48
+!!!Example_Start_Tempo_Expression: Subito molto mosso
+!!!Example_Start_Notated_Beat_Rate: 92
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 55
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:01
+!!!Example_End_Measure: 58
+!!!Example_Dataset: R
+!!!Editorial_Comments:
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: no
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 74
+!!!Audio_Example_Duration: 12.899
 !!!RDF**kern: < = below

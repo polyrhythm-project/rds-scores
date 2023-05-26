@@ -1,10 +1,14 @@
+!!!!SEGMENT: R572_Pro-w32p63h48m7.krn
 !!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!OTL: single movement work
 !!!OMV:
 !!!example: 572
 !!!work: Pro-32
 !!!OMD-full: Andantino
 !!!OMD: [Sostenuto]
+!!!AGN-sub: Theatrical
+!!!OPR: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!filename: R572_Pro-w32p63h48m7.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*
 *part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -44,7 +48,7 @@
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
 !!!CNT: Russian
-!!!AGN: Stage; Theatrical
+!!!AGN: Stage
 !!!MCN: Prokofiev, Sergei
 !!!MDT: 1936/05/02
 !!!MGN: Moscow Philharmonic
@@ -67,4 +71,36 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Pro-32
+!!!Suter_Example_Number: 572
+!!!Suter_Example_ID: Pro-32/63/[48]7
+!!!Premiere_Location: Moscow,Russia
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 26:35
+!!!First_Publication_Year: 1937
+!!!First_Public_Performance_Year: 1936
+!!!Example_Total_Measures: 1
+!!!Example_Timestamp_Duration: 2
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 24:36
+!!!Example_Start_Tempo_Expression: [Sostenuto]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 559
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 24:38
+!!!Example_End_Measure: 559
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=100] based on most recent notated tempo (SWFU, m. 553). Example Start Tempo Expression [Sostenuto] based on most recent notated tempo expression (SWFU, m. 553). Full Unit Duration includes a passage of introductory narration is printed in the E1 score preface. Actual performance starts at 1:56 of the Naxos audio, and the Full Unit Duration would be 24:39 if the introductory narration (0:00-1:55) were not included.
+!!!Death_Place: Moscow,Russia
+!!!Death_Date: 5-Mar-1953
+!!!Changing_Tsig: no
+!!!Birth_Place: Sontsovka,Ukraine
+!!!Birth_Date: 23-Apr-1891
+!!!Audio_Example_Quarter_Note_Tempo: 104
+!!!Audio_Example_Duration: 2.305
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

@@ -1,10 +1,14 @@
+!!!!SEGMENT: R371_Str-w15p19m2-1h1m1-5.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
+!!!OTL: Part II: The Royal March
 !!!OMV: Part II: Royal March
 !!!example: 371
 !!!work: Str-15
 !!!OMD-full: none
 !!!OMD: none
+!!!AGN-sub: Theatrical
+!!!OPR: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
+!!!filename: R371_Str-w15p19m2-1h1m1-5.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
 *part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -113,8 +117,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian, French, American
-!!!AGN: Stage; Theatrical
+!!!CNT: Russian,French,American
+!!!AGN: Stage
 !!!MCN: Ansermet, Ernest
 !!!MDT: 1918/09/28
 !!!MGN: unknown
@@ -136,4 +140,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Str-15
+!!!Suter_Example_Number: 371
+!!!Suter_Example_ID: Str-15/19/2-1[1]1-5
+!!!Premiere_Location: Lausanne,Switzerland
+!!!Other_Tsigs: 5/8,2/4
+!!!Full_Unit_Duration: 4:22
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1918
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:07
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [112]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 8
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:14
+!!!Example_End_Measure: 14
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=112] based on most recent notated tempo (SWFU, m. 1). Example used in Experiment 1a was only 5 bars (mm. 1-5).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: yes
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo: 119
+!!!Audio_Example_Duration: 7.569
 !!!ONB: Converted from MusicXML on 2020/07/28

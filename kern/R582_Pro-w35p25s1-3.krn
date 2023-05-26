@@ -1,10 +1,14 @@
+!!!!SEGMENT: R582_Pro-w35p25s1-3.krn
 !!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: Piano Sonata No. 7 in B-flat Major, op. 83
+!!!OTL: III: Precipitato
 !!!OMV: Movement 3
 !!!example: 582
 !!!work: Pro-35
 !!!OMD-full: Precipitato
 !!!OMD: Precipitato
+!!!AGN-sub: Keyboard
+!!!OPR: Piano Sonata No. 7 in B-flat Major, op. 83
+!!!filename: R582_Pro-w35p25s1-3.krn
 **kern	**kern	**dynam
 *grp:A	*grp:B	*
 *part1	*part1	*
@@ -142,7 +146,7 @@
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
 !!!CNT: Russian
-!!!AGN: Instrumental; Keyboard
+!!!AGN: Instrumental
 !!!MCN:
 !!!MDT: 1943/01/18
 !!!MGN:
@@ -164,4 +168,36 @@
 !!!excerpt-beat-subgroup: G3,G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Pro-35
+!!!Suter_Example_Number: 582
+!!!Suter_Example_ID: Pro-35/25/lignes 1 à 3
+!!!Premiere_Location: Moscow,Russia
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:30
+!!!First_Publication_Year: 1943
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 14
+!!!Example_Timestamp_Duration: 16
+!!!Example_Start_Tsig_Type: unequal triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 368
+!!!Example_Start_Tsig_Beat_Rate: 368
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 7/8
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Precipitato
+!!!Example_Start_Notated_Beat_Rate: {368}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:16
+!!!Example_End_Measure: 14
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=368} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=TP1039176). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {eighth = 346} calculated based on recorded Full Unit Duration (3:35).
+!!!Death_Place: Moscow,Russia
+!!!Death_Date: 5-Mar-1953
+!!!Changing_Tsig: no
+!!!Birth_Place: Sontsovka,Ukraine
+!!!Birth_Date: 23-Apr-1891
+!!!Audio_Example_Quarter_Note_Tempo: 176
+!!!Audio_Example_Duration: 16.746
 !!!ONB: Converted from MusicXML on 2020/07/28

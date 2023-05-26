@@ -1,9 +1,13 @@
+!!!!SEGMENT: R584_Hon-w4p5h6m1-3.krn
 !!!COM: Honegger, Arthur
-!!!OTL: Rapsodie (Rhapsody) for Two Flutes, Clarinet and Piano
+!!!OTL: single movement work
 !!!example: 584
 !!!work: Hon-4
 !!!OMD-full: Larghetto
 !!!OMD: [Tempo (Allegro)]
+!!!AGN-sub: Chamber
+!!!OPR: Rapsodie (Rhapsody) for Two Flutes, Clarinet and Piano
+!!!filename: R584_Hon-w4p5h6m1-3.krn
 **kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
 *part4	*part4	*	*part3	*	*part2	*	*part1	*
@@ -64,8 +68,8 @@
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France
 !!!CDL: Paris, France
-!!!CNT: Swiss, French
-!!!AGN: Instrumental; Chamber
+!!!CNT: Swiss,French
+!!!AGN: Instrumental
 !!!MCN:
 !!!MDT: 1917/11/17
 !!!MGN:
@@ -87,4 +91,36 @@
 !!!excerpt-beat-subgroup: G3,G2
 !!!experiment: 1
 !!!EEV: 2021/04/12
+!!!Suter_Work_ID: Hon-4
+!!!Suter_Example_Number: 584
+!!!Suter_Example_ID: Hon-4/5/[6]1-3
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 9:17
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1917
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: unequal duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 5/4
+!!!Example_Start_Timestamp: 3:43
+!!!Example_Start_Tempo_Expression: [Tempo (Allegro)]
+!!!Example_Start_Notated_Beat_Rate: [160]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 46
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:49
+!!!Example_End_Measure: 48
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=160] based on most recent notated tempo (SWFU, m. 30). Example Start Tempo Expression [Tempo (Allegro)] based on most recent notated tempo expressions (SWFU, m. 40 and m. 30).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Nov-1955
+!!!Changing_Tsig: no
+!!!Birth_Place: Le Havre,France
+!!!Birth_Date: 10-Mar-1892
+!!!Audio_Example_Quarter_Note_Tempo: 153
+!!!Audio_Example_Duration: 5.893
 !!!ONB: Converted from MusicXML on 2021/04/12

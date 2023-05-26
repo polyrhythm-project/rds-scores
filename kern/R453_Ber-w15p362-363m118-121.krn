@@ -1,10 +1,14 @@
+!!!!SEGMENT: R453_Ber-w15p362-363m118-121.krn
 !!!COM: Berg, Alban (Maria Johannes)
-!!!OTL: Lulu, Unfinished Opera
+!!!OTL: Act II, Scene 1
 !!!OMV: Act II, Scene 1
 !!!example: 453
 !!!work: Ber-15
 !!!OMD-full: none
 !!!OMD: [Langsame]
+!!!AGN-sub: Opera
+!!!OPR: Lulu, Unfinished Opera
+!!!filename: R453_Ber-w15p362-363m118-121.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*grp:A	*	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*	*part10	*	*	*part9	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -155,7 +159,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
 !!!CNT: Austrian
-!!!AGN: Stage; Opera
+!!!AGN: Stage
 !!!MCN: Denzler, Robert
 !!!MDT: 1937/06/02
 !!!MGN: unknown
@@ -180,4 +184,36 @@
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Ber-15
+!!!Suter_Example_Number: 453
+!!!Suter_Example_ID: Ber-15/362-363/118-121
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 31:32
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1937
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat_Rate: 56;56
+!!!Example_Start_Tsig_Beat: dotted-half;half
+!!!Example_Start_Tsig: 6/4;2/2
+!!!Example_Start_Timestamp: 0:54
+!!!Example_Start_Tempo_Expression: [Langsame]
+!!!Example_Start_Notated_Beat_Rate: [56]
+!!!Example_Start_Notated_Beat: [dotted-half = half]
+!!!Example_Start_Measure: 118
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:04
+!!!Example_End_Measure: 121
+!!!Example_Dataset: R
+!!!Editorial_Comments: This example was transcribed entirely in 6/4, due to technical limitations and 2/2 bars using quadruplet eighths as if the time signature was 6/4. Full Unit Duration calculated from Disc 2 Track 1 (0:00) to Disc 2 Track 6 (3:37) (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 2 Track 2 \"Act II Scene 1: Gott sei Dank, dass wir endlich zuhause sind\". Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half;half=56] based on most recent notated tempo (SWFU, m. 99). Example Start Tempo Expression [Langsame] based on most recent notated tempo expression (SWFU, m. 94). Editorial Note: This example was transcribed entirely in 6/4, due to technical limitations and 2/2 bars using quadruplet eighths as if the time signature was 6/4. Full Unit Duration calculated from Disc 2 Track 1 (0:00) to Disc 2 Track 6 (3:37) (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 2 Track 2 \"Act II Scene 1: Gott sei Dank, dass wir endlich zuhause sind\".
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo: 295
+!!!Audio_Example_Duration: 9.755
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

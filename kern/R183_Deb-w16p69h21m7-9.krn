@@ -1,10 +1,14 @@
+!!!!SEGMENT: R183_Deb-w16p69h21m7-9.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: Nocturnes for Orchestra
+!!!OTL: II: Fêtes (Festivals)
 !!!OMV: II: Fêtes (Festivals)
 !!!example: 183
 !!!work: Deb-16
 !!!OMD-full: Animé et très rythmé
 !!!OMD: A Tempo [Animé et très rhythmé]
+!!!AGN-sub: Programmatic
+!!!OPR: Nocturnes for Orchestra
+!!!filename: R183_Deb-w16p69h21m7-9.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*
 *part3	*	*part2	*	*part1	*
@@ -67,7 +71,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Orchestral; Programmatic
+!!!AGN: Orchestral
 !!!MCN: Chevillard, Camille
 !!!MDT: 1901/10/27
 !!!MGN: Orchestre Lamoureux
@@ -89,4 +93,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Deb-16
+!!!Suter_Example_Number: 183
+!!!Suter_Example_ID: Deb-16/69/[21]7-9
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:33
+!!!First_Publication_Year: 1901
+!!!First_Public_Performance_Year: 1901
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 6:17
+!!!Example_Start_Tempo_Expression: a Tempo [Même Mouvement (Animé et très rhythmé)]
+!!!Example_Start_Notated_Beat_Rate: {180}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 266
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:20
+!!!Example_End_Measure: 268
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=180} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=8.570775). Naxos recording no longer available (missing metadata). Example Start Tempo Expression [Même Mouvement (Animé et très rhythmé)] based on most recent notated tempo expressions (SWFU, m. 208 and m. 1). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {quarter = 180} calculated based on recorded Full Unit Duration (6:13).
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo: 149
+!!!Audio_Example_Duration: 3.633
 !!!ONB: Converted from MusicXML on 2020/07/28

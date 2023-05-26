@@ -1,10 +1,14 @@
+!!!!SEGMENT: R322A_Bar-w3p70m1-4.krn
 !!!COM: Bartók, Béla
-!!!OTL: Suite No. 1 for Orchestra, op. 3
+!!!OTL: III: Presto
 !!!OMV: Movement 3
 !!!example: 322A
 !!!work: Bar-3
 !!!OMD-full: Presto
 !!!OMD: Presto ([half-dot] = 92)
+!!!AGN-sub: Symphonic
+!!!OPR: Suite No. 1 for Orchestra, op. 3
+!!!filename: R322A_Bar-w3p70m1-4.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -50,7 +54,7 @@
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
 !!!CDL: New York, United States
 !!!CNT: Hungarian
-!!!AGN: Orchestral; Symphonic
+!!!AGN: Orchestral
 !!!MCN: Loewe, Ferdinand
 !!!MDT: 1905/11/29
 !!!MGN: Vienna Symphony Orchestra
@@ -72,4 +76,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Bar-3
+!!!Suter_Example_Number: 322A
+!!!Suter_Example_ID: Bar-3/70/1-4
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 7:52
+!!!First_Publication_Year: 1912
+!!!First_Public_Performance_Year: 1905
+!!!Example_Total_Measures: 4.333
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Presto
+!!!Example_Start_Notated_Beat_Rate: 92
+!!!Example_Start_Notated_Beat: dotted-half
+!!!Example_Start_Measure: 0.666
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:03
+!!!Example_End_Measure: 4
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Tsig Mean Beat Rate (quarter=276) calculated based on notated tempo (dotted-half=92).
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo: 247
+!!!Audio_Example_Duration: 3.162
 !!!ONB: Converted from MusicXML on 2020/07/28

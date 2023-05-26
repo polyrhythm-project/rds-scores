@@ -1,10 +1,14 @@
+!!!!SEGMENT: R485_Mau-w85p12m57-60.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: Symphony No. 5
+!!!OTL: I: Adagio
 !!!OMV: Movement 1
 !!!example: 485
 !!!work: Mau-85
 !!!OMD-full: Adagio
 !!!OMD: [Allegro]
+!!!AGN-sub: Symphonic
+!!!OPR: Symphony No. 5
+!!!filename: R485_Mau-w85p12m57-60.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -69,7 +73,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Orchestral; Symphonic
+!!!AGN: Orchestral
 !!!MCN: Kubelik, Rafael
 !!!MDT: 1947/05/28
 !!!MGN: Czech Philharmonic Orchestra
@@ -93,4 +97,36 @@
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Mau-85
+!!!Suter_Example_Number: 485
+!!!Suter_Example_ID: Mau-85/12/57-60
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 9:02
+!!!First_Publication_Year: 1950
+!!!First_Public_Performance_Year: 1947
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 84
+!!!Example_Start_Tsig_Beat_Rate: 84
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 2:32
+!!!Example_Start_Tempo_Expression: [Allegro]
+!!!Example_Start_Notated_Beat_Rate: [84]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 57(58)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:39
+!!!Example_End_Measure: 60(61)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=84] based on most recent notated tempo (SWFU, m. 37 and m. 1). Example Start Tempo Expression [Allegro] based on most recent notated tempo expression (SWFU, m. 37). Editorial Note: The notated measures are off by one; the notated measure 10 is actually measure 11 in the SWFU. Therefore, the example notated measures 57-60 are actually measures 58-61, and the Full Unit Total Measures is actually 258 rather than 257.
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo: 144
+!!!Audio_Example_Duration: 6.635
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

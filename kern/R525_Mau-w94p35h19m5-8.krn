@@ -1,10 +1,14 @@
+!!!!SEGMENT: R525_Mau-w94p35h19m5-8.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: Piano Trio No. 2 in D Minor
+!!!OTL: III: Allegro
 !!!OMV: Movement 3
 !!!example: 525
 !!!work: Mau-94
 !!!OMD-full: Allegro
 !!!OMD: [Tempo primo (Allegro)]
+!!!AGN-sub: Chamber
+!!!OPR: Piano Trio No. 2 in D Minor
+!!!filename: R525_Mau-w94p35h19m5-8.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
 *part3	*	*part3	*	*part2	*	*part1	*
@@ -65,7 +69,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Instrumental; Chamber
+!!!AGN: Instrumental
 !!!MCN:
 !!!MDT: 1950/05/19
 !!!MGN: MIT Trio
@@ -88,4 +92,36 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Mau-94
+!!!Suter_Example_Number: 525
+!!!Suter_Example_ID: Mau-94/35/[19]5-8
+!!!Premiere_Location: Cambridge,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:38
+!!!First_Publication_Year: 1961
+!!!First_Public_Performance_Year: 1950
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 120
+!!!Example_Start_Tsig_Beat_Rate: 120
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 3:29
+!!!Example_Start_Tempo_Expression: [Tempo I° (Allegro)]
+!!!Example_Start_Notated_Beat_Rate: [120]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 195
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:34
+!!!Example_End_Measure: 198
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=120] based on most recent notated tempo (SWFU, m. 139). Example Start Tempo Expression [Tempo I° (Allegro)] based on most recent notated tempo expressions (SWFU, m. 139 and m. 1).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo: 111
+!!!Audio_Example_Duration: 4.340
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

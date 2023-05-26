@@ -1,10 +1,14 @@
+!!!!SEGMENT: R396_Str-w47p8m1h8-h10m1.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: Symphony in Three Movements
+!!!OTL: Movement 1
 !!!OMV: Movement 1
 !!!example: 396
 !!!work: Str-47
 !!!OMD-full: none
 !!!OMD: none
+!!!AGN-sub: Symphonic
+!!!OPR: Symphony in Three Movements
+!!!filename: R396_Str-w47p8m1h8-h10m1.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*grp:B	*
 *part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1	*
@@ -169,8 +173,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian, French, American
-!!!AGN: Orchestral; Symphonic
+!!!CNT: Russian,French,American
+!!!AGN: Orchestral
 !!!MCN: Stravinsky, Igor
 !!!MDT: 1946/01/24
 !!!MGN: New York Philharmonic Orchestra
@@ -192,4 +196,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Str-47
+!!!Suter_Example_Number: 396
+!!!Suter_Example_ID: Str-47 /8/1[8]-[10]1
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 3/4,4/4,3/4,4/4,3/4,4/4
+!!!Full_Unit_Duration: 9:14
+!!!First_Publication_Year: 1946
+!!!First_Public_Performance_Year: 1946
+!!!Example_Total_Measures: 10
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:43
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [160]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 34
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:56
+!!!Example_End_Measure: 43
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=160] based on most recent notated tempo (SWFU, m. 1). No tempo expression.
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: yes
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo: 173
+!!!Audio_Example_Duration: 12.842
 !!!ONB: Converted from MusicXML on 2020/07/28

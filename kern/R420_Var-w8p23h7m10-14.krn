@@ -1,10 +1,14 @@
+!!!!SEGMENT: R420_Var-w8p23h7m10-14.krn
 !!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
-!!!OTL: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
+!!!OTL: single movement work
 !!!OMV:
 !!!example: 420
 !!!work: Var-8
 !!!OMD-full: none
 !!!OMD: none
+!!!AGN-sub: Theatrical
+!!!OPR: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
+!!!filename: R420_Var-w8p23h7m10-14.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -149,8 +153,8 @@
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
-!!!CNT: French, American
-!!!AGN: Stage; Theatrical
+!!!CNT: French,American
+!!!AGN: Stage
 !!!MCN: Slonimsky, Nicolas
 !!!MDT: 1934/04/15
 !!!MGN: unknown
@@ -172,4 +176,36 @@
 !!!excerpt-beat-subgroup: G3,G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Var-8
+!!!Suter_Example_Number: 420
+!!!Suter_Example_ID: Var-8/23/[7]10-14
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 3/4
+!!!Full_Unit_Duration: 11:41
+!!!First_Publication_Year: 1934
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 5/4
+!!!Example_Start_Timestamp: 4:40
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 93
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:52
+!!!Example_End_Measure: 97
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=80] based on most recent notated tempo (SWFU, m. 53).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: yes
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 80
+!!!Audio_Example_Duration: 12.764
 !!!ONB: Converted from MusicXML on 2020/07/28

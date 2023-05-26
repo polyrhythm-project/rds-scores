@@ -1,10 +1,14 @@
+!!!!SEGMENT: R616_Hin-w6p9m114-117.krn
 !!!COM: Hindemith, Paul
-!!!OTL: String Quartet in F Minor, op. 10
+!!!OTL: I: Sehr lebhaft, straff im Rhythmus
 !!!OMV: Movement 1
 !!!example: 616
 !!!work: Hin-6
 !!!OMD-full: Sehr lebhaft, straff im Rhythmus
 !!!OMD: Mit Schwung
+!!!AGN-sub: Chamber
+!!!OPR: String Quartet in F Minor, op. 10
+!!!filename: R616_Hin-w6p9m114-117.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
 *part4	*	*part3	*	*part2	*	*part1	*
@@ -103,7 +107,7 @@
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
 !!!CNT: German
-!!!AGN: Instrumental; Chamber
+!!!AGN: Instrumental
 !!!MCN:
 !!!MDT: 1919/06/02
 !!!MGN: Rebner Quartet
@@ -126,4 +130,36 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Hin-6
+!!!Suter_Example_Number: 616
+!!!Suter_Example_ID: Hin-6/9/114-117
+!!!Premiere_Location: Frankfurt am Main,Germany
+!!!Other_Tsigs: 4/4,2/4(6/8)
+!!!Full_Unit_Duration: 6:08
+!!!First_Publication_Year: 1920
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 103
+!!!Example_Start_Tsig_Beat_Rate: 103
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 4:05
+!!!Example_Start_Tempo_Expression: Mit Schwung
+!!!Example_Start_Notated_Beat_Rate: {103}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 114
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:12
+!!!Example_End_Measure: 117
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=103} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=8.572163). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {quarter = 115} calculated based on recorded Full Unit Duration (6:15).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: yes
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo: 104
+!!!Audio_Example_Duration: 6.943
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

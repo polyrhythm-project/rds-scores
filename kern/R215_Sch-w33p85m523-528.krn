@@ -1,10 +1,14 @@
+!!!!SEGMENT: R215_Sch-w33p85m523-528.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OTL: Act I, Scene 4
 !!!OMV: Act I, Scene 4
 !!!example: 215
 !!!work: Sch-33
 !!!OMD-full: Lebhaft
 !!!OMD: Breit
+!!!AGN-sub: Opera
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: R215_Sch-w33p85m523-528.krn
 **kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
 *part7	*	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -65,7 +69,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Stage; Opera
+!!!AGN: Stage
 !!!MCN: Rosbaud, Hans
 !!!MDT: 1957/06/06
 !!!MGN: unknown
@@ -90,4 +94,36 @@
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Xfilter: slurcheck
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 215
+!!!Suter_Example_ID: Sch-33/85/523-528
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 24:58
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 18
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 2:57
+!!!Example_Start_Tempo_Expression: Breit
+!!!Example_Start_Notated_Beat_Rate: 44
+!!!Example_Start_Notated_Beat: half
+!!!Example_Start_Measure: 81(523)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:15
+!!!Example_End_Measure: 86(528)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Although the full unit (SWFU) begins on the last quarter beat of a 4/4 measure from the previous scene, the quarter beat functions as a pick-up rather than an indication of the meter of the new scene; hence, the time signature of SWFU m. 1 (m. 443) was taken as the Full Unit Start Time Signature.
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 78
+!!!Audio_Example_Duration: 18.297
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

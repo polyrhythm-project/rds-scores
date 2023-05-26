@@ -1,10 +1,14 @@
+!!!!SEGMENT: R218_Sch-w33p200m252-256.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OTL: Act II, Scene 2
 !!!OMV: Act II, Scene 2
 !!!example: 218
 !!!work: Sch-33
 !!!OMD-full: Sehr rash
 !!!OMD: [Leicht bewegt]
+!!!AGN-sub: Opera
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: R218_Sch-w33p200m252-256.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
 *part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*	*part9	*	*	*part8	*	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -78,7 +82,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Stage; Opera
+!!!AGN: Stage
 !!!MCN: Rosbaud, Hans
 !!!MDT: 1957/06/06
 !!!MGN: unknown
@@ -102,4 +106,36 @@
 !!!experiment: 1
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 218
+!!!Suter_Example_ID: Sch-33/200/252-256
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: 2/4,3/4,2/4
+!!!Full_Unit_Duration: 6:58
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 5:28
+!!!Example_Start_Tempo_Expression: [a tempo (Leicht bewegt)]
+!!!Example_Start_Notated_Beat_Rate: [160]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 139(252)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:33
+!!!Example_End_Measure: 143(256)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=160] based on most recent notated tempo (SWFU, m. 87(200)). Example Start Tempo Expression [a tempo (Leicht bewegt)] based on most recent notated tempo expressions (SWFU, m. 113(246) and m. 87(200)).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 144
+!!!Audio_Example_Duration: 5.421
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

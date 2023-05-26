@@ -1,10 +1,14 @@
+!!!!SEGMENT: R144_Jan-w47p5h4m1-4.krn
 !!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
+!!!OTL: Act I, Prelude
 !!!OMV: Act I, Prelude
 !!!example: 144
 !!!work: Jan-47
 !!!OMD-full: Andante
 !!!OMD: Più mosso
+!!!AGN-sub: Opera
+!!!OPR: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
+!!!filename: R144_Jan-w47p5h4m1-4.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
 *part13	*	*part12	*	*part11	*	*part10	*	*part9	*
@@ -67,7 +71,7 @@
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
 !!!CNT: Czech
-!!!AGN: Stage; Opera
+!!!AGN: Stage
 !!!MCN: Neumann, František
 !!!MDT: 1926/12/18
 !!!MGN: Orchestra of the Janáček Opera of the National Theatre Brno
@@ -89,4 +93,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Jan-47
+!!!Suter_Example_Number: 144
+!!!Suter_Example_ID: Jan-47/5/[4]1-4
+!!!Premiere_Location: Brno,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:23
+!!!First_Publication_Year: 1970
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 1:08
+!!!Example_Start_Tempo_Expression: Più mosso
+!!!Example_Start_Notated_Beat_Rate: 66
+!!!Example_Start_Notated_Beat: dotted-quarter
+!!!Example_Start_Measure: 38
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:13
+!!!Example_End_Measure: 41
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Tsig Mean Beat Rate (eighth = 198) calculated based on notated tempo (dotted-quarter = 66).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo: 65
+!!!Audio_Example_Duration: 5.562
 !!!ONB: Converted from MusicXML on 2020/07/28

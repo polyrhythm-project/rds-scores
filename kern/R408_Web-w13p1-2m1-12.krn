@@ -1,10 +1,14 @@
+!!!!SEGMENT: R408_Web-w13p1-2m1-12.krn
 !!!COM: Webern, Anton (Friedrich Wilhelm von)
-!!!OTL: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!OTL: I: Sehr ruhig und zart
 !!!OMV: Movement 1
 !!!example: 408
 !!!work: Web-13
 !!!OMD-full: Sehr ruhig und zart
 !!!OMD: Sehr ruhig und zart ([quarter] = ca 50)
+!!!AGN-sub: Symphonic
+!!!OPR: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!filename: R408_Web-w13p1-2m1-12.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*
 *part10	*	*part9	*	*part8	*	*part7	*	*part6	*part6	*	*part5	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -189,7 +193,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
 !!!CNT: Austrian
-!!!AGN: Orchestral; Symphonic
+!!!AGN: Orchestral
 !!!MCN: Webern, Anton
 !!!MDT: 1924/06/22
 !!!MGN: unknown
@@ -211,4 +215,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Web-13
+!!!Suter_Example_Number: 408
+!!!Suter_Example_ID: Web-13/1-2/1-12
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 0:48
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 12.25
+!!!Example_Timestamp_Duration: 48
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Sehr ruhig und zart
+!!!Example_Start_Notated_Beat_Rate: 50
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 0.75
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:48
+!!!Example_End_Measure: 12
+!!!Example_Dataset: R
+!!!Editorial_Comments: Naxos recording is no longer available (missing metadata).
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 28
+!!!Audio_Example_Duration: 51.866
 !!!ONB: Converted from MusicXML on 2020/07/28

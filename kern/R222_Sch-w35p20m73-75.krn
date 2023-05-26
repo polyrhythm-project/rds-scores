@@ -1,10 +1,14 @@
+!!!!SEGMENT: R222_Sch-w35p20m73-75.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Violin Concerto, op. 36
+!!!OTL: I: Poco Allegro
 !!!OMV: Movement 1
 !!!example: 222
 !!!work: Sch-35
 !!!OMD-full: Poco allegro
 !!!OMD: [Poco allegro]
+!!!AGN-sub: Concerto
+!!!OPR: Violin Concerto, op. 36
+!!!filename: R222_Sch-w35p20m73-75.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -81,7 +85,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Orchestral; Concerto
+!!!AGN: Orchestral
 !!!MCN: Stokowski, Leopold
 !!!MDT: 1940/12/06
 !!!MGN: Philadelphia Orchestra
@@ -103,4 +107,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Sch-35
+!!!Suter_Example_Number: 222
+!!!Suter_Example_ID: Sch-35/20/73-75
+!!!Premiere_Location: Philadelphia,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 12:51
+!!!First_Publication_Year: 1939
+!!!First_Public_Performance_Year: 1940
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 64
+!!!Example_Start_Tsig_Beat_Rate: 64
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 3:08
+!!!Example_Start_Tempo_Expression: Tempo [Tempo I (Poco Allegro)]
+!!!Example_Start_Notated_Beat_Rate: [64]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 73
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:15
+!!!Example_End_Measure: 75
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=64] based on most recent notated tempo (SWFU, m. 32). Example Start Tempo Expression [Tempo I (Poco Allegro)] based on most recent notated tempo expressions (SWFU, m. 32 and m. 1).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 94
+!!!Audio_Example_Duration: 7.611
 !!!ONB: Converted from MusicXML on 2020/07/28

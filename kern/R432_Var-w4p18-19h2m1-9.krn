@@ -1,10 +1,14 @@
+!!!!SEGMENT: R432_Var-w4p18-19h2m1-9.krn
 !!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
-!!!OTL: Octandre for Eight Instruments
+!!!OTL: III: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 432
 !!!work: Var-4
 !!!OMD-full: Grave
 !!!OMD: Subitement très vif et nerveux
+!!!AGN-sub: Chamber
+!!!OPR: Octandre for Eight Instruments
+!!!filename: R432_Var-w4p18-19h2m1-9.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -128,8 +132,8 @@
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
-!!!CNT: French, American
-!!!AGN: Instrumental; Chamber
+!!!CNT: French,American
+!!!AGN: Instrumental
 !!!MCN: Schmitz, Robert
 !!!MDT: 1924/01/13
 !!!MGN: unknown
@@ -151,4 +155,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 0
 !!!EEV: 2020/07/28
+!!!Suter_Work_ID: Var-4
+!!!Suter_Example_Number: 432
+!!!Suter_Example_ID: Var-4/18-19/[2]1-9
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 5/4,{5/8},4/4,3/4,4/4,3/4,4/4
+!!!Full_Unit_Duration: 2:15
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 14
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 132
+!!!Example_Start_Tsig_Beat_Rate: 132
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 1:02
+!!!Example_Start_Tempo_Expression: Subitement, Très vif et nerveux
+!!!Example_Start_Notated_Beat_Rate: 132
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 24
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:16
+!!!Example_End_Measure: 32
+!!!Example_Dataset: R
+!!!Editorial_Comments: Measure 26 within the Example features an odd time signature (2.5/4), which has been reinterpreted as {5/8}.
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: yes
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 135
+!!!Audio_Example_Duration: 14.843
 !!!ONB: Converted from MusicXML on 2020/07/28

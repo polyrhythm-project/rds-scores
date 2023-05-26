@@ -1,10 +1,14 @@
+!!!!SEGMENT: R588_Hon-w18p7-8m51-66.krn
 !!!COM: Honegger, Arthur
-!!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!OTL: single movement work
 !!!OMV:
 !!!example: 588
 !!!work: Hon-18
 !!!OMD-full: Modéré
 !!!OMD: [Rythmique]
+!!!AGN-sub: Symphonic
+!!!OPR: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!filename: R588_Hon-w18p7-8m51-66.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -217,8 +221,8 @@
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France
 !!!CDL: Paris, France
-!!!CNT: Swiss, French
-!!!AGN: Orchestral; Symphonic
+!!!CNT: Swiss,French
+!!!AGN: Orchestral
 !!!MCN: Koussevitzky, Serge
 !!!MDT: 1924/05/08
 !!!MGN: Orchestre de l'Opéra
@@ -240,4 +244,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2021/04/13
+!!!Suter_Work_ID: Hon-18
+!!!Suter_Example_Number: 588
+!!!Suter_Example_ID: Hon-18/7-8/51-66
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: 2/2;6/4
+!!!Full_Unit_Duration: 6:00
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 16
+!!!Example_Timestamp_Duration: 21
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 1:23
+!!!Example_Start_Tempo_Expression: [Rythmique]
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 51
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:44
+!!!Example_End_Measure: 66
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=80] based on most recent notated tempo (SWFU, m. 12). Example Start Tempo Expression [Rythmique] based on most recent notated tempo expression (SWFU, m. 12). Encoding Note: The 9/8 time signature is transcribed with unnecessary triplet eighths.
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Nov-1955
+!!!Changing_Tsig: yes
+!!!Birth_Place: Le Havre,France
+!!!Birth_Date: 10-Mar-1892
+!!!Audio_Example_Quarter_Note_Tempo: 47
+!!!Audio_Example_Duration: 20.728
 !!!ONB: Converted from MusicXML on 2020/07/28

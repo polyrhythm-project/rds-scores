@@ -1,10 +1,14 @@
+!!!!SEGMENT: R714_Cop-w32p117-118m110-112.krn
 !!!COM: Copland, Aaron
-!!!OTL: The Red Pony, Suite for Orchestra
+!!!OTL: VI: Happy Ending
 !!!OMV: Movement 6: Happy Ending
 !!!example: 714
 !!!work: Cop-32
 !!!OMD-full: Broadly
 !!!OMD: [Tempo as before]
+!!!AGN-sub: Programmatic
+!!!OPR: The Red Pony, Suite for Orchestra
+!!!filename: R714_Cop-w32p117-118m110-112.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -116,7 +120,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
 !!!CNT: American
-!!!AGN: Orchestral; Programmatic
+!!!AGN: Orchestral
 !!!MCN: Kurtz, Efrem
 !!!MDT: 1948/10/30
 !!!MGN: Houston Symphony Orchestra
@@ -138,4 +142,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/09/18
+!!!Suter_Work_ID: Cop-32
+!!!Suter_Example_Number: 714
+!!!Suter_Example_ID: Cop-32/117-118/110-112
+!!!Premiere_Location: Houston,United States
+!!!Other_Tsigs: 2/2;6/8
+!!!Full_Unit_Duration: 2:57
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1948
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 72
+!!!Example_Start_Tsig_Beat_Rate: 72
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 2:30
+!!!Example_Start_Tempo_Expression: [Tempo as before (Trifle faster)]
+!!!Example_Start_Notated_Beat_Rate: [72]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 110
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:35
+!!!Example_End_Measure: 112
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=72] based on most recent notated tempo (SWFU, m. 82). Example Start Tempo Expression [Tempo as before (Trifle faster)] based on most recent notated tempo expressions (SWFU, m. 82 and m. 10).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: yes
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo: 146
+!!!Audio_Example_Duration: 4.946
 !!!ONB: Converted from MusicXML on 2021/06/16

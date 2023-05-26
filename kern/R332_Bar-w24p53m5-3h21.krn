@@ -1,10 +1,14 @@
+!!!!SEGMENT: R332_Bar-w24p53m5-3h21.krn
 !!!COM: Bartók, Béla
-!!!OTL: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!OTL: single movement work
 !!!OMV:
 !!!example: 332
 !!!work: Bar-24
 !!!OMD-full: Allegro
 !!!OMD: [Più mosso]
+!!!AGN-sub: Ballet
+!!!OPR: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!filename: R332_Bar-w24p53m5-3h21.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
 *part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
@@ -91,7 +95,7 @@
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
 !!!CDL: New York, United States
 !!!CNT: Hungarian
-!!!AGN: Stage; Ballet
+!!!AGN: Stage
 !!!MCN: Szenkár, Eugen
 !!!MDT: 1926/11/27
 !!!MGN: unknown
@@ -113,4 +117,36 @@
 !!!excerpt-beat-subgroup: G2
 !!!experiment: 1
 !!!EEV: 2020/09/18
+!!!Suter_Work_ID: Bar-24
+!!!Suter_Example_Number: 332
+!!!Suter_Example_ID: Bar-24/53/5-3[21]
+!!!Premiere_Location: Cologne,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 31:11
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 74
+!!!Example_Start_Tsig_Beat_Rate: 74
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 3:25
+!!!Example_Start_Tempo_Expression: [Più mosso]
+!!!Example_Start_Notated_Beat_Rate: [72-76]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 207
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:31
+!!!Example_End_Measure: 209
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=72-76] based on most recent notated tempo (SWFU, m. 206). Example Start Tempo Expression [Più mosso] based on most recent notated tempo expression (SWFU, m. 206). Example Start Tsig Mean Beat Rate (quarter=74) calculated based on notated tempo [quarter=72-76]. Full Unit Duration calculated from Track 19 (0:00) to Track 29 (1:54) (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=00028945443027). Example Start and End Time based on Track 20 \"1st Decoy game (Moderato)\" (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=00028945443027).
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo: 104
+!!!Audio_Example_Duration: 6.908
 !!!ONB: Converted from MusicXML on 2020/09/04
