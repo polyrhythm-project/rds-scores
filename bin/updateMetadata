@@ -1,0 +1,410 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Fri May 19 15:51:12 PDT 2023
+# Last Modified: Fri May 19 15:51:18 PDT 2023
+# Filename:      updateMetadata
+# Syntax:        perl 5
+# vim:           ts=3:nowrap
+#
+# Description:
+#     Update and/or insert reference records into kern/*.krn files
+#     based on metadata spreadsheet (see url below).
+#
+# Usage: bin/updateMetadata
+#        updateMetadata file(s)
+#
+
+use strict;
+use Getopt::Long;
+
+my $verboseQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'v|verbose' => \$verboseQ
+);
+
+my @files = sort @ARGV;
+
+if (@files == 0) {
+	@files = sort glob("kern/*.krn");
+}
+
+my $id = "AKfycbwFFV1cmeeoFPSLgYY__tFAIqdVZBLLFtxL-ASMyQzGnYPqTXXC";
+my $url = "https://script.google.com/macros/s/$id/exec";
+
+print "Downloading metadata spreadsheet info...";
+my $urldata = `wget "$url" -O - 2> /dev/null`;
+print " DONE\n";
+
+# entries are the metadata fields to store in reference records.
+# The index is the example ID of the score, and the value is a string
+# containing all of the reference entries for the given example.
+my %entries = getEntries($urldata);
+
+my %Header;
+my %Footer;
+
+getHeaderFooterFields();
+
+my %RHeader;
+my %RFooter;
+
+my @keys = keys %Header;
+foreach my $key (@keys) {
+	$RHeader{$Header{$key}} = $key;
+}
+
+my @keys = keys %Footer;
+foreach my $key (@keys) {
+	$RFooter{$Footer{$key}} = $key;
+}
+
+for my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+print "\n\nPROCESSING $file\n";
+	if ($file !~ /[RT](\d+[^_]*)_/) {
+		die "Cannot read example number from filename $file\n";
+	}
+	my $id = $1;
+	my $entry = $entries{$id};
+	if ($entry =~ /^\s*$/) {
+		die "Cannot find example $entry in spreadsheet metdata database\n";
+	}
+	my %lookup = getLookupTable($entry);
+
+	my $base = $file;
+	$base =~ s/.*\///;
+	$lookup{"filename"} = $base;
+	my $altered = 0;
+	open (FILE, $file) or die "Cannot open $file to read\n";
+	my @contents = <FILE>;
+	close FILE;
+	chomp @contents;
+
+	my $exinterpIndex   = -1;
+	my $lastHeaderIndex = -1;
+	my $lastFooterIndex = $#contents;
+
+	my %foundKeys;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\*\*/) {
+			$exinterpIndex  = $i;
+			next;
+	 	}
+
+		next if $line !~ /^!!!([^:]+)\s*:\s*(.*)\s*$/;
+		my $key = $1;
+		my $value = $2;
+		$foundKeys{$key} = 1;
+		if ($exinterpIndex < 0) {
+			$lastHeaderIndex = $i;
+		}
+		my $newvalue = $lookup{$key};
+		if ($newvalue !~ /^\s*$/) {
+			if ($newvalue ne $value) {
+				print "\tCHANGING KEY $key FROM $value TO $newvalue\n";
+				$altered = 1;
+				$line = "!!!$key: $newvalue";
+				@contents[$i] = $line;
+			}
+		}
+	}
+
+	# Append new header records to end of header:
+	my @hkeys = sort keys %Header;
+	foreach my $hkey (@hkeys) {
+		next if $foundKeys{$hkey};
+		my $newline = "!!!$hkey: $lookup{$hkey}";
+		$newline =~ s/\s+$//;
+		if ($lastHeaderIndex >= 0) {
+			$contents[$lastHeaderIndex] .= "\n$newline";
+		} else {
+			$contents[0] = "$newline\n$contents[0]";
+			$altered = 1;
+		}
+	}
+
+	# Append new footer records to end of file:
+	my @fkeys = sort keys %Footer;
+	foreach my $fkey (@fkeys) {
+		next if $foundKeys{$fkey};
+		my $newline = "!!!$fkey: $lookup{$fkey}";
+		$newline =~ s/\s+$//;
+		if ($lastFooterIndex >= 0) {
+			$contents[$lastFooterIndex] = "$newline\n$contents[$lastFooterIndex]";
+			$altered = 1;
+		}
+	}
+
+	if ($contents[0] !~ /^!!!!SEGMENT:/) {
+		$altered = 1;
+		my $base = $file;
+		$base =~ s/.*\///;
+		$contents[0] = "!!!!SEGMENT: $base\n$contents[0]";
+	}
+
+	if ($altered) {
+		#print STDERR "UPDATING $file\n";
+		open (FILE, ">$file") or die "Cannot open $file to write\n";
+		print FILE join("\n", @contents), "\n";
+		close FILE;
+	}
+}
+
+
+##############################
+##
+## getLookupTable -- Given an Example ID, get the
+##    reference record parameters for the Humdrum file.
+##
+
+sub getLookupTable {
+	my ($entry) = @_;
+	my @contents = split("\n", $entry);
+	chomp @contents;
+	my %output;
+	my $key2;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\s*"(.*)"\s*:\s*"(.*)"\s*,?\s*$/) {
+			my $ekey = $1;
+			my $value = $2;
+			my $key = $RHeader{$ekey};
+			if ($key =~ /^\s*$/) {
+				$key = $RFooter{$ekey};
+			}
+			next if $key =~ /^\s*$/;
+			$key =~ s/\s+$//;
+			$key =~ s/^\s+//;
+			$key =~ s/\s+/_/g;
+
+			$output{$key} = $value;
+		}
+	}
+
+	if ($verboseQ) {
+		print "\t\t============== LOOKUP:\n";
+		my @lkeys = sort keys %output;
+		foreach my $lkey (@lkeys) {
+			print "\t$lkey\t$output{$lkey}\n";
+		}
+		print "==============\n\n";
+	}
+
+	return %output;
+}
+
+
+
+##############################
+##
+## getEntries
+#	{
+#		"Suter Example Number": "129",
+#		"Filename": "R129_Jan-w30p11m124-127",
+#		"Suter Example ID": "Jan-30/11/124-127",
+#		"Editorial Comments": "Naxos recording includes part of m. 123. Example Start Notated Beat and Example Start Notated Beat Rate [eighth=84] based on most recent notated tempo (SWFU, m. 45). Example Start Tempo Expression [Un poco più mosso (Andante)] based on most recent notated tempo expressions (SWFU, m. 100 and m. 45).",
+#		"Batch": "33",
+#		"Example Metadata Validated": "Y",
+#		"Experiment": "1",
+#		"Example Dataset": "R",
+#		"Work Dataset": "R",
+#		"Multiple Examples": "N",
+#		"Suter Work ID": "Jan-30",
+#		"Work Title": "Pohádka (Fairy Tale) for Violincello and Piano",
+#		"Genre": "Instrumental",
+#		"Sub-Genre": "Chamber",
+#		"Composition Year": "1910 (rev. 1923)",
+#		"First Public Performance Year": "1910",
+#		"First Publication Year": "1910",
+#		"Premiere Date": "13-Mar-1910",
+#		"Premiere Location": "Brno,Czech Republic",
+#		"Composer Name": "Janáček, Leoš [Leo Eugen]",
+#		"Nationality": "Czech",
+#		"Birth Date": "3-Jul-1854",
+#		"Birth Place": "Hukvaldy,Moravia",
+#		"Death Date": "12-Aug-1928",
+#		"Death Place": "Moravaská Ostrava,Czech Republic",
+#		"Source Work Full Unit": "I: Con moto",
+#		"Full Unit Duration": "4:47",
+#		"Example Start Measure": "124",
+#		"Example End Measure": "127",
+#		"Example Total Measures": "4",
+#		"Naxos Recording Link": "https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=643443177665",
+#		"Example Start Timestamp": "3:53",
+#		"Example End Timestamp": "3:57",
+#		"Example Timestamp Duration": "4",
+#		"Audio Example Duration": "4.082",
+#		"Example Tempo": "E = 118",
+#		"Audio Example Quarter Note Tempo": "59",
+#		"Example Start Tsig": "2/8",
+#		"Example Start Tsig Beat": "eighth",
+#		"Example Start Tsig Beat Rate": "84",
+#		"Example Start Tsig Mean Beat Rate": "84",
+#		"Example Start Notated Beat": "[eighth]",
+#		"Example Start Notated Beat Rate": "[84]",
+#		"Example Start Tsig Type": "simple duple",
+#		"Changing Tsig": "no",
+#		"Other Tsigs": "none",
+#		"Example Start Tempo Expression": "[Un poco più mosso (Andante)]"
+#	},
+##
+
+sub getEntries {
+	my ($data) = @_;
+	my @contents = split("\n", $data);
+	my $id = "";
+	my @entry;
+	my %output;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\s*{\s*$/) {
+			$id = "";
+			@entry = ();
+			next;
+		}
+		if ($line =~ /^\s*"Suter Example Number"\s*:\s*"(.*?)",?\s*$/) {
+			$id = $1;
+			$entry[@entry] = $line;
+			next;
+		}
+		if ($line =~ /^\s*".*"\s*:\s*".*"\s*,?\s*$/) {
+			$entry[@entry] = $line;
+			next;
+		}
+		if ($line =~ /^\s*},?\s*$/) {
+			my $value = join("\n", @entry), "\n";
+			$output{$id} = $value;
+			@entry = ();
+		}
+	}
+	return %output;
+}
+
+
+##############################
+##
+## getHeaderFooterFields -- Get a list of the 
+##   fields to store in the data.  The key value
+##   is the Humdrum reference record, and the value
+##   is the name of the field in the spreadsheet data
+##   to use for that reference record.
+##
+
+sub getHeaderFooterFields {
+	my @flines = <DATA>;
+	chomp @flines;
+	my $headQ = 1;
+	for (my $i=0; $i<@flines; $i++) {
+		my $line = $flines[$i];
+		if ($line =~ /^\@\@BOTTOM/) {
+			$headQ = 0;
+			next;
+		}
+		my @data = split(/\t+/, $line);
+		next if @data == 0;
+		my $first;
+		my $second;
+		if (@data == 1) {
+			$first = $data[0];
+			$second = $first;
+		} elsif (@data > 1) {
+			$first  = $data[0];
+			$second = $data[1];
+		}
+		$first =~ s/^\s+//;
+		$first =~ s/\s+$//;
+		$second =~ s/^\s+//;
+		$second =~ s/\s+$//;
+		$second =~ s/\s+/_/g;
+		if ($headQ) {
+			$Header{$second} = $first;
+		} else {
+			$Footer{$second} = $first;
+		}
+	}
+	if ($verboseQ) {
+
+		print "\n\nHEADER FIELDS -----------\n";
+		my @hkeys = sort keys %Header;
+		foreach my $hkey (@hkeys) {
+			my $key = $hkey;
+			$key =~ s/^\s+//;
+			$key =~ s/\s+$//;
+			$key =~ s/\s+/_/g;
+			print "\t$key == $Header{$key}\n";
+		}
+		print "-----------\n";
+
+		print "\n\nFOOTER FIELDS -----------\n";
+		my @fkeys = sort keys %Footer;
+		foreach my $fkey (@fkeys) {
+			my $key = $fkey;
+			$key =~ s/^\s+//;
+			$key =~ s/\s+$//;
+			$key =~ s/\s+/_/g;
+			print "\t$key == $Footer{$key}\n";
+		}
+		print "-----------\n\n\n";
+
+	}
+}
+
+__DATA__
+Composer Name	COM
+Nationality	CNT
+Work Title	OPR
+Source Work Full Unit	OTL
+Composition Year	ODT
+Genre	AGN
+Sub-Genre	AGN-sub
+Filename	filename
+@@BOTTOM
+Birth Date
+Birth Place
+Death Date
+Death Place
+Suter Work ID
+First Public Performance Year
+Premiere Location
+First Publication Year
+Full Unit Duration
+Suter Example ID
+Suter Example Number
+Example Dataset
+Example Metadata Validated
+Example Start Measure
+Example End Measure
+Example Total Measures
+Example Start Tempo Expression
+Example Start Tsig
+Example Start Tsig Type
+Example Start Tsig Beat
+Example Start Tsig Beat Rate
+Example Start Tsig Mean Beat Rate
+Changing Tsig
+Other Tsigs
+Example Start Notated Beat
+Example Start Notated Beat Rate
+Example Start Timestamp
+Example End Timestamp
+Example Timestamp Duration
+Audio Example Duration
+Audio Example Quarter Note Tempo
+Editorial Comments
