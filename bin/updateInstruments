@@ -42,6 +42,7 @@ chomp @contents;
 close FILE;
 
 my @headings = getHeadings(shift @contents);
+#$print "HEADINGS: ", join("\t===", @headings), "\n";
 my ($oldNameIndex, $newNameIndex, $codeIndex, $classIndex) = getHeadingIndexes(@headings);
 
 #print "oldNameIndex: $oldNameIndex\n";
@@ -56,7 +57,7 @@ my %old2class;
 # Build the lookup indexes:
 foreach my $line (@contents) {
 	my @data = split("\t", $line);
-	next if @data < 5;
+	next if @data < 4;
 	my $oldName = $data[$oldNameIndex];
 	my $newName = $data[$newNameIndex];
 	next if $oldName =~ /^\s*$/;
@@ -96,7 +97,7 @@ foreach my $line (@contents) {
 	$old2class{$oldName} = $class;
 }
 
-# printList();
+#printList();
 
 foreach my $file (@ARGV) {
 	print STDERR "PROCESSING $file ===========================\n";
