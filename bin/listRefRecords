@@ -1,0 +1,101 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my $files = @ARGV;
+
+my %Before;
+my %Inside;
+my %After;
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	processFile ($file);
+}
+
+printAnalysis();
+
+exit(0);
+
+
+###########################################################################
+
+###############################
+##
+## printAnalysis --
+##
+
+sub printAnalysis {
+
+	my @keys = sort keys %Before;
+	if (@keys > 0) {
+		print "BEFORE\n";
+		foreach my $key (@keys) {
+			print "\t$Before{$key}\t$key\n";
+		}
+	}
+
+	@keys = sort keys %Inside;
+	if (@keys > 0) {
+		print "INSIDE\n";
+		foreach my $key (@keys) {
+			print "\t$Inside{$key}\t$key\n";
+		}
+	}
+
+	my @keys = sort keys %After;
+	if (@keys > 0) {
+		print "AFTER\n";
+		foreach my $key (@keys) {
+			print "\t$After{$key}\t$key\n";
+		}
+	}
+}
+
+
+
+###############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+print "PROCESISNG FILE $file\n";
+	open(FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	my $location = 0;
+	foreach my $line (@contents) {
+		if ($line =~ /^\*\*/) {
+			if ($location != 0) {
+				die "ERROR: Multiple segments of data infile $file\n";
+			}
+			$location = 1;
+			next;
+		}
+
+		if ($line =~ /^\*-/) {
+			if ($location != 1) {
+				die "ERROR: Strange multiple terminal case in $file\n";
+			}
+			$location = 2;
+			next;
+		}
+
+		next if $line !~ /^!!!([^!:][^:]*):/;
+		my $key = $1;
+		if ($location == 0) {
+			$Before{$key}++;
+		} elsif ($location == 1) {
+			$Inside{$key}++;
+		} else {
+			$After{$key}++;
+		}
+	}
+}
+
+
+

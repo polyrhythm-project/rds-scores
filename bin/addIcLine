@@ -1,0 +1,207 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my %IC = getIcInfo("instrument.txt");
+my %I = getIInfo("instrument.txt");
+
+my @files = sort @ARGV;
+
+for my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+
+#########################################################
+
+##############################
+##
+## processFile
+##
+
+sub processFile {
+	my ($file) = @_;
+	open(FILE, $file) or die "Cannot open $file";
+	print STDERR "PROCESSING $file\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+
+	my $eiIndex = -1;
+	my $nameIndex = -1;
+	my $codeIndex = -1;
+	my $icIndex = -1;
+
+	my $eiLine = "";
+	my $nameLine = "";
+	my $codeLine = "";
+	my $icLine = "";
+
+	my $changed = 0;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line !~ /^\*/;
+
+		if ($line =~ /^\*\*/) {
+			$eiLine = $line;
+			$eiIndex = $i;
+			next;
+		}
+
+		if ($line =~ /\*I"/) {
+			$nameLine = $line;
+			$nameIndex = $i;
+		} elsif ($line =~ /\*I[a-z]/) {
+			$codeLine = $line;
+			$codeIndex = $i;
+		} elsif ($line =~ /\*IC/) {
+			$icLine = $line;
+			$icIndex = $i;
+		}
+	}
+
+	if ($eiIndex < 0) {
+		die "No Exclusive line in $file\n";
+	}
+
+	if ($nameIndex < 0) {
+		die "No Instrument name line in $file\n";
+	}
+
+	if ($codeIndex < 0) {
+		# Add *I line:
+		$codeIndex = $nameIndex;
+		my @fields = split(/\t+/, $eiLine);
+		my @names = split(/\t+/, $nameLine);
+		my $fcount = @fields;
+		my $ncount = @names;
+		if ($fcount != $ncount) {
+			die "F and N counts do not match for $file\n";
+		}
+		my $output = "";
+		for (my $i = 0; $i<@fields; $i++) {
+			if ($fields[$i] ne "**kern") {
+				$output .= "*";
+			} else {
+				my $value = $I{$names[$i]};
+				if ($value =~ /^\s*$/) {
+					$output .= "*";
+				} else {
+					$output .= $value;
+				}
+			}
+			if ($i < $#fields) {
+				$output .= "\t";
+			}
+		}
+		$contents[$codeIndex] = "$output\n$contents[$codeIndex]";
+		$changed = 1;
+	}
+
+
+	if ($icIndex < 0) {
+
+		# Add *IC line:
+		my @fields = split(/\t+/, $eiLine);
+		my @names = split(/\t+/, $nameLine);
+		my $fcount = @fields;
+		my $ncount = @names;
+		if ($fcount != $ncount) {
+			die "F and N counts do not match for $file\n";
+		}
+		my $output = "";
+		for (my $i = 0; $i<@fields; $i++) {
+			if ($fields[$i] ne "**kern") {
+				$output .= "*";
+			} else {
+				my $value = $IC{$names[$i]};
+				if ($value =~ /^\s*$/) {
+					$output .= "*";
+				} else {
+					$output .= $value;
+				}
+			}
+			if ($i < $#fields) {
+				$output .= "\t";
+			}
+		}
+		$contents[$codeIndex] = "$output\n$contents[$codeIndex]";
+		$changed = 1;
+	}
+	return if !$changed;
+	print STDERR "Updating $file with IC/I lines\n";
+	open (FILE, ">$file") or die "Cannot write $file\.";
+	print FILE join("\n", @contents), "\n";
+	close FILE;
+
+}
+
+
+
+##############################
+##
+## getIcInfo --
+##
+
+sub getIcInfo {
+	my ($file) = @_;
+	open(FILE, $file) or die;
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	my %output;
+	foreach my $line (@contents) {
+		my @data = split(/\t/, $line, -1);
+		if (@data != 4) {
+			print STDERR "DATA LINE: >>$line<<\n";
+			print STDERR "DOES NOT HAVE 4 fields only.\n";
+			my $count = @data;
+			print STDERR "HAS $count instead\n";
+			die;
+		}
+		$output{$data[0]} = $data[3];
+		$output{$data[1]} = $data[3];
+		print STDERR "ADDING INSTRUMENT CLASS $data[0] --> $data[3]\n";
+		print STDERR "ADDING INSTRUMENT CLASS $data[1] --> $data[3]\n";
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## getIInfo --
+##
+
+sub getIInfo {
+	my ($file) = @_;
+	open(FILE, $file) or die;
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	my %output;
+	foreach my $line (@contents) {
+		my @data = split(/\t/, $line, -1);
+		if (@data != 4) {
+			print STDERR "DATA LINE: >>$line<<\n";
+			print STDERR "DOES NOT HAVE 4 fields only.\n";
+			my $count = @data;
+			print STDERR "HAS $count instead\n";
+			die;
+		}
+		$output{$data[0]} = $data[2];
+		$output{$data[1]} = $data[2];
+		print STDERR "ADDING INSTRUMENT CODE $data[0] --> $data[2]\n";
+		print STDERR "ADDING INSTRUMENT CODE $data[1] --> $data[2]\n";
+	}
+	return %output;
+}
+
+
+
+
+
