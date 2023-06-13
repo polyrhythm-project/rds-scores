@@ -1,0 +1,165 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my @files = @ARGV;
+
+my %name2id;
+my %name2abbr;
+my %name2count;
+my %name2code;
+my %name2class;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+my @keys = sort keys %name2count;
+foreach my $key (@keys) {
+	print "$name2count{$key}\t";
+	print "$key\t";
+	print removeDuplicates($name2abbr{$key}), "\t";
+	print removeDuplicates($name2code{$key}), "\t";
+	print removeDuplicates($name2class{$key}), "\t";
+	print removeDuplicates($name2id{$key}), "\t";
+	print "\n";
+}
+
+exit(0);
+
+###########################################################################o
+
+
+##############################
+##
+## removeDuplicates --
+##
+
+sub removeDuplicates {
+	my ($input) = @_;
+	$input =~ s/^\t+//;
+	$input =~ s/\t+$//;
+	my @pieces = split(/\t+/, $input);
+	my %unique;
+	foreach my $piece (@pieces) {
+		$unique{$piece}++;
+	}
+	my @keys = sort keys %unique;
+	return join("; ", @keys);
+}
+
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	my $id = $file;
+	$id =~ s/.*\///;
+	$id =~ s/_.*//;
+	my $kernIndex = -1;
+	my $nameIndex = -1;
+	my $abbrIndex = -1;
+	my $codeIndex = -1;
+	my $classIndex = -1;
+	my $split = 0;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\s*$/;
+		
+		if ($line =~ /^[^=*!]/) {
+			last;
+		}
+		if ($line =~ /\*^/) {
+			$split = 1;
+			last;
+		}
+		
+		next if $ line !~ /^\*/;
+		if ($line =~ /^\*\*/) {
+			$kernIndex = $i;
+		}
+		if ($line =~ /\*I"/) {
+			die "Duplicate name line in file $file at $i and $nameIndex" if $nameIndex > 0;
+			$nameIndex = $i;
+		}
+		if ($line =~ /\*I'/) {
+			die "Duplicate abbr line in file $file at $i and $abbrIndex" if $abbrIndex > 0;
+			$abbrIndex = $i;
+		}
+		if ($line =~ /\*IC/) {
+			die "Duplicate class line in file $file at line $i and $classIndex" if $classIndex > 0;
+			$classIndex = $i;
+		}
+		if ($line =~ /\*I[a-z]/) {
+			# die "Duplicate code line in file $file at line $i and $codeIndex" if $codeIndex > 0;
+			if ($codeIndex < 0) {
+				$codeIndex = $i;
+			}
+		}
+	}
+	if ($nameIndex < 0) {
+		die "Cannot find name line in file $file\n";
+	}
+	if ($codeIndex < 0) {
+		die "Cannot find code line in file $file\n";
+	}
+	if ($classIndex < 0) {
+		die "Cannot find class line in file $file\n";
+	}
+	die "Name and code on same line in $file.\n" if $nameIndex == $codeIndex;
+	die "Name and class on same line in $file.\n" if $nameIndex == $classIndex;
+	die "Code and class on same line in $file.\n" if $codeIndex == $classIndex;
+	my @kernData = split(/\t+/,  $contents[$kernIndex]);
+	my @nameData = split(/\t+/,  $contents[$nameIndex]);
+	my @abbrData = split(/\t+/,  $contents[$abbrIndex]);
+	my @codeData = split(/\t+/,  $contents[$codeIndex]);
+	my @classData = split(/\t+/, $contents[$classIndex]);
+
+	if ($abbrIndex > 0) {
+	die "Name and abbr  line lengths do not match $nameIndex and $abbrIndex in $file\n" if $#abbrData != $#nameData;
+	}
+	die "Name and kern  line lengths do not match in $file\n" if $#kernData != $#nameData;
+	die "Name and class line lengths do not match in $file\n" if $#nameData != $#classData;
+	die "Code and class line lengths do not match in $file\n" if $#codeData != $#classData;
+
+	for (my $i=0; $i<@kernData; $i++) {
+		my $field = $kernData[$i];
+		next if $field ne "**kern";
+		my $name = $nameData[$i];
+		my $abbr = $abbrData[$i];
+		my $code = $codeData[$i];
+		my $class = $classData[$i];
+
+		$name2count{$name}++;
+		$name2id{$name} .= "	$id";
+
+		if ($name2abbr{$name} =~ /^\s*$/) {
+			$name2abbr{$name} = $abbr;
+		} else {
+			$name2code{$name} .= "	$code";
+		}
+
+		if ($name2code{$name} =~ /^\s*$/) {
+			$name2code{$name} = $code;
+		} else {
+			$name2code{$name} .= "	$code";
+		}
+
+		if ($name2class{$name} =~ /^\s*$/) {
+			$name2class{$name} = $class;
+		} else {
+			$name2class{$name} .= "	$class";
+		}
+	}
+}
+
+
+
