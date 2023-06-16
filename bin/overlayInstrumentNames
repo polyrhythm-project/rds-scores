@@ -1,0 +1,67 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my $currentFile  = shift @ARGV;
+my $overlayFile1 = shift @ARGV;
+my $overlayFile2 = shift @ARGV;
+
+my @currentNames = getCurrentNames($currentFile);
+my %overlay1 = getOverlay($overlayFile1);
+my %overlay2 = getOverlay($overlayFile2);
+
+my %output;
+for (my $i=0; $i<@currentNames; $i++) {
+	my $cname = $currentNames[$i];
+	$output{$cname} = $overlay1{$cname};
+	if ($overlay1{$cname} =~ /^\s*$/) {
+		$output{$cname} = $overlay2{$cname};
+	}
+	if ($output{$cname} =~ /^\s*$/) {
+		$output{$cname} = $cname;
+	}
+	print "$cname\t$output{$cname}\n";
+}
+
+
+exit(0);
+
+###########################################################################
+
+##############################
+##
+## getOverlay --
+##
+
+sub getOverlay {
+	my ($file) = @_;
+	my %output;
+	my @contents;
+	open (FILE, $file) or die "Cannot read $file\n";
+	@contents = <FILE>;
+	close FILE;
+	chomp @contents;
+	foreach my $line (@contents) {
+		my @data = split(/\t+/, $line);
+		$output{$data[0]} = $data[1];
+	}
+	return %output;
+}
+
+
+
+##############################
+##
+## getCurrentNames --
+##
+
+sub getCurrentNames {
+	my ($file) = @_;
+	my @output;
+	open (FILE, $file) or die "Cannot read $file\n";
+	@output = <FILE>;
+	close FILE;
+	chomp @output;
+	return @output;
+}
+
