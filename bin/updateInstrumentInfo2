@@ -1,0 +1,327 @@
+#!/usr/bin/env perl
+# Update instrument information in Humdrum files.
+
+use strict;
+
+my $instrumentFile  = shift @ARGV;
+my @files = @ARGV;
+
+my @names;
+my %name2rename;
+my %name2abbr;
+my %name2code;
+my %name2class;
+
+buildIndexes($instrumentFile);
+
+my @keyz = sort keys %name2rename;
+print "RENAMES\t", join(" ", @keyz), "\n";
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+exit(0);
+
+###########################################################################
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open(FILE, $file) or die "Cannot open $file to read\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close(FILE);
+
+	my $exinterpIndex  = -1;
+	my $nameIndex  = -1;
+	my $abbrIndex  = -1;
+	my $codeIndex  = -1;
+	my $classIndex = -1;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\s*$/;
+		last if $line =~ /\*^/;
+		last if $line =~ /^[^!=*]/;
+
+		if ($line =~ /\*\*/) {
+			die "Double exinterp line in $file on lines $nameIndex and $i" if $exinterpIndex > 0;
+			$exinterpIndex = $i;
+			next;
+		}
+
+		if ($line =~ /\*I"/) {
+			die "Double name line in $file on lines $nameIndex and $i" if $nameIndex > 0;
+			$nameIndex = $i;
+			next;
+		}
+
+		if ($line =~ /\*I'/) {
+			die "Double abbr line in $file on lines $abbrIndex and $i" if $abbrIndex > 0;
+			$abbrIndex = $i;
+			next;
+		}
+
+		if ($line =~ /\*IC/) {
+			die "Double class line in $file on lines $classIndex and $i" if $classIndex > 0;
+			$classIndex = $i;
+			next;
+		}
+
+		if ($line =~ /^\*I[a-z]/) {
+			# Allow multiple lines for instrument codes, but only process the first one.
+			# This is because instruments can change in a spine (particularly for percussion).
+			if ($codeIndex < 0) {
+				$codeIndex = $i;
+			}
+			next;
+		}
+
+	}
+
+	die "Cannot find exclusive interpretation line in $file\n" if $exinterpIndex < 0;
+	die "Cannot find instrument name line in $file" if $nameIndex < 0;
+   # Instrument abbreviation line is optional, so do not complain if it is missing.
+	die "Cannot find instrument code line in $file" if $codeIndex < 0;
+	die "Cannot find instrument class line in $file" if $classIndex < 0;
+
+	# print STDERR "EXINTERP INDEX: $exinterpIndex\n";
+	# print STDERR "NAME     INDEX: $nameIndex\n";
+	# print STDERR "ABBR     INDEX: $abbrIndex\n";
+	# print STDERR "CODE     INDEX: $codeIndex\n";
+	# print STDERR "CLASS    INDEX: $classIndex\n";
+
+	# Disallow mising of instrument information types on a line:
+	if (($exinterpIndex >= 0) && ($exinterpIndex == $nameIndex)) {
+		die "Exinterp line and name line are the same in $file: $exinterpIndex\n";
+	}
+	if (($exinterpIndex >= 0) && ($exinterpIndex == $abbrIndex)) {
+		die "Exinterp line and abbr line are the same in $file: $exinterpIndex\n";
+	}
+	if (($exinterpIndex >= 0) && ($exinterpIndex == $codeIndex)) {
+		die "Exinterp line and code line are the same in $file: $exinterpIndex\n";
+	}
+	if (($exinterpIndex >= 0) && ($exinterpIndex == $classIndex)) {
+		die "Exinterp line and class line are the same in $file: $exinterpIndex\n";
+	}
+	if (($nameIndex > 0) && ($nameIndex == $abbrIndex)) {
+		die "Name line and abbr line are the same in $file: $nameIndex\n";
+	}
+	if (($nameIndex > 0) && ($nameIndex == $codeIndex)) {
+		die "Name line and code line are the same in $file: $nameIndex\n";
+	}
+	if (($nameIndex > 0) && ($nameIndex == $classIndex)) {
+		die "Name line and class line are the same in $file: $nameIndex\n";
+	}
+	if (($abbrIndex > 0) && ($abbrIndex == $codeIndex)) {
+		die "Abbr line and code line are the same in $file: $abbrIndex\n";
+	}
+	if (($abbrIndex > 0) && ($abbrIndex == $classIndex)) {
+		die "Abbr line and class line are the same in $file: $abbrIndex\n";
+	}
+	if (($codeIndex > 0) && ($codeIndex == $classIndex)) {
+		die "Code line and class line are the same in $file: $codeIndex\n";
+	}
+
+	# Extract instrument fields from data.
+
+	my @exinterpFields;
+	my @nameFields;
+	my @abbrFields;
+	my @codeFields;
+	my @classFields;
+
+	if ($exinterpIndex >= 0) {
+		my $line = $contents[$exinterpIndex];
+		$line =~ s/\t+/\t/g;
+		@exinterpFields = split(/\t/, $line, -1);
+	}
+
+	if ($nameIndex >= 0) {
+		my $line = $contents[$nameIndex];
+		$line =~ s/\t+/\t/g;
+		@nameFields = split(/\t/, $line, -1);
+	}
+
+	if ($abbrIndex >= 0) {
+		my $line = $contents[$abbrIndex];
+		$line =~ s/\t+/\t/g;
+		@abbrFields = split(/\t/, $line, -1);
+	}
+
+	if ($codeIndex >= 0) {
+		my $line = $contents[$codeIndex];
+		$line =~ s/\t+/\t/g;
+		@codeFields = split(/\t/, $line, -1);
+	}
+
+	if ($classIndex >= 0) {
+		my $line = $contents[$classIndex];
+		$line =~ s/\t+/\t/g;
+		@classFields = split(/\t/, $line, -1);
+	}
+
+	# print STDERR "EXINTERP LINE ", join("\t", @exinterpFields), "\n";
+	# print STDERR "NAME     LINE ", join("\t", @nameFields), "\n";
+	# print STDERR "ABBR     LINE ", join("\t", @abbrFields), "\n";
+	# print STDERR "CODE     LINE ", join("\t", @codeFields), "\n";
+	# print STDERR "CLASS    LINE ", join("\t", @classFields), "\n";
+
+	# Now go through and update information from the spreadsheet values:
+
+	my $changed = 0;   # true if anything information was updated (and updates need to be written to the file).
+
+
+	for (my $i=0; $i<@exinterpFields; $i++) {
+		my $exinterp = $exinterpFields[$i];
+		next if $exinterp ne "**kern";
+		my $name = $nameFields[$i];
+		my $rename = $name2rename{$name};
+		# print STDERR "EXINTER:$exinterp\tNAME:$name\tRENAME:$rename\n";
+
+		if ($rename !~ /^\s*$/) {
+			if ($rename ne $name) {
+				$nameFields[$i] = $rename;
+				$changed = 1;
+			}
+		}
+
+		if (@abbrFields > 0) {
+			# o = original, n = new
+			my $oabbr = $abbrFields[$i];
+			my $nabbr = $name2abbr{$name};
+			if ($nabbr !~ /^\s*$/) {
+				if ($nabbr ne $oabbr) {
+					$abbrFields[$i] = $nabbr;
+					$changed = 1;
+				}
+			}
+		}
+
+		if (@codeFields > 0) {
+			# o = original, n = new
+			my $ocode = $codeFields[$i];
+			my $ncode = $name2code{$name};
+			if ($ncode !~ /^\s*$/) {
+				if ($ncode ne $ocode) {
+					$codeFields[$i] = $ncode;
+					$changed = 1;
+				}
+			}
+		}
+
+		if (@classFields > 0) {
+			# o = original, n = new
+			my $oclass = $classFields[$i];
+			my $nclass = $name2class{$name};
+			if ($nclass !~ /^\s*$/) {
+				if ($nclass ne $oclass) {
+					$classFields[$i] = $nclass;
+					$changed = 1;
+				}
+			}
+		}
+	}
+
+	return if !$changed;
+
+	print STDERR "UPDATING FILE $file\n";
+
+	if ($exinterpIndex >= 0) {
+		my $line = join("\t", @exinterpFields);
+		$contents[$exinterpIndex] = $line;
+	}
+
+	if ($nameIndex >= 0) {
+		my $line = join("\t", @nameFields);
+		$contents[$nameIndex] = $line;
+	}
+
+	if ($abbrIndex >= 0) {
+		my $line = join("\t", @abbrFields);
+		$contents[$abbrIndex] = $line;
+	}
+
+	if ($codeIndex >= 0) {
+		my $line = join("\t", @codeFields);
+		$contents[$codeIndex] = $line;
+	}
+
+	if ($classIndex >= 0) {
+		my $line = join("\t", @classFields);
+		$contents[$classIndex] = $line;
+	}
+
+	open (FILE, ">$file") or die "Cannot write to $file\n";
+	print FILE join("\n", @contents), "\n";
+	close FILE;
+}
+
+
+
+##############################
+##
+## buildIndexes --
+##
+
+sub buildIndexes {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+
+		my @data = split(/\t/, $line, -1);
+
+		my $name   = $data[0];
+		my $rename = $data[1];
+		my $abbr   = $data[2];
+		my $code   = $data[3];
+		my $class  = $data[4];
+
+		# print STDERR "NAME:$name\tRENAME:$rename\tABBR:$abbr\tCLASS:$class\n";
+		# print STDERR "NAME:$name\tRENAME:$rename\n";
+
+		if ($name !~ /^\s*$/) {
+			if ($name !~ /^\*/) {
+				print STDERR "Ignoring instrument name $name\n";
+				next;
+			}
+		}
+		if ($rename !~ /^\s*$/) {
+			die "Invalid rename: >>$rename<< on line $i of data" if $rename !~ /^\*/;
+		}
+		if ($abbr !~ /^\s*$/) {
+			die "Invalid abbr: >>$abbr<< on line $i of data" if $abbr !~ /^\*/;
+		}
+		if ($code !~ /^\s*$/) {
+			die "Invalid code: >>$code<< on line $i of data" if $code !~ /^\*/;
+		}
+		if ($class !~ /^\s*$/) {
+			die "Invalid class: >>$class<< on line $i of data" if $class !~ /^\*/;
+		}
+
+		# Trim any whitespace at the end of the fields:
+		$rename =~ s/\s+$//;
+		$abbr   =~ s/\s+$//;
+		$code   =~ s/\s+$//;
+		$class  =~ s/\s+$//;
+
+		$names[@names]      = $name;
+print STDERR "XXXXX  NAME = $name RENAME = $rename\n";
+		$name2rename{$name} = $rename;
+		$name2abbr{$name}   = $abbr;
+		$name2code{$name}   = $code;
+		$name2class{$name}  = $class;
+	}
+}
+
+
