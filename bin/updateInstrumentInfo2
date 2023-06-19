@@ -288,7 +288,7 @@ sub buildIndexes {
 		my $class  = $data[4];
 
 		# print STDERR "NAME:$name\tRENAME:$rename\tABBR:$abbr\tCLASS:$class\n";
-		# print STDERR "NAME:$name\tRENAME:$rename\n";
+		print STDERR "NAME:$name\tRENAME:$rename\n";
 
 		if ($name !~ /^\s*$/) {
 			if ($name !~ /^\*/) {
