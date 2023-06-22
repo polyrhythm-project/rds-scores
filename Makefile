@@ -177,4 +177,6 @@ npvi-ratio:
 	@$(BINDIR)/getNpviRatio $(EXP)/*.krn
 
 
+tempo:
+	bin/insertTempoRecords kern/*.krn
 

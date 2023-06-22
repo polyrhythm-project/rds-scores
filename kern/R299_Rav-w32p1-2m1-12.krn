@@ -20,6 +20,7 @@
 *clefG2	*	*clefF4	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
+!!LO:TX:tempo:a:t=Andante quasi allegretto\n[eighth]=100
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
 !	!	!LO:TX:t=[[eighth]=100]	!

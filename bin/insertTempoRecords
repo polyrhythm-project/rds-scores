@@ -1,0 +1,189 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Jun 22 16:10:54 PDT 2023
+# Last Modified: Thu Jun 22 16:10:59 PDT 2023
+# Filename:      insertTempoRecords
+# Syntax:        perl 5
+#
+# Description:   Insert tempo markings from reference records.  Example:
+#
+# !!!Example_Start_Tempo_Expression: [Un poco più mosso (Andante)]
+# !!!Example_Start_Notated_Beat_Rate: [84]
+# !!!Example_Start_Notated_Beat: [eighth]
+#
+# Converts to:
+#    !!LO:TX:tempo:a:t=[Un poco più mosso (Andante)]\n[[eighth] = 84]
+# Placed on the line before the firt time signature before the start of the data.
+#
+
+use strict;
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+exit(0);
+
+###########################################################################
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open(FILE, $file) || die "Cannot read $file\n";
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+	my %refs = getReferenceRecords(@contents);
+	my $ttext = %refs{"Example_Start_Tempo_Expression"};
+	my $numtext = %refs{"Example_Start_Notated_Beat_Rate"};
+	my $beattext = %refs{"Example_Start_Notated_Beat"};
+
+	my $tref = createTempoText($ttext, $numtext, $beattext);
+
+	my $tempoIndex = -1;
+	my $timeSigIndex   = -1;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\s*$/;
+		if ($line =~ /\t?\*M\d+\/\d+/) {
+			if ($timeSigIndex < 0) {
+				$timeSigIndex = $i;
+			}
+		}
+		if ($line =~ /^!!LO:TX.*:tempo:/) {
+			if ($tempoIndex < 0) {
+				$tempoIndex  = $i;
+			}
+		}
+		if ($line =~ /^[^!*=]/) {
+			last;
+		}
+	}
+
+	if ($tempoIndex > 0) {
+		# Replace previous tempo text:
+		$contents[$tempoIndex] = $tref;
+	} elsif ($timeSigIndex > 0) {
+		# Insert new tempo text:
+		$contents[$timeSigIndex] = "$tref\n$contents[$timeSigIndex]";
+	}
+
+	open (FILE, ">$file") or die "Cannot open $file for reading\n";
+	print FILE join("\n", @contents), "\n";
+	close FILE;
+
+
+}
+
+
+
+##############################
+##
+## createTempoText --
+#
+# !!!Example_Start_Tempo_Expression: [Un poco più mosso (Andante)]
+# !!!Example_Start_Notated_Beat: [quarter];[dotted-quarter]
+# !!!Example_Start_Notated_Beat_Rate: [126];[126]
+#
+# Converts to:
+#    !!LO:TX:tempo:a:t=[Un poco più mosso (Andante)]\n[[quarter] = 126; [quarter-dot]=126]
+#
+##
+
+sub createTempoText {
+	my ($ttext, $numtext, $beattext) = @_;
+
+	$ttext =~ s/^\s+//;
+	$ttext =~ s/\s+$//;
+	$numtext =~ s/^\s+//;
+	$numtext =~ s/\s+$//;
+	$beattext =~ s/^\s+//;
+	$beattext =~ s/\s+$//;
+
+	my $output = "";
+	$output .= "!!LO:TX:tempo:a:t=";
+	if ($ttext =~ /^\s*none\s*$/) {
+		# do nothing
+	} elsif ($ttext !~ /^\s*$/) {
+		$ttext =~ s/:/&colon;/g;
+		$ttext =~ s/\\"/"/g;
+		$output .= $ttext;
+		if ($numtext !~ /^\s*$/) {
+			$output .= "\\n";
+		}
+	}
+
+	my @pieces1 = split(/\s*;\s*/, $beattext);
+	my @pieces2 = split(/\s*;\s*/, $numtext);
+
+	my $estart = "";
+	my $eend = "";
+	if ($pieces1[0] =~ /\[/) {
+		$estart = "[";
+		$eend = "]";
+	} elsif ($pieces1[0] =~ /\{/) {
+		$estart = "{";
+		$eend = "}";
+	}
+
+	$output .= $estart;
+
+	# !!!Example_Start_Tempo_Expression: [Un poco più mosso (Andante)]
+	# !!!Example_Start_Notated_Beat: [quarter];[dotted-quarter]
+	# !!!Example_Start_Notated_Beat_Rate: [126];[126]
+
+	if (@pieces1 == @pieces2) {
+		for (my $i=0; $i<@pieces1; $i++) {
+			my $p = $pieces1[$i];
+			my $q = $pieces2[$i];
+			$p =~ s/[][]//g;
+			$p =~ s/[{}]//g;
+			if  ($p =~ /^dotted-([a-z]+)$/) {
+				$p = "$1-dot";
+			}
+			$p = "[$p]";
+			$q =~ s/[][]//g;
+			$q =~ s/[{}]//g;
+			$q =~ s/-/&#8211;/g;
+			$output .= "$p=$q";
+			if ($i <$#pieces1) {
+				$output .= "; ";
+			}
+		}
+	} else {
+		$output = "ERROR";
+	}
+
+	$output .= $eend;
+}
+
+
+
+##############################
+##
+## getReferenceRecords --
+##
+
+sub getReferenceRecords {
+	my @contents = @_;
+	my %output;
+	for my $line (@contents) {
+		next if $line !~ /^!!!([^:]+?):\s*(.*)\s*$/;
+		my $key = $1;
+		my $value = $2;
+		$output{$key} = $value;
+	}
+	return %output;
+}
+
+
+

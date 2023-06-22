@@ -20,6 +20,7 @@
 *clefF4	*	*clefF4	*
 *k[b-e-a-d-]	*	*k[b-e-a-d-]	*
 *A-:	*	*A-:	*
+!!LO:TX:tempo:a:t=[Allegro sostenuto]\n{[quarter]=96}
 *M4/4	*	*M4/4	*
 =74	=74	=74	=74
 !	!	!LO:TX:t=[[quarter]=96]	!
