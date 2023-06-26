@@ -29,10 +29,10 @@
 .	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
 =156	=156	=156	=156	=156	=156	=156	=156
 8FF#X 8C#X	.	8c#X 8f#X	.	8gn~^^ 8aa	.	8r	.
-!	!	!	!ONB: removed ties	!	!	!	!
-(>8DDL [<8AA	.	4A 4d	.	16f# 16gg#XLL	.	16cc#X 16ddd#XLL	.
+!ONB: removed ties	!	!	!	!	!	!	!
+(>8DDL <8AA	.	4A 4d	.	16f# 16gg#XLL	.	16cc#X 16ddd#XLL	.
 .	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
-8AAJ] 8D	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
+8AAJ 8D	.	.	.	16f# 16gg#X	.	16cc#X 16ddd#X	.
 .	.	.	.	16f# 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
 =157	=157	=157	=157	=157	=157	=157	=157
 8D 8A)	.	8A 8d	.	8r~^^	.	8ddn~^^ 8eee	.
@@ -90,3 +90,5 @@
 !!!EEV2: 2022/01/30
 !!!COM: Béla Bartók
 !!!excerpt-duration-sec: 7.13
+!!!EED3: Ève Poudrier
+!!!EEV3: 2023/06/26
