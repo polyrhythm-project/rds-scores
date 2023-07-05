@@ -1,0 +1,122 @@
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Seven Spanish Folksongs for Voice and Piano
+!!!OMV: IV: Jota
+!!!example: 310
+!!!work: Fal-3
+!!!OMD-full: Allegro vivo
+!!!OMD: Allegro vivo ([quarter-dot] = 92)
+**kern	**kern	**dynam
+*Trd-1c-2	*Trd-1c-2	*Trd-1c-2
+*f:A	*f:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M3/8	*M3/8	*
+*	*clefF4	*
+!!LO:TX:t=
+!	!	!LO:DY:rj
+8ryy	N(>24BL	pp
+.	24E	.
+.	24BBJ	.
+=1	=1	=1
+*	*^	*
+!	!	!	!
+8BB'N)	8ryy	8ryy	.
+8r	8e'L	16eLL	.
+.	.	16G#	.
+8B' 8c#	8d#'J	16d#	.
+.	.	16G#JJ	.
+=2	=2	=2	=2
+4.ryy	8e'L	16eLL\	.
+.	.	16G#J\	.
+.	8c#'	16c#L\	.
+.	.	16G#J\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E</JJ	.
+*	*v	*v	*
+=3	=3	=3
+*	*^	*
+8BB'	8ryy	8r	.
+8ry	8e'L	16eLL	.
+.	.	16G#	.
+8B' 8c#	8d#'J	16d#	.
+.	.	16G#JJ	.
+=4	=4	=4	=4
+4.ryy	8e'L	16eLL\	.
+.	.	16G#J\	.
+.	8c#'	16c#L\	.
+.	.	16G#J\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E<JJ/	.
+*	*v	*v	*
+=5	=5	=5
+*	*^	*
+8BB'	8ryy	8r	.
+8r	8e'L	16eLL	.
+.	.	16A	.
+8B' 8c#	8d#'J	16d#	<
+.	.	16AJJ	.
+=6	=6	=6	=6
+*f:A	*	*f:B	*
+8r'	8e'L	16eLL	.
+.	.	16A	.
+8B' 8c#	8c#'	16c#	.
+.	.	16A	.
+8r'	8B'J	16B	.
+.	.	16AJJ	[[
+=7	=7	=7	=7
+8B' 8c#	8e'L	16eLL	>
+.	.	16A	.
+8r	8c#'	16c#	.
+.	.	16A	.
+8r	8B'J	16B	.
+.	.	16AJJ	]]
+=8	=8	=8	=8
+4.ryy	8e'L	16eLL\	.
+.	.	16AJ\	.
+.	8c#'	16c#L\	.
+.	.	16AJ\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E<JJ/	.
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Vocal; Solo
+!!!MCN:
+!!!MDT: 1915/01/14
+!!!MGN:
+!!!MLC: Madrid, Spain
+!!!MPD: 1915
+!!!MPN: Falla, Manuel de; Vela, Luisa
+!!!ODT: 1914
+!!!PDT: 1922
+!!!excerpt-start-measure: 0.666
+!!!excerpt-end-measure: 8
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:06
+!!!excerpt-duration-sec: 5.49
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 92
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/03/19
+!!!ONB: Converted from MusicXML on 2020/10/05

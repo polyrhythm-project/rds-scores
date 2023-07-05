@@ -1,0 +1,113 @@
+!!!COM: Martin, Frank
+!!!OTL: Eight Preludes for Piano
+!!!OMV: No. 8
+!!!example: 560
+!!!work: Mai-29
+!!!OMD-full: Vivace
+!!!OMD: [Vivace]
+**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
+*part1	*	*part1	*
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*I"Piano	*	*I"Piano	*
+*I'Pno.	*	*I'Pno.	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M18/16	*	*M18/16	*
+=10-	=10-	=10-	=10-
+!	!	!LO:TX:t=[ [eighth-dot]=132 ]	!
+16FF#X'LL	mf	8r	.
+16A'	.	.	.
+!	!	!	!LO:DY:a
+!	!	!	!LO:DY:t=%s molto marc.
+16D#X'J	.	16aa'^KL	f
+16Cn'L	.	[8.ddn^J	.
+16dn'	.	.	.
+16G#X'JJ	.	.	.
+16FF#'LL	.	8.ddL_	.
+16A'	.	.	.
+16D#X'J	.	.	.
+16C'L	.	8dd]	.
+16dn'	.	.	.
+16G#'JJ	.	[16cc#X^Jk	.
+16FF#'LL	.	8.cc#L_\	.
+16A'	.	.	.
+16D#X'J	.	.	.
+16C'L	.	8cc#]	.
+16dn'	.	.	.
+16G#X'JJ	.	[16e#X^Jk	.
+=11	=11	=11	=11
+!LO:TX:b:i:t=sempre stacc.	!	!	!
+16FFLL	.	8e#L]	.
+16A	.	.	.
+16D#XJ	.	[16g#X^k	.
+16CnL	.	8.g#J_	.
+16dn	.	.	.
+16G#XJJ	.	.	.
+16FFLL	.	8.g#L_	.
+16A	.	.	.
+16D#J	.	.	.
+16CL	.	16g#k]	.
+16d	.	[8g#^J	.
+16G#JJ	.	.	.
+16FFLL	.	8g#L]	.
+16A	.	.	.
+16D#J	.	[16g#^k	.
+16CL	.	8.g#J_	.
+16d	.	.	.
+16G#JJ	.	.	.
+=12	=12	=12	=12
+16FF#XLL	.	16g#XLL]	.
+16A	.	16f#X'^^	.
+16D#XJ	.	[16b^J	.
+16CnL	.	8b]	.
+16dn	.	.	.
+16G#XJJ	.	[16ccn^Jk	.
+16FF#LL	.	16ccLL<]	.
+16A	.	16b'^^	.
+16D#J	.	[16g#X^JJ	.
+16CL	.	16g#KL<]	.
+16d	.	[8b^J	.
+16G#JJ	.	.	.
+16FF#LL	.	16bLL]	.
+16A	.	16b'^^	.
+16D#XJ	.	16cc'^^J	.
+16CL	.	16ffn'^^L	.
+16d	.	16ff#X'^^	.
+16G#XJJ	.	16bb'^^JJ	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1950/03/22
+!!!MGN:
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1950
+!!!MPN: Bidal, Denise
+!!!ODT: 1948
+!!!PDT: 1949
+!!!excerpt-start-measure: 10
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:27
+!!!excerpt-end-time: 0:41
+!!!excerpt-duration-sec: 8.182
+!!!excerpt-time-signature: 18/16
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/09/18

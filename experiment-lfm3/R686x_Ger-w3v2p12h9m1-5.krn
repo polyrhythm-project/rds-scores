@@ -1,0 +1,108 @@
+!!!COM: Gershwin, George
+!!!OTL: Rhapsody in Blue for Solo Piano
+!!!OMD-full: Molto moderato
+!!!example: 686x
+!!!work: Ger-3x
+!!!OMD-full: Molto moderato
+!!!OMD: [Tempo giusto]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'Pno.	*I'Pno.	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+=91-	=91-	=91-
+!	!LO:TX:t=[[quarter]=171]	!
+!	!LO:TX:b:i:t=  marc.	!LO:DY:
+!	!	!
+(<8qC/ 8qG	(<8qbbn/	mf
+!	!	!
+8B-X^L) 8c (8e	8ccL) (8ccc	.
+8A	8eeJ 8eee	.
+8G)	4gg^ 4ggg)	.
+(8B-^J 8c 8e	.	.
+8AL	4gg^ 4ggg	.
+8GJ)	.	.
+(12B-^L 12c 12e	4gg^ 4ggg	.
+12A	.	.
+12GJ)	.	.
+=92	=92	=92
+(8Bn^L 8d 8f	4gg^ 4ggg	.
+8A	.	.
+.	(<8qggg#X/	.
+8G)	8aaL) (8aaa	.
+(8B^J 8d 8f	8ggJ 8gggn	.
+8AL	8ff'L 8fff)	.
+8GJ)	8ee'J 8eee	.
+(12B^L 12d 12f	4dd~^ 4ddd	.
+12A	.	.
+12GJ)	.	.
+!!linebreak:original
+=93	=93	=93
+*	*^	*
+*	*grp:A	*grp:B	*
+(8B-X^L 8c 8e	4r	2ccc/ 2cc	.
+8A	.	.	.
+*	*X8va	*	*
+8G)	8r	.	.
+(8B-^J 8c 8e	(8b-X^ 8cc 8ee	.	.
+8AL	8aL	2ryy	.
+8GJ)	8gJ)	.	.
+!	!LO:TX:b:i:t=R.H.	!	!
+4r	(12B-< 12c< 12e<^L	.	.
+.	12A<	.	.
+.	12G<J)	.	.
+*	*v	*v	*
+=94	=94	=94
+*^	*	*
+*	*grp:B	*	*
+(8B-X^L 8c 8e-X	4AAA-X' 4AA-X	1r	.
+8A-X	.	.	.
+8G-X)	4AAA-' 4AA-	.	.
+(8B-^J 8c 8e-	.	.	.
+8A-L	4AAA-' 4AA-	.	.
+8G-J)	.	.	.
+(12B-^L 12c 12e-	4AAA-' 4AA-	.	.
+12A-	.	.	.
+12G-J)	.	.	.
+*v	*v	*	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Instrumental; Keyboard
+!!!MCN: unknown
+!!!MDT: ?
+!!!MGN: unknown
+!!!MLC: unknown
+!!!MPD: unknown
+!!!MPN: unknown
+!!!ODT: 1924?
+!!!PDT: 1924?
+!!!excerpt-start-measure: 91
+!!!excerpt-end-measure: 95
+!!!excerpt-start-time: 3:36
+!!!excerpt-end-time: 3:43
+!!!excerpt-duration-sec:6.197
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {171}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
