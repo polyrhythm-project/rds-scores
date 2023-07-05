@@ -1,0 +1,89 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Mon Jun 26 15:54:06 PDT 2023
+# Last Modified: Mon Jun 26 15:54:09 PDT 2023
+# Filename:      getCompositeEventCounts
+# Syntax:        perl 5
+#
+# Description:   Count the number of composite events (exclude rests and tie continuations)
+#
+
+use strict;
+use Getopt::Long;
+
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
+
+my $extractx = `which extractx`;
+chomp $extractx;
+die "Cannot find extractx tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $extractx =~ /^\s*$/;
+
+my $rid = `which ridx`;
+chomp $rid;
+die "Cannot find ridx tool.  Install humextras (https://github.com/craigsapp/humextra)\n" if $rid =~ /^\s*$/;
+
+my $audioDuration;  # duration in seconds if not extracting from file.
+my $verboseQ = 0;   # -v will list the composite event counts and the durations in seconds used for calculations
+my $fileQ = 0;      # -f will give the file after the result on the same line.
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'v|verbose' => \$verboseQ,
+   'f|file' => \$fileQ,
+   'd|s|audio-duration|seconds=s' => \$audioDuration
+);
+
+my @files = sort @ARGV;
+
+die "No input files.\n" if @files == 0;
+
+for my $file (@files) {
+	processFile($file);
+}
+
+
+##############################
+##
+## processFile -- extract data and calculate score
+## 
+## !!!excerpt-duration-sec: 5
+##
+
+sub processFile {
+	my ($file) = @_;
+	my $compositeEvents = `$composite $file | $extractx -i kern-comp | $extractx -s 1 | $rid -H | grep -v r | grep -v '[]_]' | wc -l`;
+	# grep -v r removes rests
+	# grep -v '[[]_]' removes secondary tied notes (keeping note attacks of tied notes).
+	chomp $compositeEvents;
+	$compositeEvents =~ s/^\s+//;
+	$compositeEvents =~ s/\s+$//;
+	my $excerptDuration = $audioDuration;
+	my $seconds = $audioDuration;
+	if ($excerptDuration =~ s/^\s*$//) {
+		$excerptDuration = `grep "^!!!excerpt-duration-sec:" $file`;
+		chomp $excerptDuration;
+		if ($excerptDuration !~ /^!!!excerpt-duration-sec:\s*(.+)\s*$/) {
+			die "problem on line $excerptDuration in file $file\n";
+		}
+		$seconds = $1;
+		$seconds =~ s/^\s+//;
+		$seconds =~ s/\s+$//;
+	}
+	my $value = $compositeEvents / $seconds;
+	# Round the value to one decimal digit:
+	$value = int($value * 100.0 + 0.5) / 100.0;
+	if ($fileQ) {
+		print "$value\t$file\n";
+	} else {
+		print "$value\n";
+	}
+	if ($verboseQ) {
+		print "\tcomposite events:\t$compositeEvents\n";
+		print "\tseconds:\t\t$seconds\n";
+	}
+}
+
+
+
