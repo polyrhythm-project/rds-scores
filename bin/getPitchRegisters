@@ -9,7 +9,7 @@
 # Description:   Output three columns showing the relative amount of notes
 #                in each pitch range:
 #                    low: below C3
-#                    mid: between C3 and C5
+#                    mid: C3 to C5 inclusive
 #                    high: above C5
 # 
 
@@ -42,11 +42,11 @@ for my $file (@files) {
 sub process {
 	my ($file) = @_;
 	my @contents;
-	if ($group !~ /^\s*$/) {
-		@contents = `cat $file | composite -o $group | prange`;
-	} else {
+	#if ($group !~ /^\s*$/) {
+	#	@contents = `cat $file | composite -o $group | prange`;
+	#} else {
 		@contents = `prange $file`;
-	}
+	#}
 	chomp @contents;
 	my $low  = 0;
 	my $mid  = 0;
@@ -58,14 +58,15 @@ sub process {
 		my $pitch = $data[0];
 		my $count = $data[2];
 		if ($pitch < 48) {
-			$low++;
+			$low += $count;
 		} elsif ($pitch > 72) {
-			$high++;
+			$high += $count;
 		} else {
-			$mid++;
+			$mid += $count;
 		}
 	}
 	my $total = $low + $mid + $high;
+	# print "$low\t$mid\t$high\t$total\n";
 	if ($total > 0) {
 		$low  = $low / $total;
 		$mid  = $mid / $total;

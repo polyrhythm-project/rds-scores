@@ -7,10 +7,10 @@ KERN = $(KERN_RDS)
 KERN_TDS = ../tds-scores/kern
 
 # Choose which experimental data to extract:
-EXP = experiment2
 # Location of experimental data:
-EXPERIMENT1 = experiment1
-EXPERIMENT2 = experiment2
+#EXP = experiment1
+EXP = experiment-lfm1
+#EXP  = experiment-lfm2
 
 BINDIR = bin
 
@@ -156,6 +156,19 @@ registerB:
 dissonant: dissonance
 dissonance:
 	@$(BINDIR)/getSonorityDissonance $(EXP)/*.krn
+
+
+grpAEventCounts:
+	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]_" | wc -l ; done
+
+grpBEventCounts:
+	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpB | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+
+coin-count: concidenceEventsCount
+concidenceEventsCount:
+	for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+	
+
 
 
 dur: duration

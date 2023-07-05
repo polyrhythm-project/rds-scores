@@ -6,85 +6,86 @@
 !!!OMD-full: Allegro vivo
 !!!OMD: Allegro vivo ([quarter-dot] = 92)
 **kern	**kern	**dynam
-*grp:A	*grp:B	*
+*Trd-1c-2	*Trd-1c-2	*Trd-1c-2
+*f:A	*f:B	*
 *part1	*part1	*
 *staff2	*staff1	*
 *ICklav	*ICklav	*
 *Ipiano	*Ipiano	*
 *I"Piano	*I"Piano	*
 *clefF4	*clefG2	*
-*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
-*F#:	*F#:	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
 *M3/8	*M3/8	*
 *	*clefF4	*
 !!LO:TX:t=
 !	!	!LO:DY:rj
-8ryy	N(>24c#L	pp
-.	24F#	.
-.	24C#J	.
+8ryy	N(>24BL	pp
+.	24E	.
+.	24BBJ	.
 =1	=1	=1
 *	*^	*
 !	!	!	!
-8C#'N)	8ryy	8ryy	.
-8r	8f#'L	16f#LL	.
-.	.	16A#	.
-8c#' 8d#	8e#'J	16e#	.
-.	.	16A#JJ	.
+8BB'N)	8ryy	8ryy	.
+8r	8e'L	16eLL	.
+.	.	16G#	.
+8B' 8c#	8d#'J	16d#	.
+.	.	16G#JJ	.
 =2	=2	=2	=2
-4.ryy	8f#'L	16f#LL\	.
-.	.	16A#J\	.
-.	8d#'	16d#L\	.
-.	.	16A#J\	.
-.	8c#'J	24c#L\	.
-.	.	24c<#/	.
-.	.	24F<#/JJ	.
+4.ryy	8e'L	16eLL\	.
+.	.	16G#J\	.
+.	8c#'	16c#L\	.
+.	.	16G#J\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E</JJ	.
 *	*v	*v	*
 =3	=3	=3
 *	*^	*
-8C#'	8ryy	8r	.
-8ry	8f#'L	16f#LL	.
-.	.	16A#	.
-8c#' 8d#	8e#'J	16e#	.
-.	.	16A#JJ	.
+8BB'	8ryy	8r	.
+8ry	8e'L	16eLL	.
+.	.	16G#	.
+8B' 8c#	8d#'J	16d#	.
+.	.	16G#JJ	.
 =4	=4	=4	=4
-4.ryy	8f#'L	16f#LL\	.
-.	.	16A#J\	.
-.	8d#'	16d#L\	.
-.	.	16A#J\	.
-.	8c#'J	24c#L\	.
-.	.	24c<#/	.
-.	.	24F<#JJ/	.
+4.ryy	8e'L	16eLL\	.
+.	.	16G#J\	.
+.	8c#'	16c#L\	.
+.	.	16G#J\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E<JJ/	.
 *	*v	*v	*
 =5	=5	=5
 *	*^	*
-8C#'	8ryy	8r	.
-8r	8f#'L	16f#LL	.
-.	.	16B	.
-8c#' 8d#	8e#'J	16e#	<
-.	.	16BJJ	.
+8BB'	8ryy	8r	.
+8r	8e'L	16eLL	.
+.	.	16A	.
+8B' 8c#	8d#'J	16d#	<
+.	.	16AJJ	.
 =6	=6	=6	=6
-*grp:A	*	*grp:B	*
-8r'	8f#'L	16f#LL	.
-.	.	16B	.
-8c#' 8d#	8d#'	16d#	.
-.	.	16B	.
-8r'	8c#'J	16c#	.
-.	.	16BJJ	[[
+*f:A	*	*f:B	*
+8r'	8e'L	16eLL	.
+.	.	16A	.
+8B' 8c#	8c#'	16c#	.
+.	.	16A	.
+8r'	8B'J	16B	.
+.	.	16AJJ	[[
 =7	=7	=7	=7
-8c#' 8d#	8f#'L	16f#LL	>
-.	.	16B	.
-8r	8d#'	16d#	.
-.	.	16B	.
-8r	8c#'J	16c#	.
-.	.	16BJJ	]]
+8B' 8c#	8e'L	16eLL	>
+.	.	16A	.
+8r	8c#'	16c#	.
+.	.	16A	.
+8r	8B'J	16B	.
+.	.	16AJJ	]]
 =8	=8	=8	=8
-4.ryy	8f#'L	16f#LL\	.
-.	.	16BJ\	.
-.	8d#'	16d#L\	.
-.	.	16BJ\	.
-.	8c#'J	24c#L\	.
-.	.	24c<#/	.
-.	.	24F<#JJ/	.
+4.ryy	8e'L	16eLL\	.
+.	.	16AJ\	.
+.	8c#'	16c#L\	.
+.	.	16AJ\	.
+.	8B'J	24BL\	.
+.	.	24B</	.
+.	.	24E<JJ/	.
 *	*v	*v	*
 =	=	=
 *-	*-	*-
