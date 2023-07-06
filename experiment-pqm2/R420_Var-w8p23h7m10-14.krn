@@ -1,0 +1,212 @@
+!!!!SEGMENT: R420_Var-w8p23h7m10-14.krn
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 420
+!!!work: Var-8
+!!!OMD-full: none
+!!!OMD: none
+!!!AGN-sub: Theatrical
+!!!OPR: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
+!!!filename: R420_Var-w8p23h7m10-14.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff12	*	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICklav	*	*ICvox	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICklav	*	*ICklav	*	*ICklav	*
+*Ipiatt&Ibdrum	*	*Ibdrum	*	*Itdrum	*	*Isdrum	*	*Itimpa	*	*Ipiano	*	*Ibass	*	*	*Itromt	*	*Itromt	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Itromp	*	*Itromp	*	*Iorgan	*	*Iondes	*	*Iondes	*
+*I"Cymbal,\nBass Drum	*	*I"2 Bass Drums	*	*I"Tenor Drum	*	*I"Snare Drum	*	*I"Timpani	*	*I"Piano	*	*I"Bass	*	*	*I"Trombone 4	*	*I"Trombone 3	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Trumpet in Bb 4\n[sounds as written]	*	*I"Trumpet in Bb 3\n[sounds as written]	*	*I"Trumpet in Bb 2\n[sounds as written]	*	*I"Trumpet in Bb 1\n[sounds as written]	*	*I"Organ	*	*I"Ondes Martenot 2	*	*I"Ondes Martenot 1	*
+*I'cymb, b-dr	*	*I'b-dr	*	*I't-dr	*	*I'dr	*	*I'timp	*	*I'pf	*	*I'b	*	*	*I'tn	*	*I'tn	*	*I'tn	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'tp	*	*I'tp	*	*I'org	*	*I'ond	*	*I'ond	*
+*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*stria	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*I	*	*I	*	*I	*	*I	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:tempo:a:t=[[quarter]=80]
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:T:b	!LO:DY:ed=brack	!	!	!LO:TX:t=[[quarter]=80]	!
+4%5r	.	4%5r	.	4%5r	.	4%5r	.	4F^	ff	2e^	2FF^ 2F	ff	4%5r	.	.	(2F^	fff	(2e^	fff	(2F^	fff	(2e^	fff	4r	.	4r	.	4r	.	4r	.	][4f#Xi ][4cc#Xi ][4ggi	ff >	4%5r	.	4%5r	.
+.	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8f#L] 8cc#] 8gg]	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a#XLL	ff	16cc#XLL	ff	16dLL	ff	16cc#XLL	ff	16d~Jk 16a#X 16cc#X	]]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16aJJ	.	[16gg#XJJ	.	[16anJJ	.	[16gg#XJJ	.	16r	.	.	.	.	.
+.	.	.	.	.	.	.	.	4GG^ 4C#X	.	4A#X^	4GGn 4C#	.	.	.	.	[2GGn)	p <	[2GGn)	p <	[2C#X)	p <	[2A#X)	p <	2a_	>	2gg#_	>	2a_	>	2gg#_	>	4r	.	.	.	.	.
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	32GGLLL	p	4r	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2r	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	[[	4r	4ryy	.	.	.	.	8.GGL_	.	8.GGL_	.	8.C#L_	.	8.A#L_	.	8.aL_	] <	8.gg#L_	] <	8.aL_	] <	8.gg#L_	] <	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GG	.	.	.	.	.	.	.	16GGJk]	[[	16GGJk]	[[	16C#Jk]	[[	16A#Jk]	[[	16aJk]	[[	16gg#Jk]	[[	16aJk]	[[	16gg#Jk]	[[	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32GGJJJ	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*^	*	*	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!
+!	!	!	!LO:TX:a:t=Timp. stick	!	!LO:TX:a:t=Tambour stick	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!LO:TX:b:t=Timp. stick	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8rgg	4Rf\	p	12r	.	8r	8ryy	.	4r	2ryy	.	4%3r	.	4%3r	.	4%3r	.	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4r	.	8.dddL	p
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:N:head=x	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	p	.	.	8Rb/	8Rb\	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16E-XJk	16ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8rgg	4r	[	8Rb\	.	24ryy	24Rb\LL	.	8Rff/L	.	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.enL	.	4r	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!
+.	.	.	.	.	24Rb/	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	24ryy	24Rb\JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	.	8r	.	8Rb/	8ryy	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16fffnJk	.	.	.	.
+4rgg	8r	.	12Re/L	.	8Rb/	8ryy	.	16Rff/LL	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4fff]	.	[4fff#X	4ryy	.
+.	.	.	.	.	.	.	.	16Rff/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Rb/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8Rf\	.	.	.	8ryy	8Rb\	.	16r	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/JJ	16Rff^\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco marcato	!	!	!
+8Rff/	8r	.	12r	.	8r	8ryy	.	4r	2ryy	.	4%3r	.	4%3r	.	4%3r	.	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	[2.ccc#X~	<	2.fff#~_	<
+.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8rgg	4Rf\	.	.	.	8Rb/	8Rb\	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!LO:TUP:br:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4rgg	.	.	12Rb/L	.	24ryy	24Rb\LL	.	8Rff/L	.	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	24Rb/	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12r	.	24ryy	24Rb\JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[[	.	[[
+.	8r	.	.	.	8Rb/	8ryy	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	>	.	>
+.	.	.	12Rb\J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8rgg	4r	.	4r	.	8Rb/	8ryy	.	16Rff/LL	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	.	.	.	8ryy	8Rb\	.	16r	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/JJ	16Rff^\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	]]	.	]]
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(senza sord.)	!	!LO:TX:a:t=(senza sord.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8rgg	4Rf\	.	12r	.	8r	8ryy	.	4r	2ryy	.	4%3r	.	4%3r	.	4%3r	.	.	4r	.	4r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4ccc#]	ppp	4fff#]	ppp
+.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	.	.	.	8Rb/	8Rb\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8rgg	4r	.	8Rb/	.	24ryy	24Rb\LL	.	8Rff/L	.	.	.	.	.	.	.	.	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4r	.
+.	.	.	.	.	24Rb/	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	24ryy	24Rb\JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	.	8r	.	8Rb/	8ryy	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4rgg	8r	.	12Re/L	.	8Rb/	8ryy	.	16Rff/LL	8ryy	.	.	.	.	.	.	.	.	([4F#X	ppp <	([4f#X	ppp <	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	16Rff/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Rb/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8Rf\	.	.	.	8ryy	8Rb\	.	16r	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/JJ	16Rff^\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	8rd	.	12r	.	8r	8ryy	.	4r	2ryy	.	4%3r	.	4%3r	.	4r	.	.	2F#]	.	2f#]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4r	.	4%3r	.
+.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8rgg	4Rf\	.	.	.	8Rb/	8Rb\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Re/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[[	.	[[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*
+4rgg	.	.	12Rb\L	.	24ryy	24Rb\LL	.	8Rff/L	.	.	.	.	.	.	4f#X	OH,	ff	.	f >	.	f >	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4f#X	ff	.	.
+.	.	.	.	.	24Rb/	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12r	.	24ryy	24Rb\JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8r	.	.	.	8Rb/	8ryy	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12Rb\J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16Rff/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=colla voce	!	!	!
+8rgg	4r	.	4r	[	8Rb/	8ryy	.	16Rff/LL	8ryy	.	.	.	.	.	16cnLL	MA-	.	8CL	.	8cL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cnLL	.	.	.
+.	.	.	.	.	.	.	.	16Rff/	.	.	.	.	.	.	16c	-E-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16c	.	.	.
+!LO:N:head=x	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Rff/	.	.	.	.	8ryy	8Rb\	[	16r	16ryy	.	.	.	.	.	16Fn	-STROS	.	16FFnL')	]	16FnL')	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Fn	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t-P:problem:dash after GI not showing	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	16Rff/JJ	16Rff^\	[	.	.	.	.	16cJJ	GI-	.	16CJJ	.	16cJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cJJ	.	.	.
+*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][([(s3)])][(s4,s5,s6,s7)][(s8,s9,s10,s11)]s12,s13{s14}[(s15,s16,s17,s18,s19)]
+!!!RDF**kern: i = editorial accidental, paren
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French,American
+!!!AGN: Stage
+!!!MCN: Slonimsky, Nicolas
+!!!MDT: 1934/04/15
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1934
+!!!MPN: Baromeo, Chase
+!!!ODT: 1934
+!!!PDT: 1934
+!!!excerpt-start-measure: 93
+!!!excerpt-end-measure: 97
+!!!excerpt-start-time: 4:37
+!!!excerpt-end-time: 4:51
+!!!excerpt-duration-sec: 14
+!!!excerpt-time-signature: 5/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Var-8
+!!!Suter_Example_Number: 420
+!!!Suter_Example_ID: Var-8/23/[7]10-14
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 3/4
+!!!Full_Unit_Duration: 11:41
+!!!First_Publication_Year: 1934
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 5/4
+!!!Example_Start_Timestamp: 4:40
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 93
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:52
+!!!Example_End_Measure: 97
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=80] based on most recent notated tempo (SWFU, m. 53).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: yes
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 80
+!!!Audio_Example_Duration: 12.764
+!!!ONB: Converted from MusicXML on 2020/07/28

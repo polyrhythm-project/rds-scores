@@ -1,0 +1,216 @@
+!!!!SEGMENT: R724_Cop-w42p64h66m1-7.krn
+!!!COM: Copland, Aaron
+!!!OTL: III: Subway Jam
+!!!OMV: Movement 3: Subway Jam
+!!!example: 724
+!!!work: Cop-42
+!!!OMD-full: none
+!!!OMD: none
+!!!AGN-sub: Programmatic
+!!!OPR: Music for a Great City for Orchestra
+!!!filename: R724_Cop-w42p64h66m1-7.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**blank	**blank	**blank
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*grp:B
+*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*	*part1	*	*	*	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*staff1	*	*	*	*
+*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICbras	*	*	*ICbras	*	*	*	*
+*Ibdrum	*	*Ipaila	*	*Iconga	*	*Itdrum	*	*Itromt	*	*	*Itromt	*	*	*	*
+*I"Bass Drum	*	*I"Timbales	*	*I"Congas	*	*I"Tenor Drum	*	*I"Trombone 3	*	*	*I"Trombone 1, 2	*	*	*	*
+*I'b-dr	*	*I'timb	*	*I'conga	*	*I't-dr	*	*I'tn	*	*	*I'tn	*	*	*	*
+*stria1	*	*stria1	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*
+*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefF4	*	*	*clefF4	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*	*
+!!LO:TX:tempo:a:t=[[quarter]=132]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
+!!LO:REH:t=66
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!
+4r	mf	16r	mf	8.r	mf	16Re/LL	mf	4r	mf	.	4r	mf	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8r	.	.	8r	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord]	!	!	!LO:TX:a:t=[con sord]	!	!	!	!
+8Re/J	.	.	.	16r	.	16Re/	.	([8AA~	.<	.	([8D-~ [8E-~	.<	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	4AA]	.	.	4D-] 4E-]	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	8FF#'^)	[f	.	8C'^ 8D'^)	[f	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4r	.	16r	.	8.r	.	16Re/LL	.	4r	.	.	4r	.	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4D'~	.	.	4E-X'~ 4B-X	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8r	.	.	8r	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	(4.AA~	<	.	(4.D-X~ 4.E-	<	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8FF#'^)	[	.	8C'^ 8Dn)	[	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4D'~	.	.	4E-X'~ 4B-X	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8r	.	.	8r	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	(4.D~	<	.	(4.E-~ 4.B-	.<	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+4r	.	16r	.	8.r	.	16Re/LL	.	8F'^)	[	.	8G-'^ 8e-X)	[	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4D'~	.	.	4E-X'~ 4B-X	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	4r	.	.	4r	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	(4AA~	<	.	(4D-X~ 4E-X	<	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8FFn'^)	[	.	8C-'^ 8D-X)	[	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4r	.	.	4r	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8r	.	.	8r	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	8FF'~	.	.	8C-'~ 8D-	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	4r	.	.	4r	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4r	.	16r	.	8.r	.	16Re/LL	.	8r	.	.	8r	.	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	4.D~	.	.	4.E-X~ 4.B-X	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8r'^	.	.	8r'^	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	(4.F~	<	.	(4.G-X~ 4.e-X	<	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4r	.	16r	.	8.r	.	16Re/LL	.	8D'^)	[	.	8E-X'^ 8B-X)	[	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8r	.	.	8r	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	[8C~	.	.	[8D-X~ [8A	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8C]	.	.	8D-] 8A]	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	8r	.	.	8r	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	(4AA~ii	<	.	(4D-~ 4E-Xii	<	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	[[	.	.	[[	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
+!!!Xfilter:slurcheck
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral
+!!!MCN: Copland, Aaron
+!!!MDT: 1964/05/26
+!!!MGN: London Symphony Orchestra
+!!!MLC: London, United Kingdom
+!!!MPD: 1964
+!!!MPN:
+!!!ODT: 1964
+!!!PDT: 1965
+!!!excerpt-start-measure: 30
+!!!excerpt-end-measure: 36
+!!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:03
+!!!excerpt-duration-sec: 12
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Cop-42
+!!!Suter_Example_Number: 724
+!!!Suter_Example_ID: Cop-42/64/[66]1-7
+!!!Premiere_Location: London,England
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:15
+!!!First_Publication_Year: 1965
+!!!First_Public_Performance_Year: 1964
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 132
+!!!Example_Start_Tsig_Beat_Rate: 132
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:51
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [132]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 30
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:03
+!!!Example_End_Measure: 36
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter = 132] based on most recent notated tempo (SWFU, m. 1).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo: 140
+!!!Audio_Example_Duration: 11.996
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

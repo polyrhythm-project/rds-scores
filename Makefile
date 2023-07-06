@@ -9,8 +9,9 @@ KERN_TDS = ../tds-scores/kern
 # Choose which experimental data to extract:
 # Location of experimental data:
 #EXP = experiment1
-EXP = experiment-lfm1
-#EXP  = experiment-lfm2
+#EXP = experiment-lmf1
+#EXP  = experiment-lmf2
+EXP  = experiment-lmf3
 
 BINDIR = bin
 
@@ -134,6 +135,8 @@ range:
 	@$(BINDIR)/getPitchRanges $(EXP)/*.krn
 
 
+
+
 mean: pitch-mean
 means: pitch-mean
 pitch-means: pitch-mean
@@ -158,12 +161,19 @@ dissonance:
 	@$(BINDIR)/getSonorityDissonance $(EXP)/*.krn
 
 
-grpAEventCounts:
-	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]_" | wc -l ; done
+composite-count: cc
+cc:
+	for i in $(EXP)/*.krn; do composite  $$i | extractx -i kern-comp | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
+grpac: grpAEventCounts
+grpAEventCounts:
+	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+
+grpbc: grpBEventCounts
 grpBEventCounts:
 	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpB | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
+coin: coin-count
 coin-count: concidenceEventsCount
 concidenceEventsCount:
 	for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done

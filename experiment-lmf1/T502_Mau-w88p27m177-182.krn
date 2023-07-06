@@ -1,0 +1,119 @@
+!!!!SEGMENT: T502_Mau-w88p27m177-182.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: I: Poco allegro
+!!!AGN: Instrumental
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1947
+!!!OPR: String Quartet No. 7 \"Concerto da camera\" (Chamber Concerto)
+!!!filename: T502_Mau-w88p27m177-182.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:tempo:a:t=[Poco allegro]\n{[quarter]=108}
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*
+=179	=179	=179	=179	=179	=179	=179	=179
+8C]	.	16ggLL	.	16bb-XLL	.	8ccc]	.
+.	.	16aa-X	.	16ccc	.	.	.
+4CC~	.	16gg	.	16bb-	.	4cccc~	.
+.	.	16ffJJ	.	16aa-XJJ	.	.	.
+.	.	16eeLL	.	16ggLL	.	.	.
+.	.	16b-X	.	16dd-X	.	.	.
+4C~	.	16a-X	.	16cc	.	4ccc~	.
+.	.	16gJJ	.	16b-XJJ	.	.	.
+.	.	16fLL	.	16a-XLL	.	.	.
+.	.	16e	.	16g	.	.	.
+(8c	.	16d	.	16f	.	(8cc	.
+.	.	16eJJ	.	16gJJ	.	.	.
+!!LO:REH:t=180
+=180	=180	=180	=180	=180	=180	=180	=180
+4d-X)	.	16fLL	.	16a-XLL	.	4dd-X)	.
+.	.	16e	.	16g	.	.	.
+.	.	16g	.	16b-X	.	.	.
+.	.	16fJJ	.	16a-JJ	.	.	.
+(8B-X	.	16e-XLL	.	16g-XLL	.	(8b-X	.
+.	.	16d	.	16f	.	.	.
+4E-X)	.	16f	.	16a-	.	4ee-X)	.
+.	.	16e-JJ	.	16g-JJ	.	.	.
+.	.	16dLL	.	16fLL	.	.	.
+.	.	16c	.	16e	.	.	.
+(>8En	.	16en	.	16g-	.	(8een	.
+.	.	16gJJ	.	16b-XJJ	.	.	.
+=181	=181	=181	=181	=181	=181	=181	=181
+4EEn)	.	16b-XLL	.	16dd-XLL	.	4eeen)	.
+.	.	16a	.	16cc	.	.	.
+.	.	16cc-X	.	16ee-X	.	.	.
+.	.	16b-JJ	.	16dd-JJ	.	.	.
+*	*	*clefC3	*	*	*	*	*
+4E~	.	16gLL	.	16b-XLL	.	4ee~	.
+.	.	16e	.	16g	.	.	.
+.	.	16d-X	.	16e	.	.	.
+.	.	16B-XJJ	.	16c#XJJ	.	.	.
+(8cL	.	16GLL	.	16B-XLL	.	(8eL	.
+.	.	16A	.	16cn	.	.	.
+[8dnJ	.	16B-	.	16d	.	[8fJ	.
+.	.	16AJJ	.	16cJJ	.	.	.
+=182	=182	=182	=182	=182	=182	=182	=182
+8dL])	.	16GLL	.	16B-XLL	.	8fL])	.
+.	.	16A	.	16c	.	.	.
+(8B-XJ	.	16B-X	.	16d	.	(8dJ	.
+.	.	16GJJ	.	16B-JJ	.	.	.
+4c)	.	16CLL	.	16cLL	.	4e)	.
+.	.	16G	.	16e	.	.	.
+.	.	16B-	.	16g	.	.	.
+.	.	16enJJ	.	16b-XJJ	.	.	.
+8f'L	>	8fL	>	8a-XL	>	8f'L	>
+[8FJ	.	16d-XL	.	16fL	.	[8ffJ	.
+.	]	16enJJ	]	16gJJ	]	.	]
+*	*	*clefG2	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/06
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/06
+!!!Suter_Work_ID: Mau-88
+!!!Suter_Example_Number: 502
+!!!Suter_Example_ID: Mau-88/27/177-182
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 7:13
+!!!First_Publication_Year: 1958
+!!!First_Public_Performance_Year: 1949
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 5:20
+!!!Example_Start_Tempo_Expression: [Poco allegro]
+!!!Example_Start_Notated_Beat_Rate: {108}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 177
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:30
+!!!Example_End_Measure: 182
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=108} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=8.553784). Example Start Tempo Expression [Poco allegro] based on most recent notated tempo expression (SWFU, m. 1). Editorial Note: The notated measure numbers in the relevant editions of the SWFU are incorrect, and off by one (the first instance of a notated measure, measure 10, should have been measure 11). In keeping with the diplomatic transcription of Suter's measures, the measure numbers of the scores are maintained; however, note that, for instance, the written measure 180 should actually be measure 181.
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!excerpt-duration-sec: 7.1

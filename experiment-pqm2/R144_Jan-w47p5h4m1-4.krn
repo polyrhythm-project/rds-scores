@@ -1,0 +1,129 @@
+!!!!SEGMENT: R144_Jan-w47p5h4m1-4.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Act I, Prelude
+!!!OMV: Act I, Prelude
+!!!example: 144
+!!!work: Jan-47
+!!!OMD-full: Andante
+!!!OMD: Più mosso
+!!!AGN-sub: Opera
+!!!OPR: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
+!!!filename: R144_Jan-w47p5h4m1-4.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*
+*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*
+*Itimpa	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*
+*I"Timpani	*	*I"Trumpet in F 2	*	*I"Trumpet in F 1	*	*I"Horn in F 2	*	*I"Horn in F 1	*
+*I'timp	*	*I'tp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd4c7	*	*ITrd4c7	*
+*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*C:	*	*F:	*	*F:	*	*F:	*	*F:	*
+!!LO:TX:tempo:a:t=Più mosso\n[quarter-dot]=66
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=4
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Più mosso ([eighth]=145, [quarter-dot]=48)	!
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[Banda Interna (Offstage)]	!
+8.A-XL	f	24ccLL	f	24ccLL	f	24cLL	f	24cLL	f
+.	.	24f	.	24b-	.	24F	.	24B-	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+.	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XJ	.	.	.	.	.	.	.	.	.
+.	.	24a-XJJ	.	24ccJJ	.	24A-XJJ	.	24cJJ	.
+[8A-L	.	8b-^^	.	8ee-X^^	.	8B-^^	.	8e-X^^	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+16A-]	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XJ	.	.	.	.	.	.	.	.	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+8.A-XL	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+.	.	24ccJJ	.	24ccJJ	.	24cJJ	.	24cJJ	.
+.	.	8f^^	.	8b-^^	.	8F^^	.	8B-^^	.
+16E-Jk	.	.	.	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+8.A-XL	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+.	.	24e-LL	.	24e-LL	.	24E-LL	.	24E-LL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XkJ	.	.	.	.	.	.	.	.	.
+.	.	24a-XJJ	.	24ccJJ	.	24A-XJJ	.	24cJJ	.
+[8A-L	.	8b-^^	.	8ee-X^^	.	8B-^^	.	8e-X^^	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+16A-]	.	24ccLL	.	24ccLL	.	24cLL	.	24cLL	.
+.	.	24f	.	24b-	.	24F	.	24B-	.
+16E-XJ	.	.	.	.	.	.	.	.	.
+.	.	24e-XJJ	.	24e-XJJ	.	24E-XJJ	.	24E-XJJ	.
+8.A-XL	.	24cLL	.	24cLL	.	24CLL	.	24CLL	.
+.	.	24e-	.	24a-X	.	24E-	.	24A-X	.
+.	.	24gJJ	.	24b-JJ	.	24GJJ	.	24B-JJ	.
+.	.	[8a-X^^	.	[8a-X^^	.	[8A-X^^	.	[8A-X^^	.
+16E-Jk	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8)][(s9,s10,s11,s12)][(s13)][(s14,s15,s16,s17,s18)]
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Stage
+!!!MCN: Neumann, František
+!!!MDT: 1926/12/18
+!!!MGN: Orchestra of the Janáček Opera of the National Theatre Brno
+!!!MLC: Brno, Czechia
+!!!MPD: 1926
+!!!MPN: Čvanová, Alexandra
+!!!ODT: 1925
+!!!PDT: 1970
+!!!excerpt-start-measure: 38
+!!!excerpt-end-measure: 41
+!!!excerpt-start-time: 1:08
+!!!excerpt-end-time: 1:13
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 66
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Jan-47
+!!!Suter_Example_Number: 144
+!!!Suter_Example_ID: Jan-47/5/[4]1-4
+!!!Premiere_Location: Brno,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:23
+!!!First_Publication_Year: 1970
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 1:08
+!!!Example_Start_Tempo_Expression: Più mosso
+!!!Example_Start_Notated_Beat_Rate: 66
+!!!Example_Start_Notated_Beat: dotted-quarter
+!!!Example_Start_Measure: 38
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:13
+!!!Example_End_Measure: 41
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Tsig Mean Beat Rate (eighth = 198) calculated based on notated tempo (dotted-quarter = 66).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo: 65
+!!!Audio_Example_Duration: 5.562
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,145 @@
+!!!!SEGMENT: R700_Cop-w2p64h38m3-10.krn
+!!!COM: Copland, Aaron
+!!!OTL: III: Allegro vivo
+!!!OMV: Movement 3: Allegro vivo
+!!!example: 700
+!!!work: Cop-2
+!!!OMD-full: Allegro vivo
+!!!OMD: [Meno mosso]
+!!!AGN-sub: Symphonic
+!!!OPR: Dance Symphony
+!!!filename: R700_Cop-w2p64h38m3-10.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Ixylo	*	*Itromt	*	*Itromp	*	*Icor	*	*Icor	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Xylophone	*	*I"Trombone 1, 2	*	*I"Trumpet in C 1, 2	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"Clarinet in A 1, 2	*	*I"Piccolo Clarinet in D	*	*I"Oboe 1, 2	*	*I"Flute 1, 2	*	*I"Piccolo	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'xyl	*	*I'tn	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'cl	*	*I'picc-cl	*	*I'ob	*	*I'fl	*	*I'picc	*
+*clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd2c3	*	*ITrd-1c-2	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[X]	*	*k[X]	*	*k[X]	*	*k[X]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[Meno mosso]\n[[quarter-dot]=100]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+!	!	!LO:TX:a:t=unis.	!	!	!	!LO:TX:t=[[quarter-dot]=100]	!	!	!	!	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:a:t=[a2]	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:t=[[quarter-dot]=100]	!
+8r	.	8r	.	8r	.	8r	.	16r	16r	fff	]8ggg^	f	8c#X' 8f#X	f	]8f 8b-X	f	8c#X' 8f#X	p	8f ]8b-y	p	16r	ff	16r	ff	16r	ff	16r	ff	16r	ff
+.	.	.	.	.	.	.	.	8bb-X^L	8bbb-X^L 8bbbb-X	.	.	.	.	.	.	.	.	.	.	.	8aa#^L	.	8bb-X^L	.	8bb-X^L	.	8bb-X^L	.	8bbb-XL	.
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8dL	f	8dL	f	8eL	f	8g#XL	f	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16bb-'Jk	16bbb-Jk 16bbbb-'	.	.	.	.	.	.	.	.	.	.	.	16aa#'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bbb-'Jk	.
+8d#XJ	.	8d#XJ	.	8cc#XJ	.	8eeJ	.	8gg~L	8ggg~ 8ggggL	.	8r	.	8r	.	8r	.	8r	.	8r	.	8ff##X^L	.	8ggX^L	.	8gg^L	.	8gg^L	.	8ggg^L	.
+=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
+8e^L	.	8e^L	.	8gL	.	8b-XL	.	16gg'kJ	16ggg'k 16ggggJ	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##X'kJ	.	16ggX'kJ	.	16gg'kJ	.	16gg'kJ	.	16ggg'kJ	.
+.	.	.	.	.	.	.	.	8ff^L	8fff^L 8ffff	.	.	.	.	.	.	.	.	.	.	.	8ee#^L	.	8ffX^L	.	8ff^L	.	8ff^L	.	8fff^L	.
+8f	.	8f	.	8ff#XJ	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee-'XJk	16eee-XJk 16eeee-'X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
+8c#XJ	.	8c#XJ	.	8e/L	.	8g#X/L	.	16ff^LL	16fff^LL 16ffff	.	.	.	.	.	.	.	.	.	.	.	16ee#^LL	.	16ff^LL	.	16ff^LL	.	16ff^LL	.	16fff^LL	.
+.	.	.	.	.	.	.	.	16gg'JJ	16ggg'JJ 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##'JJ	.	16gg'JJ	.	16gg'JJ	.	16gg'JJ	.	16ggg'JJ	.
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+8d^L	.	8d^L	.	8cc#XJ	.	8eeJ	.	16bb-X^	16bbb-X^ 16bbbb-X	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16aa#^	.	16bb-X^	.	16bb-X^	.	16bb-X^	.	16bbb-X^	.
+.	.	.	.	.	.	.	.	16r	16r	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.	16r	.	16r	.	16r	.
+8d#X	.	8d#X	.	8gL	.	8b-XL	.	8bb-^L	8bbb-X^L 8bbbb-X	.	.	.	.	.	.	.	.	.	.	.	8aa#^^L	.	8bb-^L	.	8bb-^L	.	8bb-^L	.	8bbb-^L	.
+8eJ	.	8eJ	.	8ff#XJ	.	8aaJ	.	16bb-'L	16bbb-'L 16bbbb-	.	.	.	.	.	.	.	.	.	.	.	16aa#'L	.	16bb-'L	.	16bb-'L	.	16bb-'L	.	16bbb-'L	.
+.	.	.	.	.	.	.	.	[16gg^JJ	[16ggg^JJ [16gggg	.	.	.	.	.	.	.	.	.	.	.	[16ff##X^JJ	.	[16ggX^JJ	.	[16gg^JJ	.	[16gg^JJ	.	[16ggg^JJ	.
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+8c#X^L	.	8c#X^L	.	8eL	.	8g#XL	.	16ggLL]	16gggLL] 16gggg]	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##LL]	.	16ggLL]	.	16ggLL]	.	16ggLL]	.	16gggLL]	.
+.	.	.	.	.	.	.	.	16gg'JJ	16ggg'JJ 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##X'JJ	.	16ggX'JJ	.	16gg'JJ	.	16gg'JJ	.	16ggg'JJ	.
+8d	.	8d	.	8cc#XJ	.	8eeJ	.	8ff^L	8fff^L 8ffff	.	.	.	.	.	.	.	.	.	.	.	8ee#^L	.	8ffX^L	.	8ff^L	.	8ff^L	.	8fff^L	.
+8d#XJ	.	8d#XJ	.	8gL	.	8b-XL	.	16ee-'XJk	16eee-XJk 16eeee-'X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
+.	.	.	.	.	.	.	.	16ff^LL	16fff^ 16ffffLL	.	.	.	.	.	.	.	.	.	.	.	16ee#^LL	.	16ff^LL	.	16ff^LL	.	16ff^LL	.	16fff^LL	.
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:dashed barlines need to be added to match original
+8e^L	.	8e^L	.	8ff#XJ	.	8aaJ	.	16gg'	16ggg'LL 16ggggJJ	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ff##X'	.	16ggX'	.	16gg'	.	16gg'	.	16ggg'	.
+.	.	.	.	.	.	.	.	16ee-X^JJ	16eee-X^JJ 16eeee-X	.	.	.	.	.	.	.	.	.	.	.	16dd#^JJ	.	16ee-X^JJ	.	16ee-X^JJ	.	16ee-X^JJ	.	16eee-X^JJ	.
+8c#X	.	8c#X	.	8eL	.	8g#XL	.	16r	16r	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.	16r	.	16r	.	16r	.
+.	.	.	.	.	.	.	.	8bb-X^L	8bbb-X^L 8bbbb-X	.	.	.	.	.	.	.	.	.	.	.	8aa#^L	.	8bb-X^L	.	8bb-X^L	.	8bb-X^L	.	8bbb-X^L	.
+8dJ	.	8dJ	.	8cc#XJ	.	8eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16bb-'Jk	16bbb-'Jk 16bbbb-	.	.	.	.	.	.	.	.	.	.	.	16aa#'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bb-'Jk	.	16bbb-'Jk	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+8d#X^L	.	8d#X^L	.	8gL	.	8b-XL	.	8gg^L	8ggg^L 8gggg	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8ff##X^L	.	8ggX^L	.	8gg^L	.	8gg^L	.	8ggg^L	.
+8e	.	8e	.	8ff#XJ	.	8aaJ	.	16gg'Jk	16ggg'Jk 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##'Jk	.	16gg'Jk	.	16gg'Jk	.	16gg'Jk	.	16ggg'Jk	.
+.	.	.	.	.	.	.	.	8ff^L	8fff^L 8ffff	.	.	.	.	.	.	.	.	.	.	.	8ee#^L	.	8ffX^L	.	8ff^L	.	8ff^L	.	8fff^L	.
+8fJ	.	8fJ	.	8eL	.	8g#X/L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee-'XJk	16eee-'XJk 16eeee-X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
+8c#X^L	.	8c#X^L	.	8cc#XJ	.	8eeJ	.	16ff^LL	16fff^LL 16ffff	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	16ee#^LL	.	16ffX^LL	.	16ff^LL	.	16ff^LL	.	16fff^LL	.
+.	.	.	.	.	.	.	.	16gg'JJ	16ggg'JJ 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##X'JJ	.	16ggX'JJ	.	16gg'JJ	.	16gg'JJ	.	16ggg'JJ	.
+8d	.	8d	.	8gL	.	8b-XL	.	16bb-X^	16bbb-X^ 16bbbb-X	.	.	.	.	.	.	.	.	.	.	.	16aa#^	.	16bb-X^	.	16bb-X^	.	16bb-X^	.	16bbb-X^	.
+.	.	.	.	.	.	.	.	16r	16r	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.	16r	.	16r	.	16r	.
+8d#XJ	.	8d#XJ	.	8ff#XJ	.	8aaJ	.	8bb-^L	8bbb- 8bbbb-^L	.	.	.	.	.	.	.	.	.	.	.	8aa#^L	.	8bb-^L	.	8bb-^L	.	8bb-^L	.	8bbb-^L	.
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*
+8e	.	8e	.	8eL	.	8g#XL	.	16bb-X'kJ	16bbb-X'k 16bbbb-XJ	.	8%5r	.	8%5r	.	8%5r	.	8%5r	.	8%5r	.	16aa#'kJ	.	16bb-X'kJ	.	16bb-X'kJ	.	16bb-X'kJ	.	16bbb-X'kJ	.
+.	.	.	.	.	.	.	.	8gg^L	8ggg^L 8gggg	.	.	.	.	.	.	.	.	.	.	.	8ff##X^L	.	8ggX^L	.	8gg^L	.	8gg^L	.	8ggg^L	.
+8c#X^L	.	8c#X^L	.	8cc#XJ	.	8eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gg'Jk	16ggg'Jk 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##'Jk	.	16gg'Jk	.	16gg'Jk	.	16gg'Jk	.	16ggg'Jk	.
+8d	.	8d	.	8gL	.	8b-XL	.	8ff^L	8fff^L 8ffff	.	.	.	.	.	.	.	.	.	.	.	8ee#^L	.	8ffX^L	.	8ff^L	.	8ff^L	.	8fff^L	.
+8d#X	.	8d#X	.	8ff#X	.	8aa	.	16ee-'XJk	16eee-'XJk 16eeee-X	.	.	.	.	.	.	.	.	.	.	.	16dd#'Jk	.	16ee-'XJk	.	16ee-'XJk	.	16ee-'XJk	.	16eee-'XJk	.
+.	.	.	.	.	.	.	.	16ff^LL	16fff^LL 16ffff	.	.	.	.	.	.	.	.	.	.	.	16ee#^LL	.	16ff^LL	.	16ff^LL	.	16ff^LL	.	16fff^LL	.
+8eJ	.	8eJ	.	8eJ	.	8g#XJ	.	16gg'	16ggg' 16gggg	.	.	.	.	.	.	.	.	.	.	.	16ff##'	.	16gg'	.	16gg'	.	16gg'	.	16ggg'	.
+.	.	.	.	.	.	.	.	16ee-^JJ	16eee-^JJ 16eeee-	.	.	.	.	.	.	.	.	.	.	.	16dd#^JJ	.	16ee-^JJ	.	16ee-^JJ	.	16ee-^JJ	.	16eee-^JJ	.
+*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)][(s3,s4)]s5)][([(s6,s7)]s8,s9)][(s10)][({(s11,s12)})][([(s13,s14)]s15,s16)]
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1931/04/15
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1931
+!!!MPN:
+!!!ODT: 1929
+!!!PDT: 1931
+!!!excerpt-start-measure: 132
+!!!excerpt-end-measure: 139
+!!!excerpt-start-time: 1:42
+!!!excerpt-end-time: 1:48
+!!!excerpt-duration-sec: 6
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Cop-2
+!!!Suter_Example_Number: 700
+!!!Suter_Example_ID: Cop-2/64/[38]3-10
+!!!Premiere_Location: Philadelphia,United States
+!!!Other_Tsigs: 5/8
+!!!Full_Unit_Duration: 4:22
+!!!First_Publication_Year: 1931
+!!!First_Public_Performance_Year: 1931
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 300
+!!!Example_Start_Tsig_Beat_Rate: 300
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 1:42
+!!!Example_Start_Tempo_Expression: [Meno mosso]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 132
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:48
+!!!Example_End_Measure: 139
+!!!Example_Dataset: R
+!!!Editorial_Comments: The conductor part is not included in the transcription (see Suter's example). Example Start Notated Beat and Example Start Notated Beat Rate [dotted quarter=100] based on most recent notated tempo (SWFU, m. 26). Example Start Tempo Expression [Meno mosso] based on most recent notated tempo expression (SWFU, m. 26).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: yes
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo: 134
+!!!Audio_Example_Duration: 5.850
+!!!ONB: Converted from MusicXML on 2020/07/28

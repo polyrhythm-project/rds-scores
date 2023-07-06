@@ -1,0 +1,142 @@
+!!!!SEGMENT: R218_Sch-w33p200m252-256.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Act II, Scene 2
+!!!OMV: Act II, Scene 2
+!!!example: 218
+!!!work: Sch-33
+!!!OMD-full: Sehr rash
+!!!OMD: [Leicht bewegt]
+!!!AGN-sub: Opera
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: R218_Sch-w33p200m252-256.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*	*part9	*	*	*part8	*	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*	*staff9	*	*	*staff8	*	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Itenor	*	*	*Ialto	*	*	*Isoprn	*	*	*Iarpa	*	*Ipiano	*	*Imando	*	*Imando	*	*Ifagot	*	*Iclarb	*	*Iclars	*
+*I"Violoncello	*	*I"Viola III	*	*I"Viola II	*	*I"Viola I	*	*I"Violin I	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"Harp	*	*I"Piano	*	*I"Mandolin 2	*	*I"Mandolin 1	*	*I"Bassoon	*	*I"Bass Clarinet in Bb\n[sounds as written]	*	*I"Clarinet in Bb\n[sounds as written]	*
+*I'vc	*	*I'vla	*	*I'vla	*	*I'vla	*	*I'vn	*	*I't	*	*	*I'a	*	*	*I's	*	*	*I'arp	*	*I'pf	*	*I'mand	*	*I'mand	*	*I'bn	*	*I'b-cl	*	*I'cl	*
+*clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[a tempo (Leicht bewegt)]\n[[quarter]=160]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)
+!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*haupt	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
+4%3r	.	8r	.	4r	.	4r	.	4%3r	.	4G#X	pp	Le-	(8e-XL	Le-	p	4r	.	.	8e-XL	mf	8e-XL	mf	8e-XL	mf	8e-XL	mf	(4G#X	p	(4G#X	p	(4G#X	p
+.	.	(8ccn	p	.	.	.	.	.	.	.	.	.	8dnJ)	.	.	.	.	.	8dn	.	8dn	.	8dn	.	8dn	.	.	.	.	.	.	.
+*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16dd-XLL)	.	(8gnL^	p	(8ffL^	p	.	.	4Bn	.	-bens-	4d	-bens-	.	8b-XL	Le-	p	8b-X	.	8b-X	.	8b-X	.	8b-X	.	4Bn	.	4BnX	.	4BnX	.
+.	.	16dd-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16dd-	.	8enJ')	.	8gg-XJ')	.	.	.	.	.	.	.	.	.	8anJ	-bens-	.	8anJ	.	8anJ	.	8anJ	.	8anJ	.	.	.	.	.	.	.
+.	.	16dd-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	4r	.	4r	.	.	.	4Gn	.	-lust	(8fnL	-lust	.	8a	-lust	.	8fnL	.	8fnL	.	8fnL	.	8fnL	.	4Gn	.	4G	.	4G	.
+.	.	(8B-X	.	.	.	.	.	.	.	.	.	.	8enJ)	.	.	8r	.	.	8en	.	8en	.	8en	.	8en	.	.	.	.	.	.	.
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+2r	.	16BnLL)	.	(8g#XL^	.	(8ddnL^	.	2r	.	4F#X	.	scheut	4en	scheut	.	8dd-XL	scheut	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	4F#X	.	4F#X	.	4F#X	.
+.	.	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	.	8an'J)	.	8cc#X'J)	.	.	.	.	.	.	.	.	.	8ccnJ	ihr	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	.	.	.	.	.	.
+.	.	16BJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	4r	.	4r	.	.	.	4Gn	.	ihr	8r	.	.	8ccL	En-	.	8ccL	.	8ccL	.	8ccL	.	8ccL	.	4Gn)	<	4Gn)	<	4Gn)	<
+.	.	(8E-X	.	.	.	.	.	.	.	.	.	.	8fn	ihr	.	8dd-J	-de	.	8dd-	.	8dd-	.	8dd-	.	8dd-	.	.	[[	.	[[	.	[[
+*	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3r	.	16DnLL')	.	(8G#XL^	.	(8b-XL^	.	4%3r	.	4en	.	En-	(8g-XL	En-	.	8dd-X	nicht,	.	8g-X	.	8g-X	.	8g-X	.	8g-X	.	(4en	.	(4enX	.	(4enX	.
+.	.	16D'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16D'	.	8Bn'J)	.	8an'J)	.	.	.	.	.	.	8fnJ)	.	.	8r	.	.	8fnJ	.	8fnJ	.	8fnJ	.	8fnJ	.	.	.	.	.	.	.
+.	.	16DJJ'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4r	.	4r	.	8r	.	.	.	4G#X	.	-de	(8b-XL	-de	.	4r	.	.	8b-XL	.	8b-XL	.	8b-XL	.	8b-XL	.	4G#X	.	4G#X	.	4G#X	.
+.	.	.	.	.	.	(8fn	.	.	.	.	.	.	8cc-XJ)	.	.	.	.	.	8cc-X	.	8cc-X	.	8cc-X	.	8cc-X	.	.	.	.	.	.	.
+.	.	(8C#XL^	.	(8G#L^	.	16enLL')	.	.	.	4An	.	nicht,	4cc-	nicht,	.	(8ddnL	furcht-	.	8ddn	.	8ddn	.	8ddn	.	8ddn	.	4An)	.	4An)	.	4An)	.
+.	.	.	.	.	.	16e'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8CnJ')	.	8F#XJ')	.	16e'	.	.	.	.	.	.	.	.	.	8ee-XJ)	.	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	16eJJ'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	.	4%3r	.	4%3r	.	4r	.	8r	.	4en	.	furcht	(8ccnL	furcht-	.	8ee-X	-los,	.	8ccnL	.	8ccnL	.	8ccnL	.	8ccnL	.	(4en	.	(4enX	.	(4enX	.
+.	.	.	.	.	.	.	.	(8bb-X	mf	.	.	.	8dd-XJ)	.	.	8r	.	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	.	.	.	.	.	.
+(8DnL	mf	.	.	.	.	(8anL^	mf	16ccc-XLL)	.	4fn	.	los	4dd-	-los,	.	(8ff#XL	furcht-	.	8ff#X	.	8ff#X	.	8ff#X	.	8ff#X	.	4fn	.	4fn	.	4fn	.
+.	.	.	.	.	.	.	.	16ccc-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E-XJ)	.	.	.	.	.	8a-XJ)	.	16ccc-	.	.	.	.	.	.	.	8ggJ)	.	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ccc-JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	4r	.	4r	.	4An	.	sucht	(8dnL	furcht	.	8gg	-los	.	8dnL	.	8dnL	.	8dnL	.	8dnL	.	4An)	.	4An)	.	4An)	.
+(8D-X	<	.	.	.	.	.	.	.	.	.	.	.	8e-XJ)	.	.	8r	.	.	8e-X	.	8e-X	.	8e-X	.	8e-X	.	.	.	.	.	.	.
+=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+16CCnLL)	[	2r	.	2r	.	(8G-XL	.	(8eenL	.	4B-X	.	sie	4e-X	los	.	(8ccnL	sucht-	.	8ccn	.	8ccn	.	8ccn	.	8ccn	.	(4B-X	.	(4B-X	.	(4B-X	.
+16CC	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16CC	.	.	.	.	.	8FnJ)	.	8gnJ)	.	.	.	.	.	.	.	8dd-XJ)	.	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	.	.	.	.	.	.
+16CCJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8r	.	4r	.	4c-X	.	es	8anL	sucht	.	8dd-	-sie	.	8anL	.	8anL	.	8anL	.	8anL	.	4c-X)	.	4c-X)	.	4c-X)	.
+.	.	.	.	.	.	(8Cni	<[[	.	.	.	.	.	8a-XJ	sie	.	8r	.	.	8a-X	.	8a-X	.	8a-X	.	8a-X	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6)][(s7)][(s8,s9,s10)][(s11[(s12,s13,s14)]s15,s16)]
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Rosbaud, Hans
+!!!MDT: 1957/06/06
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1957
+!!!MPN: Fiedler, Hans; Melchert, Helmut
+!!!ODT: 1932
+!!!PDT: 1957
+!!!excerpt-start-measure: 139(252)
+!!!excerpt-end-measure: 143(256)
+!!!excerpt-start-time: 5:28
+!!!excerpt-end-time: 5:33
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/4
+!!!Xfilter: slurcheck
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 218
+!!!Suter_Example_ID: Sch-33/200/252-256
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: 2/4,3/4,2/4
+!!!Full_Unit_Duration: 6:58
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 5:28
+!!!Example_Start_Tempo_Expression: [a tempo (Leicht bewegt)]
+!!!Example_Start_Notated_Beat_Rate: [160]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 139(252)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:33
+!!!Example_End_Measure: 143(256)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=160] based on most recent notated tempo (SWFU, m. 87(200)). Example Start Tempo Expression [a tempo (Leicht bewegt)] based on most recent notated tempo expressions (SWFU, m. 113(246) and m. 87(200)).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 144
+!!!Audio_Example_Duration: 5.421
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

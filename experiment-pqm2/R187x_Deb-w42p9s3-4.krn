@@ -1,0 +1,210 @@
+!!!!SEGMENT: R187x_Deb-w42p9s3-4.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Tableau 1: Le magasin de jouets (The Toy Shop)
+!!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
+!!!example: 187x
+!!!work: Deb-42
+!!!OMD-full: Modéré
+!!!OMD: Mouvement de Marche modéré
+!!!AGN-sub: Ballet
+!!!OPR: La boîte à joujoux (The Toy Box), Ballet for Children (with orchestral accompaniment)
+!!!filename: R187x_Deb-w42p9s3-4.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part10	*	*part9	*	*part8	*	*part7	*	*part5	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Ifagot	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Piano	*	*I"Piano	*	*I"Snare Drum	*	*I"Bassoon	*	*I"Flute	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'pf	*	*I'pf	*	*I'dr	*	*I'bn	*	*I'fl	*	*I'picc	*
+*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefX	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*C:	*	*F:	*	*F:	*	*F:	*
+!!LO:TX:tempo:a:t=Mouvement de Marche modéré\n{[quarter]=107}
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*	*	*	*8ba	*	*	*	*	*	*	*	*	*	*	*
+=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)	=122(176)
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=avec le bois de l'archet	!	!	!	!	!	!	!LO:TX:a:B:t=Mouv't de Marche modéré	!	!	!LO:DY:t=%s lointain et raide	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Mouv't de Marche modéré	!
+!	!LO:DY:t=%s lointain	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!LO:TX:a:t=LE SOLDAT ANGLAIS	!
+8AAA'L	pp	2r	.	2r	.	2r	.	8AAA'L	8GGG	ppp	2r	.	8Re'\	ppp	2r	.	2r	.	2r	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2r	.	8Re'\	.	2r	.	2r	.	2r	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2r	.	8Re'\	.	2r	.	2r	.	2r	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2r	.	8Re'\	.	2r	.	2r	.	2r	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s très exactement rythmé	!	!	!	!	!	!	!	!LO:DY:t=sempre %s très exactement rythmé
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16aaaKL	ppp	8Re'\	.	2r	.	2r	.	(16aaaKL	ppp
+.	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.	.	.	.	.	8cccc)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(16aaaJk	.	.	.	.	.	.	.	(16aaaJk	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	8cccc'L)	.	8Re'\	.	.	.	.	.	8cccc'L)	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	8aaa'J	.	8r	.	.	.	.	.	8aaa'J	.
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16fffKL	.	8Re'\	.	2r	.	2r	.	(16fffKL	.
+.	.	.	.	.	.	.	.	.	.	.	8aaa)	.	.	.	.	.	.	.	8aaa)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(16fffJk	.	.	.	.	.	.	.	(16fffJk	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	8aaa'L)	.	8Re'\	.	.	.	.	.	8aaa'L)	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	8fff'J	.	8r	.	.	.	.	.	8fff'J	.
+=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16dddKL	.	8Re'\	.	2r	.	2r	.	(16dddKL	.
+.	.	.	.	.	.	.	.	.	.	.	8fff)	.	.	.	.	.	.	.	8fff)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(16dddJk	.	.	.	.	.	.	.	(16dddJk	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	8fff'L)	.	8Re'\	.	.	.	.	.	8fff'L)	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	(16dddL	.	8r	.	.	.	.	.	(16dddL	.
+.	.	.	.	.	.	.	.	.	.	.	16fffJJ	.	.	.	.	.	.	.	16fffJJ	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2ddd)	.	8Re'\	.	2r	.	2r	.	2ddd)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16cccKL	.	8Re'\	.	2r	.	2r	.	(16cccKL	.
+.	.	.	.	.	.	.	.	.	.	.	8ddd)	.	.	.	.	.	.	.	8ddd)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(16cccJk	.	.	.	.	.	.	.	(16cccJk	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	8aa'L)	.	8Re'\	.	.	.	.	.	8aa'L)	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	8ccc'J	.	8r	.	.	.	.	.	8ccc'J	.
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16aaKL	.	8Re'\	.	2r	.	2r	.	(16aaKL	.
+.	.	.	.	.	.	.	.	.	.	.	8bb-)	.	.	.	.	.	.	.	8bb-)	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(16aaJk	.	.	.	.	.	.	.	(16aaJk	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	4ff~)	.	8Re'\	.	.	.	.	.	4ff~)	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	(16ffKL	.	8Re'\	.	2r	.	(16ffKL	ppp	2r	.
+.	.	.	.	.	.	.	.	.	.	.	8gg)	.	.	.	.	.	8gg)	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ffJk	.	.	.	.	.	16ffJk	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	8ccL	.	8Re'\	.	.	.	8ccL	.	.	.
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	(16ccL	.	8r	.	.	.	(16ccL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16eeJJ	.	.	.	.	.	16eeJJ	.	.	.
+=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
+8AAA'L	.	2r	.	2r	.	2r	.	8AAA'L	8GGG	.	2cc)	.	8Re'\	.	2r	.	2cc)	.	2r	.
+8AAA'	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+8AAA'	.	.	.	.	.	.	.	8AAA'L	8GGG	.	.	.	8Re'\	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+8AAA'J	.	.	.	.	.	.	.	8AAA'J	8r	.	.	.	8r	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+!	!	!LO:TX:a:t=pizz.	!	!	!LO:DY:t=%s en augmentant peu à peu	!	!	!	!	!	!	!	!	!LO:TX:a:t=1o	!LO:DY:t=%s en augmentant peu à peu	!	!	!	!
+2r	.	8F	p	(16AKL>	pp	8r'	.	2r	.	2r	.	2r	.	(16AKL	pp	2r	.	2r	.
+.	.	.	.	8c)	.	.	.	.	.	.	.	.	.	8c)	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8r'	.	.	.	8f'	pp	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16AJk	.	.	.	.	.	.	.	.	.	(16AJk	.	.	.	.	.
+.	.	8E	.	8c'L)	.	8r'	.	.	.	.	.	.	.	8c'L)	.	.	.	.	.
+.	.	8r'	.	8A'J	.	8e'	.	.	.	.	.	.	.	8A'J	.	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+2r	.	8D	.	(16FKL>	.	8r'	.	2r	.	2r	.	2r	.	(16FKL	.	2r	.	2r	.
+.	.	.	.	8A)	.	.	.	.	.	.	.	.	.	8A)	.	.	.	.	.
+.	.	8r'	.	.	.	8d'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16FJk	.	.	.	.	.	.	.	.	.	(16FJk	.	.	.	.	.
+.	.	8C	.	8A'L)	.	8r'	.	.	.	.	.	.	.	8A'L)	.	.	.	.	.
+.	.	8r'	.	8F'J	.	8c'	.	.	.	.	.	.	.	8F'J	.	.	.	.	.
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!LO:TX:a:t=pizz.	!	!	!LO:HP:t=%s poco a poco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8BB-	p	8BB-	<	(16DKL	.	8r'	.	2r	.	2r	.	2r	.	(16DKL	.	2r	.	2r	.
+.	.	.	.	8F)	.	.	.	.	.	.	.	.	.	8F)	.	.	.	.	.
+8r'	.	8r'	.	.	.	8B-'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16DJk	.	.	.	.	.	.	.	.	.	(16DJk	.	.	.	.	.
+8AA	.	8AA	.	8F'L)	.	8r'	.	.	.	.	.	.	.	8F'L)	.	.	.	.	.
+8r'	.	8r'	.	((16DL	.	8A'	.	.	.	.	.	.	.	(16DL	.	.	.	.	.
+.	.	.	.	16FJJ)	.	.	.	.	.	.	.	.	.	16FJJ	.	.	.	.	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+8GG	.	8GG	.	2D)	.	8r'	.	2r	.	2r	.	2r	.	2D)	.	2r	.	2r	.
+8r'	.	8r'	.	.	.	8G'	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BB-	.	8BB-	.	.	.	8r'	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r'	.	8r'	.	.	.	8B-'	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]s4[({(s5,s6)})][([(s7,s8)]s9[(s10,s11)])]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1919/12/10
+!!!MGN: Orchestre du Théâtre du Vaudeville
+!!!MLC: Paris, France
+!!!MPD: 1919
+!!!MPN:
+!!!ODT: 1913 (orch. 1919)
+!!!PDT: 1920
+!!!excerpt-start-measure: 122(176)
+!!!excerpt-end-measure: 137(191)
+!!!excerpt-start-time: 3:44
+!!!excerpt-end-time: 4:02
+!!!excerpt-duration-sec: 18
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {107}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!Suter_Work_ID: Deb-42
+!!!Suter_Example_Number: 187x
+!!!Suter_Example_ID: Deb-42/9/lignes 3 et 4
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 10:56
+!!!First_Publication_Year: 1920
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 16
+!!!Example_Timestamp_Duration: 18
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 107
+!!!Example_Start_Tsig_Beat_Rate: 107
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 3:44
+!!!Example_Start_Tempo_Expression: Mouvement de Marche modéré
+!!!Example_Start_Notated_Beat_Rate: {107}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 122
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:02
+!!!Example_End_Measure: 137
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo.  Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Notated Mean Beat Rate {quarter = 153} calculated based on recording (11:02). Example Start Notated Beat and Example Start Notated Beat Rate {quarter=107} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=074644823127). Example used in the experiment (orchestral version); original Suter example is the original piano version. NOTE: Orchestration was completed in 1919 after Debussy's death by his student André Caplet.
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo: 104
+!!!Audio_Example_Duration: 18.451
+!!!RDF**kern: < = below

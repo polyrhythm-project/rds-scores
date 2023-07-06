@@ -1,0 +1,232 @@
+!!!!SEGMENT: R319_Fal-w6p178-179h44m1-5.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Part 2: Danse of the Corregidor
+!!!OMV: Part II: The Corregidor's Dance
+!!!example: 319
+!!!work: Fal-6
+!!!OMD-full: Allegretto
+!!!OMD: [Grazioso, ma in tempo]
+!!!AGN-sub: Ballet
+!!!OPR: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!filename: R319_Fal-w6p178-179h44m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
+*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part11	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*Itimpa	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Ipicco	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*I"Piano	*I"Timpani	*	*I"Trumpet in C 1, 2	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"Bassoon	*	*I"Clarinet in Bb 1, 2	*	*I"English Horn	*	*I"Oboe 2	*	*I"Piccolo	*	*I"Flute 1, 2	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*	*I'pf	*I'timp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'picc	*	*I'fl	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd-7c-12	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*	*k[0]	*	*	*	*	*	*k[f#c#]	*	*k[0]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*	*E:	*	*	*	*	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
+!!LO:TX:tempo:a:t=[Grazioso, ma in tempo]\n[[quarter-dot]=88]
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=44
+=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)	=126(571)
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!
+!	!	!LO:TX:t=non legato	!	!	!LO:TX:t=non legato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2.AA^	ff	16ALL\	16dLL/	ff	16f#LL	ff	8d)j	ff	8r	.	16A/ 16d/ 16f#LL/	ff	2.ryy	4AA	f	12cc#L	4cc#~	< f	[2.d	2.r	ff	(16An 16f#LL	ff	[2.AA	[2.AA	ff	2.r	.	2.r	.	2.r	.	2.r	.	8r	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	8r	.	8dddL	ff	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	8dddL	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	8r	.	8eeeJ	.	16A 16d 16f#	.	.	4r	.	4dd~	12ddL	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	8eeeJ	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ALL\	16dLL/	.	16f#LL	.	4r	.	(8eee^L	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	(8eee^L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	8ccc#)	.	16A 16d 16f#	.	.	4r	.	12eeL	4ee~	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#)	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	8r	.	(16ddd	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	(16ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	16bbJ)	.	16B> 16g>JJ	.	.	.	.	.	.	[[	.	.	.	16Bn 16gJJ)	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+!	!	!	!	!	!	!	!	!	!LO:TX:t=unis.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+2.AAA^	.	16ALL\	16dLL/	.	16f#LL	.	8ccc#'^L	ff	8ccc#'^L	.	16A/ 16d/ 16f#LL/	.	2.ryy	2.r	.	4ff#~	12ff#L	.	[2.d_	[2.AA	ff	(16An 16f#LL	.	2.AA]	2.AA]	.	(4ff#X	f	(16dLL	ff	(16f#LL	ff	8cccc#^L	ff	8ccc#^)L	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	16r	.	16r	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	16r	.	16r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	(16bb	.	(16bb	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	(16bbb	.	(16bb	.
+.	.	16A	16d	.	16f#	.	[8aa^)J	.	[8aa^)J	.	16A 16d 16f#	.	.	.	.	12eeL	4ee~	.	.	.	.	16A 16f#	.	.	.	.	4een	.	16d	.	16f#	.	[8aaaJ)	.	[8aa)J	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ALL\	16dLL/	.	16f#LL	.	4.aa]	.	4.aa]	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	8aaa]	.	8aa]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	.	.	16A 16d 16f#	.	.	.	.	4dd~	12ddL	.	.	.	.	16A 16f#	.	.	.	.	4dd)	.	16d	.	16f#	.	8r	.	8r	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	.	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>JJ	.	.	.	.	.	.	.	.	.	.	16Bn 16gJJ)	.	.	.	.	.	.	16BJJ	.	16gJJ	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2.AA^	.	16ALL\	16dLL/	.	16f#LL	.	2.r	.	8r	.	16A/ 16d/ 16f#LL/	.	2.ryy	4AA	.	12cc#L	4cc#~	< f	2.d_	8AA]	.	(16An 16f#LL	ff	[2.AA	[2.AA	.	2.r	.	8d)	.	8f#)	.	2.r	.	8r	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	8dddL	.	16A 16d 16f#	.	.	.	.	.	.	.	.	8r	.	16A 16f#	.	.	.	.	.	.	8r	.	8r	.	.	.	8dddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	8eeeJ	.	16A 16d 16f#	.	.	4r	.	4dd~	12ddL	.	.	4r	.	16A 16f#	.	.	.	.	.	.	8r	.	8r	.	.	.	8eeeJ	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ALL\	16dLL/	.	16f#LL	.	.	.	(8eee^L	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	4r	.	4r	.	.	.	(8eee^L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	8ccc#)	.	16A 16d 16f#	.	.	4r	.	12eeL	4ee~	.	.	4r	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#)	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	(16ddd	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	8r	.	8r	.	.	.	(16ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	16bbJ)	.	16B> 16g>JJ	.	.	.	.	.	.	[[	.	.	.	16Bn 16g)JJ	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*
+2.AAA^	.	16ALL\	16dLL/	.	16f#LL	.	8ccc#^L	ff	8ccc#^L	.	16A/ 16d/ 16f#LL/	.	2.ryy	2.r	.	4ff#~	12ff#L	.	[2.d_	[2.AA	.	(16An 16f#LL	.	2.AA]	2.AA]	.	(4ff#X	.	(16dLL	.	(16f#LL	.	8cccc#^L	ff	8ccc#^)L	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	16r	.	16r	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	16r	.	16r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	(16bb	.	(16bb	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	(16bbb	.	(16bb	.
+.	.	16A	16d	.	16f#	.	[8aa^)J	.	[8aa^)J	.	16A 16d 16f#	.	.	.	.	12eeL	4ee~	.	.	.	.	16A 16f#	.	.	.	.	4een	.	16d	.	16f#	.	[8aaaJ)	.	[8aa)J	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ALL\	16dLL/	.	16f#LL	.	4.aa]	.	4.aa]	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	8aaa]	.	8aa]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	.	.	16A 16d 16f#	.	.	.	.	4dd~	12ddL	.	.	.	.	16A 16f#	.	.	.	.	4dd)	.	16d	.	16f#	.	8r	.	8r	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	16B	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	.	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	16d	.	16f#	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B> 16g>JJ	.	.	.	.	.	.	.	.	.	.	16Bn 16gJJ)	.	.	.	.	.	.	16BJJ	.	16gJJ	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+[4.AAA^	.	16ALL\	16dLL/	.	16f#LL	.	4r	.	8r	.	16A/ 16d/ 16f#LL/	.	2.ryy	4AA	.	12cc#L	4cc#~	<	2.d_	8AA]	.	(16An 16f#LL	.	[4.AA	[4.AA	.	4r	.	8d)	.	8f#)	.	2.r	.	2.r	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16A	16d	.	16f#	.	.	.	8dddL	.	16A 16d 16f#	.	.	.	.	.	.	.	.	8r	.	16A 16f#	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>JJ	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16A	16d	.	16f#	.	8r	.	8eeeJ	.	16A/ 16d/ 16f#LL/	.	.	4r	.	4dd~	12ddL	.	.	4r	.	16A 16f#	.	.	.	.	4r	.	8r	.	8r	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA]	.	16ALL	16dLL/	.	16f#LL	.	8r	.	(8eee^L	.	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	8AA]	8AA]	.	.	.	4r	.	4r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	.	.	.	.	16B> 16g>JJ	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8r	.	16A\	16d	.	16f#	.	32r	.	8ccc#)	.	(32ALLL/	<	.	4r	.	12eeL	4ee~	.	.	4r	.	16A 16f#	.	4ryy	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	(32f#LLL/	<	.	.	32d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B	16B	.	16g	.	32g	.	.	.	32e	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32aJJ	.	.	.	32f#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	16A	16d	.	16f#	.	40bLL	.	(16ddd	.	32b>LL	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	8r	.	(32f#LLL 32aXi	.	8r	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	40cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	32dd>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g 32bn	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	40dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BJJ	16BJJ	.	16gJJ	.	.	.	16bbJ)	.	32ee>	.	.	.	.	.	.	.	.	.	.	16Bn 16gJJ)	.	.	.	.	32a 32dd	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	40ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	32ff#>JJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bnJJJ 32ff#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	40ff#JJJ)	[[	.	.	.	[[	.	.	.	.	.	[[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
+!!!Xfilter: slurcheck
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1919/07/22
+!!!MGN: Ballets Russes
+!!!MLC: London, United Kingdom
+!!!MPD: 1919
+!!!MPN: Rosovsku, Zoia
+!!!ODT: 1919
+!!!PDT: 1921
+!!!excerpt-start-measure: 126(571)
+!!!excerpt-end-measure: 130(575)
+!!!excerpt-start-time: 3:26
+!!!excerpt-end-time: 3:33
+!!!excerpt-duration-sec: 7
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [88]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 0
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Fal-6
+!!!Suter_Example_Number: 319
+!!!Suter_Example_ID: Fal-6/178-179/[44]1-5
+!!!Premiere_Location: London,England
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:05
+!!!First_Publication_Year: 1921
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 3:26
+!!!Example_Start_Tempo_Expression: [Grazioso, ma in tempo]
+!!!Example_Start_Notated_Beat_Rate: [88]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 126(571)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:33
+!!!Example_End_Measure: 130(575)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=88] based on most recent notated tempo (SWFU, m. 58(502)). Example Start Tempo Expression [Grazioso, ma in tempo] based on most recent notated tempo expression (SWFU, m. 70(514)).
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo: 120
+!!!Audio_Example_Duration: 7.458
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

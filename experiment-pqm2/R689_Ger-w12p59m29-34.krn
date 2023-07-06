@@ -1,0 +1,135 @@
+!!!!SEGMENT: R689_Ger-w12p59m29-34.krn
+!!!COM: Gershwin, George
+!!!OTL: \"I Got Rhythm\"
+!!!OMV: "I got rhythm"
+!!!example: 689
+!!!work: Ger-12
+!!!OMD-full: Lively
+!!!OMD: [Very marked (with abandon)]
+!!!AGN-sub: Theatrical
+!!!OPR: Girl Crazy, Three Excerpts for Voice and Piano
+!!!filename: R689_Ger-w12p59m29-34.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**mxhm
+*grp:A	*	*grp:B	*	*grp:B	*	*	*grp:B
+*part2	*	*part2	*	*part1	*	*	*part1
+*staff3	*	*staff2	*	*staff1	*	*	*
+*ICklav	*	*ICklav	*	*ICvox	*	*	*
+*Ipiano	*	*Ipiano	*	*Ivox	*	*	*
+*I"Piano	*	*I"Piano	*	*I"Voice	*	*	*
+*I'pf	*	*I'pf	*	*I'v	*	*	*
+*clefF4	*	*clefG2	*	*clefG2	*	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*	*
+*B-:	*	*B-:	*	*B-:	*	*	*
+!!LO:TX:tempo:a:t=[Lively]\n{[half]=120}
+*M2/2	*	*M2/2	*	*M2/2	*	*	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*	*
+=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:
+!	!	!	!	!LO:TX:t=[[half]=80]	!	!	!
+!LO:TX:b:t= 	!LO:DY:ed=brack	!LO:TX:b:B:i:t=[p-mf]	!	!LO:TX:a:B:i:t=[p-mf]	!	!	!
+4BBB- 4BB-	p - mf	4r	.	4r	.	.	B- major
+!	!	!	!	!LO:TX:a:i:t=(with abandon)	!	!	!
+4r	.	[4B-^ [4d [4f	.	[4f	.	I	.
+4FF	.	8B-] 8d] 8f]	.	8f]	.	.	.
+.	.	4.B-^ 4.d 4.g	.	4.g	.	got	B- major-sixth
+4r	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+*	*	*^	*	*	*	*	*
+4CC 4C	.	4.e-^ 4.g 4.b-	4ryy	.	4.b-	.	rhy-	C minor-seventh
+4r	.	.	8ryy	.	.	.	.	.
+.	.	[8cc^	[8e-^ [8a	.	[8cc	.	-thm,	.
+4FF	.	2cc]	4e-] 4a]	.	2cc]	.	.	F dominant
+4r	.	.	4e- 4a	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*
+=31	=31	=31	=31	=31	=31	=31	=31
+4FF 4F	.	4r	.	4r	.	.	B- major-sixth
+4r	.	[4d^ [4f [4g [4cc	.	[4cc	.	I	.
+4FF	.	8d] 8f] 8g] 8cc]	.	8cc]	.	.	.
+.	.	4.d-X^ 4.en 4.g 4.b-	.	4.b-	.	got	E diminished
+4r	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+*	*	*^	*	*	*	*	*
+4CC 4C	.	4.g^	4.B- 4.e-X	.	4.g	.	mu-	C minor-seventh
+4r	.	.	.	.	.	.	.	.
+.	.	[8f^	[8B- [8e-	.	[8f	.	-sic,	.
+4FF	.	2f]	4B-] 4e-]	.	2f]	.	.	F dominant
+4r	.	.	4A 4e-	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*
+=33	=33	=33	=33	=33	=33	=33	=33
+(16qqFF/LL	.	.	.	.	.	.	.
+16qqGG/	.	.	.	.	.	.	.
+16qqAA/JJ	.	.	.	.	.	.	.
+4BB-)	.	4r	.	4r	.	.	B- major
+4r	.	[4B-^ [4d [4f	.	[4f	.	I	.
+4FF	.	8B-] 8d] 8f]	.	8f]	.	.	.
+.	.	4.B-^ 4.d 4.g	.	4.g	.	got	B- major-sixth
+4r	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+4CC 4C	.	4.e-^ 4.g 4.b-	.	4.b-	.	my	C minor-seventh
+4r	.	.	.	.	.	.	.
+.	.	[8e-^ [8a [8cc	.	[8cc	.	man	.
+4FF	.	8e-] 8a] 8cc]	.	8cc]	.	.	F dominant
+.	.	4g-X^ 4b- 4ee-	.	4ee-	.	Who	E- minor-sixth
+4r	.	.	.	.	.	.	.
+.	.	8cc	.	8cc	.	could	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Stage
+!!!MCN: Gershwin, George
+!!!MDT: 1930/10/14
+!!!MGN: pick-up ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1930
+!!!MPN: Dorsey, Jimmy; Goodman, Benny; Howard, Willie; Kearns, Allen; Krupa, Gene; Merman, Ethel; Miller, Glen; Rodgers, Ginger
+!!!ODT: 1930
+!!!PDT: 1930
+!!!excerpt-start-measure: 29
+!!!excerpt-end-measure: 34
+!!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:00
+!!!excerpt-duration-sec: 9
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: {half}
+!!!excerpt-tempo-rate: {80}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Ger-12
+!!!Suter_Example_Number: 689
+!!!Suter_Example_ID: Ger-12/59/29-34
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:40
+!!!First_Publication_Year: 1930
+!!!First_Public_Performance_Year: 1930
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 120
+!!!Example_Start_Tsig_Beat_Rate: 120
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 0:52
+!!!Example_Start_Tempo_Expression: [Lively]
+!!!Example_Start_Notated_Beat_Rate: {120}
+!!!Example_Start_Notated_Beat: {half}
+!!!Example_Start_Measure: 29
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:58
+!!!Example_End_Measure: 34
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {half=120} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=5099950468058). Example Start Tempo Expression [Lively] based on most recent notated tempo expression (SWFU, m. 1). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {half=45} calculated based on recorded Full Unit Duration (2:48). Note that Glenn Miller's orchestra was not formed yet (formed 1938); the performing ensemble was most likely a pick-up orchestra.
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo: 210
+!!!Audio_Example_Duration: 6.832
+!!!ONB: Converted from MusicXML on 2020/07/28

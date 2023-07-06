@@ -1,0 +1,220 @@
+!!!!SEGMENT: R453_Ber-w15p362-363m118-121.krn
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Act II, Scene 1
+!!!OMV: Act II, Scene 1
+!!!example: 453
+!!!work: Ber-15
+!!!OMD-full: none
+!!!OMD: [Langsame]
+!!!AGN-sub: Opera
+!!!OPR: Lulu, Unfinished Opera
+!!!filename: R453_Ber-w15p362-363m118-121.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*grp:A	*	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*	*part11	*	*	*part10	*	*	*part9	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*	*	*staff11	*	*	*staff10	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ibscan	*	*	*Ibscan	*	*	*Icalto	*	*	*Ipiano	*Ipiano	*	*Itrngl	*	*Icor	*	*Icor	*	*Icor	*	*Icor	*	*IsaxA	*	*Icangl	*	*Ioboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"ATHLET	*	*	*I"SCHIGOLCH	*	*	*I"GYMNASIAST	*	*	*I"Piano	*I"Piano	*	*I"Triangle	*	*I"Horn in F 4	*	*I"Horn in F 3	*	*I"Horn in F 2	*	*I"Horn in F 1	*	*I"Alto Saxophone	*	*I"English Horn	*	*I"Oboe 1	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'ATH.	*	*	*I'SCHIG.	*	*	*I'GYM.	*	*	*I'pf	*I'pf	*	*I'tri	*	*I'cor-fr	*	*I'cor-fr	*	*I'cor-fr	*	*I'cor-fr	*	*I'a-sax	*	*I'cor-en	*	*I'ob	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefF4	*	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd5c9	*	*ITrd4c7	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[]	*
+!!LO:TX:tempo:a:t=[Langsame]\n[[dotted-half = half]=56]
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*	*met(c|)	*	*	*M6/4	*	*	*M6/4	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
+=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*cue	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*col	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[half] = [half-dot]	!
+!LO:TX:a:t=[arco]	!	!	!	!	!	!LO:TX:t=[half] = [half-dot]	!	!	!	!	!	!	!	!LO:TX:t=immer wie eine Fanfare	!	!	!	!	!	!	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[[half-dot]=56]	!
+!	!	!	!	!	!	!LO:TX:t=[div.]	!	!	!	!	!LO:TX:t=holt im folgenden zwei Likörflaschen aus einem Kästchen und stellt sie mit Gläsern auf den Tisch, auf den er sich	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(ev. m. Ges.)	!
+4AAAn	p	4AAn	mp	8En'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r	2r	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	8d-X'L)j	mp	4.E',	p >	12r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:B:i:t=f	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12f#X	ich	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g-X'L	.
+.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8cn)J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-XJ	nur	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-X'J	.
+!	!	!	!	!	!	!LO:TX:a:t=spring. Bogen	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.GGGn)jj	.	4.GGn)jj	.	4r	.	8r	.	.	.	.	.	.	.	4.ddn	wüß-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X')L	.	.	]]	8ddn'	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*
+*	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*
+.	.	.	.	.	.	16En'LL	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8A-XJ	.	16E'LL	p	8r	.
+.	.	.	.	.	.	16E'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16E'JJ	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=o. Dpf.	!	!	!	!	!	!	!
+.	.	.	.	4r	.	12E'L	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	.	4r	.	8G-XL	<	12E'^L	.	8r	.
+.	.	.	.	.	.	12Bn'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BX'^	.	.	.
+([8EEEn	.	[8EEn	<	.	.	.	.	.	.	.	.	.	.	8g#X	-te,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8DnJ	.	.	.	8a-X'	.
+.	.	.	.	.	.	12cn'J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cn'^J	.	.	.
+!	!	!	!	!LO:TX:a:t=spring. Bogen	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EEE]	<	8EE]	[ >	8r	.	8gn'	.	.	.	.	.	.	.	[4ddn	was_	.	.	2r	.	.	.	.	.	.	.	.	.	8r	.	4.Fn)	[ >	(2gn^	<	8ddn'	.
+*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*	*	*	*	*
+4BBBn	[	8r	]	16An'LL	p	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16An'LL	p	.	.	.	.	8r	.
+.	.	.	.	16A'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A'JJ	.	.	.	.	.	.	.
+.	.	4r	.	12A'L	.	4r	.	.	.	.	.	.	.	12ddL]	.	.	.	.	.	.	.	.	.	.	.	.	.	12A'L	.	.	.	.	.	12r	.
+.	.	.	.	12c#X'	.	.	.	.	.	.	.	.	.	12an	ich	.	.	.	.	.	.	.	.	.	.	.	.	12c#X'	.	.	.	.	.	12a'nL	.
+4AAAn	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	]	.	.	.	.
+.	.	.	.	12d#X'J	.	.	.	.	.	.	.	.	.	12cc#XJ	ihr	.	.	.	.	.	.	.	.	.	.	.	.	12e-X'J	.	.	.	.	.	12cc#'XJ	.
+.	.	4r	.	12fn'	.	12r	.	.	.	.	.	.	.	[4dd#X	sa-	.	.	8r	.	.	.	.	.	.	.	.	.	12fn'	.	12r	.	[4fn	.	8dd#'X	.
+.	.	.	.	12r'	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	12r	.	.	.	.	.
+[8GGGn	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8e-X~	p <	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xcue	*
+*	*	*	*	*haupt	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*Xcol	*
+.	.	.	.	12e-X'	f	12e-X'	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(12e-X	f	(12e-X	f	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:A	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TUP:num=4	!	!	!	!	!	!LO:TX:t=roh lachend	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=gestossen	!	!	!	!	!
+16%3GGGL])	.	8%3r	.	12d-X'L	.	12d-X'L	.	4r	.	.	2%3r	.	.	8dd#L]	.	.	4r	4ryy	8e-']	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	12d-XL)	.	12d-XL)	.	2f]	.	2%3r	.
+.	.	.	.	12cn'	.	12cn'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cn'	.	12cn'	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dd#XJ	-gen	.	.	.	4B-X'~ 4d-X'~ 4e-X'~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12B-X'J	.	12B-X'J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12B-X'J	.	12B-X'J	.	.	.	.	.
+16%3AAAn~	f >	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12A-X'L	.	12A-X'L	.	4r	.	.	.	.	.	4dd#	soll!	.	4r	4ryy	.	.	.	.	.	.	.	.	.	.	12A-X'L	.	12A-X'L	.	.	.	.	.
+.	.	.	.	12F#X'	.	12F#X'	.	.	.	.	.	.	.	.	.	.	.	.	.	[	.	.	.	.	.	.	.	.	12G-X'	.	12G-X'	.	.	.	.	.
+16%3BBBn~	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8G-X^ 8A-X 8B- 8d- 8e-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12Dn'J	.	12Dn'J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12Dn'J	.	12Dn'J	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:t=Sax.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8Fn'	.	8F'	.	4d#X	Das	f	.	.	.	4r	.	.	[4Dn^ [4Fn:	[4GGn^ [4AAn: [4BBn	4ryy	> f	.	.	.	.	.	.	.	.	[4Fn	>	8Fn'	.	8e-X')	[	.	.
+*	*	*	*	*Xhaupt	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*Xneben	*	*	*
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16%3CCn~J	.	16%3CCn	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:b:i:t=dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=2.:num=4	!LO:TUP:num=4	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=2.:num=4	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=r.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16%3DDn~L	.	16%3DDnL	.	2r	.	2r	.	4c#X	weiß	.	.	.	.	2.r	.	.	8%3D] 8%3F]	4%3GGn] [4%3AAn] [4%3BBn]	2.ryy	.	.	.	.	.	.	.	.	.	8%3F]	.	2r	.	2r	.	.	.
+16%3EEn~	.	16%3EEn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4B#X	sie	.	.	.	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=+	!	!	!	!	!	!	!
+16%3FFn~	.	16%3FFn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16%3EnL	.	.	p	.	.	.	.	.	.	.	.	(16%3EnL	p ]	.	.	.	.	.	.
+.	.	.	.	4r	.	4r	.	4A#X	schon	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4r	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=+	!	!	!	!	!	!	!
+16%3GGn~J	]	16%3GGnJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16%3BnJ	.	.	.	.	.	.	.	.	.	.	.	[16%3BX~J	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=120
+=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
+*	*	*	*	*grp:A	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*grp:A	*	*	*	*	*
+!	!	!	!	!LO:TUP:num=4:r=2.	!	!LO:TUP:num=4:r=2.	!	!	!	!	!LO:TX:a:t=stützt	!	!	!	!	!	!LO:TUP:num=4	!LO:TUP:num=4	!	!	!	!	!	!	!	!	!	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:t=[tutti]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=freihgd m. Schwammschlgl	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16%3AAn~L	>	16%3AAnL	.	8%3r	.	8%3r	.	4G#X	sel-	.	2r	.	.	2%3r	.	.	16%3AAn] 16%3Bn]	8%3BB]	2ryy	.	2r	.	2%3r	.	2%3r	.	2%3r	.	16%3B]	.	2r	.	2%3r	.	2%3r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=+	!	!	!	!	!	!	!
+16%3BBn~	.	16%3BBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8%3.An~	.	.	.	.	.	.	.	.	.	.	.	8%3.An'	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4F#X	-ber	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3Cn~	.	16%3Cn	.	16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	8%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	(8DnL	am	<	4r	.	.	.	.	.	.	.	4ryy	.	4r	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.
+16%3Dn~J	mp ]	16%3DnJ	.	16%3Dn~	mf	16%3Dn~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8F#XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=2.:num=4	!	!LO:TUP:num=4	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=+	!	!LO:TX:a:B:i:t=(m. Ges.)	!	!	!	!	!
+2.r	.	16%3EnL	.	16%3En~L	.	16%3En~L	.	4En	be-	[	8%3r	.	.	.	.	.	4.Gn~)/	4.ryy	4ryy	.	4r	.	.	.	.	.	.	.	8%3.Gn'~)	.	8%3r	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:b:i:t=dim.	!	!LO:TX:b:i:t=dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16%3Fn	.	16%3Fn~	.	16%3Fn~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4En	-sten.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=trem. senza cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16%3Gn	.	16%3Gn~	.	16%3Gn~	.	.	.	.	16%3r	.	.	.	.	.	8ryy	8ryy	(8A-X	p	4.eRO/	ppp	.	.	.	.	.	.	.	.	16%3r	.	.	.	.	.
+.	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	4ryy	4ryy	8B-XL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16%3AnJ	.	16%3An~J	.	16%3An~J	.	.	.	.	32%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16%3r	.	32%3r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8d-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(32%3En	Rau-	mf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32%3EX	p	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=sein Zigarettenetui öffnend	!	!	!	!LO:TX:b:t=l.H.	!	!	!	!LO:TUP:r=2.:num=4	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!LO:TUP:r=2.:num=4	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*
+!	!	!	!	!LO:TUP:r=2.:n=4	!	!LO:TUP:r=2.:n=4	!	!	!	!	!LO:TUP:r=2.:n=4	!	!	!	!	!	!	!	!	!LO:N:O=trem3	!	!LO:TX:t=o. Dpf.	!	!LO:TX:t=o. Dpf.	!	!LO:TX:t=o. Dpf.	!	!	!	!	!	!	!	!	!
+2%3r	.	16%3BnL	.	16%3Bn~L	.	16%3Bn~L	.	2%3r	.	.	16%3BnL)	.	.	2r	.	.	2%3r	12e-XL\	.	2.eR0/	.	16%3r	.	16%3r	.	16%3r	.	16%3r	.	16%3BX	.	2%3r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12a-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Rauchergeste	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(offen)	!	!	!	!	!	!	!
+.	.	16%3cn	.	16%3cn~	.	16%3cn~	.	.	.	.	16%3AnJ	-chen	.	.	.	.	.	.	.	.	.	[8%3.cn^	p	16%3cn^	p	16%3cn^L	p	16%3cn^L	p	8%3AX	<	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-XL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16%3dn	.	16%3dn~	.	16%3dn~	.	.	.	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.	[8%3dn^	.	16%3dn^	.	16%3dn^	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=r.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee-X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.	16gg-XLL/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!	!	!	!	!	!	!	!	!
+.	.	16%3f#J	.	16%3f#n~J	.	16%3f#n~J	.	.	.	.	16%3Gn	die	>	.	.	.	.	16aa-X	.	.	.	.	.	.	.	[16%3f#X^J	.	16%3f#X^J	.	16%3Gn	[ >	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bb-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TUP:num=4:r=2.:a	!	!LO:TUP:num=4:r=2.:a	!	!LO:TUP:num=4:r=2.:a	!	!	!	!	!LO:TUP:num=4:r=2.	!	!	!	!	!	!	!LO:TX:b:t=l.H.	!	!	!	!LO:TX:a:i:t=[gliss. ↓]	!	!LO:TX:a:i:t=[gliss. ↓]	!	!LO:TX:a:i:t=[gliss. ↓]	!	!LO:TX:a:i:t=[gliss. ↓]	!	!LO:TUP:r=2.:num=4	!	!	!	!LO:TX:a:B:i:t=(m. Ges.)	!
+.	.	16%3a#X	.	16%3a#X	.	16%3a#X	.	.	.	.	16%3eno	Herrn?	]	8r	.	.	.	8eee-X')	.	8eR/	.	(2.c]i	<[	(2.d]i	<[	(2.f#]i	<[	(2.a#XHi^	<[	16%3eX)	]	.	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xped	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8en	Hier	f	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8en'	mf
+.	.	16%3r	.	16%3r	.	16%3r	.	.	.	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16%3r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gnL	sind	.	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	8gn'L	.
+.	.	8%3r	.	8%3r	.	8%3r	.	.	.	.	8%3r	.	.	8a-XJ	Ha-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8%3r	.	.	.	8a-X'J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	[4ee-X	-ban-	.	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee-X'	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)],{(s4,s5,s6,s7)},<s8>,[({(s9,s10)})],<s11>,<s12>,<s13>,[(s14,s15,s16,s17)]
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Denzler, Robert
+!!!MDT: 1937/06/02
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1937
+!!!MPN: Hadžić, Bahrija
+!!!ODT: 1935
+!!!PDT: 1936
+!!!excerpt-start-measure: 118
+!!!excerpt-end-measure: 121
+!!!excerpt-start-time: 0:54
+!!!excerpt-end-time: 1:04
+!!!excerpt-duration-sec: 10
+!!!excerpt-time-signature: 6/4
+!!!excerpt-tempo-beat: [dotted-half]
+!!!excerpt-tempo-rate: [56]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Ber-15
+!!!Suter_Example_Number: 453
+!!!Suter_Example_ID: Ber-15/362-363/118-121
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 31:32
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1937
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat_Rate: 56;56
+!!!Example_Start_Tsig_Beat: dotted-half;half
+!!!Example_Start_Tsig: 6/4;2/2
+!!!Example_Start_Timestamp: 0:54
+!!!Example_Start_Tempo_Expression: [Langsame]
+!!!Example_Start_Notated_Beat_Rate: [56]
+!!!Example_Start_Notated_Beat: [dotted-half = half]
+!!!Example_Start_Measure: 118
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:04
+!!!Example_End_Measure: 121
+!!!Example_Dataset: R
+!!!Editorial_Comments: This example was transcribed entirely in 6/4, due to technical limitations and 2/2 bars using quadruplet eighths as if the time signature was 6/4. Full Unit Duration calculated from Disc 2 Track 1 (0:00) to Disc 2 Track 6 (3:37) (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 2 Track 2 \"Act II Scene 1: Gott sei Dank, dass wir endlich zuhause sind\". Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half;half=56] based on most recent notated tempo (SWFU, m. 99). Example Start Tempo Expression [Langsame] based on most recent notated tempo expression (SWFU, m. 94). Editorial Note: This example was transcribed entirely in 6/4, due to technical limitations and 2/2 bars using quadruplet eighths as if the time signature was 6/4. Full Unit Duration calculated from Disc 2 Track 1 (0:00) to Disc 2 Track 6 (3:37) (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 2 Track 2 \"Act II Scene 1: Gott sei Dank, dass wir endlich zuhause sind\".
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo: 295
+!!!Audio_Example_Duration: 9.755
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

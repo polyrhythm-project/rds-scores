@@ -1,0 +1,197 @@
+!!!!SEGMENT: R456B_Ber-w15p474-475m553-557.krn
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Act II, Scene 1
+!!!OMV: Act II, Scene 1
+!!!example: 456B
+!!!work: Ber-15
+!!!OMD-full: none
+!!!OMD: Tumultuoso
+!!!AGN-sub: Opera
+!!!OPR: Lulu, Unfinished Opera
+!!!filename: R456B_Ber-w15p474-475m553-557.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:B	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part21	*	*part20	*	*part19	*	*part18	*	*part17	*	*part15	*	*part13	*part13	*	*part12	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff23	*	*staff22	*	*staff21	*	*staff20	*	*staff19	*	*staff17	*	*staff15	*staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*ICklav	*ICklav	*	*ICstr	*ICstr	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icalto	*	*Ipiano	*Ipiano	*	*Iarpa	*Iarpa	*	*Igong	*	*Itrngl	*	*Itimpa	*	*Ifag_c	*	*Ifagot	*	*IsaxA	*	*Iclarb	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"GYMNASIAST	*	*I"Piano	*I"Piano	*	*I"Harp	*I"Harp	*	*I"Tam-Tam	*	*I"Triangle	*	*I"Timpani	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Alto Saxophone	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe 1, 2	*	*I"Flute 2, 3	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'GYM.	*	*I'pf	*I'pf	*	*I'arp	*I'arp	*	*I'tam-tam	*	*I'tri	*	*I'timp	*	*I'c-bn	*	*I'bn	*	*I'a-sax	*	*I'b-cl	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'fl	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*ITrd5c9	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:tempo:a:t=[Tempo furioso, ma poco più pesante]\n{[quarter]=129}
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 2	!
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tumultuoso	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=(m. Ges.)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tumultuoso	!
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=a 2	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*Xhaupt	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 3	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:lv	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	8en`^ 8an	ff	8ccn`^	ff	8ffn`^	ff	8bnX'^]	f	4r	.	4%3r	4r	.	4%3r	8r	.	8Re/_	mf	8r	.	4%3r	.	4%3r	.	4%3r	.	8eX'^L,	.	4%3r	.	8r	.	8an'^	ff	8ccnX'^]	f	([2.ffn^	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/LLL	f	.	.	.	.	.	.	.	.	.	.	(32qqan/LLL	ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/	.	.	.	.	.	.	.	.	.	.	.	32qqbX/	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/JJJ	.	.	.	.	.	.	.	.	.	.	.	32qqccn/JJJ	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=gew.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*
+.	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	4.b-X	ff	8r	.	8Re/	.	.	.	.	.	.	.	8b-X'^J	sfz	.	.	4.b-'^)	sffz	8r	.	8r	.	.	.
+*	*	*	*	*	*	*haupt	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	4r	.	4r	.	16r	.	16r	.	[2ffn	Hil-	.	4r	.	.	.	.	4r	.	4r	.	.	.	.	.	.	.	4r	.	.	.	.	.	4r	.	4r	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	(16aanLLu	f	(16aanLLu	f <	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16bbn	.	16bbn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16cccnJJ	.	16cccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4r	.	4r	.	16ccc#X'^LL)	.	16ccc#X'^LL)	.	.	.	.	8ccc#X'^	sfz <	.	4b-	.	4r	.	8Re/	.	.	.	.	.	.	.	8b-^	.	.	.	[4b-'^	.	4r	.	4r	.	.	.
+.	.	.	.	.	.	(16gg#Xv	.	(16gg#Xv	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16aan	.	16aan	.	.	.	.	8r	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16bbnJJ	.	16bbnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554
+4%3r	.	4%3r	.	4%3r	.	16cccnXLL	.	16cccnXLL	.	2ff_	.	4%3r	16r	.	4r	8r	.	4%3r	.	8r	.	4%3r	.	4%3r	.	4%3r	.	8r	.	4r	.	8b-'L]	.	4%3r	.	4%3r	.	2.ff]	.
+.	.	.	.	.	.	16dddn'^)	.	16dddn'^)	.	.	.	.	8dddn'^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(16ggn	.	(16ggn	.	.	.	.	.	.	.	8b-X	.	.	.	8Re/L	.	.	.	.	.	.	.	8b-X^	.	.	.	8b-X'X^J	.	.	.	.	.	.	.
+.	.	.	.	.	.	16aanJJ	.	16aanJJ	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16bbnLL	.	16bbnLL	.	.	.	.	8r	.	4r	4.b-	.	.	.	8Re/J	.	.	.	.	.	.	.	8b-^	.	4r	.	4.b-'^	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16cccn	.	16cccn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16eee-'^)	.	16eee-'^)	.	.	.	.	8eee-X'^	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(16ff#XJJ	.	(16ff#XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*rhaupt	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16aanLL	.	16aanLL	.	8ffL]H	.	.	8r	.	8r	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16bbn	.	16bbn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32qqAn/LLL	.	(32qqAn/LLL	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBX/	.	32qqBX/	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqcn/JJJ	.	32qqcn/JJJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	16cccn	.	16cccn	.	8B-XJh	-fe!	.	16r	.	[8B-X	8r	.	.	.	8Re/	.	.	.	.	.	.	.	8B-X^	.	[8B-^)	sffz	[8B-'^)	sffz	.	.	.	.	.	.
+.	.	.	.	.	.	16eee'^JJ)	.	16eee'^JJ)	.	.	.	.	[16eee-^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=555
+=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555
+4%3r	.	4%3r	.	4%3r	.	(16ffnLL	.	(16ffnLL	.	4%3r	.	4%3r	16eee-']	.	4r	4%3r	.	4%3r	.	4r	.	4%3r	.	4%3r	.	4%3r	.	4r'	.	4B-']	.	4B-']	.	4%3r	.	4%3r	.	8een)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*
+.	.	.	.	.	.	16aan	.	16aan	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=nehmen Picc.	!
+.	.	.	.	.	.	16bbn	.	16bbn	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.
+.	.	.	.	.	.	16cccnJJ	.	16cccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fffn'^L)	ff	8fffn'^L)	ff	.	.	.	8fffn'^L	ff	4.B-X	.	.	.	.	8Re/	.	.	.	.	.	.	.	8B-X^	.	4.B-X^	.	4.B-X^	.	.	.	.	.	4r	.
+.	.	.	.	.	.	16fff'Lv	.	16fff'Lv	.	.	.	.	16fff'L	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16fff'JJu	.	16fff'JJu	.	.	.	.	16fff'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16fff'LL	.	16fff'LL	.	.	.	.	16fff'LL	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	4r	.
+.	.	.	.	.	.	16fff'	.	16fff'	.	.	.	.	16fff'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16fff'	.	16fff'	.	.	.	.	16fff'	.	8B-	.	.	.	.	8Re/L	.	.	.	.	.	.	.	8B-^	.	8B-'^	.	8B-'^	.	.	.	.	.	.	.
+.	.	.	.	.	.	16fff'JJ	.	16fff'JJ	.	.	.	.	16fff'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 2	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	2r	.	4r	.	(16fffnLLv	.	(16fffnLLv	.	4%3r	.	4%3r	(16fffnLL	.	4.B-X	4%3r	.	4%3r	.	8Re/J	.	4r	.	4r	.	4r	.	8B-X^	.	4.B-'^	.	4.B-X'^	.	4%3r	.	4%3r	.	4%3r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*Xrhaupt	*	*	*	*	*	*	*
+.	.	.	.	.	.	16cccn)	.	16cccn)	.	.	.	.	16cccn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16bbn'	.	16bbn'	.	.	.	.	16bbn')	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16aan'JJ	.	16aan'JJ	.	.	.	.	16aan'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*rhaupt	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16r~	.	16een~LL	.	16een~LL	.	.	.	.	16een~LL	.	.	.	.	.	.	4r	.	8r	.	8r	.	8r	.	4r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(16ffnLLvv	ff	(16ffnv	.	(16ffnv	.	.	.	.	(16ffn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/LLL	f	.	.	(32qqAAn^/LLL	ff	.	.	(32qqAAn/LLL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/	.	.	.	32qqBBn^/	.	.	.	32qqBBX/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/JJJ	.	.	.	32qqCn^/JJJ	.	.	.	32qqCn/JJJ	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16ccn)	.	16ccn)	.	16ccn)	.	.	.	.	16ccn	.	4.BB-X	.	ff	.	.	.	.	8BB-	.	8BB-X^	ffsfz	4.BB-X^)	sffz	.	.	4.BB-'^)	sffz	8r	.	.	.	.	.	.	.
+.	.	.	.	16bn'JJ	.	16bn'JJ	.	16bn'JJ	.	.	.	.	16bn'JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=zus.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8r	.	16an'LL	.	16an'LL	.	16an'LL	.	.	.	.	16an'LL	.	.	.	.	.	.	4r	.	4r	.	4r	.	.	.	4r	.	.	.	4r	.	.	.	.	.	.	.
+.	.	.	.	16en~	.	16en~JJ	.	16en~	.	.	.	.	16en~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	(16fnLL	ff	(16fnv	.	8r	.	(16fnv	.	.	.	.	(16fn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16cnJJ)	.	16cnJJ)	.	.	.	16cnJJ)	.	.	.	.	16cnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557
+8r	.	16Bn'LL	.	16Bn'LL	.	4%3r	.	16Bn'LL	.	4%3r	.	16ryy	16Bn<')L\	.	4.BB-X	4%3r	.	4%3r	.	4%3r	.	8BB-X	.	8BB-X^	.	4.BB-X'^	.	4%3r	.	4.BB-X'^	.	2r	.	4%3r	.	4%3r	.	4%3r	.
+.	.	16An'	.	16An'	.	.	.	16An'JJ	.	.	.	16An'LL	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*haupt	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16r	.	16En~	.	16En~	.	.	.	8r	.	.	.	16En~	8ryy	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16Fn	ff	(16FnJJ	.	(16FnJJ	.	.	.	.	.	.	.	(16FnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16CnLL)	.	16CnLL)	.	16Cn')	.	.	.	4r	.	.	.	16CnLL	4ryy	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16BBn'	.	16BBn'	.	16r	.	.	.	.	.	.	.	16BBn')	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AAn'	.	16AAn'	.	8r	.	.	.	.	.	.	.	16AAn'	.	.	8BB-	.	.	.	.	.	.	8BB-	.	8BB-^	.	8BB-'^	.	.	.	8BB-'^	.	.	.	.	.	.	.	.	.
+16EEn~JJ	.	16EE~JJ	.	.	.	.	.	.	.	.	.	16EEn~JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16FFnLL	.	(16FFnLL	.	4r	.	.	.	4r	.	.	.	(16FFnLL	4ryy	.	[4BB-	.	.	.	.	.	.	8BB-	.	8BB-^	.	[4BB-^	.	.	.	[4BB-'^	.	4r	.	.	.	.	.	.	.
+16CCnX)	.	16CCnX'JJ)	.	.	.	.	.	.	.	.	.	16CCnX	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16BBBn'	.	8r'	.	.	.	.	.	.	.	.	.	16BBBn')	.	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AAAn'JJ	.	.	.	.	.	.	.	.	.	.	.	16AAAn'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9)][(s10,s11)][({(s12,s13)})][({(s14,s15)})][(s16,s17,s18)][(s19,s20,s21,s22,s23)]
+!!!RDF**kern: < = below
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Denzler, Robert
+!!!MDT: 1937/06/02
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1937
+!!!MPN: Hadžić, Bahrija
+!!!ODT: 1935
+!!!PDT: 1936
+!!!excerpt-start-measure: 553
+!!!excerpt-end-measure: 557
+!!!excerpt-start-time: 24:00
+!!!excerpt-end-time: 24:09
+!!!excerpt-duration-sec: 9
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {100}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Ber-15
+!!!Suter_Example_Number: 456B
+!!!Suter_Example_ID: Ber-15/474-475/553-557
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 30:02
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1937
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 129
+!!!Example_Start_Tsig_Beat_Rate: 129
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 3:02
+!!!Example_Start_Tempo_Expression: [Tempo furioso, ma poco più pesante]
+!!!Example_Start_Notated_Beat_Rate: {129}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 553
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:09
+!!!Example_End_Measure: 557
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=129} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=5099950940059); tempo for audio synthesis {quarter=100} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Tempo furioso, ma poco più pesante] based on most recent notated tempo expression (SWFU, m. 539). Full Unit Duration calculated from Disc 2 Track 1 (0:00) to Disc 2 Track 6 (2:45) (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 2 Track 5 \"Act II: Wenn sich die Menschen um meinetwillen umgebracht haben (Lulu)\"
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo: 133
+!!!Audio_Example_Duration: 6.745
+!!!ONB: Converted from MusicXML on 2020/07/28

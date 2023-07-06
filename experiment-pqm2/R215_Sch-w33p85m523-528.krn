@@ -1,0 +1,130 @@
+!!!!SEGMENT: R215_Sch-w33p85m523-528.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Act I, Scene 4
+!!!OMV: Act I, Scene 4
+!!!example: 215
+!!!work: Sch-33
+!!!OMD-full: Lebhaft
+!!!OMD: Breit
+!!!AGN-sub: Opera
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: R215_Sch-w33p85m523-528.krn
+**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
+*part7	*	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICvox	*	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Itenor	*	*	*Ituba	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Iflt	*
+*I"ARON	*	*	*I"Tuba	*	*I"Horn 2\n[sounds as written]	*	*I"Bassoon 1	*	*I"Clarinet in Bb 2\n[sounds as written]	*	*I"English Horn\n [sounds as written]	*	*I"Flute 1	*
+*I'ARON	*	*	*I'tb	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'fl	*
+*clefGv2	*	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:tempo:a:t=Breit\n[half]=44
+*M2/2	*	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)
+!LO:TX:t=MOSES ist wieder näher.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Breit ([half]=44)	!
+2B-X	Schlie-	p	2FFn~	p	2Cn~	p	1r)j	.	2G-X~	p	4r	.	1r	.
+*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	4.e-X~	p	.	.
+4.Bn	-ßet	.	2DD-X~	.	2AA-X~	.	.	.	2G~	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4.dn~	.	.	.
+8B	die	.	.	.	.	.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+2Bn	Au-	.	2GG-X~	.	2Cn~	.	1r	.	2Fn~	.	4.e-X~	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	4.dn~	.	.	.
+4An	-gen,	.	2GGn~	.	2D-X~	.	.	.	2A-X~	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	4e~	.	.	.
+8e-X	ver-	.	.	.	.	.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+2e-X	-stop-	.	2EEn~	.	2AA-X~	.	1r	.	2Gn~	.	4r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	4.b-~	.	.	.
+4.c#X	-fet	.	2FFn~	.	2G-X~	.	.	.	2An~	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4.ccn~	.	.	.
+8c#	die	.	.	.	.	.	.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+2c#X	Oh-	.	2GGn~	.	2En~	.	1r	.	2A-X~	.	4.b-~	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	4.ccn~	.	.	.
+2dn	-ren!	.	2FF#X~	.	2AAn~	.	.	.	2Fn~	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4bX~	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+2.fn	So	.	1r	.	2BBXn~	.	1r	.	2An~	.	8r	.	(2bb-X	p
+.	.	.	.	.	.	.	.	.	.	.	4.a-X~	.	.	.
+.	.	.	.	.	2En~	.	.	.	2e-~	.	4.gn~	.	2ddn	.
+[4G-X	nur	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8a-~	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+*grp:B	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
+8G-L]	.	.	2r	.	2BBXn~	.	2r	.	2B-~	.	4a-~]	.	2aan	.
+8G-XJ	könnt	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.G-	ihr	.	.	.	.	.	.	.	.	.	4.gn~	.	.	.
+.	.	.	4r	.	4.En~	.	4r	.	4.dn~	.	.	.	4.ee-X)	.
+8cnL	ihn	.	.	.	.	.	.	.	.	.	4dd-X~	.	.	.
+(8ci	sehn_	.	8r	.	.	.	8r	.	.	.	.	.	.	.
+[8enJ	.	.	[8BBn~	.	8r	.	[8fn	p	[8B-X~	.	8r	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)]s7
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Rosbaud, Hans
+!!!MDT: 1957/06/06
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1957
+!!!MPN: Fiedler, Hans; Melchert, Helmut
+!!!ODT: 1932
+!!!PDT: 1957
+!!!excerpt-start-measure: 81(523)
+!!!excerpt-end-measure: 86(528)
+!!!excerpt-start-time: 2:57
+!!!excerpt-end-time: 3:15
+!!!excerpt-duration-sec: 18
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: half
+!!!excerpt-tempo-rate: 44
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 215
+!!!Suter_Example_ID: Sch-33/85/523-528
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 24:58
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 18
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 2:57
+!!!Example_Start_Tempo_Expression: Breit
+!!!Example_Start_Notated_Beat_Rate: 44
+!!!Example_Start_Notated_Beat: half
+!!!Example_Start_Measure: 81(523)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:15
+!!!Example_End_Measure: 86(528)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Although the full unit (SWFU) begins on the last quarter beat of a 4/4 measure from the previous scene, the quarter beat functions as a pick-up rather than an indication of the meter of the new scene; hence, the time signature of SWFU m. 1 (m. 443) was taken as the Full Unit Start Time Signature.
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 78
+!!!Audio_Example_Duration: 18.297
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,0 +1,181 @@
+!!!!SEGMENT: R812_Bri-w33p39h19m2-13.krn
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Part I, V: The Morning Star
+!!!OMV: Part 1, Text 5: The Morning Star
+!!!example: 812
+!!!work: Bri-33
+!!!OMD-full: Molto moderato ma giocoso
+!!!OMD: [Molto moderato ma giocoso]
+!!!AGN-sub: Choral
+!!!OPR: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
+!!!filename: R812_Bri-w33p39h19m2-13.krn
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part11	*	*	*part10	*	*	*part9	*	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff11	*	*	*staff10	*	*	*staff9	*	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*
+*Ibass	*	*	*Itenor	*	*	*Isoprn&Ialto	*	*	*Ibdrum	*	*Itimpa	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Soprano,\nAlto	*	*	*I"Bass Drum	*	*I"Timpani	*	*I"Trombone 3	*	*I"Trombone 1, 2	*	*I"Trumpet in C 3	*	*I"Trumpet in C 1, 2	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*
+*I'b	*	*	*I't	*	*	*I's, a	*	*	*I'b-dr	*	*I'timp	*	*I'tn	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*
+*k[b-]	*	*	*k[b-]	*	*	*k[b-]	*	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*	*F:	*	*	*F:	*	*	*C:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+!!LO:TX:tempo:a:t=[Molto moderato ma giocoso]\n[[quarter-dot]=44]
+*M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=44]	!
+!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=[B.D.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+(16FKL	boun-	p	(16FKL	boun-	p	(16fKL	boun-	p	8RfTT/	pp	8r	pp	8AA`L	p	8AA`L 8C	p	8B-`L	p	8B-`L 8c	p	8C`L 8c	p	8C`L 8c	p
+8G	.	.	8G	.	.	8g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8r	>	8C`	.	8AA`J	.	8AA`J 8C	.	8A`J	.	8A`J 8c	.	8C`J 8c	.	8C`J 8c	.
+16FJk)	-te-	.	16FJk)	-te-	.	16fJk)	-te-	.	.	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	-ous	.	8F	-ous	.	8f	-ous	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+(4F	May,	.	(4F	May,	.	(4f	May,	.	8r	.	8CTT	>	8GG`L	.	8GG`L 8C	.	8A`L	.	8A`L 8c	.	8C`L 8c	.	8C`L 8c	.
+.	.	.	.	.	.	.	.	.	8Rf`/	.	8r	]	8GG`J	.	8GG`J 8C	.	8B-`J	.	8B-`J 8c	.	8C`J 8c	.	8C`J 8c	.
+[8D	.	>]	[8D	.	>]	[8d	.	>]	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4D])	.	.	4D])	.	.	4d])	.	.	8RfTT/	>	8r	.	8AA`L	.	8AA`L 8C	.	8B-`L	.	8B-`L 8c	.	8C`L 8c	.	8C`L 8c	.
+.	.	.	.	.	.	.	.	.	8r	]	8C`	.	8AA`J	.	8AA`J 8C	.	8A`J	.	8A`J 8c	.	8C`J 8c	.	8C`J 8c	.
+8r	.	.	8r	.	.	8r	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8D	that	<	8D	that	<	8d	that	<	8r	.	8CTT	>	8GG`L	.	8GG`L 8C	.	8A`L	.	8A`L 8c	.	8C`L 8c	.	8C`L 8c	.
+8E	doth	.	8E	doth	.	8e	doth	.	8Rf`/	.	8r	]	8GG`J	.	8GG`J 8C	.	8B-`J	.	8B-`J 8c	.	8C`J 8c	.	8C`J 8c	.
+8F	in-	[[	8F	in-	[[	8f	in-	[[	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4G~	-spire	.	4G~	-spire	.	4g~	-spire	.	8RfTT/	>	8r	.	8FF#X`L	.	8FF#X`L 8D	.	8B-`L	.	8B-`L 8d	.	8D`L 8d	.	8D`L 8d	.
+.	.	.	.	.	.	.	.	.	8r	]	8D`	.	8FF#`J	.	8FF#`J 8D	.	8A`J	.	8A`J 8d	.	8D`J 8d	.	8D`J 8d	.
+4A~	Mirth	.	4A~	Mirth	.	4a~	Mirth	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	8r	.	8CTT	>	8GG`L	.	8GG`L 8C	.	8A`L	.	8A`L 8c	.	8C`L 8c	.	8C`L 8c	.
+4F#X~	and	.	4F#X~	and	.	4f#X~	and	.	8Rf`/	.	8r	]	8GG`J	.	8GG`J 8C	.	8B-`J	.	8B-`J 8c	.	8C`J 8c	.	8C`J 8c	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8.G~	youth,	.	8.G~	youth,	.	8.g~	youth,	.	8RfTT/	>	8r	.	8FF#X`L	.	8FF#X`L 8D	.	8B-`L	.	8B-`L 8d	.	8D`L 8d	.	8D`L 8d	.
+.	.	.	.	.	.	.	.	.	8r	]	8D`	.	8FF#`J	.	8FF#`J 8D	.	8A`J	.	8A`J 8d	.	8D`J 8d	.	8D`J 8d	.
+8.A~	and	.	8.A~	and	.	8.a~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8.F#X~	warm	.	8.F#X~	warm	.	8.f#X~	warm	.	8r	.	8CTT	>	8GG`L	.	8GG`L 8C	.	8A`L	.	8A`L 8c	.	8C`L 8c	.	8C`L 8c	.
+.	.	.	.	.	.	.	.	.	8Rf`/	.	8r	]	8GG`J	.	8GG`J 8C	.	8B-`J	.	8B-`J 8c	.	8C`J 8c	.	8C`J 8c	.
+8.G~	de-	.	8.G~	de-	.	8.g~	de-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r`	.	8r`	.	8r	.	8r	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+(4A	-sire;	<	(4A	-sire;	<	(4a	-sire;	<	8RfTT/	>	8r	.	8FF#X`L	.	8FF#X`L 8D	.	8B-`L	.	8B-`L 8d	.	8D`L 8d	.	8D`L 8d	.
+.	.	.	.	.	.	.	.	.	8Rf`/	]	8r	.	8FF#`	.	8FF#` 8D	.	8A`	.	8A` 8d	.	8D` 8d	.	8D` 8d	.
+[8c	.	.	[8c	.	.	[8cc	.	.	8r	.	[8D^TT	.	[8EE~J	<	[8EE~J [8D	<	[8c~J	<	[8c~J [8d	<	[8D~J [8d	<	[8D~J [8d	<
+4.c])	.	.	4.c])	.	.	4.cc])	.	.	8r	.	8D]	.	8EEL]	.	8EEL] 8D]	.	8cL]	.	8cL] 8d]	.	8DL] 8d]	.	8DL] 8d]	.
+.	.	.	.	.	.	.	.	.	8Rf`/	<	8r	.	8FF#`	.	8FF#` 8D	.	8B-`	.	8B-` 8d	.	8D 8d	.	8D 8d	.
+.	.	[[	.	.	[[	.	.	[[	8r	[	8D`	<[	8EE`J	[[	8EE`J 8D	[[	8c`J	[[	8c`J 8d	[[	8D`J 8d	[[	8D`J 8d	[[
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+8r	.	.	8r	.	.	8r	.	.	2.Rf^TT/	p >]	4%3r	.	2.EE-X^	mf >]	2.BB-^ 2.D-X	mf >]	2.B-^	mf >]	2.B-^ 2.e-X	mf >]	2.E-X^ 2.d-X	mf >]	2.E-X^ 2.e-X	mf >]
+8e-X~	Woods	f	8e-X~	Woods	f	8ee-X~	Woods	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c~	and	.	8c~	and	.	8cc~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.B-~	groves	>	8.B-~	groves	>	8.b-~	groves	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16B-LL	are	.	(16B-LL	are	.	(16b-LL	are	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16G	.	.	16G	.	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16E-XJJ)	.	]]	16E-XJJ)	.	]]	16e-XJJ)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+(4F	of	.	(4F	of	.	(4f	of	.	8r	.	8CTT	pp	8FF`L	p	8FF`L 8C	p	8B-`L	p	8B-`L 8c	p	8C`L 8c	p	8C`L 8c	p
+.	.	.	.	.	.	.	.	.	8Rf`/	pp	8r	.	8FF`J	.	8FF`J 8C	.	8An`J	.	8An`J 8c	.	8C`J 8c	.	8C`J 8c	.
+4G)	.	.	4G)	.	.	4g)	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	8RfTT/	.	8r	.	8EE-X`L	.	8E-X`L	.	8A`L	.	8A`L 8d	.	8D`L 8d	.	8D`L 8d	.
+4En	thy	.	4En	thy	.	4en	thy	.	8r	.	8D`	.	8EE-`J	.	8E-`J	.	8B-`J	.	8B-`J 8d	.	8D`J 8d	.	8D`J 8d	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+8FL	dres-	>	8FL	dres-	>	8fL	dres-	>	8r	.	8CTT	.	8FF`L	.	8FF`L 8C	.	8B-`L	.	8B-`L 8c	.	8C`L 8c	.	8C`L 8c	.
+8AJ	.	.	8AJ	.	.	8aJ	.	.	8Rf`/	.	8r	.	8FF`J	.	8FF`J 8C	.	8A`J	.	8A`J 8c	.	8C`J 8c	.	8C`J 8c	.
+[8c	-sing,	] <	[8c	-sing,	] <	[8cc	-sing,	] <	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
+4.c]	.	.	4.c]	.	.	4.cc]	.	.	8RfTT/	<	8r	.	8EE-X`L	<	8E-X`L	<	8A`L	<	8A`L 8d	<	8D`L 8d	<	8D`L 8d	<
+.	.	.	.	.	.	.	.	.	8r	.	8D`	<	8EE-`	.	8E-`	.	8B-`	.	8B-` 8d	.	8D` 8d	.	8D` 8d	.
+.	.	[[	.	.	[[	.	.	[[	8Rf`/	[	8r	[	8EE-~J	[[	8E-~J	[[	[8A~J	[[	[8A~J [8d	[[	[8D~J [8d	[[	[8D~J [8d	[[
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+8r	.	.	8r	.	.	8r	.	.	4%3r	.	2.D^TT	p >]	2.DD	mf >]	2.AA 2.En	mf >]	2.A]	mf >]	2.A] 2.d]	mf >]	2.D] 2.d]	mf >]	2.D] 2.d]	mf >]
+8d~	Hill	f	8d~	Hill	f	8dd~	Hill	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Bn~	and	.	8Bn~	and	.	8bn~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.A~	dale	.	8.A~	dale	.	8.a~	dale	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16ALL	doth	>	(16ALL	doth	>	(16aLL	doth	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16F#X	.	.	16F#X	.	.	16f#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16DJJ)	.	]]	16DJJ)	.	]]	16dJJ)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+(4E	boast	p	(4E	boast	p	(4e	boast	p	8RfTT/	pp > ]	8r	.	8EE`L	p	8EE`L 8D	p	8A`L	p	8A`L 8d	p	8D`L 8d	p	8D`L 8d	p
+.	.	.	.	.	.	.	.	.	8r	.	8D`	pp	8EE`J	.	8EE`J 8D	.	8Bn`J	.	8Bn`J 8d	.	8D`J 8d	.	8D`J 8d	.
+4F#X)	.	.	4F#X)	.	.	4f#X)	.	.	8r	.	8r	.	8r	.	8r`	.	8r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	8r	.	8DTT	> ]	8FF#X`L	.	8FF#X`L 8D	.	8B`L	.	8B`L 8d	.	8D`L 8d	.	8D`L 8d	.
+4D	thy	.	4D	thy	.	4d	thy	.	8Rf`/	.	8r	.	8FF#`J	.	8FF#`J 8D	.	8A`J	.	8A`J 8d	.	8D`J 8d	.	8D`J 8d	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+8EL	bles-	.	8EL	bles-	.	8eL	bles-	.	8RfTT/	> ]	8r	.	8EE`L	.	8EE`L 8D	.	8A`L	.	8A`L 8d	.	8D`L 8d	.	8D`L 8d	.
+8BnJ	.	>	8BnJ	.	>	8bnJ	.	>	8r	.	8D`	.	8EE`J	.	8EE`J 8D	.	8Bn`J	.	8Bn`J 8d	.	8D`J 8d	.	8D`J 8d	.
+[8A	-sing.	.	[8A	-sing.	.	[8a	-sing.	.	8r	.	8r	.	8r`	.	8r`	.	8r	.	8r	.	8r	.	8r	.
+4.A]	.	]	4.A]	.	]	4.a]	.	]	8r	.	8DTT	> ]	8FF#X`L	.	8FF#X`L 8D	.	8B`L	.	8B`L 8d	.	8D`L 8d	.	8D`L 8d	.
+.	.	.	.	.	.	.	.	.	8Rf`/	.	8r	.	8FF#`J	.	8FF#`J 8D	.	8A`J	.	8A`J 8d	.	8D`J 8d	.	8D`J 8d	.
+.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4r	.	.	4r	.	.	4r	.	.	8RfTT/	> ]	8r	.	8EE`L	.	8EE`L 8D	.	8A`L	.	8A`L 8d	.	8D`L 8d	.	8D`L 8d	.
+.	.	.	.	.	.	.	.	.	8r	.	8D`	.	8EE`J	.	8EE`J 8D	.	8Bn`J	.	8Bn`J 8d	.	8D`J 8d	.	8D`J 8d	.
+[8A	Hail,	.	[8A	Hail,	.	[8a	Hail,	.	8r	.	8r	.	8r`	.	8r`	.	8r	.	8r	.	8r	.	8r	.
+8AL]	.	>	8AL]	.	>	8aL]	.	>	8r	.	8DTT	<	8FF#X`L	<[	8FF#X`L 8D	<[	8c`L	<[	8c`L 8d	<[	8D`L 8d	<[	8D`L 8d	<[
+8G	.	.	8G	.	.	8g	.	.	8Rf`/	<	8r	[	8GG`	.	8GG` 8D	.	8B-X`	.	8B-X` 8d	.	8D` 8d	.	8D` 8d	.
+8FnJ	.	]]	8FnJ	.	]]	8fnJ	.	]]	8r	[	8CTT	>]	[8AA~J	>]	[8AA~J [8C	>]	[8B-~J	>]	[8B-~J [8c	>]	[8C~J [8c	>]	[8C~J [8c	>]
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)](s8)[(s9,s10,s11)]
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal
+!!!MCN: Beinum, Eduard van
+!!!MDT: 1949/07/14
+!!!MGN: Dutch Radio Chorus; Concertgebouw Orchestra
+!!!MLC: Amsterdam, The Netherlands
+!!!MPD: 1949
+!!!MPN: Ferrier, Kathleen; Pears, Peter; Vincent, Joe
+!!!ODT: 1949
+!!!PDT: 1951
+!!!excerpt-start-measure: 20
+!!!excerpt-end-measure: 31
+!!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:46
+!!!excerpt-duration-sec: 37
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [44]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Bri-33
+!!!Suter_Example_Number: 812
+!!!Suter_Example_ID: Bri-33/39/[19]2-13
+!!!Premiere_Location: Amsterdam,Netherlands
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:11
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1949
+!!!Example_Total_Measures: 12
+!!!Example_Timestamp_Duration: 37
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 1:09
+!!!Example_Start_Tempo_Expression: [Molto moderato ma giocoso]
+!!!Example_Start_Notated_Beat_Rate: [44]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 20
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:46
+!!!Example_End_Measure: 31
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=44] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [Molto moderato ma giocoso] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Aldeburgh,England
+!!!Death_Date: 4-Dec-1976
+!!!Changing_Tsig: no
+!!!Birth_Place: Lowestoft,England
+!!!Birth_Date: 22-Nov-1913
+!!!Audio_Example_Quarter_Note_Tempo: 58
+!!!Audio_Example_Duration: 37.187
+!!!ONB: Converted from MusicXML on 2020/07/28

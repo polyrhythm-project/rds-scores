@@ -1,0 +1,114 @@
+!!!!SEGMENT: R441_Ber-w10p81m376-377.krn
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Act I, Scene 3: Mariens Stube (Mary's Room)
+!!!OMV: Act I, Scene 3
+!!!example: 441
+!!!work: Ber-10
+!!!OMD-full: Marschtempo
+!!!OMD: [Langsame aber nicht schleppen (Tempo I dieses Liedes)]
+!!!AGN-sub: Opera
+!!!OPR: Wozzeck, Opera in Three Acts
+!!!filename: R441_Ber-w10p81m376-377.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*	*	*staff6	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Isoprn	*	*	*	*Iarpa	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclarb	*
+*I"Viola\n[without damper]	*	*I"Solo Viola 2\n[with damper]	*	*I"Solo Viola 1\n[with damper]	*	*I"Violin I\n[without damper]	*	*I"Solo Violin I\n[with damper]	*	*I"MARIE	*	*	*	*I"Harp	*	*I"Horn in F 2\n[without damper]	*	*I"Horn in F 1\n[without damper]	*	*I"Bassoon 1	*	*I"Bass Clarinet in Bb	*
+*I'vla	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'MARIE	*	*	*	*I'arp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'b-cl	*
+*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*
+!!LO:TX:tempo:a:t=[Langsame, aber nicht schleppen (Tempo I dieses Liedes)]\n[[quarter-dot]=56&#8211;60]
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)	=47(376)
+!LO:TX:a:t=arco	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=arco	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=58]	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:lv	!	!	!	!	!	!	!	!	!
+4en~	mp	]8e	pp	]8e-')j	pp	8.ggnL	p	8ccn')j	pp > ]	4ggn	Ei,	Why	f	[2.DDn	mf	4an~	mp	4ccn~	mp	[2.DDn	mf	[2.DDn	p
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xneben	*	*	*
+.	.	8r	.	8r	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(16ccnk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4cn~	>	8r	.	8r	.	[8eenJ	>	8r	.	8een	was	such	.	.	.	4fn~	>	4an~	>	.	.	.	.
+.	.	4r	.	4r	.	16eeLL])	.	4r	.	8g#XL	frag'	sor-	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(16anJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4An~	.	.	.	.	.	8.ccn)	.	.	.	8bn	ich	-row	.	.	.	4dn~	.	4fn~	.	.	.	.	.
+.	.	8r	.	8r	.	.	.	8r	.	8anJ	dar-	pur-	.	.	.	.	.	.	.	.	.	.	.
+.	]]	.	.	.	.	(16fnJk	]	.	.	.	.	.	.	.	.	.	]]	.	]]	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+!LO:TX:a:t=[non div.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4Dn~ 4Gn	>	4%3r	.	4%3r	.	8.anL)	.	4%3r	.	(4.e-X	-nach,_	-sue?_	>	4%3r	.	4B-X~	.	4e-X~	.	4DD]	.	4DD]	.
+.	.	.	.	.	.	(16e-Xi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8E-X'~	.	.	.	.	.	[8gnJ	>	.	.	.	.	.	.	.	.	[8An'~	.	[8d-X'~	.	8r	.	8r	.
+4E-]	.	.	.	.	.	4g'~]	.	.	.	4cc#X)	.	.	.	.	.	4A]	>	4d-]	>	4r	.	4r	.
+[8E-~	p ]	.	.	.	.	[8g'~	pp ]	.	.	8r	.	.	]	.	.	[8A~	] pp	[8d-~	] pp	8r	.	8r	.
+*	*	*	*	*	*	*Xneben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})]s7[([(s8,s9)][(s10,s11,s12)])]
+!!!Xfilter: slurcheck
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Kleiber, Erich
+!!!MDT: 1925/12/14
+!!!MGN: Staatsoper Orchestra and Chorus
+!!!MLC: Berlin, Germany
+!!!MPD: 1925
+!!!MPN: Hermann, Uhde; Steber, Eleanor
+!!!ODT: 1922
+!!!PDT: 1923
+!!!excerpt-start-measure: 47(376)
+!!!excerpt-end-measure: 48(377)
+!!!excerpt-start-time: 5:25
+!!!excerpt-end-time: 5:30
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [56-60]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Ber-10
+!!!Suter_Example_Number: 441
+!!!Suter_Example_ID: Ber-10/81/376-377
+!!!Premiere_Location: Berlin,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:44
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1925
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 58
+!!!Example_Start_Tsig_Beat_Rate: 58
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 5:25
+!!!Example_Start_Tempo_Expression: [Langsame, aber nicht schleppen (Tempo I dieses Liedes)]
+!!!Example_Start_Notated_Beat_Rate: [56-60]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 47(376)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:30
+!!!Example_End_Measure: 48(377)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=56-60] based on most recent notated tempo (SWFU, m. 43(372)). Example Start Tempo Expression [Langsame, aber nicht schleppen (Tempo I dieses Liedes)] based on most recent notated tempo expression (SWFU, m. 43(372)). Full Unit Start Tempo Expression, Full Unit Start Notated Beat, and Full Unit Start Notated Beat Rate are derived four measures before SWFU m. 1. The full unit (SWFU) begins on notated measure 330 and ends on notated measure 487. Full Unit Duration is based on ANOTHER Naxos recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=8.660390-91), since the Naxos audio originally selected (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=00028943432528) includes up to measure 416 of the SWFU only.
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo: 69
+!!!Audio_Example_Duration: 5.208
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

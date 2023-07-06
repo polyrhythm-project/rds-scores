@@ -1,0 +1,173 @@
+!!!!SEGMENT: R426_Var-w4p17h1m5-10.krn
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: III: Grave - Animé et jubilatoire (Animated and Jubilant)
+!!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
+!!!example: 426
+!!!work: Var-4
+!!!OMD-full: Grave
+!!!OMD: [Animé et jubilatoire]
+!!!AGN-sub: Chamber
+!!!OPR: Octandre for Eight Instruments
+!!!filename: R426_Var-w4p17h1m5-10.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Itromp	*	*Icor	*	*Ifagot	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Eb	*	*I"Oboe	*	*I"Flute	*
+*I'cb	*	*I'tp	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*ITrd4c7	*	*	*	*ITrd-2c-3	*	*	*	*	*
+*k[]	*	*k[]	*	*k[0]	*	*k[]	*	*k[0]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[Animé et Jubilatoire]\n[[quarter]=100]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=100]	!
+1r	.	1r	.	1r	.	16G#XKL]	ff	1r	.	8aL	ff	1r	.
+.	.	.	.	.	.	8B-X^	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ee-XJ	.	.	.
+.	.	.	.	.	.	[16bn^Jk	.	.	.	.	.	.	.
+.	.	.	.	.	.	2b_	<	.	.	12eenL	.	.	.
+.	.	.	.	.	.	.	[[	.	.	(12f	.	.	.
+.	.	.	.	.	.	.	>	.	.	[12dd#^XJ)	.	.	.
+.	.	.	.	.	.	.	]]	.	.	4dd#]	.	.	.
+.	.	.	.	.	.	8bL]	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	.	(8c^nJZ	.	.	.	8cc#XJ	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*grp:B	*	*	*	*grp:A	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3r	.	4%3r	.	4%3r	.	16b'KL)	.	4%3r	.	8dd#XL	.	4%3r	.
+.	.	.	.	.	.	8.b^J	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eeL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16fnJJ	.	.	.
+.	.	.	.	.	.	12c^L	.	.	.	[2g#X	.	.	.
+.	.	.	.	.	.	12b	.	.	.	.	.	.	.
+.	.	.	.	.	.	(8qb/	.	.	.	.	.	.	.
+.	.	.	.	.	.	12g^J)Z	.	.	.	.	.	.	.
+.	.	.	.	.	.	8f#X^L	.	.	.	.	.	.	.
+.	.	.	.	.	.	8a^J	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*	*	*	*	*	*	*grp:A	*	*	*	*grp:B	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+1r	.	1r	.	1r	.	[2.b	.	4r	.	2g#X_	.	1r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	24cc'LL	ff	.	.	.	.
+.	.	.	.	.	.	.	.	24dd-X'	.	.	.	.	.
+.	.	.	.	.	.	.	.	24cc'J	.	.	.	.	.
+.	.	.	.	.	.	.	.	8cc^J	.	.	.	.	.
+.	.	.	.	.	.	.	.	24cc'LL	.	6g#]	.	.	.
+.	.	.	.	.	.	.	.	24dd-'	.	.	.	.	.
+.	.	.	.	.	.	.	.	24cc'J	.	.	.	.	.
+.	.	.	.	.	.	.	.	8cc^J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	6b-X	.	.	.
+.	.	.	.	.	.	8bL]	.	16r^	.	.	.	.	.
+.	.	.	.	.	.	.	.	8.cc^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	[6ddZ	.	.	.
+.	.	.	.	.	.	[8c#X^J	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*	*	*	*	*	*	*grp:B	*	*grp:A	*	*grp:A	*	*	*
+1r	.	1r	.	1r	.	8c#L]	.	16bbnXKL	.	4dd]	.	1r	.
+.	.	.	.	.	.	.	.	8ff^Z	.	.	.	.	.
+.	.	.	.	.	.	8d#XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[16eeenX^Jk	.	.	.	.	.
+.	.	.	.	.	.	12g#XL	.	2eee_	.	[4aa	.	.	.
+.	.	.	.	.	.	12B-X	.	.	<	.	.	.	.
+.	.	.	.	.	.	[12g#J	.	.	[[	.	.	.	.
+.	.	.	.	.	.	4g#]	.	.	>	8aaL]	.	.	.
+.	.	.	.	.	.	.	.	.	]]	8ggJZ	.	.	.
+.	.	.	.	.	.	4Gn	.	8eeeL]	.	[4f#X	.	.	.
+.	.	.	.	.	.	.	.	(8ff^J	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*	*	*grp:A	*	*grp:B	*	*grp:B	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	4%3r	.	4%3r	.	8fLnZ	.	16eeenX'KL)	.	12f#XL]	.	4%3r	.
+.	.	.	.	.	.	.	.	8.eee^J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12b	.	.	.
+.	.	.	.	.	.	8cnZJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12cc#XJ	.	.	.
+.	.	.	.	.	.	4B	.	(12ee-^L	.	4cccn	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	12dddX)	.	.	.	.	.
+.	.	.	.	.	.	.	.	(8qddd-/	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	12ggX^J)	.	.	.	.	.
+.	.	.	.	.	.	(4e-X	.	8ff^L	.	(4eenZ	.	.	.
+.	.	.	.	.	.	.	.	8aanX^J	.	.	.	.	.
+*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*	*	*	*	*grp:A	*	*grp:A	*	*	*
+!LO:TX:t=Pos. nat.	!	!LO:TX:a:t=(sourd.)	!	!LO:TX:a:t=sourd.	!	!	!	!	!	!	!	!	!
+4r	.	8r	.	8r	.	[2.Dn)Z	.	[2.aaa-	sff	[2.fffn)	sff	8r	.
+.	.	[8g^Z	ff	[8dd#X^	fff	.	.	.	.	.	.	[8ff#X^	ff
+(16EEKL	ff	2g_	.	2dd#_	.	.	.	.	.	.	.	2ff#_	.
+[8.AA#X^J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AA#KL]	.	.	.	.	.	.	.	.	>	.	>	.	.
+8EE^	.	.	.	.	.	.	.	.	.	.	.	.	.
+[16AA#Jk	.	.	.	.	.	.	.	.	]]	.	]]	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French,American
+!!!AGN: Instrumental
+!!!MCN: Schmitz, Robert
+!!!MDT: 1924/01/13
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1923
+!!!excerpt-start-measure: 13
+!!!excerpt-end-measure: 18
+!!!excerpt-start-time: 0:35
+!!!excerpt-end-time: 0:49
+!!!excerpt-duration-sec: 14
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Var-4
+!!!Suter_Example_Number: 426
+!!!Suter_Example_ID: Var-4/17/[1] 5-10
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 3/4,4/4,3/4
+!!!Full_Unit_Duration: 2:16
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 14
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:35
+!!!Example_Start_Tempo_Expression: [Animé et Jubilatoire]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 13
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:49
+!!!Example_End_Measure: 18
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=100] based on most recent notated tempo (SWFU, m. 9). Example Start Tempo Expression [Animé et Jubilatoire] based on most recent notated tempo expression (SWFU, m. 9).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: yes
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 89
+!!!Audio_Example_Duration: 14.083
+!!!ONB: Converted from MusicXML on 2020/07/28

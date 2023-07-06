@@ -1,0 +1,251 @@
+!!!!SEGMENT: R408_Web-w13p1-2m1-12.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: I: Sehr ruhig und zart
+!!!OMV: Movement 1
+!!!example: 408
+!!!work: Web-13
+!!!OMD-full: Sehr ruhig und zart
+!!!OMD: Sehr ruhig und zart ([quarter] = ca 50)
+!!!AGN-sub: Symphonic
+!!!OPR: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!filename: R408_Web-w13p1-2m1-12.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*
+*part10	*	*part9	*	*part8	*	*part7	*	*part6	*part6	*	*part5	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICstr	*ICstr	*	*ICklav	*ICklav	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Iglock	*	*Iarpa	*Iarpa	*	*Iclest	*Iclest	*	*Itromt	*	*Itromp	*	*Iclars	*	*Iflt	*
+*I"Solo Violoncello	*	*I"Solo Viola	*	*I"Solo Violin	*	*I"Glockenspiel	*	*I"Harp	*I"Harp	*	*I"Celesta	*I"Celesta	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Clarinet in Bb	*	*I"Flute	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'glock	*	*I'arp	*I'arp	*	*I'cel	*I'cel	*	*I'tn	*	*I'tp	*	*I'cl	*	*I'fl	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*ITrd-14c-24	*	*	*	*	*ITrd-7c-12	*ITrd-7c-12	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[0]	*	*k[0]	*	*k[]	*
+!!LO:TX:tempo:a:t=Sehr ruhig und zart\n[quarter]=50
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!
+8r	.	8r	.	8r	.	8r	.	8r	8bn	ppp	8r	8r	.	8r	.	8bnX'	ppp	8r	.	8r	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Flatterz.	!
+!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2r	.	8Cnrv~ 8Fnro 8ccnyy	pp	2r	.	2r	.	4cnro 4ccnyy	4r	.	2r	4ccn~	ppp	2r	.	2r	.	2r	.	4r	.
+.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4r	.	.	.	.	.	4r	12r	.	.	4r	.	.	.	.	.	.	.	12r	ppp
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
+.	.	.	.	.	.	.	.	.	6bn	pp	.	.	.	.	.	.	.	.	.	6bnOOO	<
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[[
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!LO:TX:a:i:t=dolcissimo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2r	.	2r	.	2r	.	6eeee-X	pp >	2r	2r	.	2r	2r	.	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	.	.	6gggn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	6dddn	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!	!	!LO:TR:acc=n	!	!	!	!	!	!	!LO:TX:a:i:t=dolcissimo	!	!	!
+2r	.	2r	.	2r	.	2r	.	2r	2r	.	2g#X^tt	2r	pp	2r	.	2r	.	4r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	([8ffn	ppp	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2r	.	4r	.	4r	.	2r	.	2r	4r	.	2g#Xttt	2r	<	2r	.	2r	.	8ff]	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[4.aanX	<	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!
+.	.	8r	.	8r	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	12r	ppp
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[6cc#X	<
+.	.	[8dnv	pp <	[8Bnv	pp <	.	.	.	8Bn 8dn	ppp	.	.	[[	.	.	.	.	.	[[	.	[[
+!!LO:REH:t=5
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!
+2r	.	12d]	[[	12B]	[[	2r	.	2r	6r	.	2g#Xttt	2r	>	2r	.	2r	.	4aa]	.	12cc#]	.
+.	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.
+.	.	6.e-Xv	>	6.cnv	>	.	.	.	6cn 6e-X	pp	.	.	.	.	.	.	.	.	.	6.b-X	>
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=zögernd	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8bbnXL	>	.	.
+.	.	.	.	.	.	.	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	]]	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	8ee-J)	]]	.	]]
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	12r	.	12r	.	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	12r	.
+*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=tempo	!
+16r	.	4d-Xv	pp >	4B-Xv	pp >	2r	.	2r	4B-X 4d-X	ppp	2g#ttt	2r	<	4r	.	4r	.	8r	.	2r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:t=%s dolcissimo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ccnvN	pp	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(4bbnX	ppp >	.	.
+16r	.	.	]]	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!
+8.ddnvN	.	4r	.	4r	.	.	.	.	4r	.	.	.	.	12r	.	12r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(6Gn	ppp <	(6e-	ppp <	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffn)	.	.	.
+16r	.	.	.	.	.	.	.	.	.	.	.	.	[[	.	[[	.	[[	.	]]	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:i:t=dolcissimo	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!
+8r	.	2r	.	4r	.	2r	.	2r	2r	.	2g#Xttt	2r	>	6Fn	.	6g-X	.	2r	.	2r	.
+(4cc#X	pp >	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	6F#X)	>	12fn~L	>	.	.	.	.
+.	.	.	.	[4bbb-X	p <	.	.	.	.	.	.	.	.	.	]]	12g~J)	]]	.	.	.	.
+.	.	.	.	.	[ >	.	.	.	.	.	.	.	.	6r	.	6r	.	.	.	.	.
+8Bn)	]]	.	.	.	]]	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=verklingend	!	!	!	!	!	!	!	!LO:TX:a:t=Flatterz.	!
+(4.an	ppp <	2r	.	12bbb-L]	.	2r	.	2r	2r	.	4g#Xttt	2r	.	2r	.	2r	.	2r	.	8r	.
+.	.	.	.	(12ddn	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8g#XOOL	ppp <
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12ccc#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	[[	.	.	.	[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TUP:xbr	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	>	.	.	6fffn	>	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	8enOO	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ccn)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8fnOOJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12ff#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	]]	.	.	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*	*	*	*	*	*grp:A	*	*	*	*grp:B	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
+2r	.	2r	.	8r	.	8r	.	2r	4r	.	2r	2r	.	2r	.	4r	.	2r	.	12enOOL	>
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd#XJOO	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	[4.gggn	pp >	4ggggn~	ppp	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	]]
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=espr.	!	!	!	!LO:TX:a:B:i:t=zögernd	!
+.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	16r	.	.	.	4r	.
+.	.	.	.	.	.	.	.	.	16an'^LL	ppp <	.	.	.	.	.	8anX~	ppp <	.	.	.	.
+.	.	.	.	.	.	8r	.	.	16a'JJ	[[	.	.	.	.	.	.	[[	.	.	.	.
+.	.	.	.	.	]]	.	.	.	16r	.	.	.	.	.	.	16r	.	.	.	.	.
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=10
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:B:t=tempo	!
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!LO:TUP:a:r=2	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.GG#rX 4.C#rX 4.g#Xyy	2ryy	pp <	2r	.	4ggg]	ppp >	2r	.	6r	2r	.	4.g#X^	2r	pp	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	.	.	]]	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	[ >	.	.	4r	.	.	.	12DnrLo 12dnyy	.	pp <	.	.	.	.	.	.	.	.	.	.	.
+.	.	]]	.	.	.	.	.	.	12enro 12eenyy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12B-rXJo 12b-Xyy	.	[[	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2r	.	2r	.	2r	.	2r	.	8B-XrLo 8b-Xyy	2r	.	2r	2r	.	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	8Anro 8anyy	.	>	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=rit.	!
+.	.	.	.	.	.	.	.	8Bnro 8bnyy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8E-XrJo 8e-Xyy	.	]]	.	.	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*
+2r	.	2r	.	2r	.	2r	.	2r	2r	.	4r	2r	.	2r	.	8r	.	2r	.	16r	ppp
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16fn'LL	>
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16f'LLn	ppp >	.	.	16f'JJ	]]
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16f'JJ	]]	.	.	16r	.
+.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	4r	.	.	.	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	16fn'	.	ppp	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9)][(s10,s11,s12)]
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: O = tremolo
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral
+!!!MCN: Webern, Anton
+!!!MDT: 1924/06/22
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1923
+!!!excerpt-start-measure: 0.75
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:58
+!!!excerpt-duration-sec: 58
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 50
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Web-13
+!!!Suter_Example_Number: 408
+!!!Suter_Example_ID: Web-13/1-2/1-12
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 0:48
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 12.25
+!!!Example_Timestamp_Duration: 48
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Sehr ruhig und zart
+!!!Example_Start_Notated_Beat_Rate: 50
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 0.75
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:48
+!!!Example_End_Measure: 12
+!!!Example_Dataset: R
+!!!Editorial_Comments: Naxos recording is no longer available (missing metadata).
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 28
+!!!Audio_Example_Duration: 51.866
+!!!ONB: Converted from MusicXML on 2020/07/28

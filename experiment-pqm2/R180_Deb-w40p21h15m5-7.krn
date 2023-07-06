@@ -1,0 +1,189 @@
+!!!!SEGMENT: R180_Deb-w40p21h15m5-7.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 180
+!!!work: Deb-40
+!!!OMD-full: Très lent
+!!!OMD: [Scherzando molto grazioso (Mouv't)]
+!!!AGN-sub: Ballet
+!!!OPR: Jeux (Games), Ballet in One Act for Orchestra
+!!!filename: R180_Deb-w40p21h15m5-7.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Iflt	*
+*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Trumpet in C 1	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"Bassoon	*	*I"Clarinet in A	*	*I"English Horn	*	*I"Flute 1	*
+*I'vc	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd4c7	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*F:	*	*F:	*	*A:	*	*A:	*	*A:	*	*A:	*
+!!LO:TX:tempo:a:t=[Mouvt (Tempo initial (Scherzando molto grazioso))]\n[[quarter-dot]=72]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=72]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:notation differs from original to diplay the rhythm	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:t=%s doux	!LO:S:a	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s léger	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8.F#L 8.A	p	8.F#L 8.A	p	8.dL 8.f#	p	(32a'LLL	p	(32b'LLL	p	(32dd'LLL	p	(32ee#'XLLL	p	(32ee#'LLL	p	40%3bLL]	p	8%3r	.	8%3r)	.	([4d [4f#	p	(24bLL	p	8%3r	.	8%3r	.
+.	.	.	.	.	.	32a'	.	32b'	.	32dd'	.	32ee#'	.	32ee#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a/	.	.	.	.	.
+.	.	.	.	.	.	32a'JJ)	.	32b'JJ)	.	32dd'JJ)	.	32ee#'JJ)	.	32ee#'JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a	>	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
+.	.	.	.	.	.	(32b'LL	.	(32f#'LL	.	(32a'LL	.	(32ff#'LL	.	(32ff#'LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32b'	.	32f#'	.	32a'	.	32ff#'	.	32ff#'	.	.	.	.	.	.	.	.	.	24ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32b'JJ)	.	32f#'JJ)	.	32a'JJ)	.	32ff#'JJ)	.	32ff#'JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.	.	.	.
+8.DDJ 8.AA	.	8.DDJ 8.AA	.	8.DJ 8.A	.	(32f#'LL	.	(32a'LL	.	(32dd'LL	.	(32gg#'LL	.	(32gg#'LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
+.	.	.	.	.	.	32f#'	.	32a'	.	32dd'	.	32gg#'	.	32gg#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32f#'JJ)	.	32a'JJ)	.	32dd'JJ)	.	32gg#'JJ)	.	32gg#'JJ)	.	.	.	.	.	.	.	16.dLL] 16.f#]	.	24aL	.	.	.	.	.
+.	.	.	.	.	.	(32a'LL	.	(32dd'LL	.	(32ff#'LL	.	(32aa'LL	.	(32bb'LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32a'	.	32dd'	.	32ff#'	.	32aa'	.	32'bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.
+.	.	.	.	.	.	32a'JJJ)	.	32dd'JJJ)	.	32ff#'JJJ)	.	32aa'JJJ)	.	32bb'JJJ)	.	.	]]	.	.	.	.	32AJJk 32e#X	.	.	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!LO:TX:a:t=4o	!LO:DY:t=%s doux	!LO:TX:a:t=2o	!LO:DY:t=%s doux	!	!	!	!LO:TUP:r=8	!LO:DY:t=%s léger	!	!	!	!
+8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	8%3r	.	([4d\	p	([4f#X	p	4.F# 4.A)	.	16b')	(24bLL	p	(40%3e#XLL	p >	(40%3bbLL	p >
+.	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.
+.	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	16rbb	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#	.	40%3aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
+.	.	.	.	.	.	32bLL	.	32f#LL	.	32aLL	.	32ff#LL	.	32ff#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32b	.	32f#	.	32a	.	32ff#	.	32ff#	.	.	.	.	.	.	.	.	.	8rbb	24ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#	.	40%3gg#	.
+.	.	.	.	.	.	32bJJ	.	32f#JJ	.	32aJJ	.	32ff#JJ	.	32ff#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.	.	.	.
+8.DDJ 8.AA	.	8.DDJ 8.AA	.	8.DJ 8.A	.	32f#LL	.	32aLL	.	32ddLL	.	32gg#LL	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.
+.	.	.	.	.	.	32f#	.	32a	.	32dd	.	32gg#	.	32gg#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a	.	40%3ff#	.
+.	.	.	.	.	.	32f#JJ	.	32aJJ	.	32ddJJ	.	32gg#JJ	.	32gg#JJ	.	.	.	16.dLL\]	.	16.f#LL]	.	.	.	8rbb	24aL	.	.	.	.	.
+.	.	.	.	.	.	32aLL	.	32ddLL	.	32ff#LL	.	32aaLL	.	32bbLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3bJJ)	]	40%3ee#XJJ)	]
+.	.	.	.	.	.	32a	.	32dd	.	32ff#	.	32aa	.	32bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.
+.	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	.	32AJJk	.	32e#XJJk	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+8.F#L 8.A	.	8.F#L 8.A	.	8.dL 8.f#	.	32aLLL	.	32bLLL	.	32ddLLL	.	32ee#XLLL	.	32ee#XLLL	.	(40%3b'LL	p >	4.F#X\)	.	4.A\)	.	[4d ([4f#	.	(24bLL	16b')	.	8%3r	.	8%3r	.
+.	.	.	.	.	.	32a	.	32b	.	32dd	.	32ee#	.	32ee#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.	.	.	.
+.	.	.	.	.	.	32aJJ	.	32bJJ	.	32ddJJ	.	32ee#JJ	.	32ee#JJ	.	.	.	.	.	.	.	.	.	.	16rc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.	.
+.	.	.	.	.	.	32bLL	.	32f#LL	.	32aLL	.	32ff#LL	.	32ff#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32b	.	32f#	.	32a	.	32ff#	.	32ff#	.	.	.	.	.	.	.	.	.	24ddL	8rc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32bJJ	.	32f#JJ	.	32aJJ	.	32ff#JJ	.	32ff#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.	.	.	.	.
+8.DDJ 8.AA	.	8.DDJ 8.AA	.	8.DJ 8.A	.	32f#LL	.	32aLL	.	32ddLL	.	32gg#LL	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.	.	.
+.	.	.	.	.	.	32f#	.	32a	.	32dd	.	32gg#	.	32gg#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32f#JJ	.	32aJJ	.	32ddJJ	.	32gg#JJ	.	32gg#JJ	.	.	.	.	.	.	.	16.dLL] 16.f#]	.	24aL	8rc	.	.	.	.	.
+.	.	.	.	.	.	32aLL	.	32ddLL	.	32ff#LL	.	32aaLL	.	32bbLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#'XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32a	.	32dd	.	32ff#	.	32aa	.	32bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.	.	.	.
+.	.	.	.	.	.	32aJJJ	.	32ddJJJ	.	32ff#JJJ	.	32aaJJJ	.	32bbJJJ	.	.	]]	.	.	.	.	32AJJk 32e#X	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][([(s8,s9)][(s10,s11)][(s12,s13)][(s14,s15)])]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage
+!!!MCN: Monteux, Pierre
+!!!MDT: 1913/05/15
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1913
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 130
+!!!excerpt-end-measure: 132
+!!!excerpt-start-time: 3:12
+!!!excerpt-end-time: 3:15
+!!!excerpt-duration-sec: 3
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [72]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!Suter_Work_ID: Deb-40
+!!!Suter_Example_Number: 180
+!!!Suter_Example_ID: Deb-40/21/[15]5-7
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 17:50
+!!!First_Publication_Year: 1914
+!!!First_Public_Performance_Year: 1913
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 216
+!!!Example_Start_Tsig_Beat_Rate: 216
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 3:11
+!!!Example_Start_Tempo_Expression: [Mouvt (Tempo initial (Scherzando molto grazioso))]
+!!!Example_Start_Notated_Beat_Rate: [72]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 130
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:14
+!!!Example_End_Measure: 132
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=72] based on most recent notated tempo (SWFU, m. 47). Example Start Tempo Expression [Mouvt (Tempo initial (Scherzando molto grazioso))] based on most recent notated tempo expressions (SWFU, m. 118 and m. 47). Example Start Tsig Beat and Example Start Tsig Mean Beat Rate (eighth = 216) calculated based on notated beat [dotted-quarter = 72].
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo: 88
+!!!Audio_Example_Duration: 3.089
+!!!ONB: Converted from MusicXML on 2020/07/28

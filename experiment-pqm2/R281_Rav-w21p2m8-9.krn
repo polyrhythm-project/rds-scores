@@ -1,0 +1,417 @@
+!!!!SEGMENT: R281_Rav-w21p2m8-9.krn
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: I: Soupir (Sigh)
+!!!OMV: I: Soupir (Sigh)
+!!!example: 281
+!!!work: Rav-21
+!!!OMD-full: Lent
+!!!OMD: [Lent]
+!!!AGN-sub: Solo
+!!!OPR: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
+!!!filename: R281_Rav-w21p2m8-9.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part7	*	*part7	*	*part6	*	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICvox	*	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Ipiano	*	*Ipiano	*	*Ivox	*	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iflt	*
+*I"Piano	*	*I"Piano	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute 2	*
+*I'pf	*	*I'pf	*	*I'v	*	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'fl	*
+*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*	*G:	*	*C:	*	*G:	*	*G:	*	*G:	*
+!!LO:TX:tempo:a:t=[Lent]\n[[quarter]=40]
+*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=40]	!
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+8r	.	4r	.	(4ei	p	Et	(64e 64eeyyLLLL	pp	(64E 64eeyyLLLL	pp	(48ddoLLL	pp	(64BLLLL 64bbyy	pp	1r	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*ped	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:t=%s  sourdine	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+[8d~ [8e	p	.	.	.	.	.	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia	!	!	!
+!LO:T:lv	!	!LO:T:lv	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+4d_ 4e_	.	[4g [4a	.	8aL	.	vers	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	8aJ	.	le	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+4r	.	2r	.	8gL	.	ciel	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	8gJ	.	er-	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+8r	.	.	.	4d	.	-rant	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!LO:T:lv	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+[8B~ [8d	.	.	.	.	.	.	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!	!	!LO:T:lv	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+2r	.	[4e [4a [4b	.	8eL	.	de	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	2r	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	8eJ	.	ton	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	4r	.	4g	.	œil	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+8r	.	4r	.	8aL	.	an-	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	4r	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+[8d~ [8e	.	.	.	8aJ	.	-gé-	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+4d_ 4e_	.	[4g [4a	.	[4cc#X	.	-li-	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	(48ddoLLL	.	(64BLLLL 64bbyy	.	[4d	pp
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64e 64eeyyLLLL	.	(64E 64eeyyLLLL	.	48ddoLL	.	(64BLLLL 64bbyy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64EE 64eyyJJJ)	.	64ee 64eeeyyJJJ)	.	.	.	64bb 64bbbyyJJJ)	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	(64EE 64eyyLLL	.	(64ee 64eeeyyLLL	.	48dddoLL	.	(64bb 64bbbyyLLL	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64C 64gyy	.	64a 64aayy	.	.	.	64ee 64eeeyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64A 64ayy	.	64c 64ggyy	.	.	.	64g 64dddyy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
+.	.	.	.	.	.	.	64e 64eeyyJJJJ)	.	64E 64eeyyJJJJ)	.	.	.	64B 64bbyyJJJJ)	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4,s5)](s6)[({(s7,s8)})]
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1914/01/24
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1914
+!!!MPN: Bathori, Jane
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 9
+!!!excerpt-start-time: 0:46
+!!!excerpt-end-time: 0:59
+!!!excerpt-duration-sec: 13
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [40]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Xfilter: slurcheck
+!!!Suter_Work_ID: Rav-21
+!!!Suter_Example_Number: 281
+!!!Suter_Example_ID: Rav-21/2/8-9
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:13
+!!!First_Publication_Year: 1914
+!!!First_Public_Performance_Year: 1914
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 40
+!!!Example_Start_Tsig_Beat_Rate: 40
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:46
+!!!Example_Start_Tempo_Expression: [Lent]
+!!!Example_Start_Notated_Beat_Rate: [40]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 8
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:59
+!!!Example_End_Measure: 9
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=40] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Lent] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 28-Dec-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Ciboure,France
+!!!Birth_Date: 7-Mar-1875
+!!!Audio_Example_Quarter_Note_Tempo: 37
+!!!Audio_Example_Duration: 12.835
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

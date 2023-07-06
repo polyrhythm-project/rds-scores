@@ -1,0 +1,196 @@
+!!!!SEGMENT: R130_Jan-w33p13m63-71.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 130
+!!!work: Jan-33
+!!!OMD-full: Con moto
+!!!OMD: [Con moto]
+!!!AGN-sub: Programmatic
+!!!OPR: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
+!!!filename: R130_Jan-w33p13m63-71.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Itimpa	*	*Itromt	*	*Icor	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Violin	*	*I"Timpani	*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'timp	*	*I'tn	*	*I'cor-fr	*	*I'bn	*	*I'b-cl	*	*I'cl	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*C:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+!!LO:TX:tempo:a:t=[Con moto]\n{[eighth]=180}
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=2
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+]4.AAnX ]4.BBnX ]4.D#X	p	4.e-]	ff	[4.cc-XTT	ff	[4.ccc-XTT	ff	[4.ccc-XTT	ff	4.ff	pp	4.E-XOOO	mf	]4.E- ]4.A- ]4.c	ff<	4.e-X	4.e-	f<	[4.BB-- [4.C-X	ff	[4.EE-	ff	[4.bbXTT	ff	[4.bbnTT	ff	[4.bbnTT	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[	.	.	[	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+8%3r	.	8%3r	.	4.cc-_ttt	<	4.ccc-_TTT	<	4.ccc-_TTT	<	8%3r	.	4.E-XOOO	.	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.EE-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+8%3r	.	8%3r	.	4.cc-]ttt	[	4.ccc-]TTT	[	4.ccc-]TTT	[	8%3r	.	4.E-XOOO	<	8%3r	.	8%3r	.	4.BB--_ 4.C-_	.	4.EE-_	.	4.bb_TTT	.	4.bb_TTT	.	4.bb_TTT	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[0]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*F:	*	*C:	*	*B-:	*	*B-:	*	*C:	*	*C:	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8%3r	.	8%3r	.	4.bTT	.	4.bTT	.	4.bbTT	.	8%3r	.	4.E-XOOO	.	8%3r	.	8%3r	.	4.AA_ 4.BB_	.	4.EE-_	<	4.bb_TTT	<	4.bb_TTT	<	4.bb_TTT	<
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.[[	.	.	.	.	.	.	.	[[	.	[[	.	[[	.	[[
+*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||
+!	!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TX:t=	!	!LO:TUP:num=2	!	!	!	!	!	!	!	!LO:TX:a:B:	!	!	!	!	!	!LO:TX:t=Vivo ([quarter-dot]=84)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
+8%3r	.	8%3r	.	64%3gLLL	.	64%3gLLL	.	64%3ggLLL	.	8%3r	.	64%3BBnLLL	f <	8%3r	.	8%3r	.	(4.AA] 4.BB_	.	4.EE-_	.	(16%3bbL_	.	4.bb_	.	(16%3bbL_	.
+.	.	.	.	64%3a	.	64%3a	.	64%3aa	.	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3b	.	64%3b	.	64%3bb	.	.	.	64%3BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3cc#XJJ	.	64%3cc#XJJ	.	64%3ccc#XJJ	.	.	.	64%3BBJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3bLL	.	64%3bLL	.	64%3bbLL	.	.	.	64%3BBLL	.	.	.	.	.	.	.	.	.	64%3bbLL]	.	.	.	64%3bbLL]	.
+.	.	.	.	64%3cc#	.	64%3cc#	.	64%3ccc#	.	.	.	64%3BB	.	.	.	.	.	.	.	.	.	64%3ccc#X	.	.	.	64%3ccc#X	.
+.	.	.	.	64%3dd#X	.	64%3dd#X	.	64%3ddd#X	.	.	.	64%3BB	.	.	.	.	.	.	.	.	.	64%3eee-	.	.	.	64%3ddd#X	.
+.	.	.	.	64%3eeJJJ	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	.	64%3BBJJJ	[[	.	.	.	.	.	.	.	.	64%3eeeXJJJ	.	.	.	64%3eeeJJJ)	.
+=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=stacc.	!
+4GG	f	16%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8BBn^^	.	8%3r	.	8%3r	.	8BB^^]	)[4.GG^^	.	8EE-^^]	.	8eee-X^^)	.	8bb^^]	.	8ddd#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8r	.	.	8r	.	8r	.	8r	.	8bb	.
+!	!	!LO:TX:t=P:problem:Cello duplets should be beamed over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16%3BB 16%3D#X	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8r	.	.	8r	.	8r	.	8r	.	8ddd#J	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+4GG	.	16%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG_	.	8%3r	.	8%3r	.	8%3r	.	8ccc#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
+.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+4GG	.	16%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG_	.	8%3r	.	8%3r	.	8%3r	.	8bbL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.
+.	.	16%3BB 16%3D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+!	!	!	!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG	.	16%3r	.	8%3r	.	64%3gLLL	ff	64%3ggLLL	ff	8%3r	.	8%3r	.	8%3r	.	8%3r	.	8%3r	4.GG]	.	8%3r	.	8%3r	.	8%3r	.	4.bb]	.
+.	.	.	.	.	.	64%3a	.	64%3aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3b	.	64%3bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3cc#XJJ	.	64%3ccc#XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16%3BB 16%3D#X	.	.	.	64%3bLL	.	64%3bbLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3cc#	.	64%3ccc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3dd#X	.	64%3ddd#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3eeJJJ	.	64%3eeeJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
+!!!RDF**kern: O =tremolo
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Orchestral
+!!!MCN: Ostrcil, Otakar
+!!!MDT: 1917/11/14
+!!!MGN: Czech Philharmonic Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1917
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 63
+!!!excerpt-end-measure: 71
+!!!excerpt-start-time: 1:28
+!!!excerpt-end-time: 1:36
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {203}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Jan-33
+!!!Suter_Example_Number: 130
+!!!Suter_Example_ID: Jan-33/13/63-71
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 12:25
+!!!First_Publication_Year: 1914
+!!!First_Public_Performance_Year: 1917
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 1:29
+!!!Example_Start_Tempo_Expression: [Con moto]
+!!!Example_Start_Notated_Beat_Rate: {180}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 63
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:38
+!!!Example_End_Measure: 71
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-quarter=60} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=SU3887-2); tempo for audio synthesis {dotted-quarter=68} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Con moto] based on most recent notated tempo expression (SWFU, m. 1). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {eighth = 127} calculated based on recorded Full Unit Duration (11:55). NOTE: The key signature change in the clarinet and bass clarinet is non-standard as it does not use two sharps but cancels all accidentals; the notated pitches are correct in terms of transposing pitches, with the clarinet playing a unison wih the flute.
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo: 87
+!!!Audio_Example_Duration: 9.341
+!!!ONB: Converted from MusicXML on 2020/07/28

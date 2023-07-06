@@ -1,0 +1,129 @@
+!!!!SEGMENT: R183_Deb-w16p69h21m7-9.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: II: Fêtes (Festivals)
+!!!OMV: II: Fêtes (Festivals)
+!!!example: 183
+!!!work: Deb-16
+!!!OMD-full: Animé et très rythmé
+!!!OMD: A Tempo [Animé et très rhythmé]
+!!!AGN-sub: Programmatic
+!!!OPR: Nocturnes for Orchestra
+!!!filename: R183_Deb-w16p69h21m7-9.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*
+*part3	*	*part2	*	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICidio	*
+*Icbass	*	*Icello	*	*Isdrum	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Snare Drum	*
+*I'cb	*	*I'vc	*	*I'dr	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[]	*
+*A:	*	*A:	*	*C:	*
+!!LO:TX:tempo:a:t=a Tempo [Même Mouvement (Animé et très rhythmé)]\n{[quarter]=180}
+*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=
+=266	=266	=266	=266	=266	=266
+!LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
+!LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!LO:TX:t=[[quarter]=135]	!
+12AAAL	pp	12AAL	pp	8Rcc^\	ppp
+12AAA	.	12AA	.	.	.
+.	.	.	.	8r	.
+!	!	!LO:TX:a:i:t=et toujours en s'éloignant davantage	!	!	!
+12AAAJ	.	12AAJ	.	.	.
+12AAA-XL	.	12AA-XL	.	12Rcc\L	.
+12AAA-	.	12AA-	.	12Rcc\	.
+12AAA-J	.	12AA-J	.	12Rcc\J	.
+12GGGL	.	12GGnL	.	8.Rcc\L	.
+12GGG	.	12GG	.	.	.
+12GGGJ	.	12GGJ	.	.	.
+.	.	.	.	16Rcc\Jk	.
+=267	=267	=267	=267	=267	=267
+12AAA-XL	.	12AA-XL	.	8.Rcc\L	.
+12AAA-	.	12AA-	.	.	.
+12AAA-J	.	12AA-J	.	.	.
+.	.	.	.	16Rcc\Jk	.
+*Xtuplet	*	*Xtuplet	*	*	*
+12GGGL	.	12GGnL	.	8Rcc^\	.
+12GGG	.	12GG	.	.	.
+.	.	.	.	8r	.
+12GGGJ	.	12GGJ	.	.	.
+12FFF#L	.	12FF#L	.	12Rcc\L	.
+12FFF#	.	12FF#	.	12Rcc\	.
+12FFF#J	.	12FF#J	.	12Rcc\J	.
+=268	=268	=268	=268	=268	=268
+12AAAL	.	12AAnL	.	8.Rcc\L	.
+12AAA	.	12AA	.	.	.
+12AAAJ	.	12AAJ	.	.	.
+.	.	.	.	16Rcc\Jk	.
+12AAA-XL	.	12AA-XL	.	8.Rcc\L	.
+12AAA-	.	12AA-	.	.	.
+12AAA-J	.	12AA-J	.	.	.
+.	.	.	.	16Rcc\Jk	.
+12GGGL	.	12GGnL	.	8Rcc\	.
+12GGG	.	12GG	.	.	.
+.	.	.	.	8r	.
+12GGGJ	.	12GGJ	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3)]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Orchestral
+!!!MCN: Chevillard, Camille
+!!!MDT: 1901/10/27
+!!!MGN: Orchestre Lamoureux
+!!!MLC: Paris, France
+!!!MPD: 1901
+!!!MPN:
+!!!ODT: 1899
+!!!PDT: 1901
+!!!excerpt-start-measure: 266
+!!!excerpt-end-measure: 268
+!!!excerpt-start-time: 5:54
+!!!excerpt-end-time: 5:58
+!!!excerpt-duration-sec: 4
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {135}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Deb-16
+!!!Suter_Example_Number: 183
+!!!Suter_Example_ID: Deb-16/69/[21]7-9
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:33
+!!!First_Publication_Year: 1901
+!!!First_Public_Performance_Year: 1901
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 6:17
+!!!Example_Start_Tempo_Expression: a Tempo [Même Mouvement (Animé et très rhythmé)]
+!!!Example_Start_Notated_Beat_Rate: {180}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 266
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:20
+!!!Example_End_Measure: 268
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=180} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=8.570775). Naxos recording no longer available (missing metadata). Example Start Tempo Expression [Même Mouvement (Animé et très rhythmé)] based on most recent notated tempo expressions (SWFU, m. 208 and m. 1). Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {quarter = 180} calculated based on recorded Full Unit Duration (6:13).
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo: 149
+!!!Audio_Example_Duration: 3.633
+!!!ONB: Converted from MusicXML on 2020/07/28

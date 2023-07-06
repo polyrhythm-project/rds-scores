@@ -1,0 +1,144 @@
+!!!!SEGMENT: R295_Rav-w23p20h22m1-4.krn
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: II: Pantoum
+!!!OMV: II: Pantoum: Assez vif (Lively enough)
+!!!example: 295
+!!!work: Rav-23
+!!!OMD-full: Assez vif
+!!!OMD: Assez vif
+!!!AGN-sub: Chamber
+!!!OPR: Piano Trio
+!!!filename: R295_Rav-w23p20h22m1-4.krn
+**kern	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*	*grp:B	*	*grp:B	*
+*part3	*part3	*	*	*part2	*	*part1	*
+*staff4	*staff3	*	*	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*	*ICstr	*	*ICstr	*
+*Ipiano	*Ipiano	*	*	*Icello	*	*Ivioln	*
+*I"Piano	*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
+*I'pf	*I'pf	*	*	*I'vc	*	*I'vn	*
+*clefF4	*clefF4	*	*	*clefC4	*	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*A:	*	*	*A:	*	*A:	*
+!!LO:TX:tempo:a:t=[Assez vif]\n[[quarter]=192]
+*M3/4	*M3/4	*	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*8va	*
+!!LO:REH:t=22
+=234	=234	=234	=234	=234	=234	=234	=234
+*^	*^	*	*	*	*	*	*
+*	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:natural harmonics are corrected in newer edition	!
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!
+*8ba	*	*	*	*	*	*	*	*	*	*
+2.AAAA] 2.AAA\	4rC	4ryy	4r	4ryy	pp	.	8eeo'L	pp	8eeeeo'L	pp
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=192]	!
+.	.	.	.	.	.	.	8eeo'	.	8eeeeo'	.
+!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!	!	!LO:TX:b:i:t=Cresc. poco a poco	!	!LO:TX:b:i:t=Cresc. poco a poco	!
+.	(4EE	2AA	(4E	2C#	.	<	8dd'	.	8dddd'	.
+.	.	.	.	.	.	.	8eeo'J	.	8eeeeo'J	.
+.	4FF	.	4Fn	.	.	.	8ao'L	.	8aaao'L	.
+.	.	.	.	.	.	[[	8ao'	.	8aaao'	.
+*	*v	*v	*	*	*	*	*	*	*	*
+=235	=235	=235	=235	=235	=235	=235	=235	=235	=235
+2AA	12AAL	12AL	4Cn	.	>	8ccn'	.	8ccccn'	.
+.	12GGn	12Gn	.	.	.	.	.	.	.
+.	.	.	.	.	.	8dd'J	.	8dddd'J	.
+.	12FFnJ	12FnJ	.	.	.	.	.	.	.
+.	4EE	4E	4C#X	.	.	8ee'L	.	8eeee'L	.
+.	.	.	.	.	.	8ee'J	.	8eeee'J	.
+*v	*v	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+*^	*	*	*	*	*	*	*	*
+4AA	4GG)	4E-X 4G)	4Cn	.	]	8a'L	.	8aaa'L	.
+*X8ba	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	8a'	.	8aaa'	.
+*	*	*	*	*	*	*	*	*	*
+=236	=236	=236	=236	=236	=236	=236	=236	=236	=236
+*	*^	*	*	*	*	*	*	*	*
+4rc	4ryy	2.AAA AA\	4ryy	4r	.	.	8gn'	.	8gggn'	.
+.	.	.	.	.	.	.	8a'J	.	8aaa'J	.
+!	!	!	!LO:S:a	!LO:S:a	!	!	!	!	!	!
+2F#	(4Cn\	.	(4cn/	2A	.	<	8d'L	.	8ddd'L	.
+.	.	.	.	.	.	.	8d'	.	8ddd'	.
+.	4D\	.	4d/	.	.	.	8fn'	.	8fffn'	.
+.	.	.	.	.	.	[[	8g'J	.	8ggg'J	.
+*	*v	*v	*	*	*	*	*	*	*	*
+=237	=237	=237	=237	=237	=237	=237	=237	=237	=237
+*	*	*	*	*	*	*	*	*	*
+2F#Xi	12FnL	12fnL	2A	.	>	8a'L	.	8aaa'L	.
+.	12E-X	12e-X	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	8a'J	.	8aaa'J	.
+.	12DJ	12dJ	.	.	.	.	.	.	.
+*	*	*	*	*	*	*clefF4	*	*X8va	*
+.	4Cn	4cn	.	.	.	8d'L	.	8ddd'L	.
+.	.	.	.	.	.	8d'J	.	8ddd'J	.
+4F#X	4D)	4d)	4A	.	]	8cn'L	.	8cccn'L	.
+.	.	.	.	.	.	8d'J	.	8ddd'J	.
+*v	*v	*	*	*	*	*	*	*	*
+*	*v	*v	*	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!RDF**kern: i = editorial accidental, paren
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental
+!!!MCN:
+!!!MDT: 1915/01/28
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1915
+!!!MPN: Casella, Alfredo; Enesco, George; Feuillard, Louis
+!!!ODT: 1914
+!!!PDT: 1915
+!!!excerpt-start-measure: 234
+!!!excerpt-end-measure: 237
+!!!excerpt-start-time: 4:07
+!!!excerpt-end-time: 4:12
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [192]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Rav-23
+!!!Suter_Example_Number: 295
+!!!Suter_Example_ID: Rav-23/20/[22]1-4
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:23
+!!!First_Publication_Year: 1915
+!!!First_Public_Performance_Year: 1915
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 192
+!!!Example_Start_Tsig_Beat_Rate: 192
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 4:08
+!!!Example_Start_Tempo_Expression: [Assez vif]
+!!!Example_Start_Notated_Beat_Rate: [192]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 265
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:12
+!!!Example_End_Measure: 268
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=192] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [Assez vif] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 28-Dec-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Ciboure,France
+!!!Birth_Date: 7-Mar-1875
+!!!Audio_Example_Quarter_Note_Tempo: 196
+!!!Audio_Example_Duration: 3.674
+!!!ONB: Converted from MusicXML on 2020/07/28

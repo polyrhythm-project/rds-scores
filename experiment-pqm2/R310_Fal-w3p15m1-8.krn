@@ -1,0 +1,159 @@
+!!!!SEGMENT: R310_Fal-w3p15m1-8.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: IV: Jota
+!!!OMV: IV: Jota
+!!!example: 310
+!!!work: Fal-3
+!!!OMD-full: Allegro vivo
+!!!OMD: Allegro vivo ([quarter-dot] = 92)
+!!!AGN-sub: Keyboard
+!!!OPR: Seven Spanish Folksongs for Voice and Piano
+!!!filename: R310_Fal-w3p15m1-8.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'pf	*I'pf	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*
+!!LO:TX:tempo:a:t=Allegro vivo\n[quarter-dot]=92
+*M3/8	*M3/8	*
+*	*clefF4	*
+!!LO:TX:t=
+!	!	!LO:DY:rj
+8ryy	N(>24c#L	pp
+.	24F#	.
+.	24C#J	.
+=1	=1	=1
+*	*^	*
+!	!	!	!
+8C#'N)	8ryy	8ryy	.
+8r	8f#'L	16f#LL	.
+.	.	16A#	.
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=2	=2	=2	=2
+4.ryy	8f#'L	16f#LL\	.
+.	.	16A#J\	.
+.	8d#'	16d#L\	.
+.	.	16A#J\	.
+.	8c#'J	24c#L\	.
+.	.	24c#</	.
+.	.	24F#</JJ	.
+*	*v	*v	*
+=3	=3	=3
+*	*^	*
+8C#'	8ryy	8r	.
+8ry	8f#'L	16f#LL	.
+.	.	16A#	.
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=4	=4	=4	=4
+4.ryy	8f#'L	16f#LL\	.
+.	.	16A#J\	.
+.	8d#'	16d#L\	.
+.	.	16A#J\	.
+.	8c#'J	24c#L\	.
+.	.	24c#</	.
+.	.	24F#<JJ/	.
+*	*v	*v	*
+=5	=5	=5
+*	*^	*
+8C#'	8ryy	8r	.
+8r	8f#'L	16f#LL	.
+.	.	16B	.
+8c#' 8d#	8e#'J	16e#	<
+.	.	16BJJ	.
+=6	=6	=6	=6
+*grp:A	*	*grp:B	*
+8r'	8f#'L	16f#LL	.
+.	.	16B	.
+8c#' 8d#	8d#'	16d#	.
+.	.	16B	.
+8r'	8c#'J	16c#	.
+.	.	16BJJ	[[
+=7	=7	=7	=7
+8c#' 8d#	8f#'L	16f#LL	>
+.	.	16B	.
+8r	8d#'	16d#	.
+.	.	16B	.
+8r	8c#'J	16c#	.
+.	.	16BJJ	]]
+=8	=8	=8	=8
+4.ryy	8f#'L	16f#LL\	.
+.	.	16BJ\	.
+.	8d#'	16d#L\	.
+.	.	16BJ\	.
+.	8c#'J	24c#L\	.
+.	.	24c#</	.
+.	.	24F#<JJ/	.
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Instrumental
+!!!MCN:
+!!!MDT: 1915/01/14
+!!!MGN:
+!!!MLC: Madrid, Spain
+!!!MPD: 1915
+!!!MPN: Falla, Manuel de; Vela, Luisa
+!!!ODT: 1914
+!!!PDT: 1922
+!!!excerpt-start-measure: 0.666
+!!!excerpt-end-measure: 8
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:06
+!!!excerpt-duration-sec: 6
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 92
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/03/19
+!!!Suter_Work_ID: Fal-3
+!!!Suter_Example_Number: 310
+!!!Suter_Example_ID: Fal-3/15/1-8
+!!!Premiere_Location: Madrid,Spain
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:50
+!!!First_Publication_Year: 1922
+!!!First_Public_Performance_Year: 1915
+!!!Example_Total_Measures: 8.333
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Allegro vivo
+!!!Example_Start_Notated_Beat_Rate: 92
+!!!Example_Start_Notated_Beat: dotted-quarter
+!!!Example_Start_Measure: 0.666
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:06
+!!!Example_End_Measure: 8
+!!!Example_Dataset: R
+!!!Editorial_Comments: Although the work would be categorized as Vocal/Solo, the example only features the first 8.333 measures of the piano introduction; the voice enters at m. 33 (see pp. 15-16 of: https://s9.imslp.org/files/imglnks/usimg/1/10/IMSLP19065-PMLP45001-Siete_canciones_populares_Españolas.pdf).
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo: 137
+!!!Audio_Example_Duration: 5.484
+!!!ONB: Converted from MusicXML on 2020/10/05

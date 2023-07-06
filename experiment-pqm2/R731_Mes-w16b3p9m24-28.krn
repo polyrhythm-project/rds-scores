@@ -1,0 +1,170 @@
+!!!!SEGMENT: R731_Mes-w16b3p9m24-28.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
+!!!OMV: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
+!!!example: 731
+!!!work: Mes-16
+!!!OMD-full: Vif et gai
+!!!OMD: Plus lent
+!!!AGN-sub: Keyboard
+!!!OPR: Les Corps glorieux (Glorious Bodies) for Organ
+!!!filename: R731_Mes-w16b3p9m24-28.krn
+**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
+*part1	*	*part1	*
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Iorgan	*	*Iorgan	*
+*I"Organ	*	*I"Organ	*
+*I'org	*	*I'org	*
+*clefG2	*	*clefG2	*
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*
+*M	*	*M	*
+=24	=24	=24	=24
+!	!	!LO:TX:t=[[eighth]=82]	!
+!LO:TX:a:t=G (diapason 8)	!LO:DY:t=%s louré	!LO:TX:a:B:t=Plus lent	!
+!	!	!LO:TX:a:t=Pos (cromorne, bourdon 16, 3ee.)	!
+4d-~ 4g-~ 4a-~	mf	4r	.
+[4.A-~ [4.d-~ [4.e-~	.	16r	.
+!	!	!	!LO:DY:t=%s legato (caressant)
+.	.	(16a-LL	f
+.	.	16b-JJ	.
+.	.	16dd-LL	.
+.	.	16b-	.
+.	.	16dd-JJ	.
+4A-] 4d-] 4e-]	.	16ee-LL	.
+.	.	16dd-	.
+.	.	16gg-	.
+.	.	16dddnJJ	.
+=25	=25	=25	=25
+*M	*	*M	*
+8r	.	[4aa-X)	.
+8d-~ 8g- 8a-L	.	.	.
+16B-~ 16e- 16fJ	.	16aa-X]	.
+[4.A-~ [4.d- [4.e-	.	16r	.
+!	!	!LO:TX:a:t= R (hautbois, quintaton 16, 3ee. et piccolo)	!
+.	.	(16gg-LL	mf
+.	.	16aa-JJ	.
+.	.	16gg-LL	.
+.	.	16ee-	.
+.	.	16gg-JJ	.
+4A-_ 4d-_ 4e-_	.	16ee-LL	.
+.	.	16dd-	.
+.	.	16b-	.
+.	.	16an	.
+16A-] 16d-] 16e-]	.	16ddnJJ	.
+=26	=26	=26	=26
+*M	*	*	*
+8r	.	4a-X)	.
+8d-~ 8g- 8a-	.	.	.
+[4.A-~ [4.d- [4.e-	.	16r	.
+!	!	!LO:TX:a:t=Pos.	!
+.	.	(>16a-LL	f
+.	.	16b-JJ	.
+.	.	16dd-XLL	.
+.	.	16b-	.
+.	.	16dd-JJ	.
+4A-] 4d-] 4e-]	.	16ee-LL	.
+.	.	16dd-	.
+.	.	16gg-	.
+.	.	16dddnJJ	.
+=27	=27	=27	=27
+*M	*	*M	*
+8r	.	[8aa-L	.
+!LO:TX:b:i:t=louré	!	!	!
+8.d-~ 8.g- 8.a-	.	8.aa-J])	.
+8A-~ 8d- 8e-L	.	16r	.
+!	!	!LO:TX:a:t=R	!LO:DY:t=%s legato
+.	.	(16gg-LL	mf
+8d-~ 8g- 8a-	.	16aa-	.
+.	.	16gg-	.
+16B-~Jk 16e- 16f	.	16ee-JJ	.
+4.A-~ 4.d- 4.e-	.	16gg-LL	.
+.	.	16ee-	.
+.	.	16dd-	.
+.	.	16b-	.
+.	.	16an	.
+.	.	16ddnJJ	.
+=28	=28	=28	=28
+*M	*	*M	*
+[8.d-~ [8.g- [8.a-	.	16a-'XLL)	.
+!	!	!LO:TX:a:t=Pos.	!
+.	.	(32anLi	.
+.	.	32bn	.
+.	.	32ddn	.
+.	.	32ggnJJJ	.
+16d-KL] 16g-] 16a-]	.	16dd-XLL	.
+8A-~J 8d- 8e-	.	16ee-	.
+.	.	16gg-XJJ	.
+8d-~L 8g- 8a-	.	16ee-LL	.
+.	.	16dd-	.
+16B-~k 16e- 16f	.	16b-X	.
+8A-X~ 8d-X 8e-J	.	16an	.
+.	.	16ddnJJ	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!Xfilter: slurcheck
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental
+!!!MCN:
+!!!MDT: 1943/11/15
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1943
+!!!MPN: Messiaen, Olivier
+!!!ODT: 1939
+!!!PDT: 1942
+!!!excerpt-start-measure: 24
+!!!excerpt-end-measure: 28
+!!!excerpt-start-time: 1:12
+!!!excerpt-end-time: 1:38
+!!!excerpt-duration-sec: 26
+!!!excerpt-time-signature: [7/8]
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {82}
+!!!excerpt-meter-type: [odd]
+!!!excerpt-beat-group: Gx
+!!!excerpt-beat-subgroup: Gx
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!Suter_Work_ID: Mes-16
+!!!Suter_Example_Number: 731
+!!!Suter_Example_ID: Mes-16^3/9/24-28
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: {8/8},{7/8},{8/8},{11/16}
+!!!Full_Unit_Duration: 5:56
+!!!First_Publication_Year: 1942
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 25
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 85
+!!!Example_Start_Tsig_Beat_Rate: 85
+!!!Example_Start_Tsig_Beat: {eighth}
+!!!Example_Start_Tsig: {7/8}
+!!!Example_Start_Timestamp: 1:07
+!!!Example_Start_Tempo_Expression: Plus lent
+!!!Example_Start_Notated_Beat_Rate: {85}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 24
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:32
+!!!Example_End_Measure: 28
+!!!Example_Dataset: R
+!!!Editorial_Comments: ^3 = 3ème fascicule. No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=85} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=CAL7926). Editorial Note: Full Unit Start Time Signature {5/8} based on a calculation of the number of eighth beats in the first unmetered measure, which subsequently changes. Full Unit Start Tsig Type (none) is used as there are no regular groupings of beats. Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Mean Beat Rate {eighth=75} calculated based on recorded Full Unit Duration (6:15).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: {yes}
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo: 41
+!!!Audio_Example_Duration: 26.064
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

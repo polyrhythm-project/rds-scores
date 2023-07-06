@@ -1,0 +1,119 @@
+!!!!SEGMENT: R730_Mes-w16b1p8m26-27.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
+!!!OMV: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
+!!!example: 730
+!!!work: Mes-16
+!!!OMD-full: Modéré, un peu lent, rêveur
+!!!OMD: [Modéré, un peu lent, rêveur]
+!!!AGN-sub: Keyboard
+!!!OPR: Les Corps glorieux (Glorious Bodies) for Organ
+!!!filename: R730_Mes-w16b1p8m26-27.krn
+**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B
+*part2	*part1	*part1
+*staff3	*staff2	*staff1
+*ICklav	*ICklav	*ICklav
+*Iorgan	*Iorgan	*Iorgan
+*I"Pedals	*I"Organ	*I"Organ
+*I'org-ped	*I'org	*I'org
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+!!LO:TX:tempo:a:t=[Bien modéré]\n{[eighth]=63}
+*M11/8	*M11/8	*M11/8
+=26	=26	=26
+8C#XL	4c#X 4e 4f#X 4b-X	4ee 4aa 4ddd#X
+[8D#XJ	.	.
+16D#k]L	8.r	16ccnLL 16ee 16aa
+8FnJ	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16ggn 16cccn
+[8GnL	16r	8eeL 8aa 8ccc#X
+.	[4.c#X [4.e [4.f#X [4.b-X	.
+8G]	.	8.b-X 8.dd#X 8.ggn
+[16Ak	.	.
+8AJ_	.	8cc#XJ 8ff#X 8bb-X
+8.A]L	8c#L] 8e] 8f#] 8b-]	2dd#X 2ggn 2cccn
+.	8fnJ 8g# 8b-X 8ddn	.
+[16D#XJk	.	.
+8.D#XL]	8.eL 8.f#X 8.a 8.cc#X	.
+[16BBnJk	[16c#XJk [16e [16f#X [16b-X	.
+=27	=27	=27
+8.BBnL]	16c#XLL] 16e] 16f#X] 16b-X]	4ee 4aa 4ddd#X
+.	16fn 16g#X 16b-X 16ddn	.
+.	16e 16f#X 16a 16cc#X	.
+[16FnkJ	16dJ 16fn 16g#X 16ccnJ	.
+8.F_	[8.c#X [8.e [8.f#X [8.b-X	16ccnLL 16ee 16aa
+.	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16gg 16cccn
+8F]L	16c#k] 16e] 16f#] 16b-]	8eeL 8aa 8ccc#X
+.	16r	.
+[8.BBnJ	8.r	8.b-X 8.dd#X 8.ggn
+16BBLL]	[8c#X [8e [8f#X [8b-X	8cc#XJ 8ff#X 8bb-X
+[16C#XJJ	.	.
+16C#LL]	4.c#X] 4.e] 4.f#X] 4.b-X]	2dd#X 2ggn 2cccn
+8.D#XJJ	.	.
+8FnL	.	.
+[8GnJ	8fn 8g#X 8b-X 8ddn	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental
+!!!MCN:
+!!!MDT: 1943/11/15
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1943
+!!!MPN: Messiaen, Olivier
+!!!ODT: 1939
+!!!PDT: 1942
+!!!excerpt-start-measure: 26
+!!!excerpt-end-measure: 27
+!!!excerpt-start-time: 2:22
+!!!excerpt-end-time: 2:51
+!!!excerpt-duration-sec: 29
+!!!excerpt-time-signature: [11/8]
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {46}
+!!!excerpt-meter-type: [odd]
+!!!excerpt-beat-group: Gx
+!!!excerpt-beat-subgroup: Gx
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Mes-16
+!!!Suter_Example_Number: 730
+!!!Suter_Example_ID: Mes-16^1/8/26-27
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:27
+!!!First_Publication_Year: 1942
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 21
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 63
+!!!Example_Start_Tsig_Beat_Rate: 63
+!!!Example_Start_Tsig_Beat: {eighth}
+!!!Example_Start_Tsig: {11/8}
+!!!Example_Start_Timestamp: 2:30
+!!!Example_Start_Tempo_Expression: [Bien modéré]
+!!!Example_Start_Notated_Beat_Rate: {63}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 26
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:51
+!!!Example_End_Measure: 27
+!!!Example_Dataset: R
+!!!Editorial_Comments: ^1 = 1er fascicule. Practice trial 2 in PQM experiment. No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=63} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=LRCD-1100). Example Start Tempo Expression [Bien modéré] based on most recent notated tempo expression (SWFU, m. 25). Full Unit Start Time Signature {2/4} based on a calculation of the number of quarter beats in the first unmetered measure, which subsequently changes. Full Unit Start Tsig Type (none) is used as there are no regular groupings of beats.
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo: 25
+!!!Audio_Example_Duration: 26.927
+!!!ONB: Converted from MusicXML on 2020/07/28

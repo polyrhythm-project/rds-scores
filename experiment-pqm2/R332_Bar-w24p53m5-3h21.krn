@@ -1,0 +1,153 @@
+!!!!SEGMENT: R332_Bar-w24p53m5-3h21.krn
+!!!COM: Bartók, Béla
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 332
+!!!work: Bar-24
+!!!OMD-full: Allegro
+!!!OMD: [Più mosso]
+!!!AGN-sub: Ballet
+!!!OPR: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!filename: R332_Bar-w24p53m5-3h21.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ituba	*	*Itromb	*	*Itromt	*	*Itromt	*	*Icor	*	*Icor	*	*Ifagot	*	*Icangl	*	*Ioboe	*	*Ioboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Tuba	*	*I"Bass Trombone	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Horn in F 2, 4	*	*I"Horn in F 1, 3	*	*I"Bassoon	*	*I"English Horn	*	*I"Oboe 2	*	*I"Oboe 1	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'tb	*	*I'b-tn	*	*I'tn	*	*I'tn	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cor-en	*	*I'ob	*	*I'ob	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[Più mosso]\n[[quarter]=72&#8211;76]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
+!	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=a 3	!	!	!	!	!	!LO:TX:t=[[quarter]=74]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#Xtt	p	4GG#Xtt	p	4FnTT	p	4AnTT	p	4B#X	mf	8r	.	8r	.	8d#X	p	((8.B#XL	p	8F'L 8A	f	2r	.	4B#X	mf	1r	.	1r	.	2r	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	8CC#X'L	f	8GG#X'L	f	8r	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TR:acc=-	!	!LO:TR:acc=n	!	!	!	!LO:TR:acc=n	!	!LO:TX:a:t=sul IV	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGTT	<	4BBtt	<	4Ett	<	4A#Xtt	<	(8d#XL	.	8GGG'J	.	8BB'J	.	4r	.	8d#X)	.	8r	.	.	.	(8d#XL	<	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16c#XL	.	8r	.	8r	.	.	.	8r	[	8E'J 8B-	.	.	.	16c#XL	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	16d#JJ	.	.	.	.	.	.	.
+!LO:TR:acc=-	!	!	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4FFTT	.	4BB#Xtt	.	4GnTT	.	4c#Xtt	.	(16f#XLL	<	8FFn'L	<	8Cn'L	<	2r	.	((8.B#L	.	2r	.	8r	.	16f#XLL	.	.	.	.	.	(16f#XLL	mf
+.	.	.	.	.	.	.	.	16eJ	.	.	.	.	.	.	.	.	.	.	.	.	.	16eJ	.	.	.	.	.	16eJ	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	8f#J)	.	8r	.	8r	.	.	.	.	.	.	.	8G' 8d-X	f	8f#J	.	.	.	.	.	8f#J	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AATT	[	4D#Xtt	[	4Btt	[	4e#Xtt	[	4a#X~	[	8r	.	8r	.	.	.	8d#)	.	.	.	4c-X~ 4f	.	4a#X~)	[	.	.	.	.	4a#X~)	.
+.	.	.	.	.	.	.	.	.	.	8AA'^^J	[	8D#X'^^J	[	.	.	8r	[	.	.	.	.	.	.	.	.	.	.	.	.
+=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208
+!	!	!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=poco a poco accelerando	!
+4CC#Xtt	<	4GG#Xtt	<	4FnTT	<	4AnTT	<	(16B#XLL	.	8CC#X'L	.	8GG#X'L	.	1r	.	((8.B#XL	.	8r	.	8r	.	(16B#XLL	.	2r	.	1r	.	(16B#XLL	.
+.	.	.	.	.	.	.	.	16A#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#XJ	.	.	.	.	.	16A#XJ	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	8B#J)	.	8r	.	8r	.	.	.	.	.	8F'L	<	8A'L	<	8B#~J)	<	.	.	.	.	8B#~J)	<
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TR:acc=-	!	!LO:TR:acc=n	!	!	!	!LO:TR:acc=n	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGTT	<	4BBntt	<	4Ett	<	4A#Xtt	<	(8d#XL	<	8r	.	8r	.	.	.	8d#X)	.	8E'J	.	8B-'J	.	(8d#XL	<	.	.	.	.	(8d#XL	.
+.	.	.	.	.	.	.	.	16c#XL	.	8GGG'J	<	8BB'J	<	.	.	8r	[	8r	.	8r	.	16c#XL	.	.	.	.	.	16c#XL	.
+.	.	.	.	.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	16d#JJ	.	.	.	.	.	16d#JJ	.
+!LO:TR:acc=-	!	!	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4FFTT	.	4BB#Xtt	.	4GnTT	.	4c#Xtt	.	(16f#XLL	.	8r	.	8r	.	.	.	((8.B#L	.	8G'L	.	8d-X'L	<	16f#XLL	.	(16g-XLL	mf	.	.	16f#XLL	.
+.	.	.	.	.	.	.	.	16e	.	.	.	.	.	.	.	.	.	.	.	.	.	16eJ	.	16f-X	.	.	.	16e	.
+.	.	.	.	.	.	.	.	16f#	.	8FFn'	.	8Cn'	.	.	.	.	.	8r	.	8r	.	8f#J	.	16g-	.	.	.	16f#	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	16cc#XJJ)	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	.	.	16dd-XJJ	.	.	.	16cc#XJJ	.
+!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AATT	[	4D#Xtt	[	4Btt	[	4e#Xtt	[	4a#X~	[	4AA~	[	4D#X~	[	.	.	8d#)	.	8r	.	8r	.	4a#X~)	[	4b-~)	<	.	.	4a#X~)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	[	8c-X'^^J	.	8f'^^J	[	.	.	.	.	.	.	.	.
+=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209
+!	!	!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#Xtt	<	4GG#Xtt	<	4FnTT	.	4AnTT	.	(16B#XLL	.	8r	.	8r	.	1r	.	((8.B#XL	.	8F'L	.	8A'L	.	(16B#XLL	.	(16cnLL	.	2r	.	(16B#XLL	.
+.	.	.	.	.	.	.	.	16A#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#X)	.	16B-)	.	.	.	16A#X)	.
+.	.	.	.	.	.	.	.	(16A#	.	8CC#X'L	<	8GG#X'L	< <	.	.	.	.	8r	.	8r	.	(16A#	.	(16B-	.	.	.	(16A#	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	16B#JJ)	.	.	.	.	.	.	.	16B#Jk)	.	.	.	.	.	16B#JJ)	.	16cJJ)	.	.	.	16B#JJ)	.
+!LO:TR:acc=-	!	!LO:TR:acc=n	!	!	!	!LO:TR:acc=n	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGTT	.	4BBntt	.	4Ett	<	4A#Xtt	<	(16d#XLL	<	8GGn'J	.	8BB'J	.	.	.	8d#X)	.	8r'	.	8r'	.	(16d#XLL	<	(16e-XLL	<	.	.	(16d#XLL	.
+.	.	.	.	.	.	.	.	16c#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	16c#X	.	16d-X	.	.	.	16c#XJ	.
+.	.	.	.	.	.	.	.	(16d#	.	8r	.	8r	[	.	.	8r	.	8E'J	.	8B-'J	<	16d#	.	16e-	.	.	.	8d#'J)	.
+.	.	.	.	.	.	.	.	16A#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	16A#JJ)	.	16B-JJ)	.	.	.	.	.
+!LO:TR:acc=-	!	!	!	!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4FFTT	.	4BB#Xtt	.	4GnTT	.	4c#Xtt	.	(16eLL	.	8FFn'L	.	8Cn'L	.	.	.	((8.B#L	.	8r'	.	8r'	.	(16eLL	.	(16f-XLL	.	(16eLL	f	(16eLL	f
+.	.	.	.	.	.	.	.	16f#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	16f#X	.	16g-X	.	16f#X	.	16f#X	.
+.	.	.	.	.	.	.	.	(16g#X	.	8r	.	8r	.	.	.	.	.	8G'	.	8d-X'	.	16g#X	.	16a-X	.	16g#X	.	16g#X	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	16cc#XJJ)	.	.	.	.	.	.	.	16B#Jk)	<	.	.	.	.	16cc#XJJ	.	16dd-XJJ	.	16cc#XJJ	.	16cc#XJJ	.
+!LO:TR:acc=-	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AATT	[	4D#Xtt	[	4Btt	[	4e#Xtt	[	(8.a#XL	[	8r	.	8r	.	.	.	8d#)	.	4c-X~	.	4f~	[	8.a#XL	[	8.b-L	[	8.a#XL	.	8.a#XL	.
+.	.	.	.	.	.	.	.	.	.	8AA'^^J	[	8D#X'^^J	[	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g#Jk)	.	.	.	.	.	.	.	.	.	.	.	.	.	16g#Jk)	.	16a-Jk)	.	16g#Jk)	.	16g#Jk)	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Stage
+!!!MCN: Szenkár, Eugen
+!!!MDT: 1926/11/27
+!!!MGN: unknown
+!!!MLC: Cologne, Germany
+!!!MPD: 1926
+!!!MPN:
+!!!ODT: 1919 (rev. 1931)
+!!!PDT: 1924
+!!!excerpt-start-measure: 207
+!!!excerpt-end-measure: 209
+!!!excerpt-start-time: 6:13
+!!!excerpt-end-time: 6:44
+!!!excerpt-duration-sec: 31
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [72-76]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!Suter_Work_ID: Bar-24
+!!!Suter_Example_Number: 332
+!!!Suter_Example_ID: Bar-24/53/5-3[21]
+!!!Premiere_Location: Cologne,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 31:11
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 74
+!!!Example_Start_Tsig_Beat_Rate: 74
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 3:25
+!!!Example_Start_Tempo_Expression: [Più mosso]
+!!!Example_Start_Notated_Beat_Rate: [72-76]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 207
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:31
+!!!Example_End_Measure: 209
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=72-76] based on most recent notated tempo (SWFU, m. 206). Example Start Tempo Expression [Più mosso] based on most recent notated tempo expression (SWFU, m. 206). Example Start Tsig Mean Beat Rate (quarter=74) calculated based on notated tempo [quarter=72-76]. Full Unit Duration calculated from Track 19 (0:00) to Track 29 (1:54) (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=00028945443027). Example Start and End Time based on Track 20 \"1st Decoy game (Moderato)\" (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=00028945443027).
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo: 104
+!!!Audio_Example_Duration: 6.908
+!!!ONB: Converted from MusicXML on 2020/09/04

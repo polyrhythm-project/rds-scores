@@ -1,0 +1,168 @@
+!!!!SEGMENT: R315_Fal-w8p62h67m1-5.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Cuadro V: La Fuga (The Escape)
+!!!OMV: Cuadro V: La Fuga (The Escape)
+!!!example: 315
+!!!work: Fal-8
+!!!OMD-full: Andante molto sostenuto
+!!!OMD: Allegretto vivace
+!!!AGN-sub: Theatrical
+!!!OPR: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!filename: R315_Fal-w8p62h67m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*	*part9	*part9	*	*part8	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Infant	*	*	*Iarpa	*Iarpa	*	*Icemba	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"TRUJAMÁN	*	*	*I"Harp	*I"Harp	*	*I"Harpsicord	*	*I"Harpsichord	*	*I"Timpani	*	*I"Trumpet \n[sounds as written]	*	*I"2 Horns in F	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"2 Oboes	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'TRU.	*	*	*I'arp	*I'arp	*	*I'hpcd	*	*I'hpcd	*	*I'timp	*	*I'tp	*	*I'cor-fr	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+!!LO:TX:tempo:a:t=Allegretto vivace\n[eighth]=152
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*	*MM76	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*
+!!LO:REH:t=67
+=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=(Btte. di legno)	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=1 Sola	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis. (pos. nat.)	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8AAA-X'Lu	f	8AA-X'Lu	f	8c'	f	8E-X'L 8c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	.	8AA-X' 8E-X	8c'	f	4.ryy	.	24E-<XLL	8AA-<\ 8E-<\	ff >	8AA-X'	mf	4.r	.	[4.c^	fp	8c')j	mf	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X\ 24g-X\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8AAA-'v	p	8AA-'v	p	16E-'LL 16cLL	p	16E-' 16c	p	8r	.	8B-' 8g-	] p	.	.	.	8r	8r	.	.	.	24E-<'<LL	8ryy	] mf	8r	.	.	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s marc.	!	!	!	!	!	!	!	!	!	!	!	!
+8AAA-'Ju	.	8AA-'Ju	.	8E-'JJ 8cJJ	.	8E-'J 8c	.	8r	.	16B-'L 16g-	.	.	.	.	8r	8r	.	.	.	24E-<'<LL	8ryy	.	8AA-	p	.	.	.	.	8r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+8AAA-X'Lv	.	8AA-X'Lv	.	16E-X'LL 16c	.	16E-X'LL 16c	.	16B-X' 16g-X	p	8B-X'L 8g-X	.	4cc	f	Váis	4.r	4.r	.	4.ryy	.	24E-<X'<LL\	.	8r	.	4.r	.	4.c_	.	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X/ 24g-X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'	.	8AA-'	.	8E-' 8c	.	8E-' 8c	.	8r	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24E-<'<LL\	.	8AA-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-/ 24g-/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'J	.	8AA-'J	.	16E-' 16c	.	16E-' 16c	.	8r	.	8B-'J 8g-	.	8cc	.	en	.	.	.	.	.	24E-<'<LL\	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-/ 24g-/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16cJJ	.	16E-' 16cJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8AAA-X'L	.	8AA-X'L	.	8E-X' 8cL	.	8E-X' 8cL	.	16B-X' 16g-X	.	16B-X'LL 16g-X	.	4.cc	.	paz,	4.r	4.r	.	4.ryy	.	24E-<'XLL	8AA-<\ 8E-<\	.	8AA-X	.	4.r	.	4.c_	.	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X\ 24g-X\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'	.	8AA-'	.	16E-' 16c	.	16E-' 16c	.	8r	.	8B-' 8g-	.	.	.	.	.	.	.	.	.	24E<-'<LL	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'J	.	8AA-'J	.	8E-' 8cJ	.	8E-' 8cJ	.	8r	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24E<-'<LL	8ryy	.	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!LO:TX:t=(modo ord.)	!
+8AAA-X'L	.	8AA-X'L	.	16E-X' 16cLL	.	16E-X' 16cLL	.	8r	.	8B-X'L 8g-X	.	8ccL	.	oh	4.r	4.r	.	4ryy	.	24E<-X'LL	.	8r	.	8r	.	4c]	.	4.r	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X\ 24g-X\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'J	.	8AA-'J	.	8E-' 8c	.	8E-' 8c	.	8r	.	16B-'L 16g-	.	8cc	.	par	.	.	.	.	.	24E<-'LL	.	8AA-X	.	8r	.	.	.	.	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!LO:TX:t=[1.2.]	!	!	!	!	!	!	!	!	!
+8DDni'	sf	8Dni' 8Ani	sf	8cJJ	sf	8cJJ	sf	8eni 8cc 8eeni	sf	8g-J	sf	8ccJ	.	sin	.	.	.	8D'^ 8An	ff	8c'^	.	8r	.	8ee'^	f	8D'^ 8g-X	f	.	.	8A'^	f	8e'^ 8cc	f	8ccc'^	f
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!	!
+8AAA-X'L	p	8AA-X'L	p	8E-X' 8cL	p	8E-X' 8cL	p	4.r	.	16B-X'LL 16g-X	p	4.cc	.	par	4.r	4.r	.	4.ryy	mf	24E<-XLL	8AA-<~\ 8E-<~\	mfX	8AA-X	.	4.r	.	[4.c~	p	4.r	.	4.r	.	4.r	.	4.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X\ 24g-X\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'	.	8AA-'	.	16E-' 16c	.	16E-' 16c	.	.	.	8B-' 8g-	.	.	.	.	.	.	.	.	.	24E<-'<LL	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 8c	.	16E-' 8c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AAA-'J	.	8AA-'J	.	8E-' 8cJ	.	8E-' 8cJ	.	.	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24E<-'<LL	8ryy	.	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-\ 24g-\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7)]{(s8,s9,s10)}{(s11,s12)}s13[(s14,s15,s16,s17,s18,s19)]
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage
+!!!MCN: Falla, Manuel de
+!!!MDT: 1923/03/23
+!!!MGN: Orquesta Bétia de Cámara
+!!!MLC: Seville, Spain
+!!!MPD: 1923
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1924
+!!!excerpt-start-measure: 36(633)
+!!!excerpt-end-measure: 40(637)
+!!!excerpt-start-time: 4:13
+!!!excerpt-end-time: 4:18
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 152
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!Xfilter: slurcheck
+!!!Suter_Work_ID: Fal-8
+!!!Suter_Example_Number: 315
+!!!Suter_Example_ID: Fal-8/62/[67]1-5
+!!!Premiere_Location: Seville,Spain
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:25
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1923
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 4:13
+!!!Example_Start_Tempo_Expression: Allegretto vivace
+!!!Example_Start_Notated_Beat_Rate: 152
+!!!Example_Start_Notated_Beat: eighth
+!!!Example_Start_Measure: 36
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:18
+!!!Example_End_Measure: 40
+!!!Example_Dataset: R
+!!!Editorial_Comments: E1 full score and Naxos recording do not indicate a scene change after scene 4; however, the vocal score on IMSLP indicates that scene 5 starts at rehearsal 62. Full Unit Duration calculated from Track 22 (Scene 4: Los Pirineos [The Pyreness]) (2:05-6:30) of Naxos recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=HMG505213). Example Start and End Time based on Track 22 (Scene 4: Los Pirineos [The Pyreness]) of Naxos recording.
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo: 95
+!!!Audio_Example_Duration: 4.752
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

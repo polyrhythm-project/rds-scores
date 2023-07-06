@@ -1,0 +1,188 @@
+!!!!SEGMENT: R308B_Fal-w6p111h10m1-7.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Act II, I: Les voisins
+!!!OMV: Part II: Dance of the Neighbours
+!!!example: 308B
+!!!work: Fal-6
+!!!OMD-full: Allegro ma non troppo
+!!!OMD: [Allegro ma non troppo]
+!!!AGN-sub: Ballet
+!!!OPR: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!filename: R308B_Fal-w6p111h10m1-7.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part7	*	*part1	*
+*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff7	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Ivioln	*	*Icor	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Horn in F	*	*I"Flute 1	*
+*I'cb	*	*I'vc	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'cor-fr	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*	*	*G:	*
+!!LO:TX:tempo:a:t=[Allegro ma non troppo]\n[[quarter]=96]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=10
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:t=[div.]	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=96]	!
+!	!LO:DY:t=%s sempre	!LO:TX:t=sul tasto	!	!LO:TX:a:t=sul tasto	!	!	!	!	!	!	!	!	!
+16%3DDL	pp	(16DDLL	ppp	(16DDLL	ppp	8F#OO	ppp	8eOO	ppp	[4.F#~ [4.f#~	ppp	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Solo	!
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	(16ddd'LL	pp
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	16ddd'J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8F#OO	.	8eOO	.	.	.	8ddd'J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8cOO	.	8dOO	.	4.F#] 4.f#]	.	8ddd'L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8F#OO	.	8eOO	.	.	.	8.eee~	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	16dddJk	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8GOO	.	8eOO	.	[4.G~ [4.g~	.	8cccL)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	(16aaLii	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8GOO	.	8eOO	.	.	.	[8cccJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8cOO	.	8dOO	.	4.G_ 4.g_	.	16cccLL]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	16aaJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8GOO	.	8eOO	.	.	.	8.bb	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	16aaJk	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8GOO	.	8eOO	.	4.G_ 4.g_	.	8ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	16aaL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8GOO	.	8eOO	.	.	.	[8aaJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8cOO	.	8dOO	.	4.G] 4.g]	.	16aaLL]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	16ff#J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8GOO	.	8eOO	.	.	.	8.gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	16ff#Jk	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+16%3DDL	.	(16DDLL	.	(16DDLL	.	8GOO	.	8eOO	.	(4G~ (4g~i	.	8eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AA	.	16AA	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8cOO	.	8dOO	.	.	.	16ff#L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16%3AAAJ	.	16AA	.	16AA	.	.	.	.	.	.	.	16eeJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16DD	.	16DD	.	8F#OO	.	8eOO	.	[8F# [8f#	.	8ddJ[	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AAJJ)	.	16AAJJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)][({(s11,s12)})][({(s13,s14)})][(s15,s16,s17,s18,s19,s20)]
+!!!RDF**kern: O = tremolo
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1919/07/22
+!!!MGN: Ballets Russes
+!!!MLC: London, United Kingdom
+!!!MPD: 1919
+!!!MPN: Rosovsku, Zoia
+!!!ODT: 1919
+!!!PDT: 1921
+!!!excerpt-start-measure: 95
+!!!excerpt-end-measure: 101
+!!!excerpt-start-time: 1:43
+!!!excerpt-end-time: 1:50
+!!!excerpt-duration-sec: 7
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [192]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Suter_Work_ID: Fal-6
+!!!Suter_Example_Number: 308B
+!!!Suter_Example_ID: Fal-6/111/[10]1-7
+!!!Premiere_Location: London,England
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:25
+!!!First_Publication_Year: 1921
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 192
+!!!Example_Start_Tsig_Beat_Rate: 192
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 1:43
+!!!Example_Start_Tempo_Expression: [Allegro ma non troppo]
+!!!Example_Start_Notated_Beat_Rate: [96]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 95
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:50
+!!!Example_End_Measure: 101
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=96] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegro ma non troppo] based on most recent notated tempo expression (SWFU, m. 1). Example Start Tsig Mean Beat Rate [eighth=192] calculated based on most recent notated tempo [quarter=96], taking into account the metric modulation to 3/8, with eighth=eighth.
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo: 84
+!!!Audio_Example_Duration: 7.521
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

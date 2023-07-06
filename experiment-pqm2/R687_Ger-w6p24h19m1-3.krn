@@ -1,0 +1,167 @@
+!!!!SEGMENT: R687_Ger-w6p24h19m1-3.krn
+!!!COM: Gershwin, George
+!!!OTL: I: Allegro
+!!!OMV: Movement 1: Allegro
+!!!example: 687
+!!!work: Ger-6
+!!!OMD-full: Allegro
+!!!OMD: [Alla breve]
+!!!AGN-sub: Concerto
+!!!OPR: Piano Concerto in F Major
+!!!filename: R687_Ger-w6p24h19m1-3.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Icor	*	*Icor	*	*Icangl	*	*Ioboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*I"Piano	*	*I"Snare Drum	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"English Horn	*	*I"Oboe	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*	*I'pf	*	*I'dr	*	*I'cor-fr	*	*I'cor-fr	*	*I'cor-en	*	*I'ob	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*	*	*	*	*	*	*	*
+!!LO:TX:tempo:a:t=[Alla breve]\n[[half]=88]
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+!!LO:REH:t=19
+=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=88]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8BBL	p	8BL	p	4.g	p	4.b	p	4.dd	p	(12dL	p	(12ddL	p	32Re/LLL	p	4.d	p	1r	p	4.gnZ	p	4.b 4.dd	p
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12d#X	.	12dd#X	.	.	.	.	.	.	.	.	.	.	.
+.	<	.	<	.	<	.	<	.	<	.	.	.	.	32Re/	.	.	<	.	.	.	<	.	<
+8C	.	8c	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12eJ)	.	12eeJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+8BB	.	8B	.	.	.	.	.	.	.	(8.eL	.	(8.eeL	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/JJJ	.	.	.	.	.	.	.	.	.
+[8AAJ	[	[8AJ	[	8gv	[	8bv	[	8dd#Xv	[	.	.	.	.	8Re/	.	8d#X	[	.	.	8g	[	8b 8dd#X	[
+.	.	.	.	.	.	.	.	.	.	16gJk)	.	16ggJk)	.	.	.	.	.	.	.	.	.	.	.
+2AA]	.	2A]	.	8.r	.	8.r	.	8.r	.	(12gL	.	(12ggL	.	2r	.	8.r	.	.	.	8.r	.	8.r	.
+.	.	.	.	.	.	.	.	.	.	12g#X	.	12gg#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12aJ)	.	12aaJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16guL	.	16buL	.	16dd#uL	.	.	.	.	.	.	.	16d#L	.	.	.	16gL	.	16b 16dd#L	.
+.	.	.	.	(8.g	.	(8.b	.	(8.dd#	.	(12aL	.	(12aaL	.	.	.	8.d#	.	.	.	8.g	.	8.b 8.dd#	.
+.	.	.	.	.	.	.	.	.	.	12gn	.	12ggn	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12fJ)	.	12ffJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJk')	.	16bJk')	.	16dd#Jk')	.	.	.	.	.	.	.	16d#Jk	.	.	.	16gJk	.	16bJk 16dd#	.
+=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204
+8AA-XL	<	8A-XL	<	4.a-X	<	4.cc	<	4.ee-X	<	(12e-XL	.	(12ee-XL	.	32Re/LLL	.	4.e-X	<	1r	.	4.a-X	<	4.cc 4.ee-X	<
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12en	.	12een	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+8BB-X	.	8B-X	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12fJ)	.	12ffJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+8AA-	.	8A-	.	.	.	.	.	.	.	(8.fL	.	(8.ffL	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/JJJ	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*
+[8GG-XJ	.	[8G-XJ	.	8b-X	[	8cc	[	8een	[	.	.	.	.	8Re/	.	8e	[	.	.	8b-	[	8cc 8een	[
+.	.	.	.	.	.	.	.	.	.	16a-XJk)	.	16aa-XJk)	.	.	.	.	.	.	.	.	.	.	.
+2GG-]	[	2G-]	[	8.r	.	8.r	.	8.r	.	(12a-L	.	(12aa-L	.	2r	.	8.r	.	.	.	8.r	.	8.r	.
+.	.	.	.	.	.	.	.	.	.	12an	.	12aan	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12b-XJ)	.	12bb-XJ)	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=cresc.	!
+.	.	.	.	16b-uL	.	(16ccuL	.	16eeuL	.	.	.	.	.	.	.	16eL	.	.	.	16b-L	.	16cc 16eeL	.
+.	.	.	.	8.b-	.	8.cc	.	(8.ee	.	(12b-L	.	(12bb-L	.	.	.	8.e	.	.	.	8.b-	.	8.cc 8.ee	.
+.	.	.	.	.	.	.	.	.	.	12a-X	.	12aa-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12g-XJ)	.	12gg-XJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16b-Jk'	.	16ccJk'	.	16eeJk')	.	.	.	.	.	.	.	16eJk	.	.	.	16b-Jk	.	16ccJk 16ee	.
+=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=open	!	!	!	!	!	!	!
+8.FFL	.	8.FL	.	8.anL	.	8.cc#XL	.	8.ffL	.	(12fL	.	(12ffL	.	8.Re/L	.	8.AL 8.f	.	8.c#XL 8.a	.	8.anL	.	8.cc#XL 8.ff	.
+.	.	.	.	.	.	.	.	.	.	12f#X	.	12ff#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12gnJ)	.	12ggJ)	.	.	.	.	.	.	.	.	.	.	.
+16FFk	.	16Fk	.	16ak	.	16cc#k	.	16ffk	.	.	.	.	.	16Re/k	.	16Ak 16f	.	16c#k 16a	.	16ak	.	16cc#k 16ff	.
+8.FF	.	8.F	.	8.a	.	8.cc#	.	8.ff	.	(12gL	.	(12ggL	.	8.Re/	.	8.A 8.f	.	8.c# 8.a	.	8.a	.	8.cc# 8.ff	.
+.	.	.	.	.	.	.	.	.	.	12g#X	.	12gg#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12anJ)	.	12aanJ)	.	.	.	.	.	.	.	.	.	.	.
+16FFJk	.	16FJk	.	16aJk	.	16cc#Jk	.	16ffJk	.	.	.	.	.	16Re/Jk	.	16AJk 16f	.	16c#Jk 16a	.	16aJk	.	16cc#Jk 16ff	.
+8.EEL	.	8.EL	.	8.b-XL	.	8.ddL	.	8.ff#XL	.	(12b-XL	.	(12bb-XL	.	8.Re/L	.	8.B- 8.f#XL	.	8.d 8.b-L	.	8.b-L	.	8.ddL 8.ff#X	.
+.	.	.	.	.	.	.	.	.	.	12bn	.	12bbn	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ccnJ)	.	12cccnJ)	.	.	.	.	.	.	.	.	.	.	.
+16EEk	.	16Ek	.	16b-k	.	16ddk	.	16ff#k	.	.	.	.	.	16Re/k	.	16B-k 16f#	.	16dk 16b-	.	16b-k	.	16ddk 16ff#	.
+8.EE	.	8.E	.	8.b-	.	8.dd	.	8.ff#	.	(12ccL	.	(12cccL	.	8.Re/	.	8.B- 8.f#	.	8.d 8.b-	.	8.b-	.	8.dd 8.ff#	.
+.	.	.	.	.	.	.	.	.	.	12cc#X	.	12ccc#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ddJ)	.	12dddJ)	.	.	.	.	.	.	.	.	.	.	.
+16EEJk	.	16EJk	.	16b-Jk	.	16ddJk	.	16ff#Jk	.	.	.	.	.	16Re/Jk	.	16B-Jk 16f#	.	16dJk 16b-	.	16b-Jk	.	16ddJk 16ff#	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)](s5)[({(s6,s7)})][(s8,s9,s10,s11,s12)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral
+!!!MCN: Damrosch, Walter
+!!!MDT: 1925/12/03
+!!!MGN: New York Symphony Orchestra
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1925
+!!!MPN: Gerschwin, George
+!!!ODT: 1925
+!!!PDT: 1927
+!!!excerpt-start-measure: 203
+!!!excerpt-end-measure: 205
+!!!excerpt-start-time: 6:00
+!!!excerpt-end-time: 6:04
+!!!excerpt-duration-sec: 4
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [88]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Ger-6
+!!!Suter_Example_Number: 687
+!!!Suter_Example_ID: Ger-6/24/[19]1-3
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 11:59
+!!!First_Publication_Year: 1927
+!!!First_Public_Performance_Year: 1925
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 6:00
+!!!Example_Start_Tempo_Expression: [Alla breve]
+!!!Example_Start_Notated_Beat_Rate: [88]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 203
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:04
+!!!Example_End_Measure: 205
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half = 88] based on most recent notated tempo (SWFU, m. 144). Example Start Tempo Expression [Alla breve] based on most recent notated tempo expression (SWFU, m. 144).
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo: 204
+!!!Audio_Example_Duration: 3.524
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,160 @@
+!!!!SEGMENT: R443_Ber-w10p321m593-595.krn
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Act II, Scene 4
+!!!OMV: Act II, Scene 4
+!!!example: 443
+!!!work: Ber-10
+!!!OMD-full: Langsamer Ländler
+!!!OMD: [Ländler]
+!!!AGN-sub: Opera
+!!!OPR: Wozzeck, Opera in Three Acts
+!!!filename: R443_Ber-w10p321m593-595.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*	*part7	*	*	*part6	*	*part5	*	*part4	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*	*staff8	*	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICbras	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICww	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ibarit	*	*	*Ilyrtn	*	*	*Ituba	*	*Iguitr	*	*Iaccor	*	*Iaccor	*	*Iclars	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"WOZZECK	*	*	*I"ANDRES	*	*	*I"Bombardon in F	*	*I"Guitar	*	*I"Accordion	*	*I"Accordion	*	*I"Clarinet in C	*	*I"Solo Fiddle 2	*	*I"Solo Fiddle 1	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'WOZ.	*	*	*I'AND.	*	*	*I'bom	*	*I'guit	*	*I'acc	*	*I'acc	*	*I'cl	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[0]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[Ländler]\n[[quarter]=100]
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*	*M5/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*
+*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*	*MM100	*	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*
+!!LO:REH:t=593
+=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)
+!	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:TX:a:B:t=Das übrige Orchester 	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=[[quarter]=100]	!
+!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=BÜHNENMUSIK	!
+!LO:TX:t=[senza sord.]	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!LO:TX:t=[in 3]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2.BB-X]	p	(2c#X	p <	(8fnL	p <	(4.ddn	p <	8A-X)jj	.	.	2.r	.	.	2.r	.	4Gn	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
+.	.	.	.	8gnJ)	.	.	[ >	8r	.	.	.	.	.	.	.	.	.	.	.	8ddn	.	8e-X	.	8an	.	.	.
+.	.	.	.	(2g	[	.	.	8GnL	es	.	.	.	.	.	.	4B-X 4dn	.	.	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
+.	.	.	[	.	.	4bn	.	8G	müßt	.	.	.	.	.	.	.	.	.	.	(8ee-XJ	.	(8f-XJ	.	(8b-XJ	.	.	.
+.	.	[4dn	>	.	.	.	]]	8Bn	spä-	.	.	.	.	.	.	4B- 4d	.	4r	.	4ddn)	>	4e-X)	<	4a-X)	<	.	.
+.	.	.	]	.	.	8cc#X	< [	8c#XJ	ter	.	.	.	.	.	.	.	.	.	.	.	.	.	[	.	[	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*
+=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152:	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=e.v.	!	!LO:TX:b:i:t=begleitend	!	!	!	!LO:TX:i:t=hervor	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:i:t=hervor	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*col	*	*	*	*	*	*	*	*	*
+!LO:TX:a:i:t= sempre espr.	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=↓↑ [in 2]	!	!	!	!	!	!	!	!LO:TX:b:t=e.v.	!	!	!	!	!	!	!	!	!
+8BB-L]	.	2d]),	>	2fn),	>	2bn),	[ >	4Bn	sein!	.	2r	.	.	2FFn	mp	4Cn	2ryy	.	(4ddn	.	4ee-X 4ggn	]	(4f#X	mf	(4ddn	f	2.r	.
+(8AAn	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EE-X	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	4Gn 4e-X	.	.	8ccnL	.	8ee-'L 8gg	.	8enL	.	8ccnL	.	.	.
+[8DDnJ	[	.	]	.	]	.	]	8Gn	Die	.	.	.	.	.	.	.	.	.	8b-X	.	8ee-' 8gg	.	8dn	.	8b-X	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
+!	!	!	!	!	!	!LO:TX:a:B:t=594	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!LO:TX:b:i:t=poco a poco cresc.	!	!	!	!	!LO:TX:t=ebenso	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2.DD_	>	([2.e-X	.	([2.g-X	.	([2.b-X	p	8G-XL	Zeit	.	4r	.	.	4FF#X	.	4ee-X	8gnL	.	8gn)	.	8ee-' 8gg	.	8Bn)	<	8gn)	<	.	.
+.	]]	.	.	.	.	.	.	8E-X	wird	.	.	.	.	.	.	.	8a-J	.	(8f-XJ	.	8ee-'J 8gg	.	(8A-XJ	[	(8f-XJ	[	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=-153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*
+.	.	.	.	.	.	.	.	8Dn	Ei-	.	4r	.	.	2.GGn	.	4an 4ddn 4ggn	.	4e-X)	.	8ddn 8ggn	.	4Gn')	[	4e-X')	[	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xcol	*	*	*	*	*	*Xhaupt	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	.	.	.	.	8AAnJ	nem	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8aanL	mf
+.	.	.	.	.	.	.	.	4Gn	lang	.	8r	.	.	.	.	4f#X 4an 4ddn	.	2e-	.	4r	.	2G~	.	2e-~	.	8dddn	.
+.	.	.	.	.	.	.	.	.	.	.	8gn	Was	.	.	.	.	.	.	.	.	.	.	.	.	.	8gggnJ	.
+=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
+8DD)]	.	8e-L]	.	8g-L]	<	8b-]L	<	8B-XL	bei	.	8dnL	sit-	.	.	.	4f# 4a 4dd	.	.	.	4r	.	.	.	.	.	4ddd	.
+(4BB-X	.	8dnJ)	< [	8fnJ)	[[	8bn)	[[	8Bn	der	.	8An	zest	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*
+=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=-154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s führend	!	!LO:DY:t=	!	!LO:DY:t=wieder %s	!	!
+.	<	(8dnL	.	(8fnL	.	(8bn	.	8B	Kurz-	.	8B-X	Du	.	8GGGn	.	4Dn	.	2Dn	.	(8b-XL	f	(8cnL	.	(8dnL	p	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8AAn	[	8c#XJ)	.	8f#XJ)	.	8ddn)J	.	8dnJ	weil	.	8AnJ	da	.	8r	.	.	.	.	.	8an)	.	8Bn)	.	8c#X)	.	8aanL	p
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
+!	!	!	!	!	!	!LO:TX:a:B:t=595	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EE-XL	>	(4.c#X	<	(4.f#X	<	(4.ddn	<	4r	.	.	8E-XL	vor	.	4r	.	4an 4ddn 4ff#X	.	.	.	(8e-X	.	(8En	.	(8B-X	.	8dddn	.
+8DDn)	]	.	.	.	.	.	.	.	.	.	8Dn	der	.	.	.	.	.	.	.	8dn)	.	8Fn)	.	8An)	.	8gggnJ	.
+(8BB-Xi	<	.	.	.	[[	.	.	4r	.	.	(8B-X	Tür?	.	4r	.	4a 4dd 4ff#	.	4r	.	(8b-X	.	(8cn	.	(8dn	.	4ddd	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[8AAnJ	[	8dn)	[ > ]	8gn)	> ]	(4bn	[ > ]	.	.	.	8AnJ)	.	.	.	.	.	.	.	.	8anJ)	.	8BnJ)	.	8c#XJ)	.	.	.
+=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=-155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[trill Eb/Fn]	!	!LO:TX:t=[trill Gn/An]	!	!LO:TX:t=[trill Bb/Cn]	!	!	!
+2.AA_	>]]	([4d	.	(4gn	.	.	.	8BnL	Ich	.	4r	.	.	4r	.	4GGn	.	2.GGn 2.GnN	.	(4e-XTT	.	4GnTT	.	4B-XTT	.	8aanL	.
+!	!	!	!	!	!	!LO:TX:t=(<>)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	8cc#X))	.	8c#X	sitz'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dddn	.
+=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=:	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
+.	.	8dL]	<	8fnL	<	(8bnL	<	(8Bn^	gut-	.	2r	.	.	8r	.	4b-X 4ddn 4ggn	.	.	.	2dn)	.	2G	.	2B-X	.	8gggn	.
+.	.	8e-X)	.	8g-X)	.	8b-X)	.	8B-XJ)	.	.	.	.	.	(8E-XL	pp	.	.	.	.	.	.	.	.	.	.	8dddnJ	.
+.	.	(8e-i	.	(8g-i	.	(8b-i	.	4B-X	da.	.	.	.	.	8GGn	.	4b- 4dd 4gg	.	.	.	.	.	.	.	.	.	4aa	.
+.	.	8d-XJ	[	8fnJ	[	8ddnJ	[	.	.	.	.	.	.	8E-J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3{(s4,s5)}s6,s7[(s8,s9)][(s10,s11,s12,s13)]
+!!!Xfilter: slurcheck
+!!!RDF**kern: N = cue size
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage
+!!!MCN: Kleiber, Erich
+!!!MDT: 1925/12/14
+!!!MGN: Staatsoper Orchestra and Chorus
+!!!MLC: Berlin, Germany
+!!!MPD: 1925
+!!!MPN: Hermann, Uhde; Steber, Eleanor
+!!!ODT: 1922
+!!!PDT: 1923
+!!!excerpt-start-measure: 151(593)
+!!!excerpt-end-measure: 153(595)
+!!!excerpt-start-time: 5:12
+!!!excerpt-end-time: 5:25
+!!!excerpt-duration-sec: 13
+!!!excerpt-time-signature: 5/4;3/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3,G2;G4
+!!!excerpt-beat-subgroup: G3,G2;G2
+!!!experiment: 0
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Ber-10
+!!!Suter_Example_Number: 443
+!!!Suter_Example_ID: Ber-10/321/593-595
+!!!Premiere_Location: Berlin,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 11:59
+!!!First_Publication_Year: 1923
+!!!First_Public_Performance_Year: 1925
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: polymetric
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: quarter;quarter
+!!!Example_Start_Tsig: 5/4;3/4
+!!!Example_Start_Timestamp: 5:12
+!!!Example_Start_Tempo_Expression: [Ländler]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 151(593)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:24
+!!!Example_End_Measure: 153(595)
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=100] based on most recent notated tempo (SWFU, m. 150(592)). Example Start Tempo Expression [Ländler] based on most recent notated tempo expression (SWFU, m. 150(592)). Full Unit Start Tempo Expression, Full Unit Start Notated Beat, and Full Unit Start Notated Beat Rate are derived from measure 412. Editorial Note: The SWFU begins on measure 443 and ends on measure 741.
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo: 71
+!!!Audio_Example_Duration: 12.667
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

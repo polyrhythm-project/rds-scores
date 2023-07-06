@@ -1,0 +1,179 @@
+!!!!SEGMENT: R237B_Ive-w31p9hEm2-3.krn
+!!!COM: Ives, Charles
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 237B
+!!!work: Ive-31
+!!!OMD-full: Allegro moderato
+!!!OMD: [Allegro vivace]
+!!!AGN-sub: Ballet
+!!!OPR: The Gong on the Hook and Ladder for Chamber Orchestra
+!!!filename: R237B_Ive-w31p9hEm2-3.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*part10	*	*part9	*	*part8	*	*part7	*	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*ICidio	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Itimpa	*	*Itrngl	*	*Isdrum	*	*	*Itromt	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Timpani	*	*I"Triangle	*	*I"Snare Drum	*	*	*I"Trombone	*	*I"Trumpet in Bb 2	*	*I"Trumpet in Bb 1	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'timp	*	*I'tri	*	*I'dr	*	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'bn	*	*I'cl	*	*I'fl	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefX	*	*clefF4	*	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:tempo:a:t=[Allegro vivace]\n[[eighth]=200]
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*tremolo	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
+!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!
+!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4.CC^^OOO	ff	4.GG#X^^OOO	4.CC^^OOO	ff	4.C#X^^ 4.GnOOO	ff	2.G#X^^ 2.dOOO	sf >	2.d#X^^ 2.aOOO	sf >	4d 4e-X 4g 4b-X	]8aL ]8b ]8cc#Xi ]8ee ]8gg#Xi	ff	(2.COOO	.	4.Re	sff	[4.Rcc\	sff	.	(32BB^^LLLz	ff	]8c'nXL	f	]4cc#Xi	f	4.CC^^	ff	8c'Ln	ff	]4cc#Xi	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16D-X^^JJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16gn'L 16a 16cc#X 16ee 16gg#X 16aa	.	.	.	.	.	.	.	.	4D-]	.	8cc'nJ	.	.	.	.	.	8cc'Jn	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[16gJJ [16a [16cc# [16ee [16gg# [16aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	2ff#X 2aa 2ccc#X 2ddd	8gL] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	.	.	.	.	.	.	8d'L	.	8cc#XL	.	.	.	8d'L	.	8cc#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:b:i:t=non decresc. (sempre)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:i:t=non decresc. (sempre)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4BBB-X	.	4BB-X	2ryy	.	4A	.	.	.	.	.	.	8ggg-X 8bbb-X 8dddd-X	.	.	.	4Re	.	16Rcc\]	.	.	(4An	.	8eX'J	.	8ee-X^^J	.	(4BB-X	.	8eX'J	.	8ee-X^^J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16gggn'L 16bbbn 16ddddn	.	.	.	.	.	.	.	.	.	.	8e-'L	.	8ddnL	.	.	.	8e-'L	.	8ddn'L	.
+.	.	.	.	.	.	.	.	.]	.	.]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=poco decresc.	!	!LO:TX:b:i:t=poco decresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	16ggg'JJ 16bbb 16dddd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA-X	.	4AA-X	.	.	4G/ 4f#X/	.	.	.	.	.	.	(4ggg-X (4bbb-X (4dddd-X	.	.	.	4Re	.	.	.	.	4G)	.	8d-X'J	.	8ccJ	.	4AA-X)	.	8d-X'J	.	8ccn^^J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=	!	!LO:TX:b:i:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	8r	.	8r	.	8ff#X'^^ 8aa 8ccc#X 8ddd	.	.	8C)	.	.	.	.	.	.	.	.	8c'n	.	8b-X	.	.	.	8c-X'	.	8b-X	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t= %s decresc.	!	!LO:DY:t= %s decresc.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.CC^^OOO	.	4.GG#X^^OOO	4.CCX^^OOO	.	4.C#X 4.GnOOO	4.ryy	.	2.G#X^^ 2.dOOO	sf >	2.d#X^^ 2.aOOO	sf >	4ff#X 4aa 4ccc#X 4ddd	8gg-X) 8bb-X) 8ddd-X)	.	(2.COOO	.	4.Re	sff	[4.Rcc\	sff	.	(32BB^^LLL	sf	8c#X'L	.	4cc^^	.	4.CC^^	.	8c#X'L	.	4cc^^	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32CJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16D-X^^JJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	8a 8b 8cc#X 8ee 8gg#X/	.	.	.	.	.	.	.	.	4D-]	.	8bX'J	.	.	.	.	.	8bX'J	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	4dn> 4e->X 4g> 4b->X	8ryy	.	.	.	.	.	.	.	.	.	.	8cc#X'L	.	(8.dd^^L	.	.	.	8cc#X'L	.	(8.dd^^L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4BBB-X	.	4BB-X	2ryy	.	4An	4ryy	.	.	.	.	.	.	16gn'LL 16a 16cc#X 16ee 16gg#X 16aa	.	.	.	4Re	.	16Rcc\]	.	.	(4An	.	8BX'J	.	.	.	(4BB-X	.	8BX'J	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[16gJJ [16a [16cc# [16ee [16gg# [16aa	.	.	.	.	.	[4.Rcc\	.	.	.	.	.	.	16ccJk)	.	.	.	.	.	16ccJk)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[4.ff#X [4.aa [4.ccc#X [4.ddd	8g] 8a] 8cc#] 8ee] 8gg#] 8aa]	.	.	.	.	.	.	.	.	.	.	8A'L	.	4b-X^^	.	.	.	8A'L	.	4b-X^^	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA-X	.	4AA-X	.	.	8.f#XL G	4G	.	.	.	.	.	.	\8ggg-X^^L 8bbb-X 8dddd-X	.	.	.	4Re	.	.	.	.	4G)	.	8a'	.	.	.	4AA-X)	.	8f'	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	8r	]	8r	]	.	16gggn'^^L 16bbbn 16ddddn	.	8C)	.	.	.	.	.	.	.	.	8a'J	.	8b-'	.	.	.	8f'J	.	8b-'	.
+.	.	.	.	.	16dJk	.	.	.	.	.	.	.	16ggg'^^JJ 16bbb 16dddd	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8,s9)][({(s10,s11)})][(s12,s13,s14,s15,s16)]
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental, bracket
+!!!RDF**kern: O = tremolo
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Stage
+!!!MCN: Stoessel, Albert
+!!!MDT: 1934/04/22
+!!!MGN: pick-up ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1934
+!!!MPN:
+!!!ODT: 1912
+!!!PDT: 1960
+!!!excerpt-start-measure: 23
+!!!excerpt-end-measure: 24
+!!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:17
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 7/8
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [200]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Ive-31
+!!!Suter_Example_Number: 237B
+!!!Suter_Example_ID: Ive-31/9/[E]2-3
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:11
+!!!First_Publication_Year: 1960
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 8
+!!!Example_Start_Tsig_Type: unequal triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 200
+!!!Example_Start_Tsig_Beat_Rate: 200
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 7/8
+!!!Example_Start_Timestamp: 1:09
+!!!Example_Start_Tempo_Expression: [Allegro vivace]
+!!!Example_Start_Notated_Beat_Rate: [200]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 23
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:17
+!!!Example_End_Measure: 24
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=200] based on most recent notated tempo (SWFU, m. 22). Example Start Tempo Expression [Allegro vivace] based on most recent notated tempo expression (SWFU, m. 22).
+!!!Death_Place: New York,United States
+!!!Death_Date: 19-May-1954
+!!!Changing_Tsig: no
+!!!Birth_Place: Danbury,United States
+!!!Birth_Date: 20-Oct-1874
+!!!Audio_Example_Quarter_Note_Tempo: 55
+!!!Audio_Example_Duration: 7.636
+!!!ONB: Converted from MusicXML on 2020/07/28

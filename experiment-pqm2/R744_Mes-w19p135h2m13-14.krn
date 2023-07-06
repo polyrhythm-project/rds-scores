@@ -1,0 +1,151 @@
+!!!!SEGMENT: R744_Mes-w19p135h2m13-14.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: III: Psalmodie de l'Ubiquité par amour (Dieu présent en toutes choses…) (Psalmody of Ubiquity by Love (God Present in All Things...))
+!!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
+!!!example: 744
+!!!work: Mes-19
+!!!OMD-full: Modéré, presque vif, énergique
+!!!OMD: [Énergique]
+!!!AGN-sub: Choral
+!!!OPR: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!filename: R744_Mes-w19p135h2m13-14.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part3	*	*part2	*	*	*part1	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICvox	*	*	*ICklav	*	*ICklav	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Icoro	*	*	*Iclest	*	*Iclest	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Piano	*	*I"Piano	*	*I"Choir	*	*	*I"Celesta	*	*I"Celesta	*
+*I'cb	*	*I'vc	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'pf	*	*I'pf	*	*I'coro	*	*	*I'cel	*	*I'cel	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*C:	*
+!!LO:TX:tempo:a:t=[Modéré, presque vif, énergique]\n[[quarter]=100]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*8va	*	*	*	*	*	*	*	*
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8AAAn^L	ff	8AAn^L	ff	8An^L	ff	8An^L	ff	(12D-XL	mf	(16ff#XLL	fff	(16aanLL 16ccc	fff	(16eeeLL 16ggg#X	fff	(12GL	mf	(12B-XL 12e-X	mf	8AAAn^L 8AAn	.	24cccc#XLL	ffff	8anL	ff	(In-	8eeeL	f	8ddddL	f
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ggg	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ffn)	.	16gg#X 16bb-X)	.	16ddd 16fff#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12Dn	.	.	.	.	.	.	.	12A-X	.	12d-X 12en	.	.	.	24ddd	.	.	.	.	.	.	.	.
+8BBB^	.	8BB^	.	8B^	.	8B^	.	.	.	(16ff	.	(16gg# 16bb-	.	(16ddd 16fff#	.	.	.	.	.	8BBB^ 8BB	.	24aaa-X	.	8b	.	-ter-	8eee-X	.	8gggg#X	.
+.	.	.	.	.	.	.	.	12E-XJ	.	.	.	.	.	.	.	12AnJ	.	12dnJ 12g	.	.	.	24eee-X	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eeJJ)	.	16ff#XJJ 16aa)	.	16ccc#XJJ 16fffn)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aanJJ	.	.	.	.	.	.	.	.
+8AAA#X^	.	8AA#X^	.	8A#X^	.	8A#X^	.	12EnL	.	(16eeLL	.	(16ff#LL 16aa	.	(16ccc#LL 16fff	.	12B-XL	.	12e-XL 12a-X	.	8AAA#X^ 8AA#X	.	4een^	.	8a#X	.	-pré-	8fff#X	.	8gggn	.
+.	.	.	.	.	.	.	.	.	.	16dd)	.	16ffn 16gg#X)	.	16cccn 16eee)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12G	.	.	.	.	.	.	.	12d-X	.	12en 12an	.	.	.	.	.	.	.	.	.	.	.	.
+8EEE^J	.	8EE^J	.	8E^J	.	8E^J	.	.	.	(16dd	.	(16ff 16gg#	.	(16ccc 16eee	.	.	.	.	.	8EEE^J 8EE	.	.	.	8eJ	.	-ta-	8cccnJ	.	8ffff#XJ	.
+.	.	.	.	.	.	.	.	12A-XJ)	.	.	.	.	.	.	.	12dnJ)	.	12gJ 12b-X)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16cc#XJJ)	.	16eeJJ 16ff#X)	.	16bb-XJJ 16ddd)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CCn^L	.	8Cn^L	.	8cn^L	.	8cn^L	.	(12AnL	.	(16cc#LL	.	(16eeLL 16ff#	.	(16bb-LL 16ddd	.	(12e-XL	.	(12a-XL 12dd-X	.	8CCn^L 8Cn	.	16bb-X'LL	.	8ccnL	.	-tions	8eeeL	.	8fffnL	.
+.	.	.	.	.	.	.	.	.	.	16ccn)	.	16dd 16ffn)	.	16aa 16ccc#X)	.	.	.	.	.	.	.	16ffn'	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12B-X	.	.	.	.	.	.	.	12en	.	12an 12ddn	.	.	.	.	.	.	.	.	.	.	.	.
+8FFF#X^	.	8FF#X^	.	8F#X^	.	8F#X^	.	.	.	(16cc	.	(16dd 16ff	.	(16aa 16ccc#	.	.	.	.	.	8FFF#X^ 8FF#X	.	16bbn'	.	8f#X	.	de	8bb-X	.	8ggg#X	.
+.	.	.	.	.	.	.	.	12d-XJ	.	.	.	.	.	.	.	12gJ	.	12b-XJ 12ee-X	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16b-XJJ)	.	16cc#XJJ 16ee)	.	16gg#XJJ 16cccn)	.	.	.	.	.	.	.	16fff#X'JJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8qaa-X/	.	(8qgggg/	.
+8EEE^	.	8EE^	.	8E^	.	8E^	.	12dnL	.	(16b-LL	.	(16cc#LL 16ee	.	(16gg#LL 16ccc	.	12a-XL	.	12dd-XL 12een	.	8EEE^ 8EE	.	8.cccn^L	.	8e	.	vo-	8fff)	.	8fff#X)	.
+.	.	.	.	.	.	.	.	.	.	16a)	.	16ccn 16dd)	.	16ff#X 16bb-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12e-X	.	.	.	.	.	.	.	12an	.	12ddn 12gg	.	.	.	.	.	.	.	.	.	.	.	.
+8FFF^J	.	8FFn^J	.	8Fn^J	.	8Fn^J	.	.	.	(16a	.	(16cc 16dd	.	(16ff# 16bb-X	.	.	.	.	.	8FFFn^J 8FFn	.	.	.	8fnJ	.	-tre	8eeeJ	.	8ddddJ	.
+.	.	.	.	.	.	.	.	12enJ)	.	.	.	.	.	.	.	12b-XJ)	.	12ee-XJ 12aa-X)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16g#XJJ)	.	16b-XJJ 16cc#X)	.	16ffnJJ 16aa)	.	.	.	.	.	.	.	16eee-XJk	.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+*	*	*	*	*	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8BBB^L	.	8BB^L	.	8B^L	.	8B^L	.	8g	.	(16f#XLL	.	(16aLL 16ccn	.	(16eeLL 16gg#X	.	(12gL 12dd-X	.	(12eenL 12aan	.	8BBB^L 8BB	.	24aaanLL	.	8bL	.	Ver-	8eee-XL	.	8gggg#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddd	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16fn)	.	16g#X 16b-X)	.	16dd 16ff#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12a-X 12ddn	.	12gg 12bb-X	.	.	.	24aa-X	.	.	.	.	.	.	.	.
+8DD#X^	.	8DD#X^	.	8D#X^	.	8D#X^	.	8r	.	(16f	.	(16g# 16b-	.	(16dd 16ff#	.	.	.	.	.	8DDD#X^ 8DD#X	.	24eee-X	.	8d#XJ	.	.	8fff#X	.	8gggn	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12anJ 12ee-X	.	12aa-XJ 12ddd-X	.	.	.	24aan	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eJJ)	.	16f#XJJ 16a)	.	16cc#XJJ 16ffn)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eenJJ	.	.	.	.	.	.	.	.
+8AAAn^	.	8AAn^	.	8An^	.	8An^	.	4r	.	(16eLL	.	(16f#LL 16a	.	(16cc#LL 16ff	.	12b-XL 12een	.	12aanL 12dddn	.	8AAAn^ 8AAn	.	16ggLL	.	4an	.	-be,	8cccn	.	8ffff#X	.
+.	.	.	.	.	.	.	.	.	.	16d)	.	16fn 16g#X)	.	16ccn 16ee)	.	.	.	.	.	.	.	16bb-X	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd-X 12gg	.	12bb-X 12eee-X	.	.	.	.	.	.	.	.	.	.	.	.
+8BBB^J	.	8BB^J	.	8B^J	.	8B^J	.	.	.	(16d	.	(16f 16g#	.	(16cc 16ee	.	.	.	.	.	8BBB^J 8BB	.	16ddd-X	.	.	.	.	8eeeJ	.	8fffnJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddnJ 12aa-X)	.	12ddd-XJ 12eeen)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16c#XJJ)	.	16eJJ 16f#X)	.	16b-XJJ 16dd)	.	.	.	.	.	.	.	16fff#XJJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*
+8AAA#X^L	.	8AA#X^L	.	8A#X^L	.	8A#X^L	.	2r	.	(16c#LL	.	(16eLL 16f#	.	(16b-LL 16dd	.	(12ee-XL 12aan	.	(12dddnL 12ggg	.	8AAA#X^L 8AA#X	.	16aa-XLL	.	4r	.	.	8bb-XL	.	8ggg#XL	.
+.	.	.	.	.	.	.	.	.	.	16cn)	.	16d 16fn)	.	16a 16cc#X)	.	.	.	.	.	.	.	16dddn	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12een 12bb-X	.	12eee-X 12aaa-X	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8qaa-X/	.	(8qgggg/	.
+8EEE^	.	8EE^	.	8E^J	.	8E^J	.	.	.	(16c	.	(16d 16f	.	(16a 16cc#	.	.	.	.	.	8EEE^ 8EE	.	16bb-X	.	.	.	.	8fff)	.	8fff#X)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ggJ 12ddd-X	.	12eeenJ 12aaan	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-XJJ)	.	16c#XJJ 16e)	.	16g#XJJ 16ccn)	.	.	.	.	.	.	.	16ddd-XJJ	.	.	.	.	.	.	.	.
+8CCn^	.	8Cn^	.	4r	.	4r	.	.	.	(16B-LL	.	(16c#LL 16e	.	(16g#LL 16cc	.	12aa-XL 12dddn	.	12gggL 12bbb-X	.	8CCn^ 8Cn	.	16fff#XLL	.	8ccnL	.	Pier-	8eee	.	8dddd	.
+.	.	.	.	.	.	.	.	.	.	16A)	.	16cn 16d)	.	16f#X 16b-X)	.	.	.	.	.	.	.	16aaanJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aan 12eee-X	.	12aaa-X 12dddd-X	.	.	.	.	.	.	.	.	.	.	.	.
+8FFF#X^J	.	8FF#X^J	.	.	.	.	.	.	.	(16A	.	(16c 16d	.	(16f# 16b-X	.	.	.	.	.	8FFF#X^J 8FF#X	.	8cccnJ	.	8f#XJ	.	-res	8eee-XJ	.	8gggg#XJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8ba	*	*X8va	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bb-XJ 12eeen)	.	12aaanJ 12ddddn)	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	16G#XJJ)	.	16B-XJJ 16c#X)	.	16fnJJ 16a)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3[({(s4,s5)})][(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal
+!!!MCN: Désormière, Roger
+!!!MDT: 1945/04/21
+!!!MGN: Orchestre de la Société des Concerts du Conservatoire; Chorale Yvonne Gouverné
+!!!MLC: Paris, France
+!!!MPD: 1945
+!!!MPN: Grimaud, Yvette; Loriod, Yvonne; Martenot, Ginettea
+!!!ODT: 1944
+!!!PDT: 1952
+!!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 1:49
+!!!excerpt-end-time: 1:54
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Mes-19
+!!!Suter_Example_Number: 744
+!!!Suter_Example_ID: Mes-19/135/[2]13-14
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 17:32
+!!!First_Publication_Year: 1952
+!!!First_Public_Performance_Year: 1945
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 1:50
+!!!Example_Start_Tempo_Expression: [Modéré, presque vif, énergique]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 47
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:54
+!!!Example_End_Measure: 48
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=100] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [Modéré, presque vif, énergique] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo: 100
+!!!Audio_Example_Duration: 4.801
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,175 @@
+!!!!SEGMENT: R415_Web-w28p2-3m11-19.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: I: Etwas lebhaft
+!!!OMV: Movement 1
+!!!example: 415
+!!!work: Web-28
+!!!OMD-full: Etwas lebhaft
+!!!OMD: [Etwas lebhaft]
+!!!AGN-sub: Concerto
+!!!OPR: Concerto for Nine Instruments, op. 24
+!!!filename: R415_Web-w28p2-3m11-19.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part9	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Ipiano	*	*Ipiano	*	*Iviola	*	*Ivioln	*	*Itromt	*	*Itromp	*	*Icor	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Piano	*	*I"Piano	*	*I"Viola	*	*I"Violin I	*	*I"Trombone	*	*I"Trumpet \n[sounds as written]	*	*I"Horn\n[sounds as written]	*	*I"Clarinet in Bb\n[sounds as written]	*	*I"Oboe	*	*I"Flute	*
+*I'pf	*	*I'pf	*	*I'vla	*	*I'vn	*	*I'tn	*	*I'tp	*	*I'cor-fr	*	*I'cl	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefG2	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:tempo:a:t=[tempo (Etwas lebhaft)]\n[[quarter]=80]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=[[quarter]=80]	!
+!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!
+4r	.	2ryy	.	2r	.	2r	.	2r	.	8ff#XL	f	2r	.	8r	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	8ddnJ)	.	.	.	8ccc#X~	f	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	(4an	>	.	.	.	.
+!	!	!	!LO:DY:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EE-~X	fp	.	.	.	.	.	.	.	.	.	.	.	.	.	.]]	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+!	!	!	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:S:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+(4Gn> 4f#>X/	.	2ryy	.	4r	.	8aa-X~	p	2r	.	2r	.	2r	.	8B-X)	p	2r	.	2r	.
+!	!	!	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	(4cn	>	.	.	.	.	.	.	8r	.	.	.	.	.
+8bn')\	.	.	.	8r	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.
+8r	.	.	.	8een~	p	8bn)	]]	.	.	.	.	.	.	.	.	.	.	.	.
+*clefF4	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:B:t=sehr mäßig [quarter]= 50	!
+8Dn>~>L 8B-X>	.	4ryy	pp	(4e-X	>	2r	.	2r	.	2r	.	2r	.	2r	.	4r	.	2r	.
+!LO:S:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+(8C#X 8cn	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8an> 8gg#X>	[>	4ryy	.	8Gn)	]	.	.	.	.	.	.	.	.	.	.	(8enL	p	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Fn 8enJ)	]	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	8gg#X')	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8r	.	2ryy	.	2r	.	4r	.	2r	.	2r	.	(4ccn	p	2r	.	8gn~J	.	2r	.
+(8FF#XL\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+8Gn>) 8e>-XJ/	.	.	.	.	.	8r	.	.	.	.	.	8BnL)	>	.	.	4r	.	.	.
+8r>a	.	.	.	.	.	8ccc#X~	fp	.	.	.	.	8e-~XJ	]]	.	.	.	.	.	.
+*clefG2	*	*clefF4	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+(8ddnL/	.	4ryy	p	4r	.	8r	.	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.
+8BB>nJ) 8B-X>	.	.	.	.	.	(8ddn~L	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	4r	.	(8anL	p	8B-X~J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8an~/L	.	.	.	8ffnJ)	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+(8C#X> 8cn>	.	8ryy	.	8F#X~	.	2r	.	2r	.	4r	.	4r	.	2r	.	(8enL	p	2r	.
+8FnX 8en)	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	8gg#X')	.	.	.
+*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8gg#>~XJ	.	8ryy	.	4r	.	.	.	.	.	4r	.	(8ccnL	p	.	.	8gn~J	.	.	.
+8r>	.	8ryy	.	.	.	.	.	.	.	.	.	8Bn)	.	.	.	8r	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*	*	*	*	*	*	*grp:B	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8FF#/LX~	.	4ryy	.	2r	.	2r	.	2r	.	4r	.	8e-~XJ	.	2r	.	2r	.	2r	.
+(8Gn> 8e->X\	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!
+8ddn)	.	8ryy	.	.	.	.	.	.	.	12r	.	4r	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	(12e-XL	f	.	.	.	.	.	.	.	.
+*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8BBn>~ 8B->XJ	.	8ryy	.sf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ddn	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TUP	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!
+8r	.	4	.	4r	.	12r	.	12Gn^L	f	12ff#XJ)	.	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	.	.	12r	.	12BBn^	.	12r	.	.	.	.	.	.	.	.	.
+8BBn~/L	.	.	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12cn~	f	12B-X^J	.	12r	.	.	.	.	.	.	.	.	.
+*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8e->X~ 8dd>n	.	8	.	12r	.	(12g#X	.	4r	.	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	(12eenL	f	12aan)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGn~ 8F#X/	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12fn)	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*
+8b->X~>J	.	4r<	.	12cc#X~J	.	2r	.	2r	.	2r	.	2r	.	2r	.	6dddn~	f	6r	.
+.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	6ff#X~	.	6r	.
+!LO:TUP:br:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12GG#X~ 12AnL/	.	4ryy	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ra>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6fn~	.	6bbb-X~	ff
+12f>n~ 12ee>nJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8)]{(s9,s10)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!CDT: 1883/12/03-1945/09/15
+!!!CBL: Vienna, Austria
+!!!CDL: Mittersill, Austria
+!!!CNT: Austrian
+!!!AGN: Orchestral
+!!!MCN: Janowetz, Heinrich
+!!!MDT: 1934/09/04
+!!!MGN: Prague Symphony Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1934
+!!!MPN:
+!!!ODT: 1934
+!!!PDT: 1948
+!!!excerpt-start-measure: 11
+!!!excerpt-end-measure: 19
+!!!excerpt-start-time: 0:16
+!!!excerpt-end-time: 0:38
+!!!excerpt-duration-sec: 22
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [80]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/01/27
+!!!Suter_Work_ID: Web-28
+!!!Suter_Example_Number: 415
+!!!Suter_Example_ID: Web-28/2-3/11-19
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:31
+!!!First_Publication_Year: 1948
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 21
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:17
+!!!Example_Start_Tempo_Expression: [tempo (Etwas lebhaft)]
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 11
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:38
+!!!Example_End_Measure: 19
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=80] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [tempo (Etwas lebhaft)] based on most recent notated tempo expressions (SWFU, m. 10 and m. 1). Practice trial 1 in PQM experiment.
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo: 50
+!!!Audio_Example_Duration: 21.638
+!!!ONB: Converted from MusicXML on 2021/01/08

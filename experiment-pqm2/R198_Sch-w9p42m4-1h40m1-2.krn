@@ -1,0 +1,173 @@
+!!!!SEGMENT: R198_Sch-w9p42m4-1h40m1-2.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 198
+!!!work: Sch-9
+!!!OMD-full: Langsam
+!!!OMD: [Sehr rasch (rascher als die "half " von früher)]
+!!!AGN-sub: Symphonic
+!!!OPR: Kammersymphonie (Chamber Symphony) No. 1, op. 9
+!!!filename: R198_Sch-w9p42m4-1h40m1-2.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Ifag_c	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'cor-fr	*	*I'c-bn	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'ob	*
+*clefC4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+!!LO:TX:tempo:a:t=[Sehr rasch ("dotted-half" rascher als die "half " von früher)]\n[[half-dot]=92&#8211;96]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=m. D.	!	!	!	!	!	!	!	!	!	!	!
+4du	.	(4.EE	.	4a-X	.	4d 4dd	.	4%3r	.	2B- 2a-	.	2EEn	.	4a-X	.	4%3r	.	4a-X	.	4dd	.
+2C#^	.	.	.	8r	.	4c#	.	.	.	.	.	.	.	8r	.	.	.	8r	.	2c#^	.
+.	.	8F)	.	8BL	.	.	.	.	.	.	.	.	.	8BL	.	.	.	8BL	.	.	.
+.	.	([4FF	.	8c#	.	4r	.	.	.	[4B [4a	.	[4FF	.	8c#	.	.	.	8c#	.	.	.
+.	.	.	.	8BJ	.	.	.	.	.	.	.	.	.	8BJ	.	.	.	8BJ	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167
+4r	.	8FFL]	.	4an	.	4r	.	4%3r	.	4B] 4a]	.	4FF]	.	4an	.	4%3r	.	4an	.	4r	.
+.	.	8GJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2D	sf	(4.GG	.	8r	.	4d	.	.	.	2cn 2b-X	.	2GGn	.	8r	.	.	.	8r	.	(2d	sf
+.	.	.	.	8cnL	.	.	.	.	.	.	.	.	.	8cnL	.	.	.	8cnL	.	.	.
+.	.	.	.	8dn	.	4r	.	.	.	.	.	.	.	8dn	.	.	.	8dn	.	.	.
+.	.	8A-)	.	8cJ	.	.	.	.	.	.	.	.	.	8cnJ	.	.	.	8cJ	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168
+4C#u	.	(4.EE-X	.	4f#X	.	4c#	.	4%3r	.	2f# 2an	.	2EE-X	.	4f#X	.	4%3r	.	4f#X	.	4c#	.
+2cn^	.	.	.	8r	.	4ccn	.	.	.	.	.	.	.	8r	.	.	.	8r	.	2ccn^	.
+.	.	8F)	.	8B-XL	.	.	.	.	.	.	.	.	.	8B-XL	.	.	.	8B-XL	.	.	.
+.	.	([4EEn	.	8cn	.	4r	.	.	.	[4B-X [4a-	.	[4EE	.	8cn	.	.	.	8cn	.	.	.
+.	.	.	.	8B-J	.	.	.	.	.	.	.	.	.	8B-J	.	.	.	8B-J	.	.	.
+=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169
+4r	.	8EEL]	.	4en	.	4r	.	4%3r	.	4B-X] 4a-]	.	4EE]	.	4en	.	4%3r	.	4en	.	4r	.
+.	.	8FJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2BBn	.	(4.FF#	.	8r	.	4Bn	.	.	.	2dn 2f#	.	4.FF#	.	8r	.	.	.	8r	.	2Bn	.
+.	.	.	.	8F#L	.	.	.	.	.	.	.	.	.	8F#L	.	.	.	8F#L	.	.	.
+.	.	.	.	8An	.	4r	.	.	.	.	.	.	.	8An	.	.	.	8An	.	.	.
+.	.	8G)	.	8GJ	.	.	.	.	.	.	.	8GG	.	8GJ	.	.	.	8GnJ	.	.	.
+!!LO:REH:t=40
+=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
+*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*	*grp:A	*	*grp:A	*
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*cue	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half-dot]=94]	!
+!	!	!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:i:t=trem. immer noch col legno	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:a:t=(womöglich)	!LO:DY:ed=brack
+4BB-X	p	4.GG	p	8r	.	32d-XLLL	pp	4r	.	4BB-X 4B-X	p	4GGG	p	4B-X	pp	2.d-XTT	pp	4B-Xz	.	4B-X	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8en'L	p	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8f'	.	32d-X	.	8r	.	4r	.	4r	.	4r	.	.	.	4r	.	4r	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Bogen	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8D-X 8A-X	.	8e'J	.	32d-X	.	8b-'L	p	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGG	.	[4GG	.	4a-	.	32d-X	.	8cc-X'	.	4r	.	4r	.	4r	.	.	.	4r	.	4r	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	8b-'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
+4r	.	8GGL]	<	8r	.	32d-XLLL	<	4ee-X	<	4%3r	.	4%3r	.	4%3r	.	2.d-XTTT	.	4%3r	.	4%3r	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D-XJ 8An	.	8e-X'L	<	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4GGB	<	4.GG	.	8f'	.	32d-X	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8e-'J	.	32d-X	.	8bn'L	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4g	.	32d-X	.	8ccn'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D- 8B-X	.	.	.	32d-X	.	8b'J	[	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	[[	.	[[	.	[[	32d-XJJJ	[[	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)]s3,s4,s5)][(s6)][(s7,s8,s9,s10,s11)]
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Orchestral
+!!!MCN: Schoenberg, Arnold
+!!!MDT: 1907/02/08
+!!!MGN: Rosé Quartet; Wind Ensemble of Vienna Philharmonic
+!!!MLC: Vienna, Austria
+!!!MPD: 1907
+!!!MPN:
+!!!ODT: 1906
+!!!PDT: 1913
+!!!excerpt-start-measure: 170
+!!!excerpt-end-measure: 171
+!!!excerpt-start-time: 6:17
+!!!excerpt-end-time: 6:19
+!!!excerpt-duration-sec: 2
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: [dotted-half]
+!!!excerpt-tempo-rate: [92-96]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Sch-9
+!!!Suter_Example_Number: 198
+!!!Suter_Example_ID: Sch-9/42/4-1[40]1-2
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 21:31
+!!!First_Publication_Year: 1913
+!!!First_Public_Performance_Year: 1907
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 282
+!!!Example_Start_Tsig_Beat_Rate: 282
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 6:13
+!!!Example_Start_Tempo_Expression: [Sehr rasch (\"dotted-half\" rascher als die \"half \" von früher)]
+!!!Example_Start_Notated_Beat_Rate: [92-96]
+!!!Example_Start_Notated_Beat: [dotted-half]
+!!!Example_Start_Measure: 166
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:18
+!!!Example_End_Measure: 171
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half=92-96] based on most recent notated tempo (SWFU, m. 160). Example Start Tempo Expression [Sehr rasch (\"dotted-half\" rascher als die \"half \" von früher)] based on most recent notated tempo expression (SWFU, m. 160).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo: 230
+!!!Audio_Example_Duration: 1.563
+!!!ONB: Converted from MusicXML on 2020/07/28
