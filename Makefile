@@ -10,8 +10,10 @@ KERN_TDS = ../tds-scores/kern
 # Location of experimental data:
 #EXP = experiment1
 #EXP = experiment-lmf1
-#EXP  = experiment-lmf2
-EXP  = experiment-lmf3
+#EXP = experiment-lmf2
+#EXP = experiment-lmf3
+EXP = experiment-pqm2
+
 
 BINDIR = bin
 
@@ -46,7 +48,7 @@ humdrum: utf8
 #	(cd $(KERN_RDS); ../$(BINDIR)/addmmline *.krn)
 #	echo "ADDING METADATA INFORMATION TO SCORES"
 #	(cd $(KERN_RDS); ../$(BINDIR)/polymeta *.krn >& /dev/null)
-	
+
 
 xml: utf8
 utf16: utf8
@@ -135,8 +137,6 @@ range:
 	@$(BINDIR)/getPitchRanges $(EXP)/*.krn
 
 
-
-
 mean: pitch-mean
 means: pitch-mean
 pitch-means: pitch-mean
@@ -177,7 +177,6 @@ coin: coin-count
 coin-count: concidenceEventsCount
 concidenceEventsCount:
 	for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
-	
 
 
 
@@ -187,9 +186,11 @@ durations: duration
 duration:
 	@$(BINDIR)/getExampleDurations $(EXP)/*.krn
 
+
 ed: event-density
 event-density:
 	@$(BINDIR)/getEventDensity $(EXP)/*.krn
+
 
 edr: event-density-ratio
 event-density-ratio:
@@ -199,7 +200,13 @@ nr: npvi-ratio
 npvi-ratio:
 	@$(BINDIR)/getNpviRatio $(EXP)/*.krn
 
-
 tempo:
 	bin/insertTempoRecords kern/*.krn
+
+
+mididiss:
+	mididiss $(EXP)/midi/*.mid
+
+
+
 
