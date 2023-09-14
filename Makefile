@@ -11,8 +11,8 @@ KERN_TDS = ../tds-scores/kern
 #EXP = experiment1
 #EXP = experiment-lmf1
 #EXP = experiment-lmf2
-#EXP = experiment-lmf3
-EXP = experiment-pqm2
+EXP = experiment-lmf3
+#EXP = experiment-pqm2
 
 
 BINDIR = bin
