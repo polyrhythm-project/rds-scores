@@ -1,0 +1,55 @@
+!!!filter: composite -gec | colorgroups
+**kern	**kern	**dynam
+*grp:B	*grp:A	*
+*part2	*part1	*
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+=91-	=91-	=91-
+!	!LO:TX:t=[[quarter]=171]	!
+!	!LO:TX:b:i:t= marc.	!
+(8AAL 8E	(8G^L 8c 8cc 8dd 8gg 8aa	mf
+8CJ	8A 8ee	.
+4CC^ 4D)	8e)	.
+.	(8cc^J 8dd 8gg	.
+4AA^	8GL 8g	.
+.	8ggJ)	.
+4C^ 4E	(12d^L 12e 12a	.
+.	12gg	.
+.	12gJ)	.
+=92	=92	=92
+4D^	(8A^L 8c 8a 8dd	.
+.	8g	.
+(8CCL 8DD 8C	8cc)	.
+8AAJ	(8A^J 8d 8dd 8aa	.
+8DD'L 8EE)	8gL	.
+8C'J	8GJ 8dd)	.
+4EE~^ 4GG	(12d^L 12g 12ee	.
+.	12aa	.
+.	12eeJ)	.
+=93	=93	=93
+2CC	(8G^L 8g 8dd 8aa	.
+.	8e	.
+.	8aa)	.
+.	(8d^J 8g 8a 8dd 8ee 8gg	.
+2r	8eL 8cc	.
+.	8dJ 8dd)	.
+.	(12e^L 12g 12ee	.
+.	12dd	.
+.	12aJ)	.
+=94	=94	=94
+4DD' 4E	(8c^L 8d 8ee	.
+.	8g	.
+4CC'	8A 8gg)	.
+.	(8a^J 8cc 8ee	.
+4AA' 4D	8ddL	.
+.	8cJ)	.
+4EE'	(12A^L 12a 12ee 12aa	.
+.	12gg	.
+.	12aJ)	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: ({s1,s2})
