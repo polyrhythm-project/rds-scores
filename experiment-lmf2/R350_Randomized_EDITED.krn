@@ -1,0 +1,64 @@
+!!!filter: composite -gce | colorgroups
+**kern	**kern
+*part2	*part1
+*staff2	*staff1
+*	*I"Piano
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M2/4	*M2/4
+=1	=1
+4DD 4AA-X	8GL 8c 8g
+.	8F#XJ 8d 8gg
+16r	8ccL 8aa 8bb-X
+16AA-KL	.
+8BBB-XJ	16cL 16g 16bb-
+.	16ffJJ
+=2	=2
+8.BBL	16c#XLL 16d 16dd
+.	16ff#XJ
+.	8BJ 8e 8dd-X
+16BBBJk	.
+16DDLL 16D	8gL 8a
+16GGJ	.
+8BBB-XJ 8C	16FL 16A-X
+.	16bb-XJJ
+=3	=3
+16AA-XLL	8f#XL 8cc
+16BBB-XJ	.
+8CCJ 8FF	8GJ 8f#
+8BB-XL	16F#XLL 16b-X 16aa-X
+.	16eeJ
+16FFL	8GJ 8gg
+16FF#XJJ	.
+=4	=4
+8AAL 8E	8GL 8ff#X
+8DD-XJ 8FF#X	16F#XL 16B-X
+.	16gJJ
+8.AAL	16ALL 16aa-X
+.	16eJ
+.	8FnJ 8B-
+16BBB-XJk	.
+=5	=5
+8EL	16FLL 16G 16A 16ff
+.	16bJ 16cc
+8BBB-XJ 8EE	8BJ 8ff
+8FFL 8D	8A-XL
+16BBBnL 16CC 16GG	16f#XL 16b 16aa-X
+16EJJ	16ffJJ
+=6	=6
+4FF 4D-X	8gL
+.	8GJ 8c 8a 8aa
+16D-LL	8F#XL 8ee 8ff 8bb
+16GGJ 16AA-X	.
+8CJ 8D-X 8Dn	8AJ
+=7	=7
+8FFL 8GG	8fL
+8AAJ	16A-XL 16a 16b-X 16ee 16ff#X
+.	16FJJ 16dd
+16D-XLL	16F#XLL 16a-X
+16GGJ	16bbJ
+8CCJ 8C	8A-J 8d-X 8f 8cc
+==	==
+*-	*-
+!!!system-decoration: {s1,s2}
