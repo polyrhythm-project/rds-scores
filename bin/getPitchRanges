@@ -16,6 +16,7 @@ my @files = @ARGV;
 die "Type 'make experiment' first." if @files == 0;
 
 for my $file (@files) {
+print "=================================== Processing file $file\n";
 	process($file);
 }
 

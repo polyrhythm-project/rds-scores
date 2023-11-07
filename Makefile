@@ -11,8 +11,8 @@ KERN_TDS = ../tds-scores/kern
 #EXP = experiment1
 #EXP = experiment-lmf1
 #EXP = experiment-lmf2
-EXP = experiment-lmf3
-#EXP = experiment-pqm2
+#EXP = experiment-lmf3
+EXP = experiment-pqm2
 
 
 BINDIR = bin
@@ -163,20 +163,20 @@ dissonance:
 
 composite-count: cc
 cc:
-	for i in $(EXP)/*.krn; do composite  $$i | extractx -i kern-comp | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+	@for i in $(EXP)/*.krn; do composite  $$i | extractx -i kern-comp | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
 grpac: grpAEventCounts
 grpAEventCounts:
-	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+	@for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
 grpbc: grpBEventCounts
 grpBEventCounts:
-	for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpB | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+	@for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpB | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
 coin: coin-count
 coin-count: concidenceEventsCount
 concidenceEventsCount:
-	for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+	@for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
 
 
