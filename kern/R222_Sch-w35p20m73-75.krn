@@ -23,8 +23,8 @@
 !!LO:TX:tempo:a:t=Tempo [Tempo I (Poco Allegro)]\n[[half]=64]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
-!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=64]	!
-!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=TEMPO	!
+!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 *	*	*	*	*8va	*	*	*	*	*	*	*
 !	!	!	!	!LO:TX:t=[sounds as written]	!	!	!	!	!	!	!
@@ -141,3 +141,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 94
 !!!Audio_Example_Duration: 7.611
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
