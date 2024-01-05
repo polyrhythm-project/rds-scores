@@ -26,7 +26,7 @@
 !!LO:REH:t=
 =266	=266	=266	=266	=266	=266
 !LO:TX:b:i:t=et toujours en s'éloignant davantage	!	!	!	!	!
-!LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!LO:TX:t=[[quarter]=135]	!
+!LO:TX:b:t=du bout de l'archet	!	!LO:TX:b:t=du bout de l'archet	!	!	!
 12AAAL	pp	12AAL	pp	8Rcc^\	ppp
 12AAA	.	12AA	.	.	.
 .	.	.	.	8r	.
@@ -127,3 +127,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 149
 !!!Audio_Example_Duration: 3.633
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
