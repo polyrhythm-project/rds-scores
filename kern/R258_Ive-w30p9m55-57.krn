@@ -32,7 +32,7 @@
 *	*	*	*	*	*	*v	*v	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*^	*	*^	*	*	*^	*	*^	*	*	*	*	*^	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Meno (poco mosso)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=p	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 6AAn^^	6AAAn^^	6An^^	6AAn^^	2cc#X	2fn 2g#X	2bbn	2dd 2ee	2cccn 2eee-X 2gggn	12Rdd/L	3Rf\	f	4Rd/	4r	4BB-X	f	6A^^	6AA^^	]6ee	1r	6d	.	6An^^	6AAn^^	6eX^^	4dd	4dd	f	4bbb	f
@@ -169,3 +169,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 88
 !!!Audio_Example_Duration: 8.215
 !!!ONB: Converted from MusicXML on 2020/10/05
+!!!EED-tempo:Ève Poudrier
+!!!EEV: 2024/01/05
