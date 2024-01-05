@@ -25,7 +25,7 @@
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
-!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=72]	!
+!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:notation differs from original to diplay the rhythm	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:t=%s doux	!LO:S:a	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s léger	!	!	!	!
@@ -187,3 +187,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 88
 !!!Audio_Example_Duration: 3.089
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
