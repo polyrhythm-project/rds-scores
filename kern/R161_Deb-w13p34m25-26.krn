@@ -7,7 +7,7 @@
 !!!OMD-full: Très modéré
 !!!OMD: [En animant peu à peu]
 !!!AGN-sub: Chamber
-!!!OPR: String Quartet, op. 10
+!!!OPR: String Quartet, op. 10
 !!!filename: R161_Deb-w13p34m25-26.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*
@@ -23,7 +23,6 @@
 !!LO:TX:tempo:a:t=[En animant peu à peu]\n[[quarter]=108]
 *M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
 =25	=25	=25	=25	=25	=25	=25	=25
-!	!	!	!	!LO:TUP:a	!	!LO:TX:t=[[quarter]=108]	!
 16%3g-^L	f	8b-^L	f	16%3gg-^L	f	8bb-^L	f
 .	.	8dd-^	.	.	.	8ddd-^	.
 16%3f^	.	.	.	16%3ff^	.	.	.
@@ -119,3 +118,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 185
 !!!Audio_Example_Duration: 3.896
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
