@@ -26,7 +26,6 @@
 !!LO:REH:t=4
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 !	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=	!	!LO:DY:ed=
-!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Più mosso ([eighth]=145, [quarter-dot]=48)	!
 !	!	!	!	!	!	!	!	!LO:TX:a:t=[Banda Interna (Offstage)]	!
 8.A-XL	f	24ccLL	f	24ccLL	f	24cLL	f	24cLL	f
 .	.	24f	.	24b-	.	24F	.	24B-	.
@@ -127,3 +126,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 65
 !!!Audio_Example_Duration: 5.562
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024-01-05
