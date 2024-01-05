@@ -32,9 +32,9 @@
 *	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
-!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
 !LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!
 !	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 4.CC^^OOO	ff	4.GG#X^^OOO	4.CC^^OOO	ff	4.C#X^^ 4.GnOOO	ff	2.G#X^^ 2.dOOO	sf >	2.d#X^^ 2.aOOO	sf >	4d 4e-X 4g 4b-X	]8aL ]8b ]8cc#Xi ]8ee ]8gg#Xi	ff	(2.COOO	.	4.Re	sff	[4.Rcc\	sff	.	(32BB^^LLLz	ff	]8c'nXL	f	]4cc#Xi	f	4.CC^^	ff	8c'Ln	ff	]4cc#Xi	ff
@@ -177,3 +177,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 55
 !!!Audio_Example_Duration: 7.636
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
