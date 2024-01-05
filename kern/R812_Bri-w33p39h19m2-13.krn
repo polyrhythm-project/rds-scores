@@ -24,7 +24,6 @@
 !!LO:TX:tempo:a:t=[Molto moderato ma giocoso]\n[[quarter-dot]=44]
 *M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=44]	!
 !	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=[B.D.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 (16FKL	boun-	p	(16FKL	boun-	p	(16fKL	boun-	p	8RfTT/	pp	8r	pp	8AA`L	p	8AA`L 8C	p	8B-`L	p	8B-`L 8c	p	8C`L 8c	p	8C`L 8c	p
 8G	.	.	8G	.	.	8g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -179,3 +178,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 58
 !!!Audio_Example_Duration: 37.187
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Craig Stuart Sapp
+!!!EEV-tempo: 2024/01/05
