@@ -23,9 +23,9 @@
 !!LO:TX:tempo:a:t=[a tempo (Leicht bewegt)]\n[[quarter]=160]
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)
-!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*haupt	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
 4%3r	.	8r	.	4r	.	4r	.	4%3r	.	4G#X	pp	Le-	(8e-XL	Le-	p	4r	.	.	8e-XL	mf	8e-XL	mf	8e-XL	mf	8e-XL	mf	(4G#X	p	(4G#X	p	(4G#X	p
 .	.	(8ccn	p	.	.	.	.	.	.	.	.	.	8dnJ)	.	.	.	.	.	8dn	.	8dn	.	8dn	.	8dn	.	.	.	.	.	.	.
@@ -140,3 +140,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 144
 !!!Audio_Example_Duration: 5.421
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
