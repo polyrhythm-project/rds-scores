@@ -23,7 +23,7 @@
 !!LO:TX:tempo:a:t=Andante quasi allegretto\n[eighth]=100
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
-!	!	!LO:TX:t=[[eighth]=100]	!
+!	!	!	!
 !	!	!LO:TX:a:t=Sordina	!LO:DY:t=%s espressivo
 4r	.	(16gLL	p
 !	!	!	!
@@ -214,3 +214,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 40
 !!!Audio_Example_Duration: 55.012
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
