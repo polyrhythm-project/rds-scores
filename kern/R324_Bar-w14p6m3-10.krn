@@ -23,7 +23,6 @@
 !!LO:TX:tempo:a:t=[Moderato]\n[[quarter]=100]
 *M3/4	*M3/4	*
 =3	=3	=3
-!	!LO:TX:t=Moderato. ([quarter]=74.)	!
 !	!LO:TX:b:i:t=molto espr.	!
 !LO:TX:b:B:i:t=[Ped.]	!	!LO:DY:ed=brack
 !LO:T:n=2:a	!	!
@@ -159,3 +158,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 91
 !!!Audio_Example_Duration: 15.747
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
