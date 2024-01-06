@@ -7,7 +7,7 @@
 !!!OMD-full: Lent
 !!!OMD: [Lent]
 !!!AGN-sub: Solo
-!!!OPR: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
+!!!OPR: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
 !!!filename: R281_Rav-w21p2m8-9.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
@@ -25,7 +25,7 @@
 !!LO:REH:t=1
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 *	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=40]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
 !	!	!	!	!	!	!	!LO:N:head=dia:n=1	!	!LO:N:head=dia:n=1	!	!	!	!LO:N:head=dia:n=1	!	!	!
 8r	.	4r	.	(4ei	p	Et	(64e 64eeyyLLLL	pp	(64E 64eeyyLLLL	pp	(48ddoLLL	pp	(64BLLLL 64bbyy	pp	1r	.
@@ -415,3 +415,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 37
 !!!Audio_Example_Duration: 12.835
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
