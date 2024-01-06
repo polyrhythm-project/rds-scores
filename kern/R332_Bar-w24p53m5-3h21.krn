@@ -24,7 +24,7 @@
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
 !	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=a 3	!	!	!	!	!	!LO:TX:t=[[quarter]=74]	!
+!	!	!	!	!LO:TR:acc=-	!	!LO:TR:acc=-	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=a 3	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4CC#Xtt	p	4GG#Xtt	p	4FnTT	p	4AnTT	p	4B#X	mf	8r	.	8r	.	8d#X	p	((8.B#XL	p	8F'L 8A	f	2r	.	4B#X	mf	1r	.	1r	.	2r	.
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -150,4 +150,5 @@
 !!!Birth_Date: 25-Mar-1881
 !!!Audio_Example_Quarter_Note_Tempo: 104
 !!!Audio_Example_Duration: 6.908
-!!!ONB: Converted from MusicXML on 2020/09/04
+!!!EED-tempo:Ève Poudrier
+!!!EEV: 2024/01/05
