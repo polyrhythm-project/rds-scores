@@ -26,7 +26,7 @@
 *M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *^	*	*^	*	*^	*	*	*	*	*	*^	*	*	*	*	*
-!LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=36]	!
+!LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=[pizz.]	!LO:T:b	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!LO:DY:ed=brack
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!LO:T:b	!	!	!	!	!
@@ -144,3 +144,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 44
 !!!Audio_Example_Duration: 16.698
 !!!ONB: Converted from MusicXML on 2020/09/04
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024-01-05
