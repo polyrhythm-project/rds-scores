@@ -25,7 +25,7 @@
 =22	=22	=22	=22
 *^	*^	*	*
 *	*	*	*grp:A	*	*
-!	!	!LO:TX:t=[[quarter]=123]	!	!	!
+!	!	!	!	!	!
 !	!	!LO:TX:b:t=	!	!	!
 !	!	!LO:T:n=2:a	!	!LO:DY:ed=brack	!LO:DY:t=
 8DL	8GG#X 8C#X	4G] 4g_	8ryy	f	f
@@ -168,3 +168,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 118
 !!!Audio_Example_Duration: 9.186
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/05
