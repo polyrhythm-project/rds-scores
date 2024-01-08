@@ -20,7 +20,6 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
-!!LO:TX:tempo:a:t=Presto\n[half-dot]=92
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -110,3 +109,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 247
 !!!Audio_Example_Duration: 3.162
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024-01-08
