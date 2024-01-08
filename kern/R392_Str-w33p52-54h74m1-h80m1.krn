@@ -31,7 +31,7 @@
 !LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*8ba	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=60]	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=cantabile dolce	!	!
 [2DD	[4DDD	p	[4DD	p	4r	.	8r	8ryy	8r	8d	Sur	.	[2DD,	[2DDD	p
 !	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!LO:TX:t=P:problem:missing brackets	!	!	!	!	!	!	!
@@ -405,3 +405,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 59
 !!!Audio_Example_Duration: 60.825
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024-01-08
