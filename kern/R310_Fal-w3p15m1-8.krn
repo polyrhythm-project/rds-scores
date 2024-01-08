@@ -20,7 +20,6 @@
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
-!!LO:TX:tempo:a:t=Allegro vivo\n[quarter-dot]=92
 *M3/8	*M3/8	*
 *	*clefF4	*
 !!LO:TX:t=
@@ -156,4 +155,4 @@
 !!!Birth_Date: 23-Nov-1876
 !!!Audio_Example_Quarter_Note_Tempo: 137
 !!!Audio_Example_Duration: 5.484
-!!!ONB: Converted from MusicXML on 2020/10/05
+!!!ONB: Converted from MusicXML on 2020/10/08
