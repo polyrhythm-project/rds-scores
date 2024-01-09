@@ -23,8 +23,7 @@
 !!LO:TX:tempo:a:t=Mit Schwung\n{[quarter]=103}
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =114	=114	=114	=114	=114	=114	=114	=114
-!	!	!	!	!	!	!LO:TX:t=[[quarter]=103]	!
-!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=Mit Schwung	!
+!	!	!	!LO:DY:ed=brack	!	!	!	!
 4r	.	16DnLL	f>	4%3r	.	4r	.
 .	.	(16dn	.	.	.	.	.
 .	.	16B-	.	.	.	.	.
@@ -164,3 +163,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 104
 !!!Audio_Example_Duration: 6.943
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
