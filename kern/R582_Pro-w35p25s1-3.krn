@@ -5,7 +5,7 @@
 !!!example: 582
 !!!work: Pro-35
 !!!OMD-full: Precipitato
-!!!OMD: Precipitato
+!!!OMD: Precipitato {[eighth]=368}
 !!!AGN-sub: Keyboard
 !!!OPR: Piano Sonata No. 7 in B-flat Major, op. 83
 !!!filename: R582_Pro-w35p25s1-3.krn
@@ -20,11 +20,8 @@
 *clefF4	*clefF4	*
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
-!!LO:TX:tempo:a:t=Precipitato\n{[eighth]=368}
 *M7/8	*M7/8	*
 =1	=1	=1
-!	!LO:TX:t=[[eighth]=368]	!
-!	!	!
 8r	4D 4F 4B-	mp
 8BBB- 8BB-	.	.
 4CC#X^ 4C#X	8r	.
@@ -202,3 +199,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 176
 !!!Audio_Example_Duration: 16.746
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
