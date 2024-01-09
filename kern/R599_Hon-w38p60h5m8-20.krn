@@ -20,7 +20,6 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[Allegro]\n[[quarter]=126; [quarter-dot]=126]
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*M9/8	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
 *	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!LO:TX:b:i:t=sostenuto	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -210,3 +209,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 127
 !!!Audio_Example_Duration: 18.470
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
