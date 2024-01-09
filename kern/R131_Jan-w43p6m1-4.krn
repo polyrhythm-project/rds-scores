@@ -21,7 +21,6 @@
 *	*	*	*	*	*	*	*
 *k[]	*	*	*	*k[]	*	*	*
 *C:	*	*	*	*C:	*	*	*
-!!LO:TX:tempo:a:t=Presto\n[half-dot]=84
 *M3/4	*	*	*	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:t=Baryton solo	!	!	!	!	!	!	!
@@ -105,3 +104,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 198
 !!!Audio_Example_Duration: 3.635
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
