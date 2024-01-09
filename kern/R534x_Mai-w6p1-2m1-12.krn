@@ -20,7 +20,6 @@
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
-!!LO:TX:tempo:a:t=Allegretto tranquillo\n[eighth]=108
 *M3/8	*	*M3/8	*
 !	!	!	!LO:DY:t=cantabile ( %s )
 8r	.	8g'~L	mp
@@ -168,3 +167,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 59
 !!!Audio_Example_Duration: 19.457
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
