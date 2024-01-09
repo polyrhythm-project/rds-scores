@@ -24,7 +24,7 @@
 !!LO:TX:tempo:a:t=[[quarter]=160]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!
 !LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!	!	!LO:TX:b:t=arco	!	!LO:TX:a:t=arco	!	!	!	!
 4CC	p	4C	p	12G'L	sfp	12e-X'L	sfp	12g'L	sfp	1r	1r	.
 .	.	.	.	12G'J	.	12e-'J	.	12g'J	.	.	.	.
@@ -230,3 +230,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 173
 !!!Audio_Example_Duration: 12.842
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
