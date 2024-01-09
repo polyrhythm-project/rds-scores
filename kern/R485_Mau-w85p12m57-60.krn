@@ -25,7 +25,7 @@
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-!	!	!	!	!	!	!	!	!LO:TX:t=[half]=84	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=84]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	! 	!	!	!	!	!	!LO:T:n=1:b	!	!LO:T:n=1:b	!	!	!
 8CC'	f	8C'L	f	8c'L	f	8c'L	f	8c'L	f	8C	f	8r	.	8r	.	8r)j	.	2.B	f	4e 4g	f	2.b	f	4ee 4gg)j	f	2.bb	f	4ee) 4gg)j	f	4eee) ]4gggj	f	]4ggg	f
 8r	.	(8E'J	.	(8e'J	.	(8e'J	.	(8e'J	.	8r	.	4cc~	f	4c~	f	4c~	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -131,3 +131,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 144
 !!!Audio_Example_Duration: 6.635
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
