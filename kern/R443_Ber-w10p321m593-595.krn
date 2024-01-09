@@ -25,7 +25,7 @@
 *MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*	*MM100	*	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*	*MM100	*
 !!LO:REH:t=593
 =151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)	=151(593)
-!	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:TX:a:B:t=Das übrige Orchester 	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:a:t=[[quarter]=100]	!
+!	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:TX:a:B:t=Das übrige Orchester 	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
 !	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=BÜHNENMUSIK	!
 !LO:TX:t=[senza sord.]	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!LO:TX:t=[in 3]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 [2.BB-X]	p	(2c#X	p <	(8fnL	p <	(4.ddn	p <	8A-X)jj	.	.	2.r	.	.	2.r	.	4Gn	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
@@ -158,3 +158,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 71
 !!!Audio_Example_Duration: 12.667
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
