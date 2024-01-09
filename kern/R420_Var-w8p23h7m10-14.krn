@@ -7,7 +7,7 @@
 !!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Theatrical
-!!!OPR: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
+!!!OPR: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
 !!!filename: R420_Var-w8p23h7m10-14.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
@@ -28,7 +28,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:T:b	!LO:DY:ed=brack	!	!	!LO:TX:t=[[quarter]=80]	!
+!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:TX:a:t=senza sord.	!	!LO:T:b	!LO:DY:ed=brack	!	!	!	!
 4%5r	.	4%5r	.	4%5r	.	4%5r	.	4F^	ff	2e^	2FF^ 2F	ff	4%5r	.	.	(2F^	fff	(2e^	fff	(2F^	fff	(2e^	fff	4r	.	4r	.	4r	.	4r	.	][4f#Xi ][4cc#Xi ][4ggi	ff >	4%5r	.	4%5r	.
 .	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8f#L] 8cc#] 8gg]	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a#XLL	ff	16cc#XLL	ff	16dLL	ff	16cc#XLL	ff	16d~Jk 16a#X 16cc#X	]]	.	.	.	.
@@ -210,3 +210,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 80
 !!!Audio_Example_Duration: 12.764
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
