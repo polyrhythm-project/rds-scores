@@ -5,9 +5,9 @@
 !!!example: 534
 !!!work: Mai-6
 !!!OMD-full: Andante con moto
-!!!OMD: Andante con moto
+!!!OMD: Andante con moto [quarter]=108
 !!!AGN-sub: Symphonic
-!!!OPR: Esquisses (Sketches) for Small Orchestra
+!!!OPR: Esquisses (Sketches) for Small Orchestra
 !!!filename: R534_Mai-w6p2m1-5.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
 *grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*
@@ -21,10 +21,8 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
 *G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*C-:	*C-:	*
-!!LO:TX:tempo:a:t=Andante con moto\n[quarter]=108
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!LO:TX:t=[[eighth]=108]	!
+!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!
 8r	.	8r	.	8r	.	8ee	pp	8r	.	8ee	pp	8gg	pp	8bb	pp	8ee	pp	8gg	pp	8bb	pp	8r	.	8r	8r	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -131,3 +129,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: unavailable
 !!!Audio_Example_Duration: unavailable
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
