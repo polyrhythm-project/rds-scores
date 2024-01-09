@@ -24,7 +24,7 @@
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !!LO:REH:t=19
 =195	=195	=195	=195	=195	=195	=195	=195
-!	!	!LO:TX:t=[quarter]=120	!LO:DY:t=%s legato	!	!	!LO:TX:t=[quarter]=120	!
+!	!	!	!LO:DY:t=%s legato	!	!	!	!
 !	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 16FFLL	.	16cLL	p	4c~	mf	4ccc~	mf
 16C	.	16f	.	.	.	.	.
@@ -126,3 +126,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 111
 !!!Audio_Example_Duration: 4.340
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
