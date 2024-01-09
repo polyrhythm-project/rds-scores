@@ -24,7 +24,6 @@
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =99	=99	=99	=99	=99	=99	=99
-!	!	!	!	!	!LO:TX:t=[half]=132	!
 !	!	!LO:DY:ed=brack	!	!	!	!
 !	!	!	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.
 8d')j	8ddd')j	f	(4F#X	f <	(4ddd	f <
@@ -129,3 +128,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 236
 !!!Audio_Example_Duration: 6.098
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
