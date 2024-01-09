@@ -23,7 +23,7 @@
 !!LO:TX:tempo:a:t=[Animé et Jubilatoire]\n[[quarter]=100]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=100]	!
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!
 1r	.	1r	.	1r	.	16G#XKL]	ff	1r	.	8aL	ff	1r	.
 .	.	.	.	.	.	8B-X^	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8ee-XJ	.	.	.
@@ -171,3 +171,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 89
 !!!Audio_Example_Duration: 14.083
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
