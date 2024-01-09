@@ -24,9 +24,7 @@
 !!LO:TX:tempo:a:t=[Sostenuto]\n[[quarter]=100]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559
-!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
 !LO:TX:a:t=[arco]	!LO:DY:ed=brack	!	!	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
-!	!	!	!	!	!	!	!	!	!	!	!	!	!
 8.GG#XL	mf	2r	.	4d#X 4b	p	4dd#X	p	4dd#X	p	8.GG#XL	f	8d#X'L	mp
 .	.	.	.	.	.	.	.	.	.	.	.	8f#'J	.
 16EEJk	.	.	.	.	.	.	.	.	.	16EEJk	.	.	.
@@ -105,3 +103,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 104
 !!!Audio_Example_Duration: 2.305
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
