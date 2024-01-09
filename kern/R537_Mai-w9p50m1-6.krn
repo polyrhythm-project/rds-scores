@@ -5,7 +5,7 @@
 !!!example: 537
 !!!work: Mai-9
 !!!OMD-full: Andante
-!!!OMD: Andante
+!!!OMD: Andante {[quarter]=58}
 !!!AGN-sub: Choral
 !!!OPR: Mass for Unaccompanied Mixed Double Choir
 !!!filename: R537_Mai-w9p50m1-6.krn
@@ -21,11 +21,8 @@
 *	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
 *k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
 *G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
-!!LO:TX:tempo:a:t=Andante\n{[quarter]=58}
 *M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=58]	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4BB	A-	p	4F#	A-	p	4B	A-	p	4f#	A-	p	4%5r	.	.	4%5r	.	.	4%5r	.	.	4%5r	.	.
 4BB	-gnus	.	4F#	-gnus	.	4B	-gnus	.	4f#	-gnus	.	.	.	.	.	.	.	.	.	.	.	.	.
 4BB	De-	.	4F#	De-	.	4B	De-	.	4f#	De-	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -139,3 +136,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 57
 !!!Audio_Example_Duration: 29.458
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08
