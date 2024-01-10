@@ -24,7 +24,7 @@
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 *	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
-!	!	!LO:TX:a:t=unis.	!	!	!	!LO:TX:t=[[quarter-dot]=100]	!	!	!	!	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:a:t=[a2]	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:t=[[quarter-dot]=100]	!
+!	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:a:t=[a2]	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!
 8r	.	8r	.	8r	.	8r	.	16r	16r	fff	]8ggg^	f	8c#X' 8f#X	f	]8f 8b-X	f	8c#X' 8f#X	p	8f ]8b-y	p	16r	ff	16r	ff	16r	ff	16r	ff	16r	ff
 .	.	.	.	.	.	.	.	8bb-X^L	8bbb-X^L 8bbbb-X	.	.	.	.	.	.	.	.	.	.	.	8aa#^L	.	8bb-X^L	.	8bb-X^L	.	8bb-X^L	.	8bbb-XL	.
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -143,3 +143,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 134
 !!!Audio_Example_Duration: 5.850
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
