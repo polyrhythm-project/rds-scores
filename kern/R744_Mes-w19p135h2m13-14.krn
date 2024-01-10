@@ -7,7 +7,7 @@
 !!!OMD-full: Modéré, presque vif, énergique
 !!!OMD: [Énergique]
 !!!AGN-sub: Choral
-!!!OPR: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!OPR: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
 !!!filename: R744_Mes-w19p135h2m13-14.krn
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
 *grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*
@@ -25,8 +25,8 @@
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*8va	*	*	*	*	*	*	*	*
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 8AAAn^L	ff	8AAn^L	ff	8An^L	ff	8An^L	ff	(12D-XL	mf	(16ff#XLL	fff	(16aanLL 16ccc	fff	(16eeeLL 16ggg#X	fff	(12GL	mf	(12B-XL 12e-X	mf	8AAAn^L 8AAn	.	24cccc#XLL	ffff	8anL	ff	(In-	8eeeL	f	8ddddL	f
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ggg	.	.	.	.	.	.	.	.
@@ -149,3 +149,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 100
 !!!Audio_Example_Duration: 4.801
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
