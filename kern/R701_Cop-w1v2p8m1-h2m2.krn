@@ -23,8 +23,7 @@
 !!LO:TX:tempo:a:t=Molto Allegro\n[quarter]=160
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!LO:TX:t= Molto Allegro ([quarter]=160)	!	!	!	!	!	!	!	!
-!	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s non leggiero	!	!	!LO:TX:t=Molto Allegro ([quarter]=160)	!
+!	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s non leggiero	!	!	!	!
 4r	.	8aL	p	8r	8a^L	p	4%3r	.	4%3r	.
 .	.	8cJ	.	8c^	8gJ	.	.	.	.	.
 4r	.	4r	.	8d	8r	.	.	.	.	.
@@ -251,3 +250,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 142
 !!!Audio_Example_Duration: 22.749
 !!!ONB: Converted from MusicXML on 2020/09/04
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
