@@ -28,8 +28,6 @@
 !!LO:REH:t=19
 =203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=88]	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
 8BBL	p	8BL	p	4.g	p	4.b	p	4.dd	p	(12dL	p	(12ddL	p	32Re/LLL	p	4.d	p	1r	p	4.gnZ	p	4.b 4.dd	p
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re/	.	.	.	.	.	.	.	.	.
@@ -165,3 +163,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 204
 !!!Audio_Example_Duration: 3.524
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/09
