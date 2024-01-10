@@ -23,7 +23,7 @@
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
 *MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
 =53	=53	=53	=53	=53	=53	=53	=53	=53
-!LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
+!	!LO:DY:ed=brack	!	!	!	!	!	!	!
 *Xtuplet	*	*Xtuplet	*	*	*	*	*	*
 !	!LO:DY:a	!	!	!	!	!	!	!
 12cc>^L	p	4ryy	1r	.	1r	.	1r	.
@@ -173,3 +173,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 135
 !!!Audio_Example_Duration: 10.667
 !!!RDF**kern: < = below
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/09
