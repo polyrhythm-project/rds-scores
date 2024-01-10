@@ -25,10 +25,6 @@
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 !!LO:REH:t=14
 =138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=72]	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Con moto	!
-!	!	!	!	!	!	!LO:TX:a:B:t=Con moto	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=On shell of S.D.	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!LO:TX:a:t=a 2	!
 !	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!	!	!	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -133,3 +129,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 150
 !!!Audio_Example_Duration: 4.806
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/09
