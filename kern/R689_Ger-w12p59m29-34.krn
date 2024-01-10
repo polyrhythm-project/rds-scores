@@ -24,7 +24,6 @@
 *M2/2	*	*M2/2	*	*M2/2	*	*	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*	*
 =29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:
-!	!	!	!	!LO:TX:t=[[half]=80]	!	!	!
 !LO:TX:b:t= 	!LO:DY:ed=brack	!LO:TX:b:B:i:t=[p-mf]	!	!LO:TX:a:B:i:t=[p-mf]	!	!	!
 4BBB- 4BB-	p - mf	4r	.	4r	.	.	B- major
 !	!	!	!	!LO:TX:a:i:t=(with abandon)	!	!	!
@@ -133,3 +132,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 210
 !!!Audio_Example_Duration: 6.832
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
