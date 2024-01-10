@@ -25,7 +25,6 @@
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
 !!LO:REH:t=66
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!	!	!	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!
 4r	mf	16r	mf	8.r	mf	16Re/LL	mf	4r	mf	.	4r	mf	.	.	.
 .	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
@@ -214,3 +213,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 140
 !!!Audio_Example_Duration: 11.996
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024-01-10
