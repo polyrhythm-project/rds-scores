@@ -27,7 +27,6 @@
 !!LO:REH:t=110
 =110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=72]	!
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:t=a 2	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:t=a 2	!LO:DY:ed=brack
 1r	f	8cL	f	8dL 8f	f	4.fff	f	4.fff	f	8cL 8d 8f	f	8b-L 8dd	f	8Re/L	f	4.c	1r	f	4.cc	f	4.ff	f	4eeX	f	8cL 8f	f	8b-L	f	8cL	f	8dL	f	1r	.	8b-L 8dd	f	4eeee	f
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=poco a poco %s	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -176,3 +175,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 146
 !!!Audio_Example_Duration: 4.946
 !!!ONB: Converted from MusicXML on 2021/06/16
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
