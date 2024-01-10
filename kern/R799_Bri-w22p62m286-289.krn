@@ -23,7 +23,6 @@
 !!LO:TX:tempo:a:t=[Allegro molto]\n[[half]=126]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286
-!	!	!	!	!LO:TX:t=[half]=126	!	!	!	!	!	!	!	!LO:TX:t=[[half]=126]	!
 !	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack
 2r	.	2ffZtt	p	2ffZtt	p	8r	.	8r	ff	8D-XL	.	8d-XL	ff
 .	.	.	.	.	.	8a-X^	.	8aa-X^	.	8Fn	.	8fn	.
@@ -133,3 +132,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 244
 !!!Audio_Example_Duration: 3.924
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10	
