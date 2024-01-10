@@ -25,7 +25,7 @@
 !!LO:TX:tempo:a:t=[Vif]\n[[quarter]=100]
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-!LO:TX:a:t=(sempre pizz.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!LO:DY:ed=brack	!LO:T:n=1:b	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2.	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=100]	!
+!LO:TX:a:t=(sempre pizz.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!LO:DY:ed=brack	!LO:T:n=1:b	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2.	!LO:DY:ed=brack	!	!
 !	!	!LO:TX:a:t=(arco sempre)	!	!LO:TX:a:t=(arco sempre)	!	!LO:TX:a:t=(arco sempre)	!	!LO:TX:a:t=(arco sempre)	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 4BBBn'	ff	16r	.	16r	.	16r	.	16r	.	2r	.	8cnL 8fn 8f#X	.	16ddKL] 16ee-X] 16gg] 16bb-X]	f	8aaL] 8bb]	f	16ffffnLL	f	4gggg]	f	[2Re/	ff	16Re/LL]	p	8.ReTT\]	pp	16Re/]	fff	8r	.	4r	.	16r	.	8.r	.	]4Re/[	ff	2r	.	2r	.	16r	.	8r	.	8r	.	2r	.	8r	.	4r	.	16fffnX]	f	4r	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=g.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!
@@ -163,3 +163,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 97
 !!!Audio_Example_Duration: 4.941
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/10
