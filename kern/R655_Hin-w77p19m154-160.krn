@@ -25,8 +25,7 @@
 *met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*
 *	*8va	*	*	*	*
 =154	=154	=154	=154	=154	=154
-!	!	!	!	!LO:TX:t=[[half]=120]	!
-!	!LO:TX:t=[[half]=120]	!	!	!	!LO:DY:ed=brack
+!	!	!	!	!	!LO:DY:ed=brack
 2r	(4ddd	p	1r	8B 8f#X\	pp
 .	.	.	.	8B 8b	.
 .	8ggg)	.	.	4r	.
@@ -153,3 +152,5 @@
 !!!Audio_Example_Quarter_Note_Tempo: 56
 !!!Audio_Example_Duration: 7.558
 !!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/09
