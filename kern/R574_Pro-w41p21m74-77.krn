@@ -4,8 +4,7 @@
 !!!OMV: Movement 3
 !!!example: 574
 !!!work: Pro-41
-!!!OMD-full: Allegro tranquillo
-!!!OMD: [Allegro sostenuto]
+!!!OMD: Allegro tranquillo
 !!!AGN-sub: Keyboard
 !!!OPR: Piano Sonata No. 9 in C Major, op. 103
 !!!filename: R574_Pro-w41p21m74-77.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefF4	*
 *k[b-e-a-d-]	*	*k[b-e-a-d-]	*
 *A-:	*	*A-:	*
-!!LO:TX:tempo:a:t=[Allegro sostenuto]\n{[quarter]=96}
+!!LO:TX:omd:tempo:a:t=[Allegro sostenuto]\n{[quarter]=96}
 *M4/4	*	*M4/4	*
 =74	=74	=74	=74
 !	!	!	!LO:DY:ed=brack

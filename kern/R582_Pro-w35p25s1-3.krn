@@ -4,8 +4,7 @@
 !!!OMV: Movement 3
 !!!example: 582
 !!!work: Pro-35
-!!!OMD-full: Precipitato
-!!!OMD: Precipitato {[eighth]=368}
+!!!OMD: Precipitato
 !!!AGN-sub: Keyboard
 !!!OPR: Piano Sonata No. 7 in B-flat Major, op. 83
 !!!filename: R582_Pro-w35p25s1-3.krn
@@ -20,6 +19,7 @@
 *clefF4	*clefF4	*
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
+!!LO:TX:omd:tempo:a:t=Precipitato
 *M7/8	*M7/8	*
 =1	=1	=1
 8r	4D 4F 4B-	mp

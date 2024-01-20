@@ -4,8 +4,7 @@
 !!!OMV: Part 1, Text 5: The Morning Star
 !!!example: 812
 !!!work: Bri-33
-!!!OMD-full: Molto moderato ma giocoso
-!!!OMD: [Molto moderato ma giocoso]
+!!!OMD: Molto moderato ma giocoso
 !!!AGN-sub: Choral
 !!!OPR: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
 !!!filename: R812_Bri-w33p39h19m2-13.krn
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*
 *k[b-]	*	*	*k[b-]	*	*	*k[b-]	*	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*	*F:	*	*	*F:	*	*	*C:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
-!!LO:TX:tempo:a:t=[Molto moderato ma giocoso]\n[[quarter-dot]=44]
+!!LO:TX:omd:tempo:a:t=[Molto moderato ma giocoso]\n[[quarter-dot]=44]
 *M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 !	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=[B.D.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack

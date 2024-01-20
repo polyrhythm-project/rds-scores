@@ -4,8 +4,7 @@
 !!!OMV: IV: Buciumeana, Tanz aus Butschum (Dance of Butschum)
 !!!example: 324
 !!!work: Bar-14
-!!!OMD-full: Moderato
-!!!OMD: [Moderato]
+!!!OMD: Moderato
 !!!AGN-sub: Keyboard
 !!!OPR: Román népi táncok (Romanian Folk Dances) for Piano
 !!!filename: R324_Bar-w14p6m3-10.krn
@@ -20,7 +19,7 @@
 *clefG2	*clefG2	*
 *k[]	*k[]	*
 *C:	*C:	*
-!!LO:TX:tempo:a:t=[Moderato]\n[[quarter]=100]
+!!LO:TX:omd:tempo:a:t=[Moderato]\n[[quarter]=100]
 *M3/4	*M3/4	*
 =3	=3	=3
 !	!LO:TX:b:i:t=molto espr.	!

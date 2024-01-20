@@ -4,8 +4,7 @@
 !!!OMV: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
 !!!example: 731
 !!!work: Mes-16
-!!!OMD-full: Vif et gai
-!!!OMD: Plus lent
+!!!OMD: Vif et gai
 !!!AGN-sub: Keyboard
 !!!OPR: Les Corps glorieux (Glorious Bodies) for Organ
 !!!filename: R731_Mes-w16b3p9m24-28.krn
@@ -20,6 +19,7 @@
 *clefG2	*	*clefG2	*
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*
+!!LO:TX:omd:tempo:a:t=Vif et gai
 *M	*	*M	*
 =24	=24	=24	=24
 !	!	!LO:TX:t=[[eighth]=82]	!

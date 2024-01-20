@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 678
 !!!work: Hin-90
-!!!OMD-full: Fast-Schnell
-!!!OMD: [Fast-Schnell]
+!!!OMD: Fast-Schnell
 !!!AGN-sub: Symphonic
 !!!OPR: Sinfonietta in E Major
 !!!filename: R678_Hin-w90p19m143-147.krn
@@ -20,7 +19,7 @@
 *clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[Fast-Schnell]\n[[half]=108]
+!!LO:TX:omd:tempo:a:t=[Fast-Schnell]\n[[half]=108]
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 !!LO:REH:t=L
 =143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143

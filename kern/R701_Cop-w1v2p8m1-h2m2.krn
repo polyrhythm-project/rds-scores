@@ -4,7 +4,6 @@
 !!!OMV: Movement 2: Scherzo
 !!!example: 701
 !!!work: Cop-1
-!!!OMD-full: Allegro molto
 !!!OMD: Allegro molto
 !!!AGN-sub: Symphonic
 !!!OPR: Symphony No. 1
@@ -20,7 +19,7 @@
 *clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=Molto Allegro\n[quarter]=160
+!!LO:TX:omd:tempo:a:t=Molto Allegro\n[quarter]=160
 *M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s non leggiero	!	!	!	!

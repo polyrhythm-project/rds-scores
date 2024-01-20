@@ -1,11 +1,10 @@
 !!!!SEGMENT: R686x_Ger-w3v2p12h9m1-5.krn
 !!!COM: Gershwin, George
 !!!OTL: single movement work
-!!!OMD-full: Molto moderato
+!!!OMD: Molto moderato
 !!!example: 686x
 !!!work: Ger-3x
 !!!OMD-full: Molto moderato
-!!!OMD: [Tempo giusto]
 !!!AGN-sub: Keyboard
 !!!OPR: Rhapsody in Blue for Solo Piano
 !!!filename: R686x_Ger-w3v2p12h9m1-5.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*
 *k[]	*k[]	*
 *C:	*C:	*
-!!LO:TX:tempo:a:t=[Tempo giusto]\n{[quarter]=171}
+!!LO:TX:omd:tempo:a:t=[Tempo giusto]\n{[quarter]=171}
 *M4/4	*M4/4	*
 *	*8va	*
 =91	=91	=91

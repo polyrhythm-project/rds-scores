@@ -4,8 +4,7 @@
 !!!OMV: No. 3
 !!!example: 536
 !!!work: Mai-8
-!!!OMD-full: Vif et léger
-!!!OMD: [Léger et mordant]
+!!!OMD: Vif et léger
 !!!AGN-sub: Solo
 !!!OPR: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
 !!!filename: R536_Mai-w8p11m32-41.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*
-!!LO:TX:tempo:a:t=[Léger et mordant]\n[[quarter]=120]
+!!LO:TX:omd:tempo:a:t=[Léger et mordant]\n[[quarter]=120]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =32	=32	=32	=32	=32	=32	=32	=32
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!

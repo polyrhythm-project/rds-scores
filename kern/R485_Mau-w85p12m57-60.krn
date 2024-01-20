@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 485
 !!!work: Mau-85
-!!!OMD-full: Adagio
-!!!OMD: [Allegro]
+!!!OMD: Adagio
 !!!AGN-sub: Symphonic
 !!!OPR: Symphony No. 5
 !!!filename: R485_Mau-w85p12m57-60.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*	*	*	*ITrd-7c-12	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*F:	*	*F:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Allegro]\n[[half]=84]
+!!LO:TX:omd:tempo:a:t=[Allegro]\n[[half]=84]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57

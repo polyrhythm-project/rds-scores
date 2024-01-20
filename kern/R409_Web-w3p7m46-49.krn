@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 409
 !!!work: Web-3
-!!!OMD-full: Langsam, mit bewegtem Ausdruok
-!!!OMD: [Schneller werdend]
+!!!OMD: Langsam, mit bewegtem Ausdruok
 !!!AGN-sub: Chamber
 !!!OPR: Langsamer Satz (Slow Movement) for String Quartet
 !!!filename: R409_Web-w3p7m46-49.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[schneller werdend (Sehr ruhig)]\n{[quarter]=69}
+!!LO:TX:omd:tempo:a:t=[schneller werdend (Sehr ruhig)]\n{[quarter]=69}
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =46	=46	=46	=46	=46	=46	=46	=46
 *	*	*tremolo	*	*	*	*	*

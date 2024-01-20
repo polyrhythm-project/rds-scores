@@ -4,8 +4,7 @@
 !!!OMV: VII: Turangalîla 2
 !!!example: 770
 !!!work: Mes-22
-!!!OMD-full: Un peu vif
-!!!OMD: [Vif]
+!!!OMD: Un peu vif
 !!!AGN-sub: Concerto
 !!!OPR: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
 !!!filename: R770_Mes-w22p273h7m3-6.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*ITrd-14c-24	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd2c3	*	*	*	*	*	*ITrd-7c-12	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=[Vif]\n[[quarter]=100]
+!!LO:TX:omd:tempo:a:t=[Vif]\n[[quarter]=100]
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 !LO:TX:a:t=(sempre pizz.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!LO:DY:ed=brack	!LO:T:n=1:b	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2.	!LO:DY:ed=brack	!	!

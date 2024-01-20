@@ -4,8 +4,7 @@
 !!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 426
 !!!work: Var-4
-!!!OMD-full: Grave
-!!!OMD: [Animé et jubilatoire]
+!!!OMD: Grave
 !!!AGN-sub: Chamber
 !!!OPR: Octandre for Eight Instruments
 !!!filename: R426_Var-w4p17h1m5-10.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*ITrd4c7	*	*	*	*ITrd-2c-3	*	*	*	*	*
 *k[]	*	*k[]	*	*k[0]	*	*k[]	*	*k[0]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[Animé et Jubilatoire]\n[[quarter]=100]
+!!LO:TX:omd:tempo:a:t=[Animé et Jubilatoire]\n[[quarter]=100]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 !	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!

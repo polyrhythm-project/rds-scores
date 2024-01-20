@@ -4,8 +4,7 @@
 !!!OMV: Part II: The Corregidor's Dance
 !!!example: 319
 !!!work: Fal-6
-!!!OMD-full: Allegretto
-!!!OMD: [Grazioso, ma in tempo]
+!!!OMD: Allegretto
 !!!AGN-sub: Ballet
 !!!OPR: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
 !!!filename: R319_Fal-w6p178-179h44m1-5.krn
@@ -21,7 +20,7 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*	*k[0]	*	*	*	*	*	*k[f#c#]	*	*k[0]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
 *D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*	*E:	*	*	*	*	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
-!!LO:TX:tempo:a:t=[Grazioso, ma in tempo]\n[[quarter-dot]=88]
+!!LO:TX:omd:tempo:a:t=[Grazioso, ma in tempo]\n[[quarter-dot]=88]
 *M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
 *MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*	*MM132	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*

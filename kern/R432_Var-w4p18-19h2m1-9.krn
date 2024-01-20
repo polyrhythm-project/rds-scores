@@ -4,8 +4,7 @@
 !!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 432
 !!!work: Var-4
-!!!OMD-full: Grave
-!!!OMD: Subitement très vif et nerveux
+!!!OMD: Grave
 !!!AGN-sub: Chamber
 !!!OPR: Octandre for Eight Instruments
 !!!filename: R432_Var-w4p18-19h2m1-9.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd-2c-3	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[0]	*	*k[]	*	*k[0]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=Subitement, Très vif et nerveux\n[quarter]=132
+!!LO:TX:omd:tempo:a:t=Subitement, Très vif et nerveux\n[quarter]=132
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 !	!	!	!	!LO:TX:a:t=(sourd.)	!	!	!	!	!	!	!	!	!	!	!

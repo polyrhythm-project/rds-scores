@@ -4,8 +4,7 @@
 !!!OMV: Movement 4: Finale
 !!!example: 630
 !!!work: Hin-22
-!!!OMD-full: Schnelle viertel
-!!!OMD: [Schnelle Viertel]
+!!!OMD: Schnelle viertel
 !!!AGN-sub: Concerto
 !!!OPR: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
 !!!filename: R630_Hin-w22p74-75hDm4-9.krn
@@ -19,7 +18,7 @@
 *I'pf	*	*I'pf	*I'tn	*	*I'cor-fr	*	*I'bn	*
 *clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefF4	*
 *k[]	*	*	*k[]	*	*ITrd-3c-5	*	*k[]	*
-!!LO:TX:tempo:a:t=[Schnelle Viertel]\n{[quarter-dot]=131; [quarter]=131}
+!!LO:TX:omd:tempo:a:t=[Schnelle Viertel]\n{[quarter-dot]=131; [quarter]=131}
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
 *MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
 =53	=53	=53	=53	=53	=53	=53	=53	=53

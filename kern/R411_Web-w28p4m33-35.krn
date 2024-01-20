@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 411
 !!!work: Web-28
-!!!OMD-full: Etwas lebhaft
-!!!OMD: Ritenuto
+!!!OMD: Etwas lebhaft
 !!!AGN-sub: Concerto
 !!!OPR: Concerto for Nine Instruments, op. 24
 !!!filename: R411_Web-w28p4m33-35.krn
@@ -19,7 +18,7 @@
 *I'pf	*I'pf	*	*I'vla	*	*I'vn	*	*I'tn	*	*I'cl	*
 *clefF4	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=rit. (tempo [sehr gemächlich])\n{[quarter]=45}
+!!LO:TX:omd:tempo:a:t=rit. (tempo [sehr gemächlich])\n{[quarter]=45}
 *M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM45	*MM45	*	*MM45	*	*MM45	*	*MM45	*	*MM45	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33

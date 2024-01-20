@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 415
 !!!work: Web-28
-!!!OMD-full: Etwas lebhaft
-!!!OMD: [Etwas lebhaft]
+!!!OMD: Etwas lebhaft
 !!!AGN-sub: Concerto
 !!!OPR: Concerto for Nine Instruments, op. 24
 !!!filename: R415_Web-w28p2-3m11-19.krn
@@ -19,7 +18,7 @@
 *I'pf	*	*I'pf	*	*I'vla	*	*I'vn	*	*I'tn	*	*I'tp	*	*I'cor-fr	*	*I'cl	*	*I'ob	*	*I'fl	*
 *clefF4	*	*clefG2	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[tempo (Etwas lebhaft)]\n[[quarter]=80]
+!!LO:TX:omd:tempo:a:t=[tempo (Etwas lebhaft)]\n[[quarter]=80]
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 *MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*	*MM80	*
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11

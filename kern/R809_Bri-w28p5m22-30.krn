@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 809
 !!!work: Bri-28
-!!!OMD-full: Andante con moto
-!!!OMD: [Andante con moto]
+!!!OMD: Andante con moto
 !!!AGN-sub: Choral
 !!!OPR: Festival Te Deum for Treble Solo, Choir and Organ, op. 32
 !!!filename: R809_Bri-w28p5m22-30.krn
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*
 *k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
 *E:	*	*E:	*	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
-!!LO:TX:tempo:a:t=[Andante con moto]\n[[eighth]=144]
+!!LO:TX:omd:tempo:a:t=[Andante con moto]\n[[eighth]=144]
 *M3/4	*	*M3/4	*	*M3/4	*	*M7/8	*	*	*M7/8	*	*	*M7/8	*	*	*M7/8	*	*
 !	!	!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!	!LO:DY:t=%s cresc.	!	!	!LO:DY:t=%s cresc.	!	!	!LO:DY:t=%s cresc.
 2ryy	.	2ryy	.	2ryy	.	8BBL	Ho-	f	8BBL	Ho-	f	8BL	Ho-	f	8BL	Ho-	f

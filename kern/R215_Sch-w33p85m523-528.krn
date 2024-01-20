@@ -4,8 +4,7 @@
 !!!OMV: Act I, Scene 4
 !!!example: 215
 !!!work: Sch-33
-!!!OMD-full: Lebhaft
-!!!OMD: Breit
+!!!OMD: Lebhaft
 !!!AGN-sub: Opera
 !!!OPR: Moses und Aron (Moses and Aaron), Opera
 !!!filename: R215_Sch-w33p85m523-528.krn
@@ -21,7 +20,7 @@
 *ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=Breit\n[half]=44
+!!LO:TX:omd:tempo:a:t=Breit\n[half]=44
 *M2/2	*	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)
 !LO:TX:t=MOSES ist wieder näher.	!	!	!	!	!	!	!	!	!	!	!	!	!	!

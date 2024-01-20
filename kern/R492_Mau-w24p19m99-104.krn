@@ -4,8 +4,7 @@
 !!!OMV: Movement 5
 !!!example: 492
 !!!work: Mau-24
-!!!OMD-full: Allegro con brio
-!!!OMD: [Allegro con brio]
+!!!OMD: Allegro con brio
 !!!AGN-sub: Chamber
 !!!OPR: Piano Trio No. 1
 !!!filename: R492_Mau-w24p19m99-104.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*	*clefF4	*	*clefG2	*
 *k[]	*k[]	*	*k[]	*	*k[]	*
 *C:	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Allegro con brio]\n[[half]=132]
+!!LO:TX:omd:tempo:a:t=[Allegro con brio]\n[[half]=132]
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =99	=99	=99	=99	=99	=99	=99

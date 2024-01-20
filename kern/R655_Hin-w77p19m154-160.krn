@@ -4,8 +4,7 @@
 !!!OMV: Movement 2: Allegro
 !!!example: 655
 !!!work: Hin-77
-!!!OMD-full: Allegro
-!!!OMD: [Allegro]
+!!!OMD: Allegro
 !!!AGN-sub: Keyboard
 !!!OPR: Sonata for Two Pianos, Four Hands
 !!!filename: R655_Hin-w77p19m154-160.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*	*clefF4	*clefG2	*
 *k[]	*k[]	*	*k[]	*k[]	*
 *C:	*C:	*	*C:	*C:	*
-!!LO:TX:tempo:a:t=[Allegro]\n[[half]=120]
+!!LO:TX:omd:tempo:a:t=[Allegro]\n[[half]=120]
 *M2/2	*M2/2	*	*M2/2	*M2/2	*
 *met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*
 *	*8va	*	*	*	*

@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 799
 !!!work: Bri-22
-!!!OMD-full: Lento
-!!!OMD: [Allegro molto]
+!!!OMD: Lento
 !!!AGN-sub: Concerto
 !!!OPR: Scottish Ballad for Two Pianos and Orchestra, op. 26
 !!!filename: R799_Bri-w22p62m286-289.krn
@@ -20,7 +19,7 @@
 *clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
 *k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
 *D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
-!!LO:TX:tempo:a:t=[Allegro molto]\n[[half]=126]
+!!LO:TX:omd:tempo:a:t=[Allegro molto]\n[[half]=126]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286	=286
 !	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack

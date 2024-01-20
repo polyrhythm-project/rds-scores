@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 222
 !!!work: Sch-35
-!!!OMD-full: Poco allegro
-!!!OMD: [Poco allegro]
+!!!OMD: Poco allegro
 !!!AGN-sub: Concerto
 !!!OPR: Violin Concerto, op. 36
 !!!filename: R222_Sch-w35p20m73-75.krn
@@ -20,7 +19,7 @@
 *clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*Trd0c0	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=Tempo [Tempo I (Poco Allegro)]\n[[half]=64]
+!!LO:TX:omd:tempo:a:t=Tempo [Tempo I (Poco Allegro)]\n[[half]=64]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
 !	!	!	!	!	!	!	!	!	!	!	!

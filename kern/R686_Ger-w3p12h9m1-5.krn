@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 686
 !!!work: Ger-3
-!!!OMD-full: Molto moderato
-!!!OMD: [Tempo giusto]
+!!!OMD: Molto moderato
 !!!AGN-sub: Concerto
 !!!OPR: Rhapsody in Blue for Orchestra
 !!!filename: R686_Ger-w3p12h9m1-5.krn
@@ -21,7 +20,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*	*C:	*	*C:	*	*	*	*C:	*	*C:	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd1c2	*
-!!LO:TX:tempo:a:t=[Tempo giusto]\n{[quarter]=133}
+!!LO:TX:omd:tempo:a:t=[Tempo giusto]\n{[quarter]=133}
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 *MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*
 !!LO:REH:t=9

@@ -4,8 +4,7 @@
 !!!OMV: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
 !!!example: 730
 !!!work: Mes-16
-!!!OMD-full: Modéré, un peu lent, rêveur
-!!!OMD: [Modéré, un peu lent, rêveur]
+!!!OMD: Modéré, un peu lent, rêveur
 !!!AGN-sub: Keyboard
 !!!OPR: Les Corps glorieux (Glorious Bodies) for Organ
 !!!filename: R730_Mes-w16b1p8m26-27.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
-!!LO:TX:tempo:a:t=[Bien modéré]\n{[eighth]=63}
+!!LO:TX:omd:tempo:a:t=[Bien modéré]\n{[eighth]=63}
 *M11/8	*M11/8	*M11/8
 =26	=26	=26
 8C#XL	4c#X 4e 4f#X 4b-X	4ee 4aa 4ddd#X

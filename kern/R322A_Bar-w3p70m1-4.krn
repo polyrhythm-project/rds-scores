@@ -4,8 +4,7 @@
 !!!OMV: Movement 3
 !!!example: 322A
 !!!work: Bar-3
-!!!OMD-full: Presto
-!!!OMD: Presto ([half-dot] = 92)
+!!!OMD: Presto
 !!!AGN-sub: Symphonic
 !!!OPR: Suite No. 1 for Orchestra, op. 3
 !!!filename: R322A_Bar-w3p70m1-4.krn
@@ -20,6 +19,7 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=Presto
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!

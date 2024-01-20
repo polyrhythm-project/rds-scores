@@ -4,7 +4,6 @@
 !!!OMV: Movement 1
 !!!example: 396
 !!!work: Str-47
-!!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Symphonic
 !!!OPR: Symphony in Three Movements
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*
-!!LO:TX:tempo:a:t=[[quarter]=160]
+!!LO:TX:omd:tempo:a:t=[[quarter]=160]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!

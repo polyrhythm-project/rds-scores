@@ -4,8 +4,7 @@
 !!!OMV: Movement 3: Allegro
 !!!example: 599
 !!!work: Hon-38
-!!!OMD-full: Allegro
-!!!OMD: [Allegro] [quarter] = [quarter-dot] = 126
+!!!OMD: Allegro
 !!!AGN-sub: Symphonic
 !!!OPR: Symphony No. 4 \"Deliciae basiliensis\" (Pleasures of Basel) for Chamber Orchestra
 !!!filename: R599_Hon-w38p60h5m8-20.krn
@@ -20,6 +19,7 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=Allegro
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*M9/8	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
 *	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!LO:TX:b:i:t=sostenuto	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!

@@ -4,7 +4,6 @@
 !!!OMV: Movement 3: Subway Jam
 !!!example: 724
 !!!work: Cop-42
-!!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Programmatic
 !!!OPR: Music for a Great City for Orchestra
@@ -21,7 +20,7 @@
 *clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefF4	*	*	*clefF4	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*	*
-!!LO:TX:tempo:a:t=[[quarter]=132]
+!!LO:TX:omd:tempo:a:t=[[quarter]=132]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
 !!LO:REH:t=66
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30

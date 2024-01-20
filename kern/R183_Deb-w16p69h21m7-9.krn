@@ -4,8 +4,7 @@
 !!!OMV: II: Fêtes (Festivals)
 !!!example: 183
 !!!work: Deb-16
-!!!OMD-full: Animé et très rythmé
-!!!OMD: A Tempo [Animé et très rhythmé]
+!!!OMD: Animé et très rythmé
 !!!AGN-sub: Programmatic
 !!!OPR: Nocturnes for Orchestra
 !!!filename: R183_Deb-w16p69h21m7-9.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[]	*
 *A:	*	*A:	*	*C:	*
-!!LO:TX:tempo:a:t=a Tempo [Même Mouvement (Animé et très rhythmé)]\n{[quarter]=180}
+!!LO:TX:omd:tempo:a:t=a Tempo [Même Mouvement (Animé et très rhythmé)]\n{[quarter]=180}
 *M3/4	*	*M3/4	*	*M3/4	*
 !!LO:REH:t=
 =266	=266	=266	=266	=266	=266

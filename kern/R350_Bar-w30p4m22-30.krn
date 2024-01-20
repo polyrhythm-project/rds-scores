@@ -4,8 +4,7 @@
 !!!OMV: I: Allegro moderato
 !!!example: 350
 !!!work: Bar-30
-!!!OMD-full: Allegro moderato
-!!!OMD: [Allegro moderato]
+!!!OMD: Allegro moderato
 !!!AGN-sub: Keyboard
 !!!OPR: Piano Sonata
 !!!filename: R350_Bar-w30p4m22-30.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*	*
 *k[]	*k[]	*	*
 *C:	*C:	*	*
-!!LO:TX:tempo:a:t=[Allegro moderato]\n[[quarter]=120&#8211;126]
+!!LO:TX:omd:tempo:a:t=[Allegro moderato]\n[[quarter]=120&#8211;126]
 *M2/4	*M2/4	*	*
 =22	=22	=22	=22
 *^	*^	*	*

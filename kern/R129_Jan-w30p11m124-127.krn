@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 129
 !!!work: Jan-30
-!!!OMD-full: Con moto
-!!!OMD: [Andante, un poco più mosso]
+!!!OMD: Con moto
 !!!AGN-sub: Chamber
 !!!OPR: Pohádka (Fairy Tale) for Violincello and Piano
 !!!filename: R129_Jan-w30p11m124-127.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*	*clefF4	*
 *k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*A:	*	*A:	*
-!!LO:TX:tempo:a:t=[Un poco più mosso (Andante)]\n[[eighth]=84]
+!!LO:TX:omd:tempo:a:t=[Un poco più mosso (Andante)]\n[[eighth]=84]
 *M2/8	*M2/8	*	*M2/8	*
 =124	=124	=124	=124	=124
 *grp:A	*	*	*	*

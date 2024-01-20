@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 131
 !!!work: Jan-43
-!!!OMD-full: Presto
-!!!OMD: Presto ([half-dot] = 84)
+!!!OMD: Presto
 !!!AGN-sub: Choral
 !!!OPR: Potulný šílenec (The Wandering Madman) for Soprano Solo and Male Chorus
 !!!filename: R131_Jan-w43p6m1-4.krn
@@ -21,6 +20,7 @@
 *	*	*	*	*	*	*	*
 *k[]	*	*	*	*k[]	*	*	*
 *C:	*	*	*	*C:	*	*	*
+!!LO:TX:omd:tempo:a:t=Presto
 *M3/4	*	*	*	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:t=Baryton solo	!	!	!	!	!	!	!

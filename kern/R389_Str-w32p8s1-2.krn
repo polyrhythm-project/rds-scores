@@ -4,7 +4,6 @@
 !!!OMV: Eglogue I (Part II)
 !!!example: 389
 !!!work: Str-32
-!!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Chamber
 !!!OPR: Duo Concertant for Violin and Piano
@@ -20,6 +19,7 @@
 *clefF4	*	*clefG2	*	*clefG2	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*
 *G:	*	*G:	*	*G:	*
+!!LO:TX:omd:tempo:a:t=none
 *XM4/4	*	*XM4/4	*	*XM4/4	*
 =5	=5	=5	=5	=5	=5
 *	*	*^	*	*^	*

@@ -4,7 +4,6 @@
 !!!OMV:
 !!!example: 420
 !!!work: Var-8
-!!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Theatrical
 !!!OPR: Ecuatorial, Prayer from Popol Vuh of Maya Quiché for Four Trumpets, Four Trombones, Piano, Organ, Ondes Martenot and Percussion Ensemble
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*stria	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*I	*	*I	*	*I	*	*I	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=[[quarter]=80]
+!!LO:TX:omd:tempo:a:t=[[quarter]=80]
 *M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
 =93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
 *	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*

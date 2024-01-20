@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 428
 !!!work: Var-1
-!!!OMD-full: Moderato poco lento
-!!!OMD: Subito molto mosso
+!!!OMD: Moderato poco lento
 !!!AGN-sub: Symphonic
 !!!OPR: Amériques (America) for Orchestra
 !!!filename: R428_Var-w1p12-13h5m9-12.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd7c12	*	*	*	*	*	*	*	*ITrd-7c-12	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[0]	*	*k[0]	*	*k[0]	*	*k[0]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=Subito molto mosso\n[quarter]=92
+!!LO:TX:omd:tempo:a:t=Subito molto mosso\n[quarter]=92
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 *	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55

@@ -4,8 +4,7 @@
 !!!OMV: Act I, Prelude
 !!!example: 144
 !!!work: Jan-47
-!!!OMD-full: Andante
-!!!OMD: Più mosso
+!!!OMD: Andante
 !!!AGN-sub: Opera
 !!!OPR: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
 !!!filename: R144_Jan-w47p5h4m1-4.krn
@@ -21,7 +20,7 @@
 *	*	*ITrd-3c-5	*	*ITrd-3c-5	*	*ITrd4c7	*	*ITrd4c7	*
 *k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *C:	*	*F:	*	*F:	*	*F:	*	*F:	*
-!!LO:TX:tempo:a:t=Più mosso\n[quarter-dot]=66
+!!LO:TX:omd:tempo:a:t=Più mosso\n[quarter-dot]=66
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 !!LO:REH:t=4
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38

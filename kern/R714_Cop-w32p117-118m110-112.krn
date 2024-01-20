@@ -4,8 +4,7 @@
 !!!OMV: Movement 6: Happy Ending
 !!!example: 714
 !!!work: Cop-32
-!!!OMD-full: Broadly
-!!!OMD: [Tempo as before]
+!!!OMD: Broadly
 !!!AGN-sub: Programmatic
 !!!OPR: The Red Pony, Suite for Orchestra
 !!!filename: R714_Cop-w32p117-118m110-112.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*	*	*ITrd-7c-12	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*C:	*	*F:	*	*F:	*	*	*	*	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
-!!LO:TX:tempo:a:t=[Tempo as before (Trifle faster)]\n[[half]=72]
+!!LO:TX:omd:tempo:a:t=[Tempo as before (Trifle faster)]\n[[half]=72]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 !!LO:REH:t=110
 =110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110

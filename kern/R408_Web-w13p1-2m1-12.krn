@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 408
 !!!work: Web-13
-!!!OMD-full: Sehr ruhig und zart
-!!!OMD: Sehr ruhig und zart ([quarter] = ca. 50)
+!!!OMD: Sehr ruhig und zart
 !!!AGN-sub: Symphonic
 !!!OPR: Fünf Stücke (Five Pieces) for Orchestra, op. 10
 !!!filename: R408_Web-w13p1-2m1-12.krn
@@ -20,6 +19,7 @@
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*	*	*ITrd-14c-24	*	*	*	*	*ITrd-7c-12	*ITrd-7c-12	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[0]	*	*k[0]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=Sehr ruhig und zart
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!
 8r	.	8r	.	8r	.	8r	.	8r	8bn	ppp	8r	8r	.	8r	.	8bnX'	ppp	8r	.	8r	.

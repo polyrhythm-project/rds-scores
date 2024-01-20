@@ -4,8 +4,7 @@
 !!!OMV: Cuadro V: La Fuga (The Escape)
 !!!example: 315
 !!!work: Fal-8
-!!!OMD-full: Andante molto sostenuto
-!!!OMD: Allegretto vivace
+!!!OMD: Andante molto sostenuto
 !!!AGN-sub: Theatrical
 !!!OPR: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
 !!!filename: R315_Fal-w8p62h67m1-5.krn
@@ -19,7 +18,7 @@
 *I'cb	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'TRU.	*	*	*I'arp	*I'arp	*	*I'hpcd	*	*I'hpcd	*	*I'timp	*	*I'tp	*	*I'cor-fr	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'fl	*
 *clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
-!!LO:TX:tempo:a:t=Allegretto vivace\n[eighth]=152
+!!LO:TX:omd:tempo:a:t=Allegretto vivace\n[eighth]=152
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 *MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*	*MM76	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*
 !!LO:REH:t=67

@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 572
 !!!work: Pro-32
-!!!OMD-full: Andantino
-!!!OMD: [Sostenuto]
+!!!OMD: Andantino
 !!!AGN-sub: Theatrical
 !!!OPR: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
 !!!filename: R572_Pro-w32p63h48m7.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*I	*
 *k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
 *D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
-!!LO:TX:tempo:a:t=[Sostenuto]\n[[quarter]=100]
+!!LO:TX:omd:tempo:a:t=[Sostenuto]\n[[quarter]=100]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559
 !LO:TX:a:t=[arco]	!LO:DY:ed=brack	!	!	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack

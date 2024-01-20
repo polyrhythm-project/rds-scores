@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 798
 !!!work: Bri-42
-!!!OMD-full: Broadly, but with fire
-!!!OMD: [Broadly but with fire]
+!!!OMD: Broadly, but with fire
 !!!AGN-sub: Choral
 !!!OPR: Hymn to St. Columba for Chorus and Organ
 !!!filename: R798_Bri-w42p12m41.krn
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
 *F:	*	*F:	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*	*F:	*	*	*
-!!LO:TX:tempo:a:t=[Broadly, but with fire]\n[[quarter]=80]
+!!LO:TX:omd:tempo:a:t=[Broadly, but with fire]\n[[quarter]=80]
 *M5/4	*	*M5/4	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*	*M5/4	*	*	*
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 *	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*

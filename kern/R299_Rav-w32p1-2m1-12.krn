@@ -4,7 +4,6 @@
 !!!OMV: I: Nahandove
 !!!example: 299
 !!!work: Rav-32
-!!!OMD-full: Andante quasi allegretto
 !!!OMD: Andante quasi allegretto
 !!!AGN-sub: Solo
 !!!OPR: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
@@ -20,7 +19,7 @@
 *clefG2	*	*clefF4	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
-!!LO:TX:tempo:a:t=[eighth]=100
+!!LO:TX:omd:tempo:a:t=[eighth]=100
 *M6/8	*	*M6/8	*
 =1	=1	=1	=1
 !	!	!	!

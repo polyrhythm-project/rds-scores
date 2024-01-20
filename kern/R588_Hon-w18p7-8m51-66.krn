@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 588
 !!!work: Hon-18
-!!!OMD-full: Modéré
-!!!OMD: [Rythmique]
+!!!OMD: Modéré
 !!!AGN-sub: Symphonic
 !!!OPR: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
 !!!filename: R588_Hon-w18p7-8m51-66.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=[Rythmique]\n[[half]=80]
+!!LO:TX:omd:tempo:a:t=[Rythmique]\n[[half]=80]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51

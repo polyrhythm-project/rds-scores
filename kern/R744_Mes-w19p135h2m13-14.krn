@@ -4,8 +4,7 @@
 !!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
 !!!example: 744
 !!!work: Mes-19
-!!!OMD-full: Modéré, presque vif, énergique
-!!!OMD: [Énergique]
+!!!OMD: Modéré, presque vif, énergique
 !!!AGN-sub: Choral
 !!!OPR: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
 !!!filename: R744_Mes-w19p135h2m13-14.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*ITrd-7c-12	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Modéré, presque vif, énergique]\n[[quarter]=100]
+!!LO:TX:omd:tempo:a:t=[Modéré, presque vif, énergique]\n[[quarter]=100]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*8va	*	*	*	*	*	*	*	*
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47

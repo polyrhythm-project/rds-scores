@@ -4,8 +4,7 @@
 !!!OMV: II: Arguments
 !!!example: 255
 !!!work: Ive-35
-!!!OMD-full: Allegro con spirito
-!!!OMD: [Allegro con spirito]
+!!!OMD: Allegro con spirito
 !!!AGN-sub: Chamber
 !!!OPR: String Quartet No. 2
 !!!filename: R255_Ive-w35p12m19-24.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefC3	*clefG2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *C:	*C:	*C:	*C:
-!!LO:TX:tempo:a:t=[Allegro con spirito]\n{[quarter]=108; [quarter-dot]=72}
+!!LO:TX:omd:tempo:a:t=[Allegro con spirito]\n{[quarter]=108; [quarter-dot]=72}
 *M4/4	*M4/4	*M3/8	*M3/8
 =19	=19	=19	=19
 *^	*	*	*

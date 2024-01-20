@@ -4,8 +4,7 @@
 !!!OMV: I: Prélude à la nuit (Prelude to the Night)
 !!!example: 279
 !!!work: Rav-15
-!!!OMD-full: Très modéré
-!!!OMD: [Très modéré]
+!!!OMD: Très modéré
 !!!AGN-sub: Symphonic
 !!!OPR: Rapsodie espagnole (Spanish Rhapsody) for Orchestra
 !!!filename: R279_Rav-w15p1m4-5.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Très modéré]\n[[quarter]=66]
+!!LO:TX:omd:tempo:a:t=[Très modéré]\n[[quarter]=66]
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 !LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!

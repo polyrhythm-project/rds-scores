@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 237B
 !!!work: Ive-31
-!!!OMD-full: Allegro moderato
-!!!OMD: [Allegro vivace]
+!!!OMD: Allegro moderato
 !!!AGN-sub: Ballet
 !!!OPR: The Gong on the Hook and Ladder for Chamber Orchestra
 !!!filename: R237B_Ive-w31p9hEm2-3.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=[Allegro vivace]\n[[eighth]=200]
+!!LO:TX:omd:tempo:a:t=[Allegro vivace]\n[[eighth]=200]
 *M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 *	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*

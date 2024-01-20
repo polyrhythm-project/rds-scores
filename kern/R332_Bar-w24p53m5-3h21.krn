@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 332
 !!!work: Bar-24
-!!!OMD-full: Allegro
-!!!OMD: [Più mosso]
+!!!OMD: Allegro
 !!!AGN-sub: Ballet
 !!!OPR: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
 !!!filename: R332_Bar-w24p53m5-3h21.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd4c7	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[Più mosso]\n[[quarter]=72&#8211;76]
+!!LO:TX:omd:tempo:a:t=[Più mosso]\n[[quarter]=72&#8211;76]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
 !	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!

@@ -4,8 +4,7 @@
 !!!OMV: Movement 1
 !!!example: 602
 !!!work: Hon-20
-!!!OMD-full: Allegro molto moderato
-!!!OMD: [Allegro molto moderato]
+!!!OMD: Allegro molto moderato
 !!!AGN-sub: Concerto
 !!!OPR: Concertino for Piano and Orchestra
 !!!filename: R602_Hon-w20p7h3m1-5.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*
-!!LO:TX:tempo:a:t=[Allegro molto moderato]\n[[quarter]=84]
+!!LO:TX:omd:tempo:a:t=[Allegro molto moderato]\n[[quarter]=84]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 !!LO:REH:t=3
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32

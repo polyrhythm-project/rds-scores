@@ -4,8 +4,7 @@
 !!!OMV: No. 8
 !!!example: 560
 !!!work: Mai-29
-!!!OMD-full: Vivace
-!!!OMD: [Vivace]
+!!!OMD: Vivace
 !!!AGN-sub: Keyboard
 !!!OPR: Eight Preludes for Piano
 !!!filename: R560_Mai-w29p25m10-14.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Vivace]\n[[eighth-dot]=132]
+!!LO:TX:omd:tempo:a:t=[Vivace]\n[[eighth-dot]=132]
 *M18/16	*	*M18/16	*
 =10	=10	=10	=10
 16FF#X'LL	mf	8r	.

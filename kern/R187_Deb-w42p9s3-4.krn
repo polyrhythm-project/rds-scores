@@ -4,8 +4,7 @@
 !!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
 !!!example: 187
 !!!work: Deb-42
-!!!OMD-full: Modéré
-!!!OMD: Mouvement de Marche modéré
+!!!OMD: Modéré
 !!!AGN-sub: Ballet
 !!!OPR: La boîte à joujoux (The Toy Box), Ballet for Children (with piano accompaniment)
 !!!filename: R187_Deb-w42p9s3-4.krn
@@ -20,7 +19,7 @@
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *F:	*F:	*
-!!LO:TX:tempo:a:t=Mouvement de Marche modéré\n{[quarter]=83}
+!!LO:TX:omd:tempo:a:t=Mouvement de Marche modéré\n{[quarter]=83}
 *M2/4	*M2/4	*
 *8ba	*	*
 =122	=122	=122

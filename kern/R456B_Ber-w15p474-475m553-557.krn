@@ -4,8 +4,7 @@
 !!!OMV: Act II, Scene 1
 !!!example: 456B
 !!!work: Ber-15
-!!!OMD-full: none
-!!!OMD: Tumultuoso
+!!!OMD: none
 !!!AGN-sub: Opera
 !!!OPR: Lulu, Unfinished Opera
 !!!filename: R456B_Ber-w15p474-475m553-557.krn
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*ITrd5c9	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
-!!LO:TX:tempo:a:t=[Tempo furioso, ma poco più pesante]\n{[quarter]=129}
+!!LO:TX:omd:tempo:a:t=[Tempo furioso, ma poco più pesante]\n{[quarter]=129}
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 2	!

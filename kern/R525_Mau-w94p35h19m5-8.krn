@@ -4,8 +4,7 @@
 !!!OMV: Movement 3
 !!!example: 525
 !!!work: Mau-94
-!!!OMD-full: Allegro
-!!!OMD: [Tempo primo (Allegro)]
+!!!OMD: Allegro
 !!!AGN-sub: Chamber
 !!!OPR: Piano Trio No. 2 in D Minor
 !!!filename: R525_Mau-w94p35h19m5-8.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[Tempo I° (Allegro)]\n[[quarter]=120]
+!!LO:TX:omd:tempo:a:t=[Tempo I° (Allegro)]\n[[quarter]=120]
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !!LO:REH:t=19
 =195	=195	=195	=195	=195	=195	=195	=195

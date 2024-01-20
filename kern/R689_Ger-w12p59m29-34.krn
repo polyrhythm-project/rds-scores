@@ -4,8 +4,7 @@
 !!!OMV: "I got rhythm"
 !!!example: 689
 !!!work: Ger-12
-!!!OMD-full: Lively
-!!!OMD: [Very marked (with abandon)]
+!!!OMD: Lively
 !!!AGN-sub: Theatrical
 !!!OPR: Girl Crazy, Three Excerpts for Voice and Piano
 !!!filename: R689_Ger-w12p59m29-34.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefG2	*	*clefG2	*	*	*
 *k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*	*
 *B-:	*	*B-:	*	*B-:	*	*	*
-!!LO:TX:tempo:a:t=[Lively]\n{[half]=120}
+!!LO:TX:omd:tempo:a:t=[Lively]\n{[half]=120}
 *M2/2	*	*M2/2	*	*M2/2	*	*	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*	*
 =29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:	=29|!:

@@ -4,7 +4,6 @@
 !!!OMV: Part II: Royal March
 !!!example: 371
 !!!work: Str-15
-!!!OMD-full: none
 !!!OMD: none
 !!!AGN-sub: Theatrical
 !!!OPR: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
@@ -22,7 +21,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*ITrd1c2	*
 *k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
 *B-:	*	*B-:	*	*C:	*	*C:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
-!!LO:TX:tempo:a:t=[[quarter]=112]
+!!LO:TX:omd:tempo:a:t=[[quarter]=112]
 *M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M4/8	*
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 !	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack

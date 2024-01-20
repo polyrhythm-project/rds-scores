@@ -4,8 +4,7 @@
 !!!OMV: I: Soupir (Sigh)
 !!!example: 281
 !!!work: Rav-21
-!!!OMD-full: Lent
-!!!OMD: [Lent]
+!!!OMD: Lent
 !!!AGN-sub: Solo
 !!!OPR: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
 !!!filename: R281_Rav-w21p2m8-9.krn
@@ -20,7 +19,7 @@
 *clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
 *G:	*	*G:	*	*G:	*	*	*G:	*	*C:	*	*G:	*	*G:	*	*G:	*
-!!LO:TX:tempo:a:t=[Lent]\n[[quarter]=40]
+!!LO:TX:omd:tempo:a:t=[Lent]\n[[quarter]=40]
 *M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 !!LO:REH:t=1
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8

@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 180
 !!!work: Deb-40
-!!!OMD-full: Très lent
-!!!OMD: [Scherzando molto grazioso (Mouv't)]
+!!!OMD: Très lent
 !!!AGN-sub: Ballet
 !!!OPR: Jeux (Games), Ballet in One Act for Orchestra
 !!!filename: R180_Deb-w40p21h15m5-7.krn
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd4c7	*	*	*
 *k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
 *A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*F:	*	*F:	*	*A:	*	*A:	*	*A:	*	*A:	*
-!!LO:TX:tempo:a:t=[Mouvt (Tempo initial (Scherzando molto grazioso))]\n[[quarter-dot]=72]
+!!LO:TX:omd:tempo:a:t=[Mouvt (Tempo initial (Scherzando molto grazioso))]\n[[quarter-dot]=72]
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 =130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
 !	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!

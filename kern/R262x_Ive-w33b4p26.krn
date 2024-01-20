@@ -4,8 +4,7 @@
 !!!OMV: IV: Thanksgiving and Forefather's Day
 !!!example: 262x
 !!!work: Ive-33
-!!!OMD-full: Adagio maestoso
-!!!OMD: [Poco agitando (but slower)]
+!!!OMD: Adagio maestoso
 !!!AGN-sub: Programmatic
 !!!OPR: A Symphony: New England Holidays
 !!!filename: R262x_Ive-w33b4p26.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*ITrd-7c-12	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
-!!LO:TX:tempo:a:t=[but slower (Poco agitando)]\n[[quarter]=53&#8211;56]
+!!LO:TX:omd:tempo:a:t=[but slower (Poco agitando)]\n[[quarter]=53&#8211;56]
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
 *^	*	*^	*	*^	*	*^	*	*	*	*	*	*^	*	*	*	*	*

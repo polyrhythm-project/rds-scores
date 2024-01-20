@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 258
 !!!work: Ive-30
-!!!OMD-full: Adagio maestoso-Largo
-!!!OMD: Meno (poco mosso)
+!!!OMD: Adagio maestoso-Largo
 !!!AGN-sub: Symphonic
 !!!OPR: Robert Browning Overture
 !!!filename: R258_Ive-w30p9m55-57.krn
@@ -21,7 +20,7 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*	*	*ITrd1c2	*	*	*	*	*
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*k[b-]	*k[b-]	*	*k[]	*k[b-e-]	*k[]	*k[]	*	*k[]	*
 *ITrd7c12	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
-!!LO:TX:tempo:a:t=Meno (poco mosso)\n[triplet-quarter]=132
+!!LO:TX:omd:tempo:a:t=Meno (poco mosso)\n[triplet-quarter]=132
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 *^	*^	*^	*^	*	*^	*	*	*^	*	*^	*	*	*	*	*^	*	*	*	*	*	*

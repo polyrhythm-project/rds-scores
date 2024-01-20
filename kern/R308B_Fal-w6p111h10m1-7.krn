@@ -4,8 +4,7 @@
 !!!OMV: Part II: Dance of the Neighbours
 !!!example: 308B
 !!!work: Fal-6
-!!!OMD-full: Allegro ma non troppo
-!!!OMD: [Allegro ma non troppo]
+!!!OMD: Allegro ma non troppo
 !!!AGN-sub: Ballet
 !!!OPR: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
 !!!filename: R308B_Fal-w6p111h10m1-7.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
 *k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k	*	*k[f#]	*
 *G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*	*	*G:	*
-!!LO:TX:tempo:a:t=[Allegro ma non troppo]\n[[quarter]=96]
+!!LO:TX:omd:tempo:a:t=[Allegro ma non troppo]\n[[quarter]=96]
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 !!LO:REH:t=10
 =95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95

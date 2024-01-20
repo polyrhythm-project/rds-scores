@@ -4,8 +4,7 @@
 !!!OMV: Act II, Scene 2
 !!!example: 218
 !!!work: Sch-33
-!!!OMD-full: Sehr rash
-!!!OMD: [Leicht bewegt]
+!!!OMD: Sehr rash
 !!!AGN-sub: Opera
 !!!OPR: Moses und Aron (Moses and Aaron), Opera
 !!!filename: R218_Sch-w33p200m252-256.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
 *	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-!!LO:TX:tempo:a:t=[a tempo (Leicht bewegt)]\n[[quarter]=160]
+!!LO:TX:omd:tempo:a:t=[a tempo (Leicht bewegt)]\n[[quarter]=160]
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
 =139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)
 !	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!	!

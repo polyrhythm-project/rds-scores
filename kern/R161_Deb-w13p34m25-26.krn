@@ -4,8 +4,7 @@
 !!!OMV: Movement 4
 !!!example: 161
 !!!work: Deb-13
-!!!OMD-full: Très modéré
-!!!OMD: [En animant peu à peu]
+!!!OMD: Très modéré
 !!!AGN-sub: Chamber
 !!!OPR: String Quartet, op. 10
 !!!filename: R161_Deb-w13p34m25-26.krn
@@ -20,7 +19,7 @@
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*	*D-:	*	*D-:	*
-!!LO:TX:tempo:a:t=[En animant peu à peu]\n[[quarter]=108]
+!!LO:TX:omd:tempo:a:t=[En animant peu à peu]\n[[quarter]=108]
 *M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
 =25	=25	=25	=25	=25	=25	=25	=25
 16%3g-^L	f	8b-^L	f	16%3gg-^L	f	8bb-^L	f

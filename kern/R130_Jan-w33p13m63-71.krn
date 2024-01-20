@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 130
 !!!work: Jan-33
-!!!OMD-full: Con moto
-!!!OMD: [Con moto]
+!!!OMD: Con moto
 !!!AGN-sub: Programmatic
 !!!OPR: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
 !!!filename: R130_Jan-w33p13m63-71.krn
@@ -21,7 +20,7 @@
 *ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
 *k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
 *E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*C:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
-!!LO:TX:tempo:a:t=[Con moto]\n{[eighth]=180}
+!!LO:TX:omd:tempo:a:t=[Con moto]\n{[eighth]=180}
 *M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
 !!LO:REH:t=2
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63

@@ -4,8 +4,7 @@
 !!!OMV:
 !!!example: 534x
 !!!work: Mai-0
-!!!OMD-full: Allegretto tranquillo
-!!!OMD: Allegretto tranquillo  [eighth]=108
+!!!OMD: Allegretto tranquillo
 !!!AGN-sub: Keyboard
 !!!OPR: Esquisse pour Piano
 !!!filename: R534x_Mai-w6p1-2m1-12.krn
@@ -20,6 +19,7 @@
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=Allegretto tranquillo
 *M3/8	*	*M3/8	*
 !	!	!	!LO:DY:t=cantabile ( %s )
 8r	.	8g'~L	mp
