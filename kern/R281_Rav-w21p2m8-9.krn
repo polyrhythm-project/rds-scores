@@ -1,6 +1,6 @@
 !!!!SEGMENT: R281_Rav-w21p2m8-9.krn
 !!!COM: Ravel, (Joseph) Maurice
-!!!OTL: I: Soupir (Sigh)
+!!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
 !!!OMV: I: Soupir (Sigh)
 !!!example: 281
 !!!work: Rav-21
@@ -357,7 +357,7 @@
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Vocal
+!!!AGN: Vocal; Solo
 !!!MCN: Inghelbrecht, Désiré-Émile
 !!!MDT: 1914/01/24
 !!!MGN: unknown
@@ -374,10 +374,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [40]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Xfilter: slurcheck

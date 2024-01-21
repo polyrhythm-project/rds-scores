@@ -1,7 +1,7 @@
 !!!!SEGMENT: R492_Mau-w24p19m99-104.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: V: Allegro con brio
-!!!OMV: Movement 5
+!!!OTL: Piano Trio No. 1
+!!!OMV: V: Allegro con brio
 !!!example: 492
 !!!work: Mau-24
 !!!OMD: Allegro con brio
@@ -70,7 +70,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Chamber
 !!!MCN:
 !!!MDT: 1930/11/14
 !!!MGN: Trio Filomusi
@@ -87,10 +87,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [132]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

@@ -44,10 +44,10 @@ my %RECORD;
 $RECORD{"Composer Name"}                     = "COM";
 $RECORD{"Work Title"}                        = "OTL";
 $RECORD{"Source Work Full Unit"}             = "OMV";  # run through cleanOMV();
-$RECORD{"Example No."}                       = "example";
+$RECORD{"Suter Example Number"}              = "example";
 $RECORD{"Work ID"}                           = "work";
-$RECORD{"Full Unit Start Tempo Expression"}	= "OMD-full";
-$RECORD{"Example Start Tempo Expression"}		= "OMD";
+$RECORD{"Full Unit Start Tempo Expression"}	= "OMD";
+$RECORD{"Example Start Tempo Expression"}		= "OMD-excerpt";
 
 
 # Reference records to display after end of data:
@@ -157,8 +157,8 @@ if ($headingListQ) {
 }
 
 # Interesting header text:
-# "Filename"    == The filename base (no suffix).
-# "Example No." == The example number.
+# "Filename"                == The filename base (no suffix).
+# "Suter Example Number"    == The example number.
 # "Example Start Tsig Beat" == The textual duration of the beat in the
 #                              following field:
 # "Example Start Tsig Mean Beat Rate" == The tempo to add to *MM records.
@@ -324,7 +324,7 @@ sub getExampleLine {
 ##
 
 sub getExampleIndexes {
-	my @data = getDataColumn("Example No.", @CONTENTS);
+	my @data = getDataColumn("Suter Example Number", @CONTENTS);
 	my %output;
 	for (my $i=0; $i<@data; $i++) {
 		$output{$data[$i]} = $i+1;

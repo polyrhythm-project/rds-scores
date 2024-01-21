@@ -1,7 +1,7 @@
 !!!!SEGMENT: R714_Cop-w32p117-118m110-112.krn
 !!!COM: Copland, Aaron
-!!!OTL: VI: Happy Ending
-!!!OMV: Movement 6: Happy Ending
+!!!OTL: The Red Pony, Suite for Orchestra
+!!!OMV: VI: Happy Ending
 !!!example: 714
 !!!work: Cop-32
 !!!OMD: Broadly
@@ -119,7 +119,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Programmatic
 !!!MCN: Kurtz, Efrem
 !!!MDT: 1948/10/30
 !!!MGN: Houston Symphony Orchestra
@@ -136,10 +136,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [72]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/09/18
 !!!Suter_Work_ID: Cop-32
 !!!Suter_Example_Number: 714

@@ -1,6 +1,6 @@
 !!!!SEGMENT: R218_Sch-w33p200m252-256.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: Act II, Scene 2
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
 !!!OMV: Act II, Scene 2
 !!!example: 218
 !!!work: Sch-33
@@ -82,7 +82,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Stage
+!!!AGN: Stage; Opera
 !!!MCN: Rosbaud, Hans
 !!!MDT: 1957/06/06
 !!!MGN: unknown
@@ -100,10 +100,10 @@
 !!!Xfilter: slurcheck
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [160]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Sch-33

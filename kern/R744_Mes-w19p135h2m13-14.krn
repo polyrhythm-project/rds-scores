@@ -1,7 +1,7 @@
 !!!!SEGMENT: R744_Mes-w19p135h2m13-14.krn
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
-!!!OTL: III: Psalmodie de l'Ubiquité par amour (Dieu présent en toutes choses…) (Psalmody of Ubiquity by Love (God Present in All Things...))
-!!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
+!!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!OMV: III: Psalmodie de l'Ubiquité par amour (Dieu présent en toutes choses…) (Psalmody of Ubiquity by Love (God Present in All Things...))
 !!!example: 744
 !!!work: Mes-19
 !!!OMD: Modéré, presque vif, énergique
@@ -93,7 +93,7 @@
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Vocal
+!!!AGN: Vocal; Choral
 !!!MCN: Désormière, Roger
 !!!MDT: 1945/04/21
 !!!MGN: Orchestre de la Société des Concerts du Conservatoire; Chorale Yvonne Gouverné
@@ -110,10 +110,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [100]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Mes-19
 !!!Suter_Example_Number: 744

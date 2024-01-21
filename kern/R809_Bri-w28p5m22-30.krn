@@ -1,7 +1,7 @@
 !!!!SEGMENT: R809_Bri-w28p5m22-30.krn
 !!!COM: Britten, (Edward) Benjamin
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Festival Te Deum for Treble Solo, Choir and Organ, op. 32
+!!!OMV: single movement work
 !!!example: 809
 !!!work: Bri-28
 !!!OMD: Andante con moto
@@ -116,7 +116,7 @@
 !!!CBL: Lowestoft, England
 !!!CDL: Aldeburgh, England
 !!!CNT: English
-!!!AGN: Vocal
+!!!AGN: Vocal; Choral
 !!!MCN: Gale, J., J.
 !!!MDT: 1945/04/24
 !!!MGN: Choir of St. Mark’s
@@ -130,13 +130,13 @@
 !!!excerpt-start-time: 0:55
 !!!excerpt-end-time: 1:26
 !!!excerpt-duration-sec: 31
-!!!excerpt-time-signature: 7/8;3/4
+!!!excerpt-time-signature: 3/4;7/8
 !!!excerpt-tempo-beat: [eighth]
 !!!excerpt-tempo-rate: [144]
-!!!excerpt-meter-type: polymetric
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3,G2;G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2021/06/18
 !!!Suter_Work_ID: Bri-28
 !!!Suter_Example_Number: 809

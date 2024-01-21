@@ -64,6 +64,10 @@ clean-tabs:
 	(cd $(KERN_RDS) && ../$(BINDIR)/removeTabs *.krn)
 
 
+refs: metadata
+references: metadata
+reference: metadata
+reference-data: metadata
 meta: metadata
 metadata:
 	$(BINDIR)/polymeta $(KERN_RDS)/*.krn
@@ -165,19 +169,21 @@ composite-count: cc
 cc:
 	@for i in $(EXP)/*.krn; do composite  $$i | extractx -i kern-comp | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
+
 grpac: grpAEventCounts
 grpAEventCounts:
 	@for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpA | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
+
 
 grpbc: grpBEventCounts
 grpBEventCounts:
 	@for i in $(EXP)/*.krn; do composite -g $$i | extractx -i kern-grpB | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
 
+
 coin: coin-count
 coin-count: concidenceEventsCount
 concidenceEventsCount:
 	@for i in $(EXP)/*.krn; do composite -c $$i | extractx -i kern-coin | ridx -H | grep -v r |  grep -v "[]_]" | wc -l ; done
-
 
 
 dur: duration
@@ -196,9 +202,11 @@ edr: event-density-ratio
 event-density-ratio:
 	@$(BINDIR)/getEventDensityRatio $(EXP)/*.krn
 
+
 nr: npvi-ratio
 npvi-ratio:
 	@$(BINDIR)/getNpviRatio $(EXP)/*.krn
+
 
 tempo:
 	bin/insertTempoRecords kern/*.krn

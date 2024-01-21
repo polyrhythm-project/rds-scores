@@ -1,7 +1,7 @@
 !!!!SEGMENT: R588_Hon-w18p7-8m51-66.krn
 !!!COM: Honegger, Arthur
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Pacific 231, Movement symphonique no. 1 (Symphonic Movement No. 1)
+!!!OMV: single movement work
 !!!example: 588
 !!!work: Hon-18
 !!!OMD: Modéré
@@ -219,8 +219,8 @@
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France
 !!!CDL: Paris, France
-!!!CNT: Swiss,French
-!!!AGN: Orchestral
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Koussevitzky, Serge
 !!!MDT: 1924/05/08
 !!!MGN: Orchestre de l'Opéra
@@ -237,10 +237,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [80]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2021/04/13
 !!!Suter_Work_ID: Hon-18
 !!!Suter_Example_Number: 588

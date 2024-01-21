@@ -1,7 +1,7 @@
 !!!!SEGMENT: R534x_Mai-w6p1-2m1-12.krn
 !!!COM: Martin, Frank
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Esquisse pour Piano
+!!!OMV: single movement work
 !!!example: 534x
 !!!work: Mai-0
 !!!OMD: Allegretto tranquillo
@@ -108,7 +108,7 @@
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
 !!!CNT: Swiss
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN: unknown
 !!!MDT: ?
 !!!MGN:
@@ -125,10 +125,10 @@
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: eighth
 !!!excerpt-tempo-rate: 108
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R180_Deb-w40p21h15m5-7.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Jeux (Games), Ballet in One Act for Orchestra
+!!!OMV: single movement work
 !!!example: 180
 !!!work: Deb-40
 !!!OMD: Très lent
@@ -131,7 +131,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Monteux, Pierre
 !!!MDT: 1913/05/15
 !!!MGN: unknown
@@ -148,10 +148,10 @@
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [72]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2021/04/12
 !!!Suter_Work_ID: Deb-40
 !!!Suter_Example_Number: 180

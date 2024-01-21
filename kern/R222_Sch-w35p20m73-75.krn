@@ -1,7 +1,7 @@
 !!!!SEGMENT: R222_Sch-w35p20m73-75.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: I: Poco Allegro
-!!!OMV: Movement 1
+!!!OTL: Violin Concerto, op. 36
+!!!OMV: I: Poco Allegro
 !!!example: 222
 !!!work: Sch-35
 !!!OMD: Poco allegro
@@ -85,7 +85,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Stokowski, Leopold
 !!!MDT: 1940/12/06
 !!!MGN: Philadelphia Orchestra
@@ -102,10 +102,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [64]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Sch-35
 !!!Suter_Example_Number: 222

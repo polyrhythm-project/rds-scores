@@ -1,7 +1,7 @@
 !!!!SEGMENT: R198_Sch-w9p42m4-1h40m1-2.krn
 !!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Kammersymphonie (Chamber Symphony) No. 1, op. 9
+!!!OMV: single movement work
 !!!example: 198
 !!!work: Sch-9
 !!!OMD: Langsam
@@ -115,7 +115,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Los Angeles, United States
 !!!CNT: Austrian
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Schoenberg, Arnold
 !!!MDT: 1907/02/08
 !!!MGN: Rosé Quartet; Wind Ensemble of Vienna Philharmonic
@@ -124,7 +124,7 @@
 !!!MPN:
 !!!ODT: 1906
 !!!PDT: 1913
-!!!excerpt-start-measure: 170
+!!!excerpt-start-measure: 166
 !!!excerpt-end-measure: 171
 !!!excerpt-start-time: 6:17
 !!!excerpt-end-time: 6:19
@@ -132,10 +132,10 @@
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: [dotted-half]
 !!!excerpt-tempo-rate: [92-96]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Sch-9
 !!!Suter_Example_Number: 198

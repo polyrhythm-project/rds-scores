@@ -1,7 +1,7 @@
 !!!!SEGMENT: R130_Jan-w33p13m63-71.krn
 !!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
+!!!OMV: single movement work
 !!!example: 130
 !!!work: Jan-33
 !!!OMD: Con moto
@@ -138,7 +138,7 @@
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
 !!!CNT: Czech
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Programmatic
 !!!MCN: Ostrcil, Otakar
 !!!MDT: 1917/11/14
 !!!MGN: Czech Philharmonic Orchestra
@@ -154,11 +154,11 @@
 !!!excerpt-duration-sec: 8
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: {eighth}
-!!!excerpt-tempo-rate: {203}
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-rate: {180}
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Jan-33
 !!!Suter_Example_Number: 130

@@ -1,6 +1,6 @@
 !!!!SEGMENT: R144_Jan-w47p5h4m1-4.krn
 !!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: Act I, Prelude
+!!!OTL: Věc Makropulos (The Makropulos Affair), Opera in Three Acts
 !!!OMV: Act I, Prelude
 !!!example: 144
 !!!work: Jan-47
@@ -70,7 +70,7 @@
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
 !!!CNT: Czech
-!!!AGN: Stage
+!!!AGN: Stage; Opera
 !!!MCN: Neumann, František
 !!!MDT: 1926/12/18
 !!!MGN: Orchestra of the Janáček Opera of the National Theatre Brno
@@ -87,10 +87,10 @@
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: dotted-quarter
 !!!excerpt-tempo-rate: 66
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Jan-47
 !!!Suter_Example_Number: 144

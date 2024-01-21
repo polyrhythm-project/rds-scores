@@ -1,7 +1,7 @@
 !!!!SEGMENT: R799_Bri-w22p62m286-289.krn
 !!!COM: Britten, (Edward) Benjamin
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Scottish Ballad for Two Pianos and Orchestra, op. 26
+!!!OMV: single movement work
 !!!example: 799
 !!!work: Bri-22
 !!!OMD: Lento
@@ -73,7 +73,7 @@
 !!!CBL: Lowestoft, England
 !!!CDL: Aldeburgh, England
 !!!CNT: English
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Goossens, Eugene Aynsley
 !!!MDT: 1941/11/28
 !!!MGN: Cincinnati Symphony Orchestra
@@ -93,10 +93,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [126]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Bri-22
 !!!Suter_Example_Number: 799

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R574_Pro-w41p21m74-77.krn
 !!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: III: Andante tranquillo
-!!!OMV: Movement 3
+!!!OTL: Piano Sonata No. 9 in C Major, op. 103
+!!!OMV: III: Andante tranquillo
 !!!example: 574
 !!!work: Pro-41
 !!!OMD: Allegro tranquillo
@@ -134,7 +134,7 @@
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
 !!!CNT: Russian
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1951/04/21
 !!!MGN:
@@ -151,10 +151,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {96}
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Pro-41
 !!!Suter_Example_Number: 574

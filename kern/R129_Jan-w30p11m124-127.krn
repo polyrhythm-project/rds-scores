@@ -1,7 +1,7 @@
 !!!!SEGMENT: R129_Jan-w30p11m124-127.krn
 !!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: I: Con moto
-!!!OMV: Movement 1
+!!!OTL: Pohádka (Fairy Tale) for Violoncello and Piano
+!!!OMV: I: Con moto
 !!!example: 129
 !!!work: Jan-30
 !!!OMD: Con moto
@@ -89,7 +89,7 @@
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
 !!!CNT: Czech
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Chamber
 !!!MCN:
 !!!MDT: 1910/03/13
 !!!MGN:
@@ -106,10 +106,10 @@
 !!!excerpt-time-signature: 2/8
 !!!excerpt-tempo-beat: [eighth]
 !!!excerpt-tempo-rate: [84]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/09/18
 !!!Suter_Work_ID: Jan-30
 !!!Suter_Example_Number: 129

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R408_Web-w13p1-2m1-12.krn
 !!!COM: Webern, Anton (Friedrich Wilhelm von)
-!!!OTL: I: Sehr ruhig und zart
-!!!OMV: Movement 1
+!!!OTL: Fünf Stücke (Five Pieces) for Orchestra, op. 10
+!!!OMV: I: Sehr ruhig und zart
 !!!example: 408
 !!!work: Web-13
 !!!OMD: Sehr ruhig und zart
@@ -193,7 +193,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
 !!!CNT: Austrian
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Webern, Anton
 !!!MDT: 1924/06/22
 !!!MGN: unknown
@@ -210,10 +210,10 @@
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: quarter
 !!!excerpt-tempo-rate: 50
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Web-13
 !!!Suter_Example_Number: 408

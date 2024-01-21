@@ -1,6 +1,6 @@
 !!!!SEGMENT: R396_Str-w47p8m1h8-h10m1.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: Movement 1
+!!!OTL: Symphony in Three Movements
 !!!OMV: Movement 1
 !!!example: 396
 !!!work: Str-47
@@ -173,8 +173,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian,French,American
-!!!AGN: Orchestral
+!!!CNT: Russian, French, American
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Stravinsky, Igor
 !!!MDT: 1946/01/24
 !!!MGN: New York Philharmonic Orchestra
@@ -191,10 +191,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [160]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Str-47
 !!!Suter_Example_Number: 396

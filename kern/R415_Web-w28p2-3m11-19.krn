@@ -1,7 +1,7 @@
 !!!!SEGMENT: R415_Web-w28p2-3m11-19.krn
 !!!COM: Webern, Anton (Friedrich Wilhelm von)
-!!!OTL: I: Etwas lebhaft
-!!!OMV: Movement 1
+!!!OTL: Concerto for Nine Instruments, op. 24
+!!!OMV: I: Etwas lebhaft
 !!!example: 415
 !!!work: Web-28
 !!!OMD: Etwas lebhaft
@@ -117,7 +117,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
 !!!CNT: Austrian
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Janowetz, Heinrich
 !!!MDT: 1934/09/04
 !!!MGN: Prague Symphony Orchestra
@@ -134,10 +134,10 @@
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [80]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 0
+!!!experiment: pqm2
 !!!EEV: 2020/01/27
 !!!Suter_Work_ID: Web-28
 !!!Suter_Example_Number: 415

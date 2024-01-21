@@ -1,7 +1,7 @@
 !!!!SEGMENT: R432_Var-w4p18-19h2m1-9.krn
 !!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
-!!!OTL: III: Grave - Animé et jubilatoire (Animated and Jubilant)
-!!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
+!!!OTL: Octandre for Eight Instruments
+!!!OMV: III: Grave - Animé et jubilatoire (Animated and Jubilant)
 !!!example: 432
 !!!work: Var-4
 !!!OMD: Grave
@@ -131,8 +131,8 @@
 !!!CDT: 1883/12/22-1965/11/06
 !!!CBL: Paris, France
 !!!CDL: New York, United States
-!!!CNT: French,American
-!!!AGN: Instrumental
+!!!CNT: French, American
+!!!AGN: Instrumental; Chamber
 !!!MCN: Schmitz, Robert
 !!!MDT: 1924/01/13
 !!!MGN: unknown
@@ -149,10 +149,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: quarter
 !!!excerpt-tempo-rate: 132
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 0
+!!!experiment: none
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Var-4
 !!!Suter_Example_Number: 432

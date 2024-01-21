@@ -1,6 +1,6 @@
 !!!!SEGMENT: R686x_Ger-w3v2p12h9m1-5.krn
 !!!COM: Gershwin, George
-!!!OTL: single movement work
+!!!OTL: Rhapsody in Blue for Solo Piano
 !!!OMD: Molto moderato
 !!!example: 686x
 !!!work: Ger-3x
@@ -101,7 +101,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: Hollywood, United States
 !!!CNT: American
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN: unknown
 !!!MDT: ?
 !!!MGN: unknown
@@ -118,10 +118,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {171}
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2021/04/12
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

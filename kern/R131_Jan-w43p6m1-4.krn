@@ -1,7 +1,7 @@
 !!!!SEGMENT: R131_Jan-w43p6m1-4.krn
 !!!COM: Janáček, Leoš [Leo Eugen]
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Potulný šílenec (The Wandering Madman) for Soprano Solo and Male Chorus
+!!!OMV: single movement work
 !!!example: 131
 !!!work: Jan-43
 !!!OMD: Presto
@@ -49,7 +49,7 @@
 !!!CBL: Hukvaldy, Moravia
 !!!CDL: Moravaská Ostrava, Czech Republic
 !!!CNT: Czech
-!!!AGN: Vocal
+!!!AGN: Vocal; Choral
 !!!MCN: Vach, Ferndinand
 !!!MDT: 1924/09/21
 !!!MGN: Moravian Teachers' Choral Society
@@ -66,10 +66,10 @@
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: dotted-half
 !!!excerpt-tempo-rate: 84
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Jan-43
 !!!Suter_Example_Number: 131

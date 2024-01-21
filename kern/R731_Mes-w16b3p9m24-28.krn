@@ -1,6 +1,6 @@
 !!!!SEGMENT: R731_Mes-w16b3p9m24-28.krn
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
-!!!OTL: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
+!!!OTL: Les Corps glorieux (Glorious Bodies) for Organ
 !!!OMV: 3rd Fascicule, No. 6: Joie et clarté des corps glorieux (Joy and Brightness of Glorious Bodies)
 !!!example: 731
 !!!work: Mes-16
@@ -110,7 +110,7 @@
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1943/11/15
 !!!MGN:
@@ -124,13 +124,13 @@
 !!!excerpt-start-time: 1:12
 !!!excerpt-end-time: 1:38
 !!!excerpt-duration-sec: 26
-!!!excerpt-time-signature: [7/8]
+!!!excerpt-time-signature: {7/8}
 !!!excerpt-tempo-beat: {eighth}
-!!!excerpt-tempo-rate: {82}
-!!!excerpt-meter-type: [odd]
+!!!excerpt-tempo-rate: {85}
+!!!excerpt-meter-type: unmetered
 !!!excerpt-beat-group: Gx
 !!!excerpt-beat-subgroup: Gx
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: > = above

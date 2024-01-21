@@ -1,6 +1,6 @@
 !!!!SEGMENT: R560_Mai-w29p25m10-14.krn
 !!!COM: Martin, Frank
-!!!OTL: No. 8
+!!!OTL: Eight Preludes for Piano
 !!!OMV: No. 8
 !!!example: 560
 !!!work: Mai-29
@@ -130,7 +130,7 @@
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
 !!!CNT: Swiss
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1950/03/22
 !!!MGN:
@@ -145,12 +145,12 @@
 !!!excerpt-end-time: 0:41
 !!!excerpt-duration-sec: 14
 !!!excerpt-time-signature: 18/16
-!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-beat: [dotted-eighth]
 !!!excerpt-tempo-rate: [132]
-!!!excerpt-meter-type: compound
+!!!excerpt-meter-type: compound other
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!Suter_Work_ID: Mai-29
 !!!Suter_Example_Number: 560
 !!!Suter_Example_ID: Mai-29/25/10-14

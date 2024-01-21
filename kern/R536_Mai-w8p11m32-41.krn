@@ -1,7 +1,7 @@
 !!!!SEGMENT: R536_Mai-w8p11m32-41.krn
 !!!COM: Martin, Frank
-!!!OTL: III: Vif et léger
-!!!OMV: No. 3
+!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violincello
+!!!OMV: III: Vif et léger
 !!!example: 536
 !!!work: Mai-8
 !!!OMD: Vif et léger
@@ -127,7 +127,7 @@
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
 !!!CNT: Swiss
-!!!AGN: Vocal
+!!!AGN: Vocal; Solo
 !!!MCN: Martin, Frank
 !!!MDT: 1923/04/07
 !!!MGN:
@@ -144,10 +144,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [120]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Mai-8

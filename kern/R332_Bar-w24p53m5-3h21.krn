@@ -1,7 +1,7 @@
 !!!!SEGMENT: R332_Bar-w24p53m5-3h21.krn
 !!!COM: Bartók, Béla
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!OMV: single movement work
 !!!example: 332
 !!!work: Bar-24
 !!!OMD: Allegro
@@ -95,7 +95,7 @@
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
 !!!CDL: New York, United States
 !!!CNT: Hungarian
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Szenkár, Eugen
 !!!MDT: 1926/11/27
 !!!MGN: unknown
@@ -112,10 +112,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [72-76]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/09/18
 !!!Suter_Work_ID: Bar-24
 !!!Suter_Example_Number: 332

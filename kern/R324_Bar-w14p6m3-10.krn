@@ -1,7 +1,7 @@
 !!!!SEGMENT: R324_Bar-w14p6m3-10.krn
 !!!COM: Bartók, Béla
-!!!OTL: No. 4: Tanz der Butschum, Buciumeana (Dance of Butschum)
-!!!OMV: IV: Buciumeana, Tanz aus Butschum (Dance of Butschum)
+!!!OTL: Román népi táncok (Romanian Folk Dances) for Piano
+!!!OMV: No. 4: Tanz der Butschum, Buciumeana (Dance of Butschum)
 !!!example: 324
 !!!work: Bar-14
 !!!OMD: Moderato
@@ -101,7 +101,7 @@
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
 !!!CDL: New York, United States
 !!!CNT: Hungarian
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1920/01/16
 !!!MGN:
@@ -117,11 +117,11 @@
 !!!excerpt-duration-sec: 15
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: [quarter]
-!!!excerpt-tempo-rate: [74]
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Bar-14

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R485_Mau-w85p12m57-60.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: I: Adagio
-!!!OMV: Movement 1
+!!!OTL: Symphony No. 5
+!!!OMV: I: Adagio
 !!!example: 485
 !!!work: Mau-85
 !!!OMD: Adagio
@@ -73,7 +73,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Kubelik, Rafael
 !!!MDT: 1947/05/28
 !!!MGN: Czech Philharmonic Orchestra
@@ -82,18 +82,18 @@
 !!!MPN:
 !!!ODT: 1946
 !!!PDT: 1950
-!!!excerpt-start-measure: 57
-!!!excerpt-end-measure: 60
+!!!excerpt-start-measure: 57(58)
+!!!excerpt-end-measure: 60(61)
 !!!excerpt-start-time: 2:32
 !!!excerpt-end-time: 2:37
 !!!excerpt-duration-sec: 5
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [84]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

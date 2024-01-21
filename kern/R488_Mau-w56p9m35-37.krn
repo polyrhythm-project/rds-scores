@@ -1,7 +1,7 @@
 !!!!SEGMENT: R488_Mau-w56p9m35-37.krn
 !!!COM: Martinů, Bohuslav (Jan)
-!!!OTL: I: Allegro moderato (Comodo)
-!!!OMV: Movement 1
+!!!OTL: Concertino for Piano and Orchestra
+!!!OMV: I: Allegro moderato (Comodo)
 !!!example: 488
 !!!work: Mau-56
 !!!OMD: Allegro moderto (Comodo)
@@ -79,7 +79,7 @@
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
 !!!CNT: Czech
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Pařík, Otakar
 !!!MDT: 1947/03/30
 !!!MGN: Symphony Orchestra of the Slovak Radio
@@ -95,11 +95,11 @@
 !!!excerpt-duration-sec: 7
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: {quarter}
-!!!excerpt-tempo-rate: {77}
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-rate: {90}
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Mau-56
 !!!Suter_Example_Number: 488

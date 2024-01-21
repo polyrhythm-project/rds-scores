@@ -1,7 +1,7 @@
 !!!!SEGMENT: R237B_Ive-w31p9hEm2-3.krn
 !!!COM: Ives, Charles
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: The Gong on the Hook and Ladder for Chamber Orchestra
+!!!OMV: single movement work
 !!!example: 237B
 !!!work: Ive-31
 !!!OMD: Allegro moderato
@@ -121,7 +121,7 @@
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Stoessel, Albert
 !!!MDT: 1934/04/22
 !!!MGN: pick-up ensemble
@@ -138,10 +138,10 @@
 !!!excerpt-time-signature: 7/8
 !!!excerpt-tempo-beat: [eighth]
 !!!excerpt-tempo-rate: [200]
-!!!excerpt-meter-type: odd
+!!!excerpt-meter-type: unequal triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3,G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Ive-31
 !!!Suter_Example_Number: 237B

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R678_Hin-w90p19m143-147.krn
 !!!COM: Hindemith, Paul
-!!!OTL: I: Fast-Schnell
-!!!OMV: Movement 1
+!!!OTL: Sinfonietta in E Major
+!!!OMV: I: Fast-Schnell
 !!!example: 678
 !!!work: Hin-90
 !!!OMD: Fast-Schnell
@@ -87,7 +87,7 @@
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
 !!!CNT: German
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Hindemith, Paul
 !!!MDT: 1950/03/01
 !!!MGN: Louisville Orchestra
@@ -104,10 +104,10 @@
 !!!excerpt-time-signature: 3/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [108]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Hin-90
 !!!Suter_Example_Number: 678

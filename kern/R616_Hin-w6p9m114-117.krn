@@ -1,8 +1,8 @@
 !!!!SEGMENT: R630_Hin-w22p74-75hDm4-9.krn
 !!!COM: Hindemith, Paul
-!!!OTL: IV: Finale
-!!!OMV: Movement 4: Finale
-!!!example: 630
+!!!OTL: String Quartet in F Minor, op. 10
+!!!OMV: I: Sehr lebhaft, straff im Rhythmus
+!!!example: 616
 !!!work: Hin-22
 !!!OMD: Schnelle viertel
 !!!AGN-sub: Concerto
@@ -20,8 +20,8 @@
 *k[]	*	*	*k[]	*	*ITrd-3c-5	*	*k[]	*
 !!LO:TX:omd:tempo:a:t=[Schnelle Viertel]\n{[quarter-dot]=131; [quarter]=131}
 *M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
-*MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
-=53	=53	=53	=53	=53	=53	=53	=53	=53
+*MM103	*	*MM103	*MM103	*	*MM103	*	*MM103	*
+=114	=114	=114	=114	=114	=114	=114	=114	=114
 !	!LO:DY:ed=brack	!	!	!	!	!	!	!
 *Xtuplet	*	*Xtuplet	*	*	*	*	*	*
 !	!LO:DY:a	!	!	!	!	!	!	!
@@ -38,7 +38,7 @@
 12ryy	.	12bL	.	.	.	.	.	.
 12dL	.	12aJ	.	.	.	.	.	.
 12enJ	.	12ryy	.	.	.	.	.	.
-=54	=54	=54	=54	=54	=54	=54	=54	=54
+=115	=115	=115	=115	=115	=115	=115	=115	=115
 12f#XL/	.	1ryy	1EE	p<	1r	.	1r	.
 12g	.	.	.	.	.	.	.	.
 12dd>-X^>J	.	.	.	.	.	.	.	.
@@ -53,7 +53,7 @@
 12dd>-	.	.	.	.	.	.	.	.
 12cc>J	.	.	.	]	.	.	.	.
 *	*	*	*	*	*clefF4	*	*	*
-=55	=55	=55	=55	=55	=55	=55	=55	=55
+=116	=116	=116	=116	=116	=116	=116	=116	=116
 12d-XL	.	12b-X	1r	.	1FF	p<	1r	.
 12e-X	.	12ryy	.	.	.	.	.	.
 12fJ	.	12ryy	.	.	.	.	.	.
@@ -66,7 +66,7 @@
 12a>-XL	.	4ryy	.	.	.	.	.	.
 12e-X/	.	.	.	.	.	.	.	.
 12a-XJ	.	.	.	.	.	]	.	.
-=56	=56	=56	=56	=56	=56	=56	=56	=56
+=117	=117	=117	=117	=117	=117	=117	=117	=117
 12ryy	.	12ddnL	1EE	p<	1r	.	1r	.
 12ryy	.	12cc#X	.	.	.	.	.	.
 12cn	.	12bJ	.	.	.	.	.	.
@@ -79,7 +79,7 @@
 12eL/	.	4ryy	.	.	.	.	.	.
 12dd>	.	.	.	.	.	.	.	.
 12g>#XJ	.	.	.	]	.	.	.	.
-=57	=57	=57	=57	=57	=57	=57	=57	=57
+=118	=118	=118	=118	=118	=118	=118	=118	=118
 12eL/	.	4ryy	1r	.	1FF	p<	1r	.
 12g#X	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!
@@ -93,7 +93,7 @@
 12cc>#XL	.	4ryy	.	.	.	.	.	.
 12cn/	.	.	.	.	.	.	.	.
 12e-XJ	.	.	.	.	.	]	.	.
-=58	=58	=58	=58	=58	=58	=58	=58	=58
+=119	=119	=119	=119	=119	=119	=119	=119	=119
 !	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!LO:DY:t=%s cresc.
 12dd>#XL	.	4ryy	2.EE	mf <	2r	.	[1D	p
 12g>#X	.	.	.	.	.	.	.	.
@@ -115,27 +115,27 @@
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
 !!!CNT: German
-!!!AGN: Orchestral
+!!!AGN: Instrumental; Chamber
 !!!MCN: Kraus, Clemens
-!!!MDT: 1924/10/31
+!!!MDT: 1919/06/02
 !!!MGN: Ensemble of the Frankfurter Museumgesellschaft
 !!!MLC: Frankfurt, Germany
-!!!MPD: 1924
+!!!MPD: 1919
 !!!MPN: Lübbecke-Job, Emma
-!!!ODT: 1924
-!!!PDT: 1924
-!!!excerpt-start-measure: 53
-!!!excerpt-end-measure: 58
+!!!ODT: 1918
+!!!PDT: 1920
+!!!excerpt-start-measure: 114
+!!!excerpt-end-measure: 117
 !!!excerpt-start-time: 1:28
 !!!excerpt-end-time: 1:39
 !!!excerpt-duration-sec: 11
-!!!excerpt-time-signature: [4/4]
+!!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: {quarter}
-!!!excerpt-tempo-rate: {131}
-!!!excerpt-meter-type: quadruple
+!!!excerpt-tempo-rate: {103}
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

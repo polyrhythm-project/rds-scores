@@ -1,7 +1,7 @@
 !!!!SEGMENT: R572_Pro-w32p63h48m7.krn
 !!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!OMV: single movement work
 !!!example: 572
 !!!work: Pro-32
 !!!OMD: Andantino
@@ -46,7 +46,7 @@
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
 !!!CNT: Russian
-!!!AGN: Stage
+!!!AGN: Stage; Theatrical
 !!!MCN: Prokofiev, Sergei
 !!!MDT: 1936/05/02
 !!!MGN: Moscow Philharmonic
@@ -63,10 +63,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [100]
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Pro-32

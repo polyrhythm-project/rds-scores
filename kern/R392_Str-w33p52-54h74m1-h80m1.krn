@@ -1,6 +1,6 @@
 !!!!SEGMENT: R392_Str-w33p52-54h74m1-h80m1.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: II: Perséphone aux enfers (Persephone in the Underworld)
+!!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
 !!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
 !!!example: 392
 !!!work: Str-33
@@ -348,8 +348,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian,French,American
-!!!AGN: Stage
+!!!CNT: Russian, French, American
+!!!AGN: Stage; Theatrical
 !!!MCN: Stravinsky, Igor
 !!!MDT: 1934/04/30
 !!!MGN: Orchestre de l'Opéra
@@ -366,10 +366,10 @@
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: quarter
 !!!excerpt-tempo-rate: 60
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Str-33
 !!!Suter_Example_Number: 392

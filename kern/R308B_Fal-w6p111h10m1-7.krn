@@ -1,7 +1,7 @@
 !!!!SEGMENT: R308B_Fal-w6p111h10m1-7.krn
 !!!COM: Falla (y Matheu), Manuel de
-!!!OTL: Act II, I: Les voisins
-!!!OMV: Part II: Dance of the Neighbours
+!!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!OMV: Act II, I: Les voisins
 !!!example: 308B
 !!!work: Fal-6
 !!!OMD: Allegro ma non troppo
@@ -129,7 +129,7 @@
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
 !!!CNT: Spanish
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Ansermet, Ernest
 !!!MDT: 1919/07/22
 !!!MGN: Ballets Russes
@@ -144,12 +144,12 @@
 !!!excerpt-end-time: 1:50
 !!!excerpt-duration-sec: 7
 !!!excerpt-time-signature: 3/8
-!!!excerpt-tempo-beat: [eighth]
-!!!excerpt-tempo-rate: [192]
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [96]
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Fal-6

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R389_Str-w32p8s1-2.krn
 !!!COM: Stravinsky, Igor (Fyodorovich)
-!!!OTL: II: Eglogue I
-!!!OMV: Eglogue I (Part II)
+!!!OTL: Duo Concertant for Violin and Piano
+!!!OMV: II: Eglogue I
 !!!example: 389
 !!!work: Str-32
 !!!OMD: none
@@ -21,7 +21,7 @@
 *G:	*	*G:	*	*G:	*
 !!LO:TX:omd:tempo:a:t=none
 *XM4/4	*	*XM4/4	*	*XM4/4	*
-=5	=5	=5	=5	=5	=5
+=5.449	=5.449	=5.449	=5.449	=5.449	=5.449
 *	*	*^	*	*^	*
 !	!	!	!	!	!LO:TX:t=[[quarter]=78]	!	!
 !	!	!LO:TX:b:t=	!	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:DY:ed=brack
@@ -116,8 +116,8 @@
 !!!CDT: 1882/06/17-1971/04/06
 !!!CBL: Lomonosov (Oranienbaum), Russia
 !!!CDL: New York, United States
-!!!CNT: Russian,French,American
-!!!AGN: Instrumental
+!!!CNT: Russian, French, American
+!!!AGN: Instrumental; Chamber
 !!!MCN:
 !!!MDT: 1932/10/28
 !!!MGN:
@@ -126,18 +126,18 @@
 !!!MPN: Dushkin, Samuel; Stravinsky, Igor
 !!!ODT: 1932
 !!!PDT: 1933
-!!!excerpt-start-measure: 5
-!!!excerpt-end-measure: 5
+!!!excerpt-start-measure: 5.449
+!!!excerpt-end-measure: 5.710
 !!!excerpt-start-time: 0:25
 !!!excerpt-end-time: 0:37
 !!!excerpt-duration-sec: 12
-!!!excerpt-time-signature: 3/4
+!!!excerpt-time-signature: {3/4}
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [76-80]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: unmetered
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Str-32

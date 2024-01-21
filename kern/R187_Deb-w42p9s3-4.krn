@@ -1,7 +1,7 @@
 !!!!SEGMENT: R187_Deb-w42p9s3-4.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: Tableau 1: Le magasin de jouets (The Toy Shop)
-!!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
+!!!OTL: La boîte à joujoux (The Toy Box), Ballet for Children (with piano accompaniment)
+!!!OMV: Tableau 1: Le magasin de jouets (The Toy Shop)
 !!!example: 187
 !!!work: Deb-42
 !!!OMD: Modéré
@@ -147,7 +147,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Talmud, Blanche; Lewisohn, Irene
 !!!MDT: 1916
 !!!MGN: unknown
@@ -156,18 +156,18 @@
 !!!MPN:
 !!!ODT: 1913
 !!!PDT: 1913
-!!!excerpt-start-measure: 122(176)
-!!!excerpt-end-measure: 137(191)
+!!!excerpt-start-measure: 122
+!!!excerpt-end-measure: 137
 !!!excerpt-start-time: 3:41
 !!!excerpt-end-time: 4:04
 !!!excerpt-duration-sec: 24
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: {quarter}
-!!!excerpt-tempo-rate: {80}
-!!!excerpt-meter-type: duple
+!!!excerpt-tempo-rate: {83}
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 0
+!!!experiment: none
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Deb-42
 !!!Suter_Example_Number: 187

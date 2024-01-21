@@ -1,7 +1,7 @@
 !!!!SEGMENT: R537_Mai-w9p50m1-6.krn
 !!!COM: Martin, Frank
-!!!OTL: V: Agnus Dei
-!!!OMV: Part V: Agnus Dei
+!!!OTL: Mass for Unaccompanied Mixed Double Choir
+!!!OMV: V: Agnus Dei
 !!!example: 537
 !!!work: Mai-9
 !!!OMD: Andante
@@ -81,7 +81,7 @@
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
 !!!CNT: Swiss
-!!!AGN: Vocal
+!!!AGN: Vocal; Choral
 !!!MCN: Brunnert, Franz, W.
 !!!MDT: 1963/11/02
 !!!MGN: Bugenhagen Kantorei
@@ -98,10 +98,10 @@
 !!!excerpt-time-signature: 5/4
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {58}
-!!!excerpt-meter-type: odd
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3,G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Mai-9
 !!!Suter_Example_Number: 537

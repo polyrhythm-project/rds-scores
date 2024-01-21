@@ -1,6 +1,6 @@
 !!!!SEGMENT: R315_Fal-w8p62h67m1-5.krn
 !!!COM: Falla (y Matheu), Manuel de
-!!!OTL: Cuadro V: La Fuga (The Escape)
+!!!OTL: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
 !!!OMV: Cuadro V: La Fuga (The Escape)
 !!!example: 315
 !!!work: Fal-8
@@ -105,7 +105,7 @@
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
 !!!CNT: Spanish
-!!!AGN: Stage
+!!!AGN: Stage; Theatrical
 !!!MCN: Falla, Manuel de
 !!!MDT: 1923/03/23
 !!!MGN: Orquesta Bétia de Cámara
@@ -114,18 +114,18 @@
 !!!MPN:
 !!!ODT: 1923
 !!!PDT: 1924
-!!!excerpt-start-measure: 36(633)
-!!!excerpt-end-measure: 40(637)
+!!!excerpt-start-measure: 36
+!!!excerpt-end-measure: 40
 !!!excerpt-start-time: 4:13
 !!!excerpt-end-time: 4:18
 !!!excerpt-duration-sec: 5
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: eighth
 !!!excerpt-tempo-rate: 152
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

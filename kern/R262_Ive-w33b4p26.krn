@@ -1,11 +1,11 @@
 !!!!SEGMENT: R262_Ive-w33b4p26.krn
 !!!COM: Ives, Charles
-!!!OTL: IV: Thanksgiving and Forefathers' Day
-!!!OMV: IV: Thanksgiving and Forefather's Day
+!!!OTL: A Symphony: New England Holidays
+!!!OMV: IV: Thanksgiving and Forefathers' Day
 !!!example: 262
 !!!work: Ive-33
 !!!OMD: Adagio maestoso
-!!!OTL: IV: Thanksgiving and Forefathers' Day
+!!!OTL: A Symphony: New England Holidays
 !!!AGN-sub: Programmatic
 !!!OPR: A Symphony: New England Holidays
 !!!filename: R262_Ive-w33b4p26.krn
@@ -23,7 +23,7 @@
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 !!LO:TX:omd:tempo:a:t=Adagio maestoso
 *M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
 *^	*	*^	*	*^	*	*	*	*	*	*^	*	*	*	*	*
 !LO:TX:b:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
@@ -39,7 +39,7 @@
 8AAA	.	.	8D-)	.	.	8ee-]	.	.	.	.	4AA	.	16dd#kL]	4d_	.	.	.	(4e#X)	>
 .	.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.
 8r	.	.	8C'J)	.	]]	[8aJ	[8B	.	[8f# [8a#u	.	.	.	.	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!
 8EEL	[2.AAA	.	((8C^L	4.CC	>	16aLL]	8.BL]	.	8.f#] 8.a#L]	.	4E	.	[4dd#X	16dKL]	.	4r	.	N(4.g#X)	.
 .	.	.	.	.	.	16ddJ	.	.	.	.	.	.	.	[8.dnJ	.	.	.	.	.
@@ -52,7 +52,7 @@
 .	.	.	.	.	.	.	[8.B'J	.	[8.f#' [8.a#J	.	.	.	.	[8.dnJ	.	.	.	.	.
 16r	.	.	8C'J)	.	.	16ddL	.	.	.	.	.	.	[8dd#XJ	.	.	8a-'X)J	.	8r	.
 16AAAJ	.	.	.	.	]]	[16ee-XJJ	.	.	.	.	[16AAJk	.	.	.	.	.	]]	.	.
-=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*
 4r	2.AAA]	.	((8C^L	4.CC	>	4ee-]	8.BL])	.	8.f#] 8.a#]L)	.	4AA]	.	4dd#]	8.dL]	.	(4.a-X	.	4r	.
 .	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -64,7 +64,7 @@
 .	.	.	.	.	.	.	[8.B'J	.	[8.f#' [8.a#J	.	.	.	.	.	.	.	.	.	.
 8r	.	.	8C'J)	.	.	[8ccJ	.	.	.	.	.	.	[8ff#XJ	.	.	8r	.	8a-XJ)	.
 .	.	.	.	.	]]	.	.	.	.	.	.	.	.	[16fnJk	.	.	.	.	.
-=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
 4r	[2.AAA	.	((8C^L	4.CC	>	8ccL]	8.BL])	.	8.f#] 8.a#]L)	.	4E]	.	8ff#L]	16fKL]	.	4%3r	.	(8b-XL	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	8dn	.	.	.	.	.
 .	.	.	8D-X)	.	.	16ddL	.	.	.	.	.	.	[8dd#XJ	.	.	.	.	8cc)J	.
@@ -88,7 +88,7 @@
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Programmatic
 !!!MCN: Dorati, Antal
 !!!MDT: 1954/04/09
 !!!MGN: Minneapolis Symphony Orchestra
@@ -102,13 +102,13 @@
 !!!excerpt-start-time:
 !!!excerpt-end-time:
 !!!excerpt-duration-sec:
-!!!excerpt-time-signature: 3/4
-!!!excerpt-tempo-beat: [quarter]
-!!!excerpt-tempo-rate: [53-56]
-!!!excerpt-meter-type: triple
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: {dotted-quarter}
+!!!excerpt-tempo-rate: {30}
+!!!excerpt-meter-type: compound duple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: none
 !!!EEV: 2020/09/18
 !!!Suter_Work_ID: Ive-33
 !!!Suter_Example_Number: 262

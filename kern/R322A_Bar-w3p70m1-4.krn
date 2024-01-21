@@ -1,7 +1,7 @@
 !!!!SEGMENT: R322A_Bar-w3p70m1-4.krn
 !!!COM: Bartók, Béla
-!!!OTL: III: Presto
-!!!OMV: Movement 3
+!!!OTL: Suite No. 1 for Orchestra, op. 3
+!!!OMV: III: Presto
 !!!example: 322A
 !!!work: Bar-3
 !!!OMD: Presto
@@ -54,7 +54,7 @@
 !!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
 !!!CDL: New York, United States
 !!!CNT: Hungarian
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Loewe, Ferdinand
 !!!MDT: 1905/11/29
 !!!MGN: Vienna Symphony Orchestra
@@ -71,10 +71,10 @@
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: dotted-half
 !!!excerpt-tempo-rate: 92
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Bar-3
 !!!Suter_Example_Number: 322A

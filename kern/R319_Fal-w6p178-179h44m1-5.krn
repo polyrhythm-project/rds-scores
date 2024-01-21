@@ -1,7 +1,7 @@
 !!!!SEGMENT: R319_Fal-w6p178-179h44m1-5.krn
 !!!COM: Falla (y Matheu), Manuel de
-!!!OTL: Part 2: Danse of the Corregidor
-!!!OMV: Part II: The Corregidor's Dance
+!!!OTL: El sombrero de tres picos (The Three Cornered Hat), Ballet in Two Parts
+!!!OMV: Part 2: Danse of the Corregidor
 !!!example: 319
 !!!work: Fal-6
 !!!OMD: Allegretto
@@ -170,7 +170,7 @@
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
 !!!CNT: Spanish
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Ansermet, Ernest
 !!!MDT: 1919/07/22
 !!!MGN: Ballets Russes
@@ -187,10 +187,10 @@
 !!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [88]
-!!!excerpt-meter-type: compound
+!!!excerpt-meter-type: compound duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 0
+!!!experiment: pqm2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above

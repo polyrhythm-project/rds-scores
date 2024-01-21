@@ -1,7 +1,7 @@
 !!!!SEGMENT: R258_Ive-w30p9m55-57.krn
 !!!COM: Ives, Charles
-!!!OTL: single movement work
-!!!OMV:
+!!!OTL: Robert Browning Overture
+!!!OMV: single movement work
 !!!example: 258
 !!!work: Ive-30
 !!!OMD: Adagio maestoso-Largo
@@ -113,7 +113,7 @@
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Stokowski, Leopold
 !!!MDT: 1956/10/14
 !!!MGN: American Symphony Orchestra
@@ -130,10 +130,10 @@
 !!!excerpt-time-signature: 4/4
 !!!excerpt-tempo-beat: triplet-quarter
 !!!excerpt-tempo-rate: 132
-!!!excerpt-meter-type: quadruple
+!!!excerpt-meter-type: simple quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/01/27
 !!!Suter_Work_ID: Ive-30
 !!!Suter_Example_Number: 258

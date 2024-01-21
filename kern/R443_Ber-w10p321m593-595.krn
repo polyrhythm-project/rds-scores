@@ -1,6 +1,6 @@
 !!!!SEGMENT: R443_Ber-w10p321m593-595.krn
 !!!COM: Berg, Alban (Maria Johannes)
-!!!OTL: Act II, Scene 4
+!!!OTL: Wozzeck, Opera in Three Acts
 !!!OMV: Act II, Scene 4
 !!!example: 443
 !!!work: Ber-10
@@ -99,7 +99,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
 !!!CNT: Austrian
-!!!AGN: Stage
+!!!AGN: Stage; Opera
 !!!MCN: Kleiber, Erich
 !!!MDT: 1925/12/14
 !!!MGN: Staatsoper Orchestra and Chorus
@@ -119,7 +119,7 @@
 !!!excerpt-meter-type: polymetric
 !!!excerpt-beat-group: G3,G2;G4
 !!!excerpt-beat-subgroup: G3,G2;G2
-!!!experiment: 0
+!!!experiment: pqm2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R689_Ger-w12p59m29-34.krn
 !!!COM: Gershwin, George
-!!!OTL: \"I Got Rhythm\"
-!!!OMV: "I got rhythm"
+!!!OTL: Girl Crazy, Three Excerpts for Voice and Piano
+!!!OMV: "I Got Rhythm"
 !!!example: 689
 !!!work: Ger-12
 !!!OMD: Lively
@@ -76,7 +76,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: Hollywood, United States
 !!!CNT: American
-!!!AGN: Stage
+!!!AGN: Stage; Theatrical
 !!!MCN: Gershwin, George
 !!!MDT: 1930/10/14
 !!!MGN: pick-up ensemble
@@ -92,11 +92,11 @@
 !!!excerpt-duration-sec: 9
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: {half}
-!!!excerpt-tempo-rate: {80}
-!!!excerpt-meter-type: duple
+!!!excerpt-tempo-rate: {120}
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Ger-12
 !!!Suter_Example_Number: 689

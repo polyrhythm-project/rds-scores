@@ -1,7 +1,7 @@
 !!!!SEGMENT: R161_Deb-w13p34m25-26.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: IV: Très modéré
-!!!OMV: Movement 4
+!!!OTL: String Quartet, op. 10
+!!!OMV: IV: Très modéré
 !!!example: 161
 !!!work: Deb-13
 !!!OMD: Très modéré
@@ -62,7 +62,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Chamber
 !!!MCN:
 !!!MDT: 1893/12/29
 !!!MGN: Ysaÿe Quartet
@@ -77,12 +77,12 @@
 !!!excerpt-end-time: 1:38
 !!!excerpt-duration-sec: 4
 !!!excerpt-time-signature: 12/8
-!!!excerpt-tempo-beat: dotted-quarter
-!!!excerpt-tempo-rate: 72
-!!!excerpt-meter-type: compound
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [108]
+!!!excerpt-meter-type: compound quadruple
 !!!excerpt-beat-group: G4
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Deb-13
 !!!Suter_Example_Number: 161

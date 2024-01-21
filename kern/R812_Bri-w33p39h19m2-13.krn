@@ -1,7 +1,7 @@
 !!!!SEGMENT: R812_Bri-w33p39h19m2-13.krn
 !!!COM: Britten, (Edward) Benjamin
-!!!OTL: Part I, V: The Morning Star
-!!!OMV: Part 1, Text 5: The Morning Star
+!!!OTL: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
+!!!OMV: Part I, V: The Morning Star
 !!!example: 812
 !!!work: Bri-33
 !!!OMD: Molto moderato ma giocoso
@@ -122,7 +122,7 @@
 !!!CBL: Lowestoft, England
 !!!CDL: Aldeburgh, England
 !!!CNT: English
-!!!AGN: Vocal
+!!!AGN: Vocal; Choral
 !!!MCN: Beinum, Eduard van
 !!!MDT: 1949/07/14
 !!!MGN: Dutch Radio Chorus; Concertgebouw Orchestra
@@ -139,10 +139,10 @@
 !!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [44]
-!!!excerpt-meter-type: compound
+!!!excerpt-meter-type: compound duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Bri-33
 !!!Suter_Example_Number: 812

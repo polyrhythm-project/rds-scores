@@ -1,6 +1,6 @@
 !!!!SEGMENT: R730_Mes-w16b1p8m26-27.krn
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
-!!!OTL: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
+!!!OTL: Les Corps glorieux (Glorious Bodies) for Organ
 !!!OMV: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
 !!!example: 730
 !!!work: Mes-16
@@ -61,7 +61,7 @@
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1943/11/15
 !!!MGN:
@@ -75,13 +75,13 @@
 !!!excerpt-start-time: 2:22
 !!!excerpt-end-time: 2:51
 !!!excerpt-duration-sec: 29
-!!!excerpt-time-signature: [11/8]
+!!!excerpt-time-signature: {11/8}
 !!!excerpt-tempo-beat: {eighth}
-!!!excerpt-tempo-rate: {46}
-!!!excerpt-meter-type: [odd]
+!!!excerpt-tempo-rate: {63}
+!!!excerpt-meter-type: unmetered
 !!!excerpt-beat-group: Gx
 !!!excerpt-beat-subgroup: Gx
-!!!experiment: 0
+!!!experiment: pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Mes-16
 !!!Suter_Example_Number: 730

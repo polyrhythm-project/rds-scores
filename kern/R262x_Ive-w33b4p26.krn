@@ -1,7 +1,7 @@
 !!!!SEGMENT: R262x_Ive-w33b4p26.krn
 !!!COM: Ives, Charles
-!!!OTL: IV: Thanksgiving and Forefathers' Day
-!!!OMV: IV: Thanksgiving and Forefather's Day
+!!!OTL: A Symphony: New England Holidays
+!!!OMV: IV: Thanksgiving and Forefathers' Day
 !!!example: 262x
 !!!work: Ive-33
 !!!OMD: Adagio maestoso
@@ -141,7 +141,7 @@
 !!!CBL: Danbury, United States
 !!!CDL: New York, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Programmatic
 !!!MCN: Dorati, Antal
 !!!MDT: 1954/04/09
 !!!MGN: Minneapolis Symphony Orchestra
@@ -158,10 +158,10 @@
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [53-56]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: N = linked

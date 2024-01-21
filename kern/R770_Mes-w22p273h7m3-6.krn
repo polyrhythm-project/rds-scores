@@ -1,6 +1,6 @@
 !!!!SEGMENT: R770_Mes-w22p273h7m3-6.krn
 !!!COM: Messiaen, Olivier (Eugène Prosper Charles)
-!!!OTL: VII: Turangalîla 2
+!!!OTL: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
 !!!OMV: VII: Turangalîla 2
 !!!example: 770
 !!!work: Mes-22
@@ -105,7 +105,7 @@
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Bernstein, Leonard
 !!!MDT: 1949/12/02
 !!!MGN: Boston Symphony Orchestra
@@ -122,10 +122,10 @@
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [100]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: i = marked note, color="hotpink", text="extra("

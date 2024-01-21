@@ -1,7 +1,7 @@
 !!!!SEGMENT: R582_Pro-w35p25s1-3.krn
 !!!COM: Prokofiev, Sergey (Sergeyevich)
-!!!OTL: III: Precipitato
-!!!OMV: Movement 3
+!!!OTL: Piano Sonata No. 7 in B-flat Major, op. 83
+!!!OMV: III: Precipitato
 !!!example: 582
 !!!work: Pro-35
 !!!OMD: Precipitato
@@ -144,7 +144,7 @@
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
 !!!CNT: Russian
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1943/01/18
 !!!MGN:
@@ -161,10 +161,10 @@
 !!!excerpt-time-signature: 7/8
 !!!excerpt-tempo-beat: {eighth}
 !!!excerpt-tempo-rate: {368}
-!!!excerpt-meter-type: odd
+!!!excerpt-meter-type: unequal triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3,G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Pro-35
 !!!Suter_Example_Number: 582

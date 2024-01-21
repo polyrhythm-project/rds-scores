@@ -1,6 +1,6 @@
 !!!!SEGMENT: R279_Rav-w15p1m4-5.krn
 !!!COM: Ravel, (Joseph) Maurice
-!!!OTL: I: Prélude à la nuit (Prelude to the Night)
+!!!OTL: Rapsodie espagnole (Spanish Rhapsody) for Orchestra
 !!!OMV: I: Prélude à la nuit (Prelude to the Night)
 !!!example: 279
 !!!work: Rav-15
@@ -45,7 +45,7 @@
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Colonne, Édouard
 !!!MDT: 1908/03/19
 !!!MGN: Orchestre Colonne
@@ -62,10 +62,10 @@
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [66]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Rav-15
 !!!Suter_Example_Number: 279

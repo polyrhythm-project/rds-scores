@@ -1,7 +1,7 @@
 !!!!SEGMENT: R687_Ger-w6p24h19m1-3.krn
 !!!COM: Gershwin, George
-!!!OTL: I: Allegro
-!!!OMV: Movement 1: Allegro
+!!!OTL: Piano Concerto in F Major
+!!!OMV: I: Allegro
 !!!example: 687
 !!!work: Ger-6
 !!!OMD: Allegro
@@ -107,7 +107,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: Hollywood, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Concerto
 !!!MCN: Damrosch, Walter
 !!!MDT: 1925/12/03
 !!!MGN: New York Symphony Orchestra
@@ -124,10 +124,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [88]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Ger-6
 !!!Suter_Example_Number: 687

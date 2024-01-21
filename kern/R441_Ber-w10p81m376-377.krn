@@ -1,7 +1,7 @@
 !!!!SEGMENT: R441_Ber-w10p81m376-377.krn
 !!!COM: Berg, Alban (Maria Johannes)
-!!!OTL: Act I, Scene 3: Mariens Stube (Mary's Room)
-!!!OMV: Act I, Scene 3
+!!!OTL: Wozzeck, Opera in Three Acts
+!!!OMV: Act I, Scene 3: Mariens Stube (Mary's Room)
 !!!example: 441
 !!!work: Ber-10
 !!!OMD: Marschtempo
@@ -53,7 +53,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
 !!!CNT: Austrian
-!!!AGN: Stage
+!!!AGN: Stage; Opera
 !!!MCN: Kleiber, Erich
 !!!MDT: 1925/12/14
 !!!MGN: Staatsoper Orchestra and Chorus
@@ -70,10 +70,10 @@
 !!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [56-60]
-!!!excerpt-meter-type: compound
+!!!excerpt-meter-type: compound duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!RDF**kern: j = marked note, color="magenta", text="extra)"

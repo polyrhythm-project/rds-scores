@@ -1,7 +1,7 @@
 !!!!SEGMENT: R655_Hin-w77p19m154-160.krn
 !!!COM: Hindemith, Paul
-!!!OTL: II: Allegro
-!!!OMV: Movement 2: Allegro
+!!!OTL: Sonata for Two Pianos, Four Hands
+!!!OMV: II: Allegro
 !!!example: 655
 !!!work: Hin-77
 !!!OMD: Allegro
@@ -96,7 +96,7 @@
 !!!CBL: Hanau, Germany
 !!!CDL: Frankfurt, Germany
 !!!CNT: German
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1942/11/20
 !!!MGN:
@@ -113,10 +113,10 @@
 !!!excerpt-time-signature: 2/2
 !!!excerpt-tempo-beat: [half]
 !!!excerpt-tempo-rate: [120]
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Hin-77
 !!!Suter_Example_Number: 655

@@ -1,7 +1,7 @@
 !!!!SEGMENT: R187x_Deb-w42p9s3-4.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: Tableau 1: Le magasin de jouets (The Toy Shop)
-!!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
+!!!OTL: La boîte à joujoux (The Toy Box), Ballet for Children (with orchestral accompaniment)
+!!!OMV: Tableau 1: Le magasin de jouets (The Toy Shop)
 !!!example: 187x
 !!!work: Deb-42
 !!!OMD: Modéré
@@ -150,7 +150,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Stage
+!!!AGN: Stage; Ballet
 !!!MCN: Inghelbrecht, Désiré-Émile
 !!!MDT: 1919/12/10
 !!!MGN: Orchestre du Théâtre du Vaudeville
@@ -159,18 +159,18 @@
 !!!MPN:
 !!!ODT: 1913 (orch. 1919)
 !!!PDT: 1920
-!!!excerpt-start-measure: 122(176)
-!!!excerpt-end-measure: 137(191)
+!!!excerpt-start-measure: 122
+!!!excerpt-end-measure: 137
 !!!excerpt-start-time: 3:44
 !!!excerpt-end-time: 4:02
 !!!excerpt-duration-sec: 18
 !!!excerpt-time-signature: 2/4
 !!!excerpt-tempo-beat: {quarter}
 !!!excerpt-tempo-rate: {107}
-!!!excerpt-meter-type: duple
+!!!excerpt-meter-type: simple duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: > = above

@@ -1,6 +1,6 @@
 !!!!SEGMENT: R310_Fal-w3p15m1-8.krn
 !!!COM: Falla (y Matheu), Manuel de
-!!!OTL: IV: Jota
+!!!OTL: Seven Spanish Folksongs for Voice and Piano
 !!!OMV: IV: Jota
 !!!example: 310
 !!!work: Fal-3
@@ -101,7 +101,7 @@
 !!!CBL: Cádiz, Spain
 !!!CDL: Alta Gracia, Argentina
 !!!CNT: Spanish
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Keyboard
 !!!MCN:
 !!!MDT: 1915/01/14
 !!!MGN:
@@ -118,10 +118,10 @@
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: dotted-quarter
 !!!excerpt-tempo-rate: 92
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2,pqm2lmf1,lmf2,lmf3
 !!!EEV: 2021/03/19
 !!!Suter_Work_ID: Fal-3
 !!!Suter_Example_Number: 310

@@ -1,6 +1,6 @@
 !!!!SEGMENT: R183_Deb-w16p69h21m7-9.krn
 !!!COM: Debussy, (Achille-)Claude
-!!!OTL: II: Fêtes (Festivals)
+!!!OTL: Nocturnes for Orchestra
 !!!OMV: II: Fêtes (Festivals)
 !!!example: 183
 !!!work: Deb-16
@@ -71,7 +71,7 @@
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Programmatic
 !!!MCN: Chevillard, Camille
 !!!MDT: 1901/10/27
 !!!MGN: Orchestre Lamoureux
@@ -87,11 +87,11 @@
 !!!excerpt-duration-sec: 4
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: {quarter}
-!!!excerpt-tempo-rate: {135}
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-rate: {180}
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Deb-16
 !!!Suter_Example_Number: 183

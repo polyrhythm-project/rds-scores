@@ -1,7 +1,7 @@
 !!!!SEGMENT: R299_Rav-w32p1-2m1-12.krn
 !!!COM: Ravel, (Joseph) Maurice
-!!!OTL: No. 1: Nahandove
-!!!OMV: I: Nahandove
+!!!OTL: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
+!!!OMV: No. 1: Nahandove
 !!!example: 299
 !!!work: Rav-32
 !!!OMD: Andante quasi allegretto
@@ -157,7 +157,7 @@
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Vocal
+!!!AGN: Vocal; Solo
 !!!MCN:
 !!!MDT: 1926/06/13
 !!!MGN:
@@ -174,10 +174,10 @@
 !!!excerpt-time-signature: 6/8
 !!!excerpt-tempo-beat: eighth
 !!!excerpt-tempo-rate: 100
-!!!excerpt-meter-type: compound
+!!!excerpt-meter-type: compound duple
 !!!excerpt-beat-group: G2
 !!!excerpt-beat-subgroup: G3
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
 !!!Suter_Work_ID: Rav-32

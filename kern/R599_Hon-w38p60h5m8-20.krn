@@ -1,7 +1,7 @@
 !!!!SEGMENT: R599_Hon-w38p60h5m8-20.krn
 !!!COM: Honegger, Arthur
-!!!OTL: III: Allegro
-!!!OMV: Movement 3: Allegro
+!!!OTL: Symphony No. 4 "Deliciae basiliensis" (Pleasures of Basel) for Chamber Orchestra
+!!!OMV: III: Allegro
 !!!example: 599
 !!!work: Hon-38
 !!!OMD: Allegro
@@ -153,8 +153,8 @@
 !!!CDT: 1892/03/10-1955/11/27
 !!!CBL: Le Havre, France
 !!!CDL: Paris, France
-!!!CNT: Swiss,French
-!!!AGN: Orchestral
+!!!CNT: Swiss, French
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Sacher, Paul
 !!!MDT: 1947/01/21
 !!!MGN: Basel Chamber Orchestra
@@ -168,13 +168,13 @@
 !!!excerpt-start-time: 2:17
 !!!excerpt-end-time: 2:35
 !!!excerpt-duration-sec: 18
-!!!excerpt-time-signature: 9/8;3/4
-!!!excerpt-tempo-beat: [dotted-quarter];[quarter]
+!!!excerpt-time-signature: 3/4;9/8
+!!!excerpt-tempo-beat: [quarter];[dotted-quarter]
 !!!excerpt-tempo-rate: [126];[126]
-!!!excerpt-meter-type: polymetric
+!!!excerpt-meter-type: polydurational
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G3;G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2021/06/16
 !!!Suter_Work_ID: Hon-38
 !!!Suter_Example_Number: 599

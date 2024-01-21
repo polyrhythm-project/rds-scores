@@ -1,7 +1,7 @@
 !!!!SEGMENT: R700_Cop-w2p64h38m3-10.krn
 !!!COM: Copland, Aaron
-!!!OTL: III: Allegro vivo
-!!!OMV: Movement 3: Allegro vivo
+!!!OTL: Dance Symphony
+!!!OMV: III: Allegro vivo
 !!!example: 700
 !!!work: Cop-2
 !!!OMD: Allegro vivo
@@ -87,7 +87,7 @@
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
 !!!CNT: American
-!!!AGN: Orchestral
+!!!AGN: Orchestral; Symphonic
 !!!MCN: Stokowski, Leopold
 !!!MDT: 1931/04/15
 !!!MGN: Philadelphia Orchestra
@@ -104,10 +104,10 @@
 !!!excerpt-time-signature: 3/8
 !!!excerpt-tempo-beat: [dotted-quarter]
 !!!excerpt-tempo-rate: [100]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: changing
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Cop-2
 !!!Suter_Example_Number: 700

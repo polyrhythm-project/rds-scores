@@ -1,6 +1,6 @@
 !!!!SEGMENT: R456B_Ber-w15p474-475m553-557.krn
 !!!COM: Berg, Alban (Maria Johannes)
-!!!OTL: Act II, Scene 1
+!!!OTL: Lulu, Unfinished Opera
 !!!OMV: Act II, Scene 1
 !!!example: 456B
 !!!work: Ber-15
@@ -138,7 +138,7 @@
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
 !!!CNT: Austrian
-!!!AGN: Stage
+!!!AGN: Stage; Opera
 !!!MCN: Denzler, Robert
 !!!MDT: 1937/06/02
 !!!MGN: unknown
@@ -154,11 +154,11 @@
 !!!excerpt-duration-sec: 9
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: {quarter}
-!!!excerpt-tempo-rate: {100}
-!!!excerpt-meter-type: triple
+!!!excerpt-tempo-rate: {129}
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Ber-15
 !!!Suter_Example_Number: 456B

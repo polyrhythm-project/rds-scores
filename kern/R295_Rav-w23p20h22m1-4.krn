@@ -1,7 +1,7 @@
 !!!!SEGMENT: R295_Rav-w23p20h22m1-4.krn
 !!!COM: Ravel, (Joseph) Maurice
-!!!OTL: II: Pantoum
-!!!OMV: II: Pantoum: Assez vif (Lively enough)
+!!!OTL: Piano Trio
+!!!OMV: II: Pantoum
 !!!example: 295
 !!!work: Rav-23
 !!!OMD: Assez vif
@@ -23,7 +23,7 @@
 *M3/4	*M3/4	*	*	*M3/4	*	*M3/4	*
 *	*	*	*	*	*	*8va	*
 !!LO:REH:t=22
-=234	=234	=234	=234	=234	=234	=234	=234
+=265	=265	=265	=265	=265	=265	=265	=265
 *^	*^	*	*	*	*	*	*
 *	*^	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!
@@ -39,7 +39,7 @@
 .	4FF	.	4Fn	.	.	.	8ao'L	.	8aaao'L	.
 .	.	.	.	.	.	[[	8ao'	.	8aaao'	.
 *	*v	*v	*	*	*	*	*	*	*	*
-=235	=235	=235	=235	=235	=235	=235	=235	=235	=235
+=266	=266	=266	=266	=266	=266	=266	=266	=266	=266
 2AA	12AAL	12AL	4Cn	.	>	8ccn'	.	8ccccn'	.
 .	12GGn	12Gn	.	.	.	.	.	.	.
 .	.	.	.	.	.	8dd'J	.	8dddd'J	.
@@ -54,7 +54,7 @@
 *X8ba	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	8a'	.	8aaa'	.
 *	*	*	*	*	*	*	*	*	*
-=236	=236	=236	=236	=236	=236	=236	=236	=236	=236
+=267	=267	=267	=267	=267	=267	=267	=267	=267	=267
 *	*^	*	*	*	*	*	*	*	*
 4rc	4ryy	2.AAA AA\	4ryy	4r	.	.	8gn'	.	8gggn'	.
 .	.	.	.	.	.	.	8a'J	.	8aaa'J	.
@@ -64,7 +64,7 @@
 .	4D\	.	4d/	.	.	.	8fn'	.	8fffn'	.
 .	.	.	.	.	.	[[	8g'J	.	8ggg'J	.
 *	*v	*v	*	*	*	*	*	*	*	*
-=237	=237	=237	=237	=237	=237	=237	=237	=237	=237
+=268	=268	=268	=268	=268	=268	=268	=268	=268	=268
 *	*	*	*	*	*	*	*	*	*
 2F#Xi	12FnL	12fnL	2A	.	>	8a'L	.	8aaa'L	.
 .	12E-X	12e-X	.	.	.	.	.	.	.
@@ -86,7 +86,7 @@
 !!!CBL: Ciboure, France
 !!!CDL: Paris, France
 !!!CNT: French
-!!!AGN: Instrumental
+!!!AGN: Instrumental; Chamber
 !!!MCN:
 !!!MDT: 1915/01/28
 !!!MGN:
@@ -95,18 +95,18 @@
 !!!MPN: Casella, Alfredo; Enesco, George; Feuillard, Louis
 !!!ODT: 1914
 !!!PDT: 1915
-!!!excerpt-start-measure: 234
-!!!excerpt-end-measure: 237
+!!!excerpt-start-measure: 265
+!!!excerpt-end-measure: 268
 !!!excerpt-start-time: 4:07
 !!!excerpt-end-time: 4:12
 !!!excerpt-duration-sec: 5
 !!!excerpt-time-signature: 3/4
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [192]
-!!!excerpt-meter-type: triple
+!!!excerpt-meter-type: simple triple
 !!!excerpt-beat-group: G3
 !!!excerpt-beat-subgroup: G2
-!!!experiment: 1
+!!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!Suter_Work_ID: Rav-23
 !!!Suter_Example_Number: 295
