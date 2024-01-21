@@ -19,7 +19,7 @@
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
 *F#:	*F#:	*
-!!LO:TX:omd:tempo:a:t=Allegro vivo
+!!LO:TX:omd:tempo:a:t=Allegro vivo\n[quarter-dot]=92
 *M3/8	*M3/8	*
 *	*clefF4	*
 !!LO:TX:t=

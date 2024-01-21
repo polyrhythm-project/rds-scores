@@ -19,7 +19,7 @@
 *clefF4	*clefF4	*
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
-!!LO:TX:omd:tempo:a:t=Precipitato
+!!LO:TX:omd:tempo:a:t=Precipitato\n{[eighth]=368}
 *M7/8	*M7/8	*
 =1	=1	=1
 8r	4D 4F 4B-	mp

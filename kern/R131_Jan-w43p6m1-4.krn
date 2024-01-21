@@ -20,7 +20,7 @@
 *	*	*	*	*	*	*	*
 *k[]	*	*	*	*k[]	*	*	*
 *C:	*	*	*	*C:	*	*	*
-!!LO:TX:omd:tempo:a:t=Presto
+!!LO:TX:omd:tempo:a:t=Presto\n[half-dot]=84
 *M3/4	*	*	*	*M3/4	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:t=Baryton solo	!	!	!	!	!	!	!

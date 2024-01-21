@@ -306,6 +306,9 @@ sub getExampleLine {
 	$examplenum =~ s/^0+//;
 	my $index = $EXAMPLEINDEX{$examplenum};
 	if ($index =~ /^\s*$/) {
+		$index = $EXAMPLEINDEX{"0$examplenum"};
+	}
+	if ($index =~ /^\s*$/) {
 		print join("\n", %EXAMPLEINDEX), "\n";
 		die "Error: example >>$examplenum<< not found\n";
 	}

@@ -19,7 +19,7 @@
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*	*	*	*	*	*ITrd-14c-24	*	*	*	*	*ITrd-7c-12	*ITrd-7c-12	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[0]	*	*k[0]	*	*k[]	*
-!!LO:TX:omd:tempo:a:t=Sehr ruhig und zart
+!!LO:TX:omd:tempo:a:t=Sehr ruhig und zart\n[quarter]=50
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
 !LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!
 8r	.	8r	.	8r	.	8r	.	8r	8bn	ppp	8r	8r	.	8r	.	8bnX'	ppp	8r	.	8r	.

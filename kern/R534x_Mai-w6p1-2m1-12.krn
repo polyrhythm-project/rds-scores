@@ -19,7 +19,7 @@
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
-!!LO:TX:omd:tempo:a:t=Allegretto tranquillo
+!!LO:TX:omd:tempo:a:t=Allegretto tranquillo\n[eighth]=108
 *M3/8	*	*M3/8	*
 !	!	!	!LO:DY:t=cantabile ( %s )
 8r	.	8g'~L	mp

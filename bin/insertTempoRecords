@@ -13,7 +13,7 @@
 # !!!Example_Start_Notated_Beat: [eighth]
 #
 # Converts to:
-#    !!LO:TX:tempo:a:t=[Un poco più mosso (Andante)]\n[[eighth] = 84]
+#    !!LO:TX:omd:tempo:a:t=[Un poco più mosso (Andante)]\n[[eighth] = 84]
 # Placed on the line before the firt time signature before the start of the data.
 #
 
