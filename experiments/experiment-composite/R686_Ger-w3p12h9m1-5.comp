@@ -1,0 +1,135 @@
+!!!!SEGMENT: R686_Ger-w3p12h9m1-5.krn
+!!!COM: Gershwin, George
+!!!OTL: single movement work
+!!!OMV:
+!!!example: 686
+!!!work: Ger-3
+!!!OMD-full: Molto moderato
+!!!OMD: [Tempo giusto]
+!!!AGN-sub: Concerto
+!!!OPR: Rhapsody in Blue for Orchestra
+!!!filename: R686_Ger-w3p12h9m1-5.krn
+**kern
+*staff14
+*I"Composite
+*I'Comp.
+*stria1
+*clefX
+!!LO:TX:tempo:a:t=[Tempo giusto]\n{[quarter]=133}
+!!LO:REH:t=9
+=91
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+12eR
+12eR
+12eRJ
+=92
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+12eR
+12eR
+12eRJ
+=93
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+12eR
+12eR
+12eRJ
+=94
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+12eR
+24eR
+24eR
+12eRJ
+=95
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+12eR
+12eR
+12eRJ
+=
+*-
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: O = tremolo
+!!!system-decoration: [(s1,s2)][(s3,s4,s5)]<s6>{(s7,s8)}s9[(s10,s11,s12,s13)]s14
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral
+!!!MCN: Whiteman, Paul
+!!!MDT: 1924/02/12
+!!!MGN: Paul Whiteman Band
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN: Gerschwin, George
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 91
+!!!excerpt-end-measure: 95
+!!!excerpt-start-time: 3:49
+!!!excerpt-end-time: 3:57
+!!!excerpt-duration-sec: 9
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {133}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/01/27
+!!!Suter_Work_ID: Ger-3
+!!!Suter_Example_Number: 686
+!!!Suter_Example_ID: Ger-3/12/[9]1-5
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 16:49
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 133
+!!!Example_Start_Tsig_Beat_Rate: 133
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 3:49
+!!!Example_Start_Tempo_Expression: [Tempo giusto]
+!!!Example_Start_Notated_Beat_Rate: {133}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 91
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:57
+!!!Example_End_Measure: 95
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=133} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=5099960669155). Example Start Tempo Expression [Tempo giusto] based on most recent notated tempo expression (SWFU, m. 72).
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo: 147
+!!!Audio_Example_Duration: 8.186
+!!!ONB: Converted from MusicXML on 2020/01/27

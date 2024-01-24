@@ -1,0 +1,136 @@
+!!!!SEGMENT: R678_Hin-w90p19m143-147.krn
+!!!COM: Hindemith, Paul
+!!!OTL: I: Fast-Schnell
+!!!OMV: Movement 1
+!!!example: 678
+!!!work: Hin-90
+!!!OMD-full: Fast-Schnell
+!!!OMD: [Fast-Schnell]
+!!!AGN-sub: Symphonic
+!!!OPR: Sinfonietta in E Major
+!!!filename: R678_Hin-w90p19m143-147.krn
+**kern
+*staff16
+*I"Composite
+*I'Comp.
+*stria1
+*clefX
+!!LO:TX:tempo:a:t=[Fast-Schnell]\n[[half]=108]
+!!LO:REH:t=L
+=143
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=144
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=145
+8eRL
+8r
+8eR
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=146
+8eRL
+8eR
+8eR
+8eR
+8eR
+24eR
+12eR
+12eR
+24eR
+8eRJ
+=147
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=
+*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14)][(s15)]s16
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Orchestral
+!!!MCN: Hindemith, Paul
+!!!MDT: 1950/03/01
+!!!MGN: Louisville Orchestra
+!!!MLC: Louisville, Kentucky, United States of America
+!!!MPD: 1950
+!!!MPN:
+!!!ODT: 1950
+!!!PDT: 1950
+!!!excerpt-start-measure: 143
+!!!excerpt-end-measure: 147
+!!!excerpt-start-time: 3:58
+!!!excerpt-end-time: 4:06
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 3/2
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [108]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Hin-90
+!!!Suter_Example_Number: 678
+!!!Suter_Example_ID: Hin-90/19/143-147
+!!!Premiere_Location: Louisville,United States
+!!!Other_Tsigs: 2/2
+!!!Full_Unit_Duration: 5:07
+!!!First_Publication_Year: 1950
+!!!First_Public_Performance_Year: 1950
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 8
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 3/2
+!!!Example_Start_Timestamp: 3:59
+!!!Example_Start_Tempo_Expression: [Fast-Schnell]
+!!!Example_Start_Notated_Beat_Rate: [108]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 143
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:07
+!!!Example_End_Measure: 147
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=108] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [Fast-Schnell] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: yes
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo: 186
+!!!Audio_Example_Duration: 7.717
+!!!ONB: Converted from MusicXML on 2020/07/28

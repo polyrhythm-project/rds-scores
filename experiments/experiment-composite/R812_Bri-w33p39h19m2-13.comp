@@ -1,0 +1,170 @@
+!!!!SEGMENT: R812_Bri-w33p39h19m2-13.krn
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Part I, V: The Morning Star
+!!!OMV: Part 1, Text 5: The Morning Star
+!!!example: 812
+!!!work: Bri-33
+!!!OMD-full: Molto moderato ma giocoso
+!!!OMD: [Molto moderato ma giocoso]
+!!!AGN-sub: Choral
+!!!OPR: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
+!!!filename: R812_Bri-w33p39h19m2-13.krn
+**kern
+*staff12
+*I"Composite
+*I'Comp.
+*stria1
+*clefX
+!!LO:TX:tempo:a:t=[Molto moderato ma giocoso]\n[[quarter-dot]=44]
+=20
+16eRL
+16eR
+16eR
+16eR
+8eR
+8eR
+8eR
+8eRJ
+=21
+8eRL
+8eR
+8r
+8eR
+8eR
+8eRJ
+=22
+8eRL
+8eR
+8eR
+8eR
+8eRJ
+8r
+=23
+8eRL
+16eR
+16eR
+8r
+8eR
+16eR
+16eRJ
+8r
+=24
+8eRL
+8eR
+[8eR
+8eR]
+8eR
+8eRJ
+=25
+8eRL
+8eR
+8eR
+8.eR
+16eR
+16eR
+16eRJ
+=26
+8eRL
+8eR
+8eR
+8eR
+8eRJ
+8r
+=27
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=28
+8eRL
+8eR
+8eR
+8.eR
+16eR
+16eR
+16eRJ
+=29
+8eRL
+8eR
+8eR
+8eR
+8eRJ
+8r
+=30
+8eRL
+8eR
+8eR
+8eR
+8eRJ
+8r
+=31
+8eRL
+8eR
+8eR
+8eR
+8eR
+8eRJ
+=
+*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)](s8)[(s9,s10,s11)]s12
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal
+!!!MCN: Beinum, Eduard van
+!!!MDT: 1949/07/14
+!!!MGN: Dutch Radio Chorus; Concertgebouw Orchestra
+!!!MLC: Amsterdam, The Netherlands
+!!!MPD: 1949
+!!!MPN: Ferrier, Kathleen; Pears, Peter; Vincent, Joe
+!!!ODT: 1949
+!!!PDT: 1951
+!!!excerpt-start-measure: 20
+!!!excerpt-end-measure: 31
+!!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:46
+!!!excerpt-duration-sec: 37
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [44]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Bri-33
+!!!Suter_Example_Number: 812
+!!!Suter_Example_ID: Bri-33/39/[19]2-13
+!!!Premiere_Location: Amsterdam,Netherlands
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:11
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1949
+!!!Example_Total_Measures: 12
+!!!Example_Timestamp_Duration: 37
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat_Rate: 44
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 1:09
+!!!Example_Start_Tempo_Expression: [Molto moderato ma giocoso]
+!!!Example_Start_Notated_Beat_Rate: [44]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 20
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:46
+!!!Example_End_Measure: 31
+!!!Example_Dataset: R
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=44] based on most recent notated tempo (SWFU, m. 1). Example Start Tempo Expression [Molto moderato ma giocoso] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Aldeburgh,England
+!!!Death_Date: 4-Dec-1976
+!!!Changing_Tsig: no
+!!!Birth_Place: Lowestoft,England
+!!!Birth_Date: 22-Nov-1913
+!!!Audio_Example_Quarter_Note_Tempo: 58
+!!!Audio_Example_Duration: 37.187
+!!!ONB: Converted from MusicXML on 2020/07/28

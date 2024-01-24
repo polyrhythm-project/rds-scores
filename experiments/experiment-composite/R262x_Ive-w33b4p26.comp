@@ -1,0 +1,169 @@
+!!!!SEGMENT: R262x_Ive-w33b4p26.krn
+!!!COM: Ives, Charles
+!!!OTL: IV: Thanksgiving and Forefathers' Day
+!!!OMV: IV: Thanksgiving and Forefather's Day
+!!!example: 262x
+!!!work: Ive-33
+!!!OMD-full: Adagio maestoso
+!!!OMD: [Poco agitando (but slower)]
+!!!AGN-sub: Programmatic
+!!!OPR: A Symphony: New England Holidays
+!!!filename: R262x_Ive-w33b4p26.krn
+**kern
+*staff10
+*I"Composite
+*I'Comp.
+*stria1
+*clefX
+!!LO:TX:tempo:a:t=[but slower (Poco agitando)]\n[[quarter]=53&#8211;56]
+=117
+8eRL
+16eR
+16eR
+16eR
+16eR
+16eR
+16eR
+8eR
+8eRJ
+=118
+8eRL
+16eR
+16eR
+8eR
+16eR
+16eR
+16eR
+16eR
+8eRJ
+=119
+8eRL
+16eR
+16eR
+16eR
+16eR
+8eR
+16eR
+16eR
+16eR
+16eRJ
+=120
+8eRL
+16eR
+16eR
+8eR
+8eR
+16eR
+16eR
+16eR
+16eRJ
+=121
+8eRL
+16eR
+16eR
+8eR
+16eR
+16eR
+16eR
+16eR
+8eRJ
+=122
+16eRL
+16eR
+16eR
+16eR
+16eR
+16eR
+8eR
+16eR
+16eR
+16eR
+16eRJ
+=123
+8eRL
+16eR
+16eR
+8eR
+16eR
+16eR
+16eR
+16eR
+16eR
+16eRJ
+=124
+16eRL
+16eR
+16eR
+16eR
+8eR
+8eR
+16eR
+16eR
+16eR
+16eRJ
+=
+*-
+!!!system-decoration: [(s1,s2)][([({(s3,s4)})])][(s5,s6,s7,s8,s9)]s10
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Orchestral
+!!!MCN: Dorati, Antal
+!!!MDT: 1954/04/09
+!!!MGN: Minneapolis Symphony Orchestra
+!!!MLC: Minneapolis, Minnesota, United States of America
+!!!MPD: 1954
+!!!MPN:
+!!!ODT: 1919
+!!!PDT: 1936
+!!!excerpt-start-measure: 117
+!!!excerpt-end-measure: 124
+!!!excerpt-start-time: 6:35
+!!!excerpt-end-time: 7:08
+!!!excerpt-duration-sec: 33
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [53-56]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: N = linked
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!Suter_Work_ID: Ive-33
+!!!Suter_Example_Number: 262x
+!!!Suter_Example_ID: Ive-33^4/
+!!!Premiere_Location: Minneapolis,United States
+!!!Other_Tsigs: 6/8
+!!!Full_Unit_Duration: 14:46
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1954
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 33
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 55
+!!!Example_Start_Tsig_Beat_Rate: 55
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 6:35
+!!!Example_Start_Tempo_Expression: [but slower (Poco agitando)]
+!!!Example_Start_Notated_Beat_Rate: [53-56]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 117
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 7:08
+!!!Example_End_Measure: 124
+!!!Example_Dataset: R
+!!!Editorial_Comments: This is the example that was used in the experiment. It has been given a filename and ID based on the formatting system, with an added \"x\" given that it differs from Suter's example. Metadata is based on this excerpt. Note that it is longer than the original example. Example Start Notated Beat Rate [quarter=53-56] based on most recent notated tempo (SWFU, m. 88), which is subjected to tempo modulation (quarter = 80-84 in 4/4 at m. 88 becomes quarter = 53-56 in 3/4 at m. 116 through the tempo modulation of \"dotted-quarter = quarter\"; see pages 18-26, https://issuu.com/peermusicclassical/docs/thanksgiving___forefathers_day_orch. Example Start Tempo Expression [but slower (Poco agitando)] based on most recent notated tempo expressions (SWFU, m. 116 and m. 108).
+!!!Death_Place: New York,United States
+!!!Death_Date: 19-May-1954
+!!!Changing_Tsig: yes
+!!!Birth_Place: Danbury,United States
+!!!Birth_Date: 20-Oct-1874
+!!!Audio_Example_Quarter_Note_Tempo: 43
+!!!Audio_Example_Duration: 33.319
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
