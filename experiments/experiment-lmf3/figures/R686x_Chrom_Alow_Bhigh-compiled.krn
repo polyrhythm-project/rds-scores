@@ -1,0 +1,59 @@
+!!!Xfilter: composite -gce | colorgroups
+**kern-coin	**kern-comp	**kern-grpA	**kern-grpB	**kern	**kern	**dynam
+*	*	*	*	*part1	*part1	*
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*	*	*color:crimson	*color:dodgerblue	*color:dodgerblue	*color:crimson	*
+*stria1	*stria1	*stria1	*stria1	*	*	*
+*clefX	*clefX	*clefX	*clefX	*clefF4	*clefG2	*
+*I"Coincidence\n(16 events)	*I"Composite\n(36 events)	*I"Group A\n(16 events)	*I"Group B\n(36 events)	*I"Piano	*I"Piano	*
+*	*	*	*	*k[]	*k[]	*
+*	*	*	*	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=91-	=91-	=91-	=91-	=91-	=91-	=91-
+!!LO:TX:t=[[quarter]=171]
+8eRL	8eRL	8eRL	8eRL	(L8DD^ F#^ BB-^ D#^ E^	(L8c 8cc# 8dd	.
+8eRJ	8eRJ	8eRJ	8eRJ	8G#	8a b-J	.
+4eR	8eRL	4eR	8eRL	8CC)L	4a-^ dd^)	.
+.	8eRJ	.	8eRJ	(J8FF^ D-^ A-^J	.	.
+4eR	8eRL	4eR	8eRL	L8A-	4dL^ g^	.
+.	8eRJ	.	8eRJ	J8BB)	.	.
+4eR	12eRL	4eR	12eRL	(L12CC^ FF^ GG^	4aL^ aa-^	.
+.	12eR	.	12eR	12D	.	.
+.	12eRJ	.	12eRJ	12CJ)	.	.
+=92	=92	=92	=92	=92	=92	=92
+4eR	8eRL	4eR	8eRL	(L8FF#^ 8GG#^ 8D^	4f^ ff^	.
+.	8eRJ	.	8eRJ	8D#	.	.
+8eRL	8eRL	8eRL	8eRL	8F)L	(L8e g bb	.
+8eRJ	8eRJ	8eRJ	8eRJ	(J8CC#^ FF#^ C^J	J8d- 8c	.
+8eRL	8eRL	8eRL	8eRL	8EE-L	8f' g-'L)	.
+8eRJ	8eRJ	8eRJ	8eRJ	J8B-)	8d-' 8f'J	.
+4eR	12eRL	4eR	12eRL	(L12DD-^ EE-^ A^	4f#^~ g^~	.
+.	12eR	.	12eR	12AA-	.	.
+.	12eRJ	.	12eRJ	J12F)	.	.
+=93	=93	=93	=93	=93	=93	=93
+2eR	8eRL	2eR	8eRL	(L8FF^ D^ E^	2aa- bb	.
+.	8eRJ	.	8eRJ	8C	.	.
+.	8eRL	.	8eRL	8GG)L	.	.
+.	8eRJ	.	8eRJ	(J8FF^ AA^ C#^ D^ F^ A^J	.	.
+2r	8eRL	2rR	8eRL	L8GG# C	2r	.
+.	8eRJ	.	8eRJ	J8E- B-)	.	.
+.	12eRL	.	12eRL	(L12GG#^ BB^ CC#^	.	.
+.	12eR	.	12eR	12DD#	.	.
+.	12eRJ	.	12eRJ	J12EE)	.	.
+=94	=94	=94	=94	=94	=94	=94
+4eR	8eRL	4eR	8eRL	(L8EE-^ C^ D^	4d' bb-'	.
+.	8eRJ	.	8eRJ	8D-	.	.
+4eR	8eRL	4eR	8eRL	8EE)L	4f' b-'	.
+.	8eRJ	.	8eRJ	(J8C^ F#^ G^J	.	.
+4eR	8eRL	4eR	8eRL	L8DD-	4aa' bb-'	.
+.	8eRJ	.	8eRJ	J8C)	.	.
+4eR	12eRL	4eR	12eRL	(L12DD-^ FF^ BB-^	4e-' 4f'	.
+.	12eR	.	12eR	12AA	.	.
+.	12eRJ	.	12eRJ	12FJ)	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}[(s3s4s5s6)]
+!!!group-b-event-count: 36
+!!!group-a-event-count: 16
+!!!composite-event-count: 36
+!!!coincidence-event-count: 16
