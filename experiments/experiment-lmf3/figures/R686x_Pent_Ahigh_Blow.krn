@@ -1,4 +1,3 @@
-!!!Xfilter: composite -gec | colorgroups
 !!!filter: composite -gce | colorgroups
 **kern	**kern	**dynam
 *grp:B	*grp:A	*
@@ -24,7 +23,7 @@
 4D^ 8A^	(L8c^ 8a^ 8dd^	.
 .	8g	.
 (8CCL 8DD 8C	8cc)	.
-8AAJ^ 8A^	(J8d^ 8dd^ 8aa^	.
+8AAJ 8A	(J8d^ 8dd^ 8aa^	.
 8DD'L 8EE)	8gL	.
 8C'J 8G	J8dd)	.
 4EE~^ 4GG	(12d^L 12g 12ee	.

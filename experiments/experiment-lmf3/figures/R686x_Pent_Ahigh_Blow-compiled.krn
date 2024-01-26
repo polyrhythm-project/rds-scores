@@ -1,4 +1,3 @@
-!!!Xfilter: composite -gec | colorgroups
 !!!Xfilter: composite -gce | colorgroups
 **kern-coin	**kern-comp	**kern-grpA	**kern-grpB	**kern	**kern	**dynam
 *	*	*color:crimson	*color:dodgerblue	*color:dodgerblue	*color:crimson	*
@@ -25,7 +24,7 @@
 4eR	8eRL	8eRL	4eR	4D^ 8A^	(L8c^ 8a^ 8dd^	.
 .	8eRJ	8eRJ	.	.	8g	.
 8eRL	8eRL	8eRL	8eRL	(8CCL 8DD 8C	8cc)L	.
-8eRJ	8eRJ	8eRJ	8eRJ	8AAJ^ 8A^	(J8d^ 8dd^ 8aa^J	.
+8eRJ	8eRJ	8eRJ	8eRJ	8AAJ 8A	(J8d^ 8dd^ 8aa^J	.
 8eRL	8eRL	8eRL	8eRL	8DD'L 8EE)	8gL	.
 8eRJ	8eRJ	8eRJ	8eRJ	8C'J 8G	J8dd)	.
 4eR	12eRL	12eRL	4eR	4EE~^ 4GG	(12d^L 12g 12ee	.
