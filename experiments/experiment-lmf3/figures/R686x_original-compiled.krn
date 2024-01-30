@@ -1,0 +1,113 @@
+!!!COM: Gershwin, George
+!!!OTL: Rhapsody in Blue for Solo Piano
+!!!OMD-full: Molto moderato
+!!!example: 686x
+!!!work: Ger-3x
+!!!OMD-full: Molto moderato
+!!!OMD: [Tempo giusto]
+!!!Xfilter: composite -ceg | colorgroups
+**kern-coin	**kern-comp	**kern-grpA	**kern-grpB	**kern	**kern	**dynam
+*	*	*color:crimson	*color:dodgerblue	*color:crimson	*color:dodgerblue	*
+*	*	*	*	*part1	*part1	*
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*	*	*	*	*ICklav	*ICklav	*
+*	*	*	*	*Ipiano	*Ipiano	*
+*I"Coincidence\n(17 events)	*I"Composite\n(36 events)	*I"Group A\n(36 events)	*I"Group B\n(16 events)	*I"Piano	*I"Piano	*
+*I'Coin.	*I'Comp.	*I'Grp. A.	*I'Grp. B.	*I'Pno.	*I'Pno.	*
+*stria1	*stria1	*stria1	*stria1	*	*	*
+*clefX	*clefX	*clefX	*clefX	*clefF4	*clefG2	*
+*	*	*	*	*k[]	*k[]	*
+*	*	*	*	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=91-	=91-	=91-	=91-	=91-	=91-	=91-
+!	!	!	!	!	!LO:TX:t=[[quarter]=171]	!
+!	!	!	!	!	!LO:TX:b:i:t=  marc.	!LO:DY:
+8qeR	8qeR	8qeR	8qeR	(<8qC/ 8qG	(<8qbbn/	mf
+8eR	8eRL	8eRL	8eRL	8B-X^L) 8c (8e	8ccL) (8ccc	.
+8eRJ	8eRJ	8eRJ	8eRJ	8A	8eeJ 8eee	.
+4eR	8eRL	8eRL	4eR	8G)L	4gg^ 4ggg)	.
+.	8eRJ	8eRJ	.	(8B-^J 8c 8eJ	.	.
+4eR	8eRL	8eRL	4eR	8AL	4gg^ 4ggg	.
+.	8eRJ	8eRJ	.	8GJ)	.	.
+4eR	12eRL	12eRL	4eR	(12B-^L 12c 12e	4gg^ 4ggg	.
+.	12eR	12eR	.	12A	.	.
+.	12eRJ	12eRJ	.	12GJ)	.	.
+=92	=92	=92	=92	=92	=92	=92
+4eR	8eRL	8eRL	4eR	(8Bn^L 8d 8f	4gg^ 4ggg	.
+.	8eRJ	8eRJ	.	8A	.	.
+.	.	.	.	.	(<8qggg#X/	.
+8eRL	8eRL	8eRL	8eRL	8G)L	8aaL) (8aaa	.
+8eRJ	8eRJ	8eRJ	8eRJ	(8B^J 8d 8fJ	8ggJ 8gggn	.
+8eRL	8eRL	8eRL	8eRL	8AL	8ff'L 8fff)	.
+8eRJ	8eRJ	8eRJ	8eRJ	8GJ)	8ee'J 8eee	.
+4eR	12eRL	12eRL	4eR	(12B^L 12d 12f	4dd~^ 4ddd	.
+.	12eR	12eR	.	12A	.	.
+.	12eRJ	12eRJ	.	12GJ)	.	.
+!!linebreak:original
+=93	=93	=93	=93	=93	=93	=93
+*	*	*	*	*	*^	*
+*	*	*	*	*	*color:crimson	*color:dodgerblue	*
+2eR	8eRL	8eRL	2eR	(8B-X^L 8c 8e	4r	2ccc/ 2cc	.
+.	8eRJ	8eRJ	.	8A	.	.	.
+*	*	*	*	*	*X8va	*	*
+.	8eRL	8eRL	.	8G)L	8r	.	.
+.	8eRJ	8eRJ	.	(8B-^J 8c 8eJ	(8b-X^ 8cc 8ee	.	.
+2r	8eRL	8eRL	2rR	8AL	8aL	2ryy	.
+.	8eRJ	8eRJ	.	8GJ)	8gJ)	.	.
+!	!	!	!	!LO:TX:a:i:t=R.H.	!	!	!
+.	12eRL	12eRL	.	4r	(12B-< 12c< 12e<^L	.	.
+.	12eR	12eR	.	.	12A<	.	.
+.	12eRJ	12eRJ	.	.	12G<J)	.	.
+*	*	*	*	*	*v	*v	*
+=94	=94	=94	=94	=94	=94	=94
+*	*	*	*	*^	*	*
+*	*	*	*	*	*color:dodgerblue	*	*
+4eR	8eRL	8eRL	4eR	(8B-X^L 8c 8e-X	4AAA-X' 4AA-X	1r	.
+.	8eRJ	8eRJ	.	8A-X	.	.	.
+4eR	8eRL	8eRL	4eR	8G-X)L	4AAA-' 4AA-	.	.
+.	8eRJ	8eRJ	.	(8B-^J 8c 8e-J	.	.	.
+4eR	8eRL	8eRL	4eR	8A-L	4AAA-' 4AA-	.	.
+.	8eRJ	8eRJ	.	8G-J)	.	.	.
+4eR	12eRL	12eRL	4eR	(12B-^L 12c 12e-	4AAA-' 4AA-	.	.
+.	12eR	12eR	.	12A-	.	.	.
+.	12eRJ	12eRJ	.	12G-J)	.	.	.
+*	*	*	*	*v	*v	*	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][(s3s4s5s6)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Instrumental; Keyboard
+!!!MCN: unknown
+!!!MDT: ?
+!!!MGN: unknown
+!!!MLC: unknown
+!!!MPD: unknown
+!!!MPN: unknown
+!!!ODT: 1924?
+!!!PDT: 1924?
+!!!excerpt-start-measure: 91
+!!!excerpt-end-measure: 95
+!!!excerpt-start-time: 3:36
+!!!excerpt-end-time: 3:43
+!!!excerpt-duration-sec: 5.6
+!!!previous-excerpt-duration-sec: 6.197
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {171}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!group-b-event-count: 16
+!!!group-a-event-count: 36
+!!!composite-event-count: 36
+!!!coincidence-event-count: 17
