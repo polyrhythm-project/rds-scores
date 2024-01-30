@@ -12,7 +12,7 @@
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
 *	*	*	*	*ICklav	*ICklav	*
 *	*	*	*	*Ipiano	*Ipiano	*
-*I"Coincidence\n(17 events)	*I"Composite\n(36 events)	*I"Group A\n(36 events)	*I"Group B\n(16 events)	*I"Piano	*I"Piano	*
+*I"Coincidence\n(17 events)	*I"Composite\n(38 events)	*I"Group A\n(37 events)	*I"Group B\n(18 events)	*I"Piano	*I"Piano	*
 *I'Coin.	*I'Comp.	*I'Grp. A.	*I'Grp. B.	*I'Pno.	*I'Pno.	*
 *stria1	*stria1	*stria1	*stria1	*	*	*
 *clefX	*clefX	*clefX	*clefX	*clefF4	*clefG2	*
@@ -36,6 +36,7 @@
 4eR	8eRL	8eRL	4eR	(8Bn^L 8d 8f	4gg^ 4ggg	.
 .	8eRJ	8eRJ	.	8A	.	.
 .	.	.	.	.	(<8qggg#X/	.
+.	8eqR	.	8qeR	.	.	.
 8eRL	8eRL	8eRL	8eRL	8G)L	8aaL) (8aaa	.
 8eRJ	8eRJ	8eRJ	8eRJ	(8B^J 8d 8fJ	8ggJ 8gggn	.
 8eRL	8eRL	8eRL	8eRL	8AL	8ff'L 8fff)	.
@@ -47,7 +48,7 @@
 =93	=93	=93	=93	=93	=93	=93
 *	*	*	*	*	*^	*
 *	*	*	*	*	*color:crimson	*color:dodgerblue	*
-2eR	8eRL	8eRL	2eR	(8B-X^L 8c 8e	4r	2ccc/ 2cc	.
+2eR	8eRL	8eRL	2eR	(8B-X^L 8c 8e	4re	2ccc/ 2cc	.
 .	8eRJ	8eRJ	.	8A	.	.	.
 *	*	*	*	*	*X8va	*	*
 .	8eRL	8eRL	.	8G)L	8r	.	.
