@@ -2,48 +2,214 @@
 #
 # Programmer:    Craig Stuart Sapp <craig.stanford.edu>
 # Creation Date: Wed Jun 30 22:20:13 PDT 2021
-# Last Modified: Wed May  3 03:50:38 PDT 2023
+# Last Modified: Wed Feb  7 10:55:25 PST 2024
 # Filename:      getSonorityDissonance
 # Syntax:        perl 5
 #
-# Description:   Return the average sonority dissonance, weighted by duration
+# Description:   Return the average vertical sonority dissonance, weighted by
+#                duration. The most dissonant interval in the sonorities are
+#                used as the dissonance score for the sonority according to
+#                the interval scores given in the %scores variable.
+#                
 # 
 
 use strict;
 use Getopt::Long;
 
-my %scores = ("P8" => 0, "P1" => 0, "P4" => 1, "P5" => 1, "m3" =>
-2, "M3" => 2, "M6" => 2, "M2" => 3, "m6" => 2, "m7" => 3, "P15" =>
-0, "m10" => 2, "P12" => 1, "M9" => 3, "P11" => 1, "M10" => 2, "d5"
-=> 4, "A4" => 4, "M13" => 2, "m14" => 3, "M7" => 4, "m13" => 2,
-"m2" => 5, "M16" => 3, "m9" => 4, "P19" => 1, "M17" => 2, "m17" =>
-2, "A5" => 2, "d4" => 2, "A11" => 4, "P22" => 0, "P18" => 1, "A1"
-=> 5, "d12" => 4, "A8" => 4, "M14" => 3, "M20" => 2, "d2" => 2,
-"A2" => 2, "m16" => 3, "d8" => 4, "m20" => 2, "m21" => 3, "d7" =>
-2, "A9" => 2, "A12" => 2, "d19" => 3, "d11" => 2, "M23" => 3, "M24"
-=> 2, "A18" => 4, "m24" => 2, "A15" => 4, "P25" => 1, "P26" => 1,
-"d9" => 0, "A6" => 3, "A3" => 1, "A16" => 2, "M21" => 3, "d18" =>
-3, "d15" => 4, "m28" => 2, "d3" => 3, "d22" => 3, "d6" => 1, "m23"
-=> 3, "A22" => 3, "M27" => 2, "d10" => 3, "A19" => 2, "d26" => 3,
-"M30" => 2, "A13" => 3, "d14" => 2, "d16" => 1, "A25" => 3, "m27"
-=> 2, "AA4" => 1, "d13" => 2, "P29" => 1, "A20" => 3, "dd5" => 1,
-"A7" => 0, "d25" => 2, "A26" => 3, "m31" => 2, "P33" => 1, "A23"
-=> 2, "d21" => 2, "M28" => 3, "d17" => 3, "A10" => 1, "m35" => 3,
-"dd12" => 1, "d20" => 1, "d24" => 3, "P32" => 1, "M31" => 3, "AA1"
-=> 4, "AA11" => 1, "dd8" => 3, "A14" => 0, "m38" => 3, "A29" => 3,
-"A21" => 0, "r" => 0, "-" => 0, "A17" => 1, "m34" => 3, "m30" =>
-3, "d23" => 0, "P36" => 1, "AA22" => 3, "d29" => 3, "A32" => 3,
-"dd22" => 3, "d31" => 3, "d28" => 2, "d27" => 1, "M37" => 3, "dd15"
-=> 3, "AA8" => 3, "dd4" => 2, "M38" => 3, "M34" => 3, "AA18" => 1,
-"A30" => 2, "d36" => 3, "d34" => 3, "AA15" => 3, "m41" => 3, "dd19"
-=> 1, "AA6" => 4, "d33" => 2, "A27" => 3, "A24" => 1, "dd6" => 1,
-"dd26" => 1, "M35" => 3, "A28" => 1, "dd13" => 1, "dd10" => 3, "P39"
-=> 1, "AA3" => 4, "dd18" => 2, "dd11" => 2, "AA5" => 2, "AA25" =>
-1, "AA2" => 2, "AA13" => 3, "dd7" => 2, "dd3" => 4, "dd29" => 3,
-"dd21" => 2, "d35" => 2, "d32" => 2, "d30" => 3, "P40" => 1, "AA9"
-=> 2, "AA31" => 3, "AA24" => 3, "A33" => 2, "ddd5" => 2, "ddd12"
-=> 2, "dd17" => 3, "dd14" => 2, "d37" => 2, "P47" => 1, "AA12" =>
-2, "A36" => 3);
+# %scores -- Diatonic/chromatic interval scores (for all intervals present
+# in data.  Intervals not in the data are not given (If a new interval is
+# encountered, this program will complain.
+my %scores = (
+
+# Non-intervals
+"r"     => "none", # rest (do not process)
+"-"     => "none", # sustained interval (do not process)
+
+# 0 = octave/unison level
+"P1"   => 0, # unison
+"d2"   => 0, # diminished 2nd (enharmonic unison)
+"A7"   => 0, # augmented 7th (enharmonic octave)
+"P8"   => 0, # octave
+"d9"   => 0, # diminished 9th (enharmonic octave)
+"A14"  => 0, # (augmented 7th, enharmonic double octave)
+"P15"  => 0, # double octave
+"d16"  => 0, # diminished 2nd (enharmonic three octaves)
+"A21"  => 0, # augmented 7thm (enharmonic triple octave)
+"P22"  => 0, # triple octave
+"d30"  => 0, # diminished 2nd (+ 4 octaves) (enharmonic octave)
+"d37"  => 0, # diminished 2nd (enharmonic 5 octaves)
+
+# 1 = perfect consonance level
+"A3"   => 1, # augmented 3rd (enharmonic perfect fourth)
+"AA4"  => 1, # doubly augmented 4th (enharmonic perfect fifth)
+"dd5"  => 1, # doubly diminished 4th (enharmonic perfect fourth)
+"P5"   => 1, # perfect 5th
+"d6"   => 1, # dimished 6th (perfect 4th)
+"dd6"  => 1, # double diminished 6th (enharmonic perfect 5th)
+"A10"  => 1, # augmented 3rd (enharmonic pefect 4th)
+"P11"  => 1, # perfect 4th
+"AA11" => 1, # doubly augmented 4th (enharmonic perfect 5th)
+"dd12" => 1, # doubly diminished 5th (enharmonic perfect 4th)
+"P12"  => 1, # perfect 5th
+"d13"  => 1, # diminished sixth (enharmonic perfect 5th)
+"dd16" => 1, # doubly diminished 2nd (enharmonic octave)
+"A17"  => 1, # augmented 3rd (enharmonic perfect fourth)
+"P18"  => 1, # perfect 4th
+"AA18" => 1, # double augmented 18th
+"dd19" => 1, # doubly diminished 5th (perfect 4th)
+"P19"  => 1, # perfect 5th
+"d20"  => 1, # dimishied 6th (enharmonic perfect 5th)
+"d23"  => 1, # diminished 2nd (enharmonic 3 octaves)
+"A24"  => 1, # augmented third (enharmonic perfect 4th)
+"P25"  => 1, # perfect 4th 
+"AA25" => 1, # double augmented 4th (enharmonic perfect 5th)
+"dd26" => 1, # double diminished 6th (enharmonic perfect 5th)
+"P26"  => 1, # perfect 5th
+"d27"  => 1, # diminished 6th (enharmonic perfect 5th)
+"A28"  => 1, # augmented 7th (enharmonic 4 octaves)
+"P29"  => 1, # perfect octave (4)
+"P32"  => 1, # perfect 4th (+ 4 octaves)
+"P33"  => 1, # perfect 5th (+ 4 octaves)
+"d34"  => 2, # diminished 6th (enharmonic perfect 5th)
+"P36"  => 1, # perfect octave (+ 5 octaves)
+"P39"  => 1, # perfect 4th	(+6 octaves)
+"P40"  => 1, # perfect 5th	(+6 octaves)
+"P47"  => 1, # perfect 5th (+7 octaves)
+
+# Imperfect consonance level
+"A2"   => 2, # augmented 2nd (enharmonic minor third)
+"AA2"  => 2, # doubly augmented 2nd (enharmonic major third)
+"m3"   => 2, # minor 3rd
+"M3"   => 2, # major 3rd
+"dd4"  => 2, # doubly diminished 4th (ehnarmonic minor third)
+"d4"   => 2, # diminished 4th (ehnarmonic major third)
+"P4"   => 2, # perfect 4th (slightly more dissonant than P5, especially in suspensions)
+"ddd5" => 2, # doubly diminished 5th (enharmonic perfect fourth)
+"A5"   => 2, # augmented 5th (enharmonic minor 6th)
+"AA5"  => 2, # doubly augmented 5th (enharmonic major 6th)
+"m6"   => 2, # minor 6th
+"M6"   => 2, # major 6th
+"dd7"  => 2, # doubly diminished 7th (enharmonic minor 6th)
+"d7"   => 2, # diminished 7th (enharmonic minor 6th)
+"A9"   => 2, # augmented 2nd (enharmonic minor 3rd)
+"AA9"  => 2, # doubly augmented 2nd (enharmonic major 3rd)
+"m10"  => 2, # minor 3rd
+"M10"  => 2, # major 3rd
+"dd11" => 2, # doubly diminished 4th (enharmonic minor 3rd)
+"d11"  => 2, # diminished 4th (enharmonic minor 3rd)
+"ddd12"=> 2, # triply diminished 5th (enharmonic major 3rd)
+"A12"  => 2, # augmented 5th (enharmoic minor 6th)
+"AA12" => 2, # doubly augmented 5th (enharmonic major 6th)
+"m13"  => 2, # minor 6th + 1 octave
+"M13"  => 2, # major 6th + 1 octave
+"dd14" => 2, # doubly diminished 7th (enharmonic minor 6th)
+"d14"  => 2, # diminished 7th (enharmonic major 6th)
+"A16"  => 2, # augmented 2nd (enharmonic minor 3rd)
+"m17"  => 2, # minor 3rd + 2 octaves
+"M17"  => 2, # major 3rd + 2 octaves
+"dd18" => 2, # double diminished 4th (enharmonic minor 3rd)
+"d18"  => 2, # diminished 4th (enharmonic major 3rd)
+"A19"  => 2, # augmented 5th (enharmonic minor 6th)
+"m20"  => 2, # minor 6th + 2 octaves
+"M20"  => 2, # major 6th + 2 octaves
+"dd21" => 2, # doubly diminished 7th (enharmonic minor 6th)
+"d21"  => 2, # diminished 7th (enharmonic major 6th)
+"A23"  => 2, # augmented 2nd + 3 octaves (enharmonic minor 3rd)
+"m24"  => 2, # minor 3rd + 3 octaves
+"M24"  => 2, # major 3rd + 3 octaves
+"d25"  => 2, # diminished 4th (enharmonic major 3rd)
+"m27"  => 2, # minor 6th + 3 octaves
+"M27"  => 2, # major 6th + 3 octaves
+"d28"  => 2, # diminished 7th (enharmonic major 6th)
+"m28"  => 2, # minor 7th
+"M30"  => 2, # major 2nd + 4 octaves
+"A30"  => 2, # augmented 2nd (enharmonic minor 3rd)
+"m31"  => 2, # minor third + 4 octaves
+"d32"  => 2, # diminished 4th (enharmonic major 3rd)
+"A33"  => 2, # augmented 5th (enharmonic minor 6th)
+"d33"  => 2, # tritone + 4 octaves
+"d35"  => 2, # diminished 7th (enharonic major 6th)
+
+# Weak dissonance level:
+"AA1"  => 3, # doubly augmented unison (enharmonic major 2nd)
+"M2"   => 3, # major 2nd
+"d3"   => 3, # diminished 3rd (enharmonic major 2nd)
+"A6"   => 3, # augmented 6th (enharmonic minor 7th)
+"m7"   => 3, # minor 7th
+"dd8"  => 3, # doubly diminished octave (enharmonic minor 7th)
+"AA8"  => 3, # doubly augmented octave (enharmonic major 2nd)
+"M9"   => 3, # major 9th (enharmonic major 2nd)
+"d10"  => 3, # diminished 10th (enharmonic major 9th)
+"A13"  => 3, # augmented 6th (enharmonic minor 7th)
+"m14"  => 3, # minor 7th
+"M14"  => 3, # major 7th
+"dd15" => 3, # doubly diminished octave (enharmonic minor 7th)
+"A15"  => 4, # augmented double octave (enharmonic minor 2nd)
+"AA15" => 3, # doubly augmented double octavei (enharmonic major 2nd)
+"m16"  => 3, # minor 2nd + 2 octaves 
+"M16"  => 3, # major 2nd
+"dd17" => 3, # doubly diminished 3rd + 2 octaves (enharmonic minor 2nd)
+"d17"  => 3, # diminished third (enharmonic major 2nd)
+"A18"  => 3, # tritone + 2 octaves
+"d19"  => 3, # tritone + 2 octaves
+"A20"  => 3, # augmented 6th (enharmonic minor 7th)
+"m21"  => 3, # minor 7th (+ 2 octaves)
+"M21"  => 3, # major 7th (+ 2 octaves)
+"dd22" => 3, # doubly diminished 3 octaves (enharmonic minor 7th)
+"d22"  => 3, # diminished 3 octaves (enharmonic major 7th)
+"A22"  => 3, # augmented 3 octaves (enharmonic minor 2nd)
+"AA22" => 3, # doubly augmented 3 octaves (enharmonic major 2nd)
+"m23"  => 3, # minor 2nd (+ 3 octaves)
+"M23"  => 3, # major 2nd (+ 3 octaves)
+"d24"  => 3, # diminished 3rd (enharmonic major 2nd)
+"AA24" => 3, # doubly augmented 3rd (enharmonic tritone)
+"A25"  => 3, # tritone (+ 3 octaves)
+"d26"  => 3, # tritone (+ 3 octaves)
+"A26"  => 3, # augmented 5th (enharmonic minor 6th)
+"A27"  => 3, # augmented 6th (enharmonic minor 7th)
+"M28"  => 3, # major 7th (+3 octaves)
+"dd29" => 3, # doubly diminished 4 octaves (enharmonic minor 7th)
+"d29"  => 3, # diminished 4 octaves (enharmonic major 7th)
+"A29"  => 3, # augmented 4 octaves (ehnarmonic minor 2nd)
+"d31"  => 3, # diminished 3th (+ 4 octaves) (enharmonic major 3rd)
+"m30"  => 3, # minor 2nd (+ 4 octaves)
+"M31"  => 3, # Major 3rd
+"AA31" => 3, # doubly augmented 3rd (enharmonic tritone)
+"A32"  => 3, # tritone + 4 octaves
+"m34"  => 3, # minor 6th + 4 octaves
+"M34"  => 3, # major 6th + 4 octaves
+"m35"  => 3, # minor 7th + 4 octaves
+"M35"  => 3, # major 7th + 4 octaves
+"d36"  => 3, # diminished 5 octave (enharmonic major 7th)
+"A36"  => 3, # augmented 5 octaves (enharmonic minor 7th)
+"M37"  => 3, # major 2nd + 5 octaves
+"m38"  => 3, # minor 3rd + 5 octaves
+"M38"  => 3, # major 3rd + 5 octaves
+"m41"  => 3, # minor 6th + 5 octaves
+
+# Strong dissonance level
+"AA3"  => 4, # doubly augmented 3rd (enharmonic tritone)
+"A4"   => 4, # tritone
+"d5"   => 4, # tritone
+"AA6"  => 4, # doubly augmented 6th (enharmonic major 7th)
+"M7"   => 4, # major 7th
+"d8"   => 4, # diminished octave (enharmonic major 7th)
+"A8"   => 4, # augmented octave (enhamonic minor 9th)
+"m9"   => 4, # minor 9th
+"dd10" => 3, # doubly diminished 10th (enharmononic 9th)
+"A11"  => 4, # tritone
+"d12"  => 4, # tritone
+"dd13" => 4, # doubly diminished 6th (enharmonic perfect 5th)
+"AA13" => 4, # doubly augmented 6th (enharmonic major 7th)
+"d15"  => 4, # diminished double octave (enhamronic major 7th)
+
+# Very strong dissonance level
+"d1"   => 5, # diminished unison
+"A1"   => 5, # augmented unison
+"m2"   => 5, # minor 2nd
+"dd3"  => 5  # doubly diminished 3rd (enharmonic minor 2nd)
+
+);
 
 my $fileQ = 0;
 
@@ -102,7 +268,7 @@ sub processFile {
 
 ##############################
 ##
-## getMaxDissonance --
+## getMaxDissonance -- Find the maximum interval dissonance score for the sonority.
 ##
 
 sub getMaxDissonance {
@@ -113,6 +279,7 @@ sub getMaxDissonance {
 		next if $interval =~ /^\s*$/;
 		my $diss = $scores{$interval};
 		next if $diss =~ /^\*$/;
+		next if $diss =~ /none/i;
 		$max = $diss if $max < $diss;
 	}
 	return $max;
@@ -122,7 +289,7 @@ sub getMaxDissonance {
 
 ##############################
 ##
-## getHarmonies --
+## getHarmonies -- get a list of the interval (all permutations) for the sonority.
 ##
 
 sub getHarmonies {
@@ -146,7 +313,7 @@ sub getHarmonies {
 
 ##############################
 ##
-## getDurations --
+## getDurations -- Get duration of each sonority.
 ##
 
 sub getDurations {
