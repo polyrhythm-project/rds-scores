@@ -23,7 +23,7 @@ my %scores = (
 
 # Non-intervals
 "r"     => "none", # rest (do not process)
-"-"     => "none", # sustained interval (do not process)
+"-"     => "none", # (do not process)
 
 # 0 = octave/unison level
 "P1"   => 0, # unison
