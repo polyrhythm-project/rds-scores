@@ -19,12 +19,11 @@
 *clefG2	*	*clefG2	*
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*
-!!LO:TX:omd:tempo:a:t=Plus lent\n{[eighth]=85}
 *M	*	*M	*
 =24	=24	=24	=24
-!	!	!LO:TX:t=[[eighth]=82]	!
-!LO:TX:a:t=G (diapason 8)	!LO:DY:t=%s louré	!LO:TX:a:B:t=Plus lent	!
-!	!	!LO:TX:a:t=Pos (cromorne, bourdon 16, 3ee.)	!
+!!LO:TX:omd:tempo:a:t=Plus lent\n{[eighth]=85}
+!LO:TX:a:t=G (diapason 8)	!LO:DY:t=%s louré	!	!
+!	!	!LO:TX:a:t=\nPos (cromorne, bourdon 16, 3ee.)	!
 4d-~ 4g-~ 4a-~	mf	4r	.
 [4.A-~ [4.d-~ [4.e-~	.	16r	.
 !	!	!	!LO:DY:t=%s legato (caressant)
