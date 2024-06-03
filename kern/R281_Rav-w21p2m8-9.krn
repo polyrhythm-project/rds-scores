@@ -380,7 +380,6 @@
 !!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!Xfilter: slurcheck
 !!!Suter_Work_ID: Rav-21
 !!!Suter_Example_Number: 281
 !!!Suter_Example_ID: Rav-21/2/8-9
@@ -413,6 +412,5 @@
 !!!Birth_Date: 7-Mar-1875
 !!!Audio_Example_Quarter_Note_Tempo: 37
 !!!Audio_Example_Duration: 12.835
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/05

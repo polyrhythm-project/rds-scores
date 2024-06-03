@@ -81,7 +81,7 @@
 8r	.	.	8D-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	(8.B'J	.	(8.f#X'vJ 8.a#X	.	.	.	.	[16ffnJk	.	.	.	.	.
 8EE	.	.	8C'J)	.	.	.	.	4.cc	.	.	.	.	[8g	.	4.fff#X	4.ff]	.	.	.	8r	.
-8r	.	.	((8C^L	4.CC	] > ]	.	.	.	8.B'L	.	8.f#'L 8.a#	.	8g]	.	.	.	.	4r)	.	8b#XN)j	p
+8r	.	.	((8C^L	4.CC	] > ]	.	.	.	8.B'L	.	8.f#'L 8.a#	.	8g]	.	.	.	.	4r)	.	8b#XN)	p
 8AAAJ	.	.	8D-)	.	.	.	.	.	.	.	.	.	4e	.	.	.	.	.	.	([4dd#X	.
 .	.	.	.	.	.	.	.	.	[8.B'J	.	[8.f#'J [8.a#	.	.	.	.	.	.	.	.	.	.
 8r	.	.	8C'J)	.	.	.	.	16ddLL	.	.	.	.	.	.	[8ddd#X	[8ddn	.	8r	.	.	.
@@ -165,8 +165,6 @@
 !!!EEV: 2020/09/18
 !!!ONB: Converted from MusicXML on 2020/09/04
 !!!RDF**kern: N = linked
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Ive-33
 !!!Suter_Example_Number: 262x
 !!!Suter_Example_ID: Ive-33^4/
@@ -199,4 +197,3 @@
 !!!Birth_Date: 20-Oct-1874
 !!!Audio_Example_Quarter_Note_Tempo: 43
 !!!Audio_Example_Duration: 33.319
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"

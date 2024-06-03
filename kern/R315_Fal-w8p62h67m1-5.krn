@@ -26,7 +26,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=(Btte. di legno)	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!LO:TX:t=1 Sola	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis. (pos. nat.)	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-8AAA-X'Lu	f	8AA-X'Lu	f	8c'	f	8E-X'L 8c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	.	8AA-X' 8E-X	8c'	f	4.ryy	.	24E-<XLL	8AA-<\ 8E-<\	ff >	8AA-X'	mf	4.r	.	[4.c^	fp	8c')j	mf	4.r	.	4.r	.	4.r	.
+8AAA-X'Lu	f	8AA-X'Lu	f	8c'	f	8E-X'L 8c	f	16B-X' 16g-X	f	16B-X'LL 16g-X	> f	4.r	.	.	8AA-X' 8E-X	8c'	f	4.ryy	.	24E-<XLL	8AA-<\ 8E-<\	ff >	8AA-X'	mf	4.r	.	[4.c^	fp	8c')	mf	4.r	.	4.r	.	4.r	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X\ 24g-X\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	16r	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FJJ\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -131,7 +131,6 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental, paren
-!!!Xfilter: slurcheck
 !!!Suter_Work_ID: Fal-8
 !!!Suter_Example_Number: 315
 !!!Suter_Example_ID: Fal-8/62/[67]1-5
@@ -164,4 +163,3 @@
 !!!Birth_Date: 23-Nov-1876
 !!!Audio_Example_Quarter_Note_Tempo: 95
 !!!Audio_Example_Duration: 4.752
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"

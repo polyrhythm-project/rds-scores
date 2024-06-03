@@ -24,7 +24,7 @@
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 !	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!
 !	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!	!
-2r	8r	p	2r	.	8.gg#X)j	p	2r	.	4r	.
+2r	8r	p	2r	.	8.gg#X)	p	2r	.	4r	.
 .	8E-X~ 8dnJ	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	[16gn~kL	>	.	.	.	.
 .	4r	.	.	.	16g]J	]]	.	.	8r	.
@@ -51,7 +51,6 @@
 =	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1)][(s2)][(s3,s4)]{(s5,s6)}
-!!!Xfilter: slurcheck
 !!!CDT: 1883/12/03-1945/09/15
 !!!CBL: Vienna, Austria
 !!!CDL: Mittersill, Austria
@@ -113,4 +112,3 @@
 !!!Birth_Date: 3-Dec-1883
 !!!Audio_Example_Quarter_Note_Tempo: 42
 !!!Audio_Example_Duration: 8.501
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"

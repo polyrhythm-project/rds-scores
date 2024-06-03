@@ -24,7 +24,7 @@
 *M2/2	*	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)
 !LO:TX:t=MOSES ist wieder näher.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2B-X	Schlie-	p	2FFn~	p	2Cn~	p	1r)j	.	2G-X~	p	4r	.	1r	.
+2B-X	Schlie-	p	2FFn~	p	2Cn~	p	1r)	.	2G-X~	p	4r	.	1r	.
 *	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
 .	.	.	.	.	.	.	.	.	.	.	4.e-X~	p	.	.
 4.Bn	-ßet	.	2DD-X~	.	2AA-X~	.	.	.	2G~	.	.	.	.	.
@@ -92,8 +92,6 @@
 !!!experiment: none
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!Xfilter: slurcheck
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Sch-33
 !!!Suter_Example_Number: 215
 !!!Suter_Example_ID: Sch-33/85/523-528
@@ -126,6 +124,5 @@
 !!!Birth_Date: 13-Sep-1874
 !!!Audio_Example_Quarter_Note_Tempo: 78
 !!!Audio_Example_Duration: 18.297
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/05

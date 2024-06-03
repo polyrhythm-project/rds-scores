@@ -64,7 +64,6 @@
 =	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
-!!!Xfilter: slurcheck
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -124,6 +123,5 @@
 !!!Birth_Date: 8-Dec-1890
 !!!Audio_Example_Quarter_Note_Tempo: 111
 !!!Audio_Example_Duration: 4.340
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/08

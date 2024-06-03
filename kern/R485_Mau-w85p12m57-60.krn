@@ -26,7 +26,7 @@
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	! 	!	!	!	!	!	!LO:T:n=1:b	!	!LO:T:n=1:b	!	!	!
-8CC'	f	8C'L	f	8c'L	f	8c'L	f	8c'L	f	8C	f	8r	.	8r	.	8r)j	.	2.B	f	4e 4g	f	2.b	f	4ee 4gg)j	f	2.bb	f	4ee) 4gg)j	f	4eee) ]4gggj	f	]4ggg	f
+8CC'	f	8C'L	f	8c'L	f	8c'L	f	8c'L	f	8C	f	8r	.	8r	.	8r)	.	2.B	f	4e 4g	f	2.b	f	4ee 4gg)	f	2.bb	f	4ee) 4gg)	f	4eee) ]4gggj	f	]4ggg	f
 8r	.	(8E'J	.	(8e'J	.	(8e'J	.	(8e'J	.	8r	.	4cc~	f	4c~	f	4c~	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 4r	.	8C')	.	8c')	.	8c')	.	8c')	.	4r	.	.	.	.	.	.	.	.	.	(8c 8e-X	.	.	.	(8cc 8ee-	.	.	.	(8cc 8ee-X	.	(8ccc 8eee-X	.	(8eee-X	.
 .	.	8r	.	8r	.	8r	.	8r	.	.	.	[8ee-X	.	[8e-X	.	[8e-X	.	.	.	4e-X 4g)	.	.	.	4ee-X 4gg)	.	.	.	4ee-X 4gg)	.	4eee-X 4ggg)	.	4ggg)	.
@@ -68,7 +68,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2[(s3,s4)][(s5,s6)][(s7,s8)])][([(s9,s10)]s11)][(s12)][(s13,s14,s15,s16,s17)]
-!!!Xfilter: slurcheck
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -96,7 +95,6 @@
 !!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Mau-85
 !!!Suter_Example_Number: 485
 !!!Suter_Example_ID: Mau-85/12/57-60
@@ -129,6 +127,5 @@
 !!!Birth_Date: 8-Dec-1890
 !!!Audio_Example_Quarter_Note_Tempo: 144
 !!!Audio_Example_Duration: 6.635
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/08

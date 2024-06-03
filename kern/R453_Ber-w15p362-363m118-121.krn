@@ -29,13 +29,13 @@
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*col	*
 !LO:TX:a:t=[arco]	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=immer wie eine Fanfare	!	!	!	!	!	!	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!LO:TX:t=[senza sord.]	!	!	!LO:DY:ed=brack	!	!	!	!
 !	!	!	!	!	!	!LO:TX:t=[div.]	!	!	!	!	!LO:TX:t=holt im folgenden zwei Likörflaschen aus einem Kästchen und stellt sie mit Gläsern auf den Tisch, auf den er sich	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(ev. m. Ges.)	!
-4AAAn	p	4AAn	mp	8En'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r	2r	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	8d-X'L)j	mp	4.E',	p >	12r	.
+4AAAn	p	4AAn	mp	8En'	mp	8En'	mp	2%3r	.	.	2%3r	.	.	12enL	Wenn	f	2%3r	2r	.	2%3r	.	2%3r	.	2%3r	.	2%3r	.	2r	.	8d-X'L)	mp	4.E',	p >	12r	.
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:B:i:t=f	!
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	12f#X	ich	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g-X'L	.
 .	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8cn)J	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-XJ	nur	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-X'J	.
 !	!	!	!	!	!	!LO:TX:a:t=spring. Bogen	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-4.GGGn)jj	.	4.GGn)jj	.	4r	.	8r	.	.	.	.	.	.	.	4.ddn	wüß-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X')L	.	.	]]	8ddn'	.
+4.GGGn)	.	4.GGn)	.	4r	.	8r	.	.	.	.	.	.	.	4.ddn	wüß-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X')L	.	.	]]	8ddn'	.
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*
 *	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*
 .	.	.	.	.	.	16En'LL	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8A-XJ	.	16E'LL	p	8r	.
@@ -181,8 +181,6 @@
 !!!experiment: pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Ber-15
 !!!Suter_Example_Number: 453
 !!!Suter_Example_ID: Ber-15/362-363/118-121
@@ -215,6 +213,5 @@
 !!!Birth_Date: 9-Feb-1885
 !!!Audio_Example_Quarter_Note_Tempo: 295
 !!!Audio_Example_Duration: 9.755
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/12

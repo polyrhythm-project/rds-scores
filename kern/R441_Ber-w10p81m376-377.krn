@@ -27,7 +27,7 @@
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:lv	!	!	!	!	!	!	!	!	!
-4en~	mp	]8e	pp	]8e-')j	pp	8.ggnL	p	8ccn')j	pp > ]	4ggn	Ei,	Why	f	[2.DDn	mf	4an~	mp	4ccn~	mp	[2.DDn	mf	[2.DDn	p
+4en~	mp	]8e	pp	]8e-')	pp	8.ggnL	p	8ccn')	pp > ]	4ggn	Ei,	Why	f	[2.DDn	mf	4an~	mp	4ccn~	mp	[2.DDn	mf	[2.DDn	p
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xneben	*	*	*
 .	.	8r	.	8r	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	(16ccnk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
@@ -48,7 +48,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][({(s5,s6)})]s7[([(s8,s9)][(s10,s11,s12)])]
-!!!Xfilter: slurcheck
 !!!CDT: 1885/02/09-1935/12/24
 !!!CBL: Vienna, Austria
 !!!CDL: Vienna, Austria
@@ -76,8 +75,6 @@
 !!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Ber-10
 !!!Suter_Example_Number: 441
 !!!Suter_Example_ID: Ber-10/81/376-377

@@ -31,7 +31,7 @@
 !	!	!LO:TX:t=non legato	!	!	!LO:TX:t=non legato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
 *	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 !	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-2.AA^	ff	16ALL\	16dLL/	ff	16f#LL	ff	8d)j	ff	8r	.	16A/ 16d/ 16f#LL/	ff	2.ryy	4AA	f	12cc#L	4cc#~	< f	[2.d	2.r	ff	(16An 16f#LL	ff	[2.AA	[2.AA	ff	2.r	.	2.r	.	2.r	.	2.r	.	8r	.
+2.AA^	ff	16ALL\	16dLL/	ff	16f#LL	ff	8d)	ff	8r	.	16A/ 16d/ 16f#LL/	ff	2.ryy	4AA	f	12cc#L	4cc#~	< f	[2.d	2.r	ff	(16An 16f#LL	ff	[2.AA	[2.AA	ff	2.r	.	2.r	.	2.r	.	2.r	.	8r	.
 .	.	16B	16B	.	16g	.	.	.	.	.	16B>\ 16g>\	.	.	.	.	.	.	.	.	.	.	16Bn 16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 .	.	16A	16d	.	16f#	.	8r	.	8dddL	ff	16A 16d 16f#	.	.	.	.	.	.	.	.	.	.	16A 16f#	.	.	.	.	.	.	.	.	.	.	.	.	8dddL	ff
@@ -163,7 +163,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)][(s10)]{(s11,s12)}[(s13,s14,s15,s16,s17)]
-!!!Xfilter: slurcheck
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!CDT: 1876/11/23-1946/11/14
@@ -195,7 +194,6 @@
 !!!ONB: Converted from MusicXML on 2020/01/27
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Fal-6
 !!!Suter_Example_Number: 319
 !!!Suter_Example_ID: Fal-6/178-179/[44]1-5
@@ -228,4 +226,3 @@
 !!!Birth_Date: 23-Nov-1876
 !!!Audio_Example_Quarter_Note_Tempo: 120
 !!!Audio_Example_Duration: 7.458
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -104,7 +104,6 @@
 =	=	=	=
 *-	*-	*-	*-
 !!!system-decoration: [({(s1,s2)})]
-!!!Xfilter: slurcheck
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
@@ -166,4 +165,3 @@
 !!!Birth_Date: 10-Dec-1908
 !!!Audio_Example_Quarter_Note_Tempo: 41
 !!!Audio_Example_Duration: 26.064
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("

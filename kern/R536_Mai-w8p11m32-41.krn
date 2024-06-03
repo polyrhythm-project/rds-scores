@@ -122,7 +122,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2[(s3,s4)]
 !!!RDF**dynam: > = dimin.
-!!!Xfilter: slurcheck
 !!!CDT: 1890/09/15-1974/11/21
 !!!CBL: Geneva, Switzerland
 !!!CDL: Naarden, Netherlands
@@ -182,4 +181,3 @@
 !!!Birth_Date: 15-Sep-1890
 !!!Audio_Example_Quarter_Note_Tempo: 115
 !!!Audio_Example_Duration: 20.941
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("

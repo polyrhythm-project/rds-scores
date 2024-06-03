@@ -30,11 +30,11 @@
 !LO:TX:a:t=[pizz.]	!LO:T:b	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!LO:DY:ed=brack
 !	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Bells die away	!LO:T:b	!	!	!	!	!
 !	!	!	!LO:TX:a:t=[non div.]	!	!LO:DY:ed=brack	!LO:T:a	!LO:T:b	!LO:DY:ed=brack	!LO:T:n=2:a	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:T:a	!	!LO:DY:ed=brack	!	!	!	!
-8GGL	2.AAA]	pp	((8C^L	4.CC	pp >	8ee-X]	8.BL])j	pp	8.f#X])j 8.a#XL]	ppp	8.GL	pp	8dd#X]	8.dnZXL]	pp	4%3r	.	8dd#XL\]	p
+8GGL	2.AAA]	pp	((8C^L	4.CC	pp >	8ee-X]	8.BL])	pp	8.f#X]) 8.a#XL]	ppp	8.GL	pp	8dd#X]	8.dnZXL]	pp	4%3r	.	8dd#XL\]	p
 16r	.	.	8D-X)	.	.	4cc	.	.	.	.	.	.	4ff#X	.	.	.	.	8b#X	.
 16EEJ	.	.	.	.	.	.	8.BJ	.	8.f# 8.a#Ju	.	[8.EJ	.	.	[8.fnJ	.	.	.	.	.
 8r	.	.	8C'J)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	8a#X	.
-8r	.	.	((8C^L	4.CC	>	16ddLL	4B	.	4f# 4a#v	.	8E]	.	[8dd#X	16fLL]	.	.	.	8g#XJ)j	.
+8r	.	.	((8C^L	4.CC	>	16ddLL	4B	.	4f# 4a#v	.	8E]	.	[8dd#X	16fLL]	.	.	.	8g#XJ)	.
 .	.	.	.	.	.	[16ee-XJ	.	.	.	.	.	.	.	[16dnJJ	.	.	.	.	.
 8AAA	.	.	8D-)	.	.	8ee-]	.	.	.	.	4AA	.	16dd#kL]	4d_	.	.	.	(4e#X)	>
 .	.	.	.	.	.	.	.	.	.	.	.	.	8.g#XJ	.	.	.	.	.	.
@@ -81,8 +81,6 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7,s8,s9)]
 !!!RDF**kern: N = linked
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!RDF**kern: Z = editorial accidental, brack
 !!!CDT: 1874/10/20-1954/05/19
 !!!CBL: Danbury, United States

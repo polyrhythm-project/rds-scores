@@ -151,7 +151,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
-!!!Xfilter:slurcheck
 !!!CDT: 1900/11/14-1990/12/02
 !!!CBL: Brooklyn, United States
 !!!CDL: North Tarrytown, United States
@@ -211,6 +210,5 @@
 !!!Birth_Date: 14-Nov-1900
 !!!Audio_Example_Quarter_Note_Tempo: 140
 !!!Audio_Example_Duration: 11.996
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024-01-10

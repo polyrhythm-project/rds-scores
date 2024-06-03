@@ -97,7 +97,6 @@
 !!!excerpt-end-time: 5:33
 !!!excerpt-duration-sec: 5
 !!!excerpt-time-signature: 3/4
-!!!Xfilter: slurcheck
 !!!excerpt-tempo-beat: [quarter]
 !!!excerpt-tempo-rate: [160]
 !!!excerpt-meter-type: simple triple
@@ -138,6 +137,5 @@
 !!!Birth_Date: 13-Sep-1874
 !!!Audio_Example_Quarter_Note_Tempo: 144
 !!!Audio_Example_Duration: 5.421
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/05

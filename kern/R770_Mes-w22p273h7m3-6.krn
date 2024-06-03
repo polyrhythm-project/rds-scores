@@ -100,7 +100,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9,s10)][([(s11,s12)][(s13,s14)][(s15,s16)]s17,s18,s19)][(s20,s21,s22)][({(s23,s24)})][(s25)][(s26,s27,s28,s29,s30)]
-!!!Xfilter: slurcheck
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
@@ -128,7 +127,6 @@
 !!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Mes-22
 !!!Suter_Example_Number: 770
 !!!Suter_Example_ID: Mes-22/273/[7]3-6
@@ -161,6 +159,5 @@
 !!!Birth_Date: 10-Dec-1908
 !!!Audio_Example_Quarter_Note_Tempo: 97
 !!!Audio_Example_Duration: 4.941
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/10

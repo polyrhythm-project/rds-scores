@@ -25,7 +25,7 @@
 =99	=99	=99	=99	=99	=99	=99
 !	!	!LO:DY:ed=brack	!	!	!	!
 !	!	!	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.
-8d')j	8ddd')j	f	(4F#X	f <	(4ddd	f <
+8d')	8ddd')	f	(4F#X	f <	(4ddd	f <
 8r	8r	.	.	.	.	.
 *clefG2	*	*	*	*	*	*
 *	*8va	*	*	*	*	*
@@ -65,7 +65,6 @@
 =	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][({(s3,s4)})]
-!!!Xfilter: slurcheck
 !!!CDT: 1890/12/08-1959/08/28
 !!!CBL: Polička, Bohemia
 !!!CDL: Liestal, Switzerland
@@ -93,7 +92,6 @@
 !!!experiment: pqm1,pqm2
 !!!EEV: 2020/07/28
 !!!ONB: Converted from MusicXML on 2020/07/28
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Mau-24
 !!!Suter_Example_Number: 492
 !!!Suter_Example_ID: Mau-24/19/99-104
@@ -126,6 +124,5 @@
 !!!Birth_Date: 8-Dec-1890
 !!!Audio_Example_Quarter_Note_Tempo: 236
 !!!Audio_Example_Duration: 6.098
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/08

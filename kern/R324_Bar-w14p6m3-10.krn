@@ -25,7 +25,7 @@
 !	!LO:TX:b:i:t=molto espr.	!
 !LO:TX:b:B:i:t=[Ped.]	!	!LO:DY:ed=brack
 !LO:T:n=2:a	!	!
-4e] 4cc#XZ])j	2ee~	p
+4e] 4cc#XZ])	2ee~	p
 !	!	!
 4A(	.	.
 4e 4cc#X	4ee~	.
@@ -94,7 +94,6 @@
 4A)	.	.
 =	=	=
 *-	*-	*-
-!!!Xfilter: slurcheck
 !!!RDF**kern: Z = editorial accidental, brack
 !!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1881/03/25-1945/09/26
@@ -156,6 +155,5 @@
 !!!Birth_Date: 25-Mar-1881
 !!!Audio_Example_Quarter_Note_Tempo: 91
 !!!Audio_Example_Duration: 15.747
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/05

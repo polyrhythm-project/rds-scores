@@ -27,7 +27,7 @@
 !	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:TX:a:B:t=Das übrige Orchester 	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
 !	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=BÜHNENMUSIK	!
 !LO:TX:t=[senza sord.]	!	!	!	!	!	!LO:TX:a:B:t=593	!	!	!	!	!LO:TX:t=[in 3]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
-[2.BB-X]	p	(2c#X	p <	(8fnL	p <	(4.ddn	p <	8A-X)jj	.	.	2.r	.	.	2.r	.	4Gn	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
+[2.BB-X]	p	(2c#X	p <	(8fnL	p <	(4.ddn	p <	8A-X)	.	.	2.r	.	.	2.r	.	4Gn	f	2Gn	.	(8ee-XL	p	(8f-XL	p	(8b-XL	p	2.r	.
 .	.	.	.	8gnJ)	.	.	[ >	8r	.	.	.	.	.	.	.	.	.	.	.	8ddn	.	8e-X	.	8an	.	.	.
 .	.	.	.	(2g	[	.	.	8GnL	es	.	.	.	.	.	.	4B-X 4dn	.	.	.	8b-X)	.	8c-X)	.	8a-X)	.	.	.
 .	.	.	[	.	.	4bn	.	8G	müßt	.	.	.	.	.	.	.	.	.	.	(8ee-XJ	.	(8f-XJ	.	(8b-XJ	.	.	.
@@ -93,7 +93,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)]s3{(s4,s5)}s6,s7[(s8,s9)][(s10,s11,s12,s13)]
-!!!Xfilter: slurcheck
 !!!RDF**kern: N = cue size
 !!!CDT: 1885/02/09-1935/12/24
 !!!CBL: Vienna, Austria
@@ -122,8 +121,6 @@
 !!!experiment: pqm2
 !!!EEV: 2020/01/27
 !!!ONB: Converted from MusicXML on 2020/01/27
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!Suter_Work_ID: Ber-10
 !!!Suter_Example_Number: 443
 !!!Suter_Example_ID: Ber-10/321/593-595
@@ -156,6 +153,5 @@
 !!!Birth_Date: 9-Feb-1885
 !!!Audio_Example_Quarter_Note_Tempo: 71
 !!!Audio_Example_Duration: 12.667
-!!!RDF**kern: j = marked note, color="magenta", text="extra)"
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/08

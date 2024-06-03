@@ -41,7 +41,6 @@
 =	=	=	=	=	=	=	=	=	=	=	=	=	=
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
-!!!Xfilter: slurcheck
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
@@ -101,6 +100,5 @@
 !!!Birth_Date: 23-Apr-1891
 !!!Audio_Example_Quarter_Note_Tempo: 104
 !!!Audio_Example_Duration: 2.305
-!!!RDF**kern: i = marked note, color="hotpink", text="extra("
 !!!EED-tempo: Ève Poudrier
 !!!EEV: 2024/01/08
