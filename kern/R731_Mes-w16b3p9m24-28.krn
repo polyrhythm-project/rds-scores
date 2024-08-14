@@ -19,7 +19,6 @@
 *clefG2	*	*clefG2	*
 *k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
 *D-:	*	*D-:	*
-*M	*	*M	*
 =24	=24	=24	=24
 !!LO:TX:omd:tempo:a:t=Plus lent\n{[eighth]=85}
 !LO:TX:a:t=G (diapason 8)	!LO:DY:t=%s louré	!	!
@@ -37,7 +36,6 @@
 .	.	16gg-	.
 .	.	16dddnJJ	.
 =25	=25	=25	=25
-*M	*	*M	*
 8r	.	[4aa-X)	.
 8d-~ 8g- 8a-L	.	.	.
 16B-~ 16e- 16fJ	.	16aa-X]	.
@@ -54,7 +52,6 @@
 .	.	16an	.
 16A-] 16d-] 16e-]	.	16ddnJJ	.
 =26	=26	=26	=26
-*M	*	*	*
 8r	.	4a-X)	.
 8d-~ 8g- 8a-	.	.	.
 [4.A-~ [4.d- [4.e-	.	16r	.
@@ -69,7 +66,6 @@
 .	.	16gg-	.
 .	.	16dddnJJ	.
 =27	=27	=27	=27
-*M	*	*M	*
 8r	.	[8aa-L	.
 !LO:TX:b:i:t=louré	!	!	!
 8.d-~ 8.g- 8.a-	.	8.aa-J])	.
@@ -86,7 +82,6 @@
 .	.	16an	.
 .	.	16ddnJJ	.
 =28	=28	=28	=28
-*M	*	*M	*
 [8.d-~ [8.g- [8.a-	.	16a-'XLL)	.
 !	!	!LO:TX:a:t=Pos.	!
 .	.	(32anLi	.
